@@ -1,0 +1,62 @@
+{
+  "schools": 452,
+  "mapped_teams": 136,
+  "counties": 3144,
+  "states": 51,
+  "logo_exceptions": [
+    {
+      "team_id": 24,
+      "school": "Stanford",
+      "reason": "campus_outside_region",
+      "counties": 2
+    },
+    {
+      "team_id": 25,
+      "school": "California",
+      "reason": "campus_outside_region",
+      "counties": 14
+    },
+    {
+      "team_id": 26,
+      "school": "UCLA",
+      "reason": "campus_outside_region",
+      "counties": 3
+    },
+    {
+      "team_id": 153,
+      "school": "North Carolina",
+      "reason": "campus_outside_region",
+      "counties": 4
+    },
+    {
+      "team_id": 248,
+      "school": "Houston",
+      "reason": "campus_outside_region",
+      "counties": 6
+    },
+    {
+      "team_id": 2199,
+      "school": "Eastern Michigan",
+      "reason": "campus_outside_region",
+      "counties": 6
+    },
+    {
+      "team_id": 2247,
+      "school": "Georgia State",
+      "reason": "campus_outside_region",
+      "counties": 18
+    },
+    {
+      "team_id": 2390,
+      "school": "Miami",
+      "reason": "no_counties",
+      "counties": 0
+    }
+  ],
+  "distance_method": "Haversine great-circle distance from Census county internal reference point to IPEDS main-campus point.",
+  "campus_source_years": {
+    "2024": 445,
+    "2021": 6,
+    "None": 1
+  }
+}

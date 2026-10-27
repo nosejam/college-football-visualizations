@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+
+# Generated standalone pages; index.html is the distributable app.
+/build/
+.pytest_cache/
+*.log
+.DS_Store
+Thumbs.db

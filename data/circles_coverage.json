@@ -1,0 +1,93 @@
+{
+  "as_of": "2026-10-27T00:13:23.191606+00:00",
+  "seasons": [
+    {
+      "season": 2016,
+      "fbs_teams": 128,
+      "teams_with_opponents": 216,
+      "games": 1240,
+      "exact_longest_frames": 21,
+      "frames": 21
+    },
+    {
+      "season": 2017,
+      "fbs_teams": 130,
+      "teams_with_opponents": 212,
+      "games": 1187,
+      "exact_longest_frames": 21,
+      "frames": 21
+    },
+    {
+      "season": 2018,
+      "fbs_teams": 130,
+      "teams_with_opponents": 219,
+      "games": 1223,
+      "exact_longest_frames": 21,
+      "frames": 21
+    },
+    {
+      "season": 2019,
+      "fbs_teams": 130,
+      "teams_with_opponents": 217,
+      "games": 1251,
+      "exact_longest_frames": 22,
+      "frames": 22
+    },
+    {
+      "season": 2020,
+      "fbs_teams": 130,
+      "teams_with_opponents": 146,
+      "games": 591,
+      "exact_longest_frames": 19,
+      "frames": 36
+    },
+    {
+      "season": 2021,
+      "fbs_teams": 130,
+      "teams_with_opponents": 227,
+      "games": 1287,
+      "exact_longest_frames": 21,
+      "frames": 21
+    },
+    {
+      "season": 2022,
+      "fbs_teams": 131,
+      "teams_with_opponents": 228,
+      "games": 1294,
+      "exact_longest_frames": 21,
+      "frames": 21
+    },
+    {
+      "season": 2023,
+      "fbs_teams": 133,
+      "teams_with_opponents": 229,
+      "games": 1308,
+      "exact_longest_frames": 21,
+      "frames": 21
+    },
+    {
+      "season": 2024,
+      "fbs_teams": 134,
+      "teams_with_opponents": 230,
+      "games": 1351,
+      "exact_longest_frames": 23,
+      "frames": 23
+    },
+    {
+      "season": 2025,
+      "fbs_teams": 136,
+      "teams_with_opponents": 230,
+      "games": 1340,
+      "exact_longest_frames": 23,
+      "frames": 23
+    },
+    {
+      "season": 2026,
+      "fbs_teams": 138,
+      "teams_with_opponents": 236,
+      "games": 827,
+      "exact_longest_frames": 10,
+      "frames": 10
+    }
+  ]
+}

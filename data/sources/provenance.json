@@ -1,0 +1,15 @@
+{
+  "cfbd": {
+    "repository": "https://github.com/CFBD/cfb-web",
+    "commit": "92d2bfb8efca9e87074c4927e4816fc2c1649be6"
+  },
+  "fbs": {
+    "repository": "https://github.com/Lou34964/FBS-Logo-Library",
+    "commit": "8af32666c5d64009b34046e53d361af761713a5f"
+  },
+  "lookup": {
+    "url": "https://raw.githubusercontent.com/CFBNumbers/logos/main/cfblogos.csv",
+    "encoding": "latin-1",
+    "note": "Historical CFBD snapshot; first column is an unnamed row index despite header. Conference and division are not current."
+  }
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "file": "data/sources/geography/HD2024.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+    "sha256": "d98425c123d7c0e872aec6e83960dfb501884818bf17385c340790f3d1f28345",
+    "retrieved_at": "2026-10-24T21:24:21.832784+00:00"
+  },
+  {
+    "file": "data/sources/geography/HD2021.zip",
+    "url": "https://nces.ed.gov/ipeds/datacenter/data/HD2021.zip",
+    "sha256": "6ea1a974e2994cfcf066b4910bcdad7b0df6f927e6871f3d55532af94b965389",
+    "retrieved_at": "2026-10-24T21:25:18.746224+00:00"
+  },
+  {
+    "file": "data/sources/geography/cb_2025_us_county_500k.zip",
+    "url": "https://www2.census.gov/geo/tiger/GENZ2025/shp/cb_2025_us_county_500k.zip",
+    "sha256": "aa976c00b181939755d0da757f4c7c2dc0103c3b3b4530fb2a91c2bb62fc777c",
+    "retrieved_at": "2026-10-24T21:24:23.671767+00:00"
+  },
+  {
+    "file": "data/sources/geography/2025_Gaz_counties_national.zip",
+    "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2025_Gazetteer/2025_Gaz_counties_national.zip",
+    "sha256": "4c90d0f805779923b5958ab13d0c1e9b99fe4932b786bfcf75dd739bb2dcb4ea",
+    "retrieved_at": "2026-10-24T21:25:58.886829+00:00"
+  },
+  {
+    "file": "assets/vendor/plotly-3.3.0.min.js",
+    "url": "https://cdn.plot.ly/plotly-3.3.0.min.js",
+    "sha256": "6ceddd4bac82a64f5a2b8814a4d10bb4288379262f1989caee3148e7c3509c72",
+    "retrieved_at": "2026-10-24T21:25:19.996212+00:00"
+  },
+  {
+    "file": "assets/vendor/usa_110m.json",
+    "url": "https://cdn.plot.ly/un/usa_110m.json",
+    "sha256": "fc83e70129aa4911c0ab6e42faadd854e4ec1da71a095785c294e999e34c4d58",
+    "retrieved_at": "2026-10-24T21:25:20.257210+00:00"
+  },
+  {
+    "file": "assets/vendor/d3-7.9.0.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js",
+    "sha256": "f2094bbf6141b359722c4fe454eb6c4b0f0e42cc10cc7af921fc158fceb86539",
+    "retrieved_at": "2026-10-24T21:27:07.751152+00:00"
+  },
+  {
+    "file": "assets/vendor/plotly-LICENSE",
+    "url": "https://raw.githubusercontent.com/plotly/plotly.js/v3.3.0/LICENSE",
+    "sha256": "8c45d9eaf50c2f72dd9c7ab9ef440788ba58a3538484b5c51c1f17d5128752e7",
+    "retrieved_at": "2026-10-24T21:32:39.225890+00:00"
+  },
+  {
+    "file": "assets/vendor/d3-LICENSE",
+    "url": "https://raw.githubusercontent.com/d3/d3/v7.9.0/LICENSE",
+    "sha256": "3e6849627f74ff73c257a3ae1efb574015d94fc1035c05ec3c15805165efcbc4",
+    "retrieved_at": "2026-10-24T21:32:39.389889+00:00"
+  },
+  {
+    "file": "assets/vendor/topojson-client-3.1.0.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js",
+    "sha256": "25cd02ae486cc5063e0215a4e4cfb15de83700c87ac48bac4d57dc6aaf3ebb89",
+    "retrieved_at": "2026-10-24T22:23:14.707753+00:00"
+  },
+  {
+    "file": "assets/vendor/topojson-server-3.0.1.min.js",
+    "url": "https://cdn.jsdelivr.net/npm/topojson-server@3.0.1/dist/topojson-server.min.js",
+    "sha256": "5c06cdfaae02fc29dd750005fcf169fac5aa75d778321542ac119349b88bbee7",
+    "retrieved_at": "2026-10-24T22:23:14.889751+00:00"
+  },
+  {
+    "file": "assets/vendor/topojson-client-LICENSE",
+    "url": "https://raw.githubusercontent.com/topojson/topojson-client/v3.1.0/LICENSE",
+    "sha256": "4c4d15b635e04e691825a76db7d33f7f2033b55669a7430011694f31e6c65999",
+    "retrieved_at": "2026-10-24T22:30:33.806383+00:00"
+  },
+  {
+    "file": "assets/vendor/topojson-server-LICENSE",
+    "url": "https://raw.githubusercontent.com/topojson/topojson-server/v3.0.1/LICENSE",
+    "sha256": "4c4d15b635e04e691825a76db7d33f7f2033b55669a7430011694f31e6c65999",
+    "retrieved_at": "2026-10-24T22:30:33.977381+00:00"
+  }
+]

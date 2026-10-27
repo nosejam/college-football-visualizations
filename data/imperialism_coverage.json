@@ -1,0 +1,222 @@
+{
+  "as_of": "2026-10-27T00:13:23.191606+00:00",
+  "seasons": [
+    {
+      "season": 2016,
+      "fbs_teams": 128,
+      "games": 1549,
+      "frames": 21,
+      "last_result": "2017-01-10T01:00:00+00:00",
+      "transfers": 200,
+      "raiders": [
+        13,
+        149,
+        155,
+        163,
+        171,
+        219,
+        256,
+        257,
+        331,
+        399,
+        2110,
+        2287,
+        2449,
+        2460,
+        2529,
+        2571,
+        2619,
+        2681,
+        2754
+      ],
+      "record_differences": []
+    },
+    {
+      "season": 2017,
+      "fbs_teams": 130,
+      "games": 1551,
+      "frames": 21,
+      "last_result": "2018-01-09T01:00:00+00:00",
+      "transfers": 203,
+      "raiders": [
+        47,
+        55,
+        256,
+        338,
+        2046,
+        2335,
+        2449,
+        2534,
+        2630,
+        2634
+      ],
+      "record_differences": []
+    },
+    {
+      "season": 2018,
+      "fbs_teams": 130,
+      "games": 1556,
+      "frames": 21,
+      "last_result": "2019-01-08T01:00:00+00:00",
+      "transfers": 205,
+      "raiders": [
+        48,
+        119,
+        222,
+        302,
+        331,
+        399,
+        2065,
+        2415,
+        2447,
+        2448,
+        2464,
+        2569,
+        2619
+      ],
+      "record_differences": []
+    },
+    {
+      "season": 2019,
+      "fbs_teams": 130,
+      "games": 1623,
+      "frames": 22,
+      "last_result": "2020-01-14T01:00:00+00:00",
+      "transfers": 201,
+      "raiders": [
+        2110
+      ],
+      "record_differences": []
+    },
+    {
+      "season": 2020,
+      "fbs_teams": 130,
+      "games": 1125,
+      "frames": 36,
+      "last_result": "2021-05-16T18:00:00+00:00",
+      "transfers": 171,
+      "raiders": [
+        2627,
+        3101
+      ],
+      "record_differences": []
+    },
+    {
+      "season": 2021,
+      "fbs_teams": 130,
+      "games": 2454,
+      "frames": 21,
+      "last_result": "2022-01-11T01:00:00+00:00",
+      "transfers": 213,
+      "raiders": [
+        16,
+        79,
+        147,
+        149,
+        155,
+        236,
+        302,
+        304,
+        331,
+        2193,
+        2287,
+        2377,
+        2382,
+        2449,
+        2460,
+        2502,
+        2534,
+        2545,
+        2571,
+        2692,
+        2916
+      ],
+      "record_differences": []
+    },
+    {
+      "season": 2022,
+      "fbs_teams": 131,
+      "games": 3705,
+      "frames": 21,
+      "last_result": "2023-01-10T00:30:00+00:00",
+      "transfers": 203,
+      "raiders": [
+        48,
+        147,
+        2449,
+        2545,
+        2571,
+        2729,
+        2837,
+        2916
+      ],
+      "record_differences": []
+    },
+    {
+      "season": 2023,
+      "fbs_teams": 133,
+      "games": 3724,
+      "frames": 21,
+      "last_result": "2024-01-09T00:30:00+00:00",
+      "transfers": 194,
+      "raiders": [
+        79,
+        233,
+        2571,
+        2754
+      ],
+      "record_differences": []
+    },
+    {
+      "season": 2024,
+      "fbs_teams": 134,
+      "games": 3799,
+      "frames": 23,
+      "last_result": "2025-01-21T00:30:00+00:00",
+      "transfers": 209,
+      "raiders": [
+        147,
+        2449
+      ],
+      "record_differences": []
+    },
+    {
+      "season": 2025,
+      "fbs_teams": 136,
+      "games": 3829,
+      "frames": 23,
+      "last_result": "2026-01-20T00:30:00+00:00",
+      "transfers": 211,
+      "raiders": [
+        147,
+        2000,
+        2046,
+        2617,
+        2627
+      ],
+      "record_differences": []
+    },
+    {
+      "season": 2026,
+      "fbs_teams": 138,
+      "games": 2527,
+      "frames": 10,
+      "last_result": "2026-10-25T02:20:00+00:00",
+      "transfers": 175,
+      "raiders": [
+        70,
+        147,
+        304,
+        2127,
+        2197,
+        2241,
+        2464,
+        2627,
+        2643,
+        2692,
+        2815
+      ],
+      "record_differences": []
+    }
+  ]
+}

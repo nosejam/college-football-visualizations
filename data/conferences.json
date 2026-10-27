@@ -1,0 +1,46 @@
+[
+  {
+    "name": "American Athletic Conference",
+    "logo": "assets/logos/fbs/American_Athletic_Conference_logo-300x300.png"
+  },
+  {
+    "name": "Atlantic Coast Conference ACC",
+    "logo": "assets/logos/fbs/Atlantic_Coast_Conference_ACC_logo-300x300.png"
+  },
+  {
+    "name": "Big 12 Conference",
+    "logo": "assets/logos/fbs/Big_12_Conference_logo-300x300.png"
+  },
+  {
+    "name": "Big Ten Conference",
+    "logo": "assets/logos/fbs/Big_Ten_Conference_logo-300x300.png"
+  },
+  {
+    "name": "Conference USA",
+    "logo": "assets/logos/fbs/Conference_USA_logo-300x300.png"
+  },
+  {
+    "name": "Division I FBS Independents",
+    "logo": "assets/logos/fbs/Division-I-FBS-Independents-logo-300x300.png"
+  },
+  {
+    "name": "Mid American Conference",
+    "logo": "assets/logos/fbs/Mid-American_Conference_logo-300x300.png"
+  },
+  {
+    "name": "Mountain West Conference",
+    "logo": "assets/logos/fbs/Mountain_West_Conference_logo-300x300.png"
+  },
+  {
+    "name": "Pac 12",
+    "logo": "assets/logos/fbs/Pac-12_logo-300x300.png"
+  },
+  {
+    "name": "Southeastern Conference",
+    "logo": "assets/logos/fbs/Southeastern_Conference_logo-300x300.png"
+  },
+  {
+    "name": "Sun Belt Conference 2020",
+    "logo": "assets/logos/fbs/Sun_Belt_Conference_2020_logo-300x300.png"
+  }
+]

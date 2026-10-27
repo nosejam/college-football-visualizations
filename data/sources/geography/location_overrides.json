@@ -1,0 +1,13 @@
+[
+  {
+    "team_id": 2829,
+    "institution": "Simon Fraser University — Burnaby campus",
+    "latitude": 49.27673,
+    "longitude": -122.91824,
+    "city": "Burnaby",
+    "state": "BC",
+    "country": "CA",
+    "source_url": "https://mapcarta.com/35901122",
+    "note": "Canadian institution outside IPEDS; campus coordinate from OpenStreetMap way 102254132 as reported by Mapcarta. Campus identity/address confirmed at https://www.sfu.ca/campuses/burnaby.html"
+  }
+]

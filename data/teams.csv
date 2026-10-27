@@ -1,0 +1,453 @@
+team_id,school,slug,mascot,abbreviation,color,alternate_color,logo,cfbd_logo,fbs_logo,aliases,identity_source
+2,Auburn,auburn,Tigers,AUB,#03244d,#f1f2f3,assets/logos/fbs/Auburn_Tigers_logo-300x300.png,assets/logos/cfbd/2.png,assets/logos/fbs/Auburn_Tigers_logo-300x300.png,AUB|Auburn|Auburn Tigers,cfbd_snapshot
+3,Birmingham-Southern,birmingham-southern,Panthers,BIR,#000000,,assets/logos/cfbd/3.png,assets/logos/cfbd/3.png,,BIR|Birmingham-Southern|Birmingham-Southern Panthers,cfbd_snapshot
+5,UAB,uab,Blazers,UAB,#003b28,#ffc845,assets/logos/fbs/Alabama-Birmingham-Blazers-logo-300x300.png,assets/logos/cfbd/5.png,assets/logos/fbs/Alabama-Birmingham-Blazers-logo-300x300.png,Alabama Birmingham Blazers|Alabama-Birmingham|UAB|UAB Blazers,cfbd_snapshot
+6,South Alabama,south-alabama,Jaguars,USA,#003E7E,,assets/logos/fbs/South_Alabama_Jaguars_logo-300x300.png,assets/logos/cfbd/6.png,assets/logos/fbs/South_Alabama_Jaguars_logo-300x300.png,South Alabama|South Alabama Jaguars|USA,cfbd_snapshot
+7,Amherst College,amherst-college,Mammoths,AMH,#000000,,assets/logos/cfbd/7.png,assets/logos/cfbd/7.png,,AMH|Amherst|Amherst College|Amherst College Mammoths,cfbd_snapshot
+8,Arkansas,arkansas,Razorbacks,ARK,#9c1831,#000000,assets/logos/fbs/Arkansas_Razorbacks_logo-300x300.png,assets/logos/cfbd/8.png,assets/logos/fbs/Arkansas_Razorbacks_logo-300x300.png,ARK|Arkansas|Arkansas Razorbacks,cfbd_snapshot
+9,Arizona State,arizona-state,Sun Devils,ASU,#942139,#f1f2f3,assets/logos/fbs/Arizona_State_Sun_Devils_logo-300x300.png,assets/logos/cfbd/9.png,assets/logos/fbs/Arizona_State_Sun_Devils_logo-300x300.png,ASU|Arizona State|Arizona State Sun Devils,cfbd_snapshot
+12,Arizona,arizona,Wildcats,ARIZ,#002449,#00205b,assets/logos/fbs/Arizona_Wildcats_logo-300x300.png,assets/logos/cfbd/12.png,assets/logos/fbs/Arizona_Wildcats_logo-300x300.png,ARIZ|Arizona|Arizona Wildcats,cfbd_snapshot
+13,Cal Poly,cal-poly,Mustangs,CP,#1E4D2B,#eed897,assets/logos/cfbd/13.png,assets/logos/cfbd/13.png,,CP|Cal Poly|Cal Poly Mustangs,cfbd_snapshot
+16,Sacramento State,sacramento-state,Hornets,SAC,#00573C,#cdb97d,assets/logos/cfbd/16.png,assets/logos/cfbd/16.png,,SAC|Sacramento St|Sacramento State|Sacramento State Hornets,cfbd_snapshot
+17,Claremont,claremont,Stags,CLA,#000000,,assets/logos/cfbd/17.png,assets/logos/cfbd/17.png,,CLA|Claremont|Claremont Stags,cfbd_snapshot
+18,Bridgewater State,bridgewater-state,Bears,BGW,#000000,,assets/logos/cfbd/18.png,assets/logos/cfbd/18.png,,BGW|Bridgewater St|Bridgewater State|Bridgewater State Bears,cfbd_snapshot
+21,San Diego State,san-diego-state,Aztecs,SDSU,#BF2C37,#a8996e,assets/logos/fbs/San_Diego_State_Aztecs_logo-300x300.png,assets/logos/cfbd/21.png,assets/logos/fbs/San_Diego_State_Aztecs_logo-300x300.png,SDSU|San Diego State|San Diego State Aztecs,cfbd_snapshot
+23,San José State,san-jose-state,Spartans,SJSU,#005893,#fdba31,assets/logos/fbs/San_Jose_State_Spartans_logo-300x300.png,assets/logos/cfbd/23.png,assets/logos/fbs/San_Jose_State_Spartans_logo-300x300.png,SJSU|San Jose St.|San Jose State|San Jose State Spartans|San José State|San José State Spartans,cfbd_snapshot
+24,Stanford,stanford,Cardinal,STAN,#A80532,#ffffff,assets/logos/fbs/Stanford_Cardinal_logo-300x300.png,assets/logos/cfbd/24.png,assets/logos/fbs/Stanford_Cardinal_logo-300x300.png,STAN|Stanford|Stanford Cardinal,cfbd_snapshot
+25,California,california,Golden Bears,CAL,#031522,#ffc423,assets/logos/fbs/California_Golden_Bears_logo-300x300.png,assets/logos/cfbd/25.png,assets/logos/fbs/California_Golden_Bears_logo-300x300.png,CAL|Cal|California|California Golden Bears,cfbd_snapshot
+26,UCLA,ucla,Bruins,UCLA,#005C8E,#ffc72c,assets/logos/fbs/UCLA_Bruins-300x300.png,assets/logos/cfbd/26.png,assets/logos/fbs/UCLA_Bruins-300x300.png,UCLA|UCLA Bruins,cfbd_snapshot
+29,Redlands,redlands,Bulldogs,RED,#000000,,assets/logos/cfbd/29.png,assets/logos/cfbd/29.png,,RED|Redlands|Redlands Bulldogs,cfbd_snapshot
+30,USC,usc,Trojans,USC,#AE2531,#ffc72c,assets/logos/fbs/USC_Trojans_logo-300x300.png,assets/logos/cfbd/30.png,assets/logos/fbs/USC_Trojans_logo-300x300.png,USC|USC Trojans,cfbd_snapshot
+32,Carroll (WI),carroll-wi,Pioneers,CAR,#000000,,assets/logos/cfbd/32.png,assets/logos/cfbd/32.png,,CAR|Carroll (WI)|Carroll (WI) Pioneers,cfbd_snapshot
+33,Colby,colby,White Mules,COL,#000000,,assets/logos/cfbd/33.png,assets/logos/cfbd/33.png,,COL|Colby|Colby White Mules,cfbd_snapshot
+36,Colorado State,colorado-state,Rams,CSU,#004537,#ffc425,assets/logos/fbs/Colorado_State_Rams_logo-300x300.png,assets/logos/cfbd/36.png,assets/logos/fbs/Colorado_State_Rams_logo-300x300.png,CSU|Colorado State|Colorado State Rams,cfbd_snapshot
+38,Colorado,colorado,Buffaloes,COLO,#d1c57e,#ffd200,assets/logos/fbs/Colorado_Buffaloes_logo-300x300.png,assets/logos/cfbd/38.png,assets/logos/fbs/Colorado_Buffaloes_logo-300x300.png,COLO|Colorado|Colorado Buffaloes,cfbd_snapshot
+41,Connecticut,connecticut,Huskies,CONN,#001d40,#f1f2f3,assets/logos/fbs/Connecticut_Huskies_logo-300x300.png,assets/logos/cfbd/41.png,assets/logos/fbs/Connecticut_Huskies_logo-300x300.png,CONN|Connecticut|Connecticut Huskies|UConn,cfbd_snapshot
+43,Yale,yale,Bulldogs,YALE,#004a81,#286dc0,assets/logos/cfbd/43.png,assets/logos/cfbd/43.png,,YALE|Yale|Yale Bulldogs,cfbd_snapshot
+46,Georgetown,georgetown,Hoyas,GTWN,#110E42,#001c58,assets/logos/cfbd/46.png,assets/logos/cfbd/46.png,,GTWN|Georgetown|Georgetown Hoyas,cfbd_snapshot
+47,Howard,howard,Bison,HOW,#9e0b0e,#6b818d,assets/logos/cfbd/47.png,assets/logos/cfbd/47.png,,HOW|Howard|Howard Bison,cfbd_snapshot
+48,Delaware,delaware,Blue Hens,DEL,#033594,#e8ce31,assets/logos/cfbd/48.png,assets/logos/cfbd/48.png,,DEL|Delaware|Delaware Blue Hens,cfbd_snapshot
+50,Florida A&M,florida-a-m,Rattlers,FAMU,#F89728,#00843d,assets/logos/cfbd/50.png,assets/logos/cfbd/50.png,,FAMU|Florida A&M|Florida A&M Rattlers,cfbd_snapshot
+52,Florida State,florida-state,Seminoles,FSU,#782F40,#ceb888,assets/logos/fbs/Florida_State_Seminoles_logo-300x300.png,assets/logos/cfbd/52.png,assets/logos/fbs/Florida_State_Seminoles_logo-300x300.png,FSU|Florida State|Florida State Seminoles,cfbd_snapshot
+53,Florida Tech,florida-tech,Panthers,FLTH,#000000,,assets/logos/cfbd/53.png,assets/logos/cfbd/53.png,,FLTH|Florida Tech|Florida Tech Panthers,cfbd_snapshot
+55,Jacksonville State,jacksonville-state,Gamecocks,JVST,#b50500,#b5b7ba,assets/logos/fbs/Jacksonville-State-Gamecocks-logo-300x300.png,assets/logos/cfbd/55.png,assets/logos/fbs/Jacksonville-State-Gamecocks-logo-300x300.png,JVST|Jacksonville St|Jacksonville State|Jacksonville State Gamecocks,cfbd_snapshot
+56,Stetson,stetson,Hatters,STET,#18581c,#d49d5d,assets/logos/cfbd/56.png,assets/logos/cfbd/56.png,,STET|Stetson|Stetson Hatters,cfbd_snapshot
+57,Florida,florida,Gators,FLA,#0021A5,#0021a5,assets/logos/fbs/Florida_Gators_logo-300x300.png,assets/logos/cfbd/57.png,assets/logos/fbs/Florida_Gators_logo-300x300.png,FLA|Florida|Florida Gators,cfbd_snapshot
+58,South Florida,south-florida,Bulls,USF,#004A36,#231f20,assets/logos/fbs/South_Florida_Bulls_logo-300x300.png,assets/logos/cfbd/58.png,assets/logos/fbs/South_Florida_Bulls_logo-300x300.png,South Florida|South Florida Bulls|USF,cfbd_snapshot
+59,Georgia Tech,georgia-tech,Yellow Jackets,GT,#00223e,#002c56,assets/logos/fbs/Georgia_Tech_Yellow_Jackets_logo-300x300.png,assets/logos/cfbd/59.png,assets/logos/fbs/Georgia_Tech_Yellow_Jackets_logo-300x300.png,GT|Georgia Tech|Georgia Tech Yellow Jackets,cfbd_snapshot
+60,Morehouse,morehouse,Tigers,MOR,#000000,,assets/logos/cfbd/60.png,assets/logos/cfbd/60.png,,MOR|Morehouse|Morehouse Tigers,cfbd_snapshot
+61,Georgia,georgia,Bulldogs,UGA,#CC0000,#000000,assets/logos/fbs/Georgia_Bulldogs_logo-300x300.png,assets/logos/cfbd/61.png,assets/logos/fbs/Georgia_Bulldogs_logo-300x300.png,Georgia|Georgia Bulldogs|UGA,cfbd_snapshot
+62,Hawai'i,hawai-i,Rainbow Warriors,HAW,#003420,#ffffff,assets/logos/fbs/Hawaii_Rainbow_Warriors_logo-300x300.png,assets/logos/cfbd/62.png,assets/logos/fbs/Hawaii_Rainbow_Warriors_logo-300x300.png,HAW|Hawai'i|Hawai'i Rainbow Warriors|Hawaii Rainbow Warriors,cfbd_snapshot
+63,Buena Vista,buena-vista,Beavers,BUE,#000000,,assets/logos/cfbd/63.png,assets/logos/cfbd/63.png,,BUE|Buena Vista|Buena Vista Beavers,cfbd_snapshot
+65,Grinnell,grinnell,Pioneers,GRI,#000000,,assets/logos/cfbd/65.png,assets/logos/cfbd/65.png,,GRI|Grinnell|Grinnell Pioneers,cfbd_snapshot
+66,Iowa State,iowa-state,Cyclones,ISU,#660015,#830b2c,assets/logos/fbs/Iowa_State_Cyclones_logo-300x300.png,assets/logos/cfbd/66.png,assets/logos/fbs/Iowa_State_Cyclones_logo-300x300.png,ISU|Iowa State|Iowa State Cyclones,cfbd_snapshot
+68,Boise State,boise-state,Broncos,BSU,#09347A,#d8d9da,assets/logos/fbs/Boise_State_Broncos_Logo-300x300.png,assets/logos/cfbd/68.png,assets/logos/fbs/Boise_State_Broncos_Logo-300x300.png,BSU|Boise State|Boise State Broncos,cfbd_snapshot
+70,Idaho,idaho,Vandals,IDHO,#000000,#8c6e4a,assets/logos/cfbd/70.png,assets/logos/cfbd/70.png,,IDHO|Idaho|Idaho Vandals,cfbd_snapshot
+77,Northwestern,northwestern,Wildcats,NW,#372286,#d6cac1,assets/logos/fbs/Northwestern_Wildcats_logo-300x300.png,assets/logos/cfbd/77.png,assets/logos/fbs/Northwestern_Wildcats_logo-300x300.png,NW|Northwestern|Northwestern Wildcats,cfbd_snapshot
+79,Southern Illinois,southern-illinois,Salukis,SIU,#85283D,#c2c3c0,assets/logos/cfbd/79.png,assets/logos/cfbd/79.png,,S Illinois|SIU|Southern Illinois|Southern Illinois Salukis,cfbd_snapshot
+80,Chicago,chicago,Maroons,CHI,#000000,,assets/logos/cfbd/80.png,assets/logos/cfbd/80.png,,CHI|Chicago|Chicago Maroons,cfbd_snapshot
+81,Springfield,springfield,Pride,SPR,#000000,,assets/logos/cfbd/81.png,assets/logos/cfbd/81.png,,SPR|Springfield|Springfield Pride,cfbd_snapshot
+84,Indiana,indiana,Hoosiers,IND,#7D110C,#eeedeb,assets/logos/fbs/Indiana_Hoosiers_logo-300x300.png,assets/logos/cfbd/84.png,assets/logos/fbs/Indiana_Hoosiers_logo-300x300.png,IND|Indiana|Indiana Hoosiers,cfbd_snapshot
+87,Notre Dame,notre-dame,Fighting Irish,ND,#00122b,#ae9142,assets/logos/fbs/Notre_Dame_Fighting_Irish_logo-300x300.png,assets/logos/cfbd/87.png,assets/logos/fbs/Notre_Dame_Fighting_Irish_logo-300x300.png,ND|Notre Dame|Notre Dame Fighting Irish,cfbd_snapshot
+93,Murray State,murray-state,Racers,MURR,#002148,#000e00,assets/logos/cfbd/93.png,assets/logos/cfbd/93.png,,MURR|Murray State|Murray State Racers,cfbd_snapshot
+96,Kentucky,kentucky,Wildcats,UK,#005DAA,#ffffff,assets/logos/fbs/Kentucky_Wildcats_logo-300x300.png,assets/logos/cfbd/96.png,assets/logos/fbs/Kentucky_Wildcats_logo-300x300.png,Kentucky|Kentucky Wildcats|UK,cfbd_snapshot
+97,Louisville,louisville,Cardinals,LOU,#ad000a,#cccccc,assets/logos/fbs/Louisville_Cardinals_logo-300x300.png,assets/logos/cfbd/97.png,assets/logos/fbs/Louisville_Cardinals_logo-300x300.png,LOU|Louisville|Louisville Cardinals,cfbd_snapshot
+98,Western Kentucky,western-kentucky,Hilltoppers,WKU,#F32026,#b3b5b8,assets/logos/fbs/Western_Kentucky_Hilltoppers_logo-300x300.png,assets/logos/cfbd/98.png,assets/logos/fbs/Western_Kentucky_Hilltoppers_logo-300x300.png,W Kentucky|WKU|Western Kentucky|Western Kentucky Hilltoppers,cfbd_snapshot
+99,LSU,lsu,Tigers,LSU,#22005c,#fdd023,assets/logos/fbs/LSU_Tigers-300x300.png,assets/logos/cfbd/99.png,assets/logos/fbs/LSU_Tigers-300x300.png,LSU|LSU Tigers|Louisiana State,cfbd_snapshot
+103,Boston College,boston-college,Eagles,BC,#88001a,#a39161,assets/logos/fbs/Boston_College_Eagles_logo-300x300.png,assets/logos/cfbd/103.png,assets/logos/fbs/Boston_College_Eagles_logo-300x300.png,BC|Boston College|Boston College Eagles,cfbd_snapshot
+107,Holy Cross,holy-cross,Crusaders,HC,#0a0a0a,#080808,assets/logos/cfbd/107.png,assets/logos/cfbd/107.png,,HC|Holy Cross|Holy Cross Crusaders,cfbd_snapshot
+108,Harvard,harvard,Crimson,HARV,#990000,#dbdbdb,assets/logos/cfbd/108.png,assets/logos/cfbd/108.png,,HARV|Harvard|Harvard Crimson,cfbd_snapshot
+109,MIT,mit,Engineers,MIT,#000000,,assets/logos/cfbd/109.png,assets/logos/cfbd/109.png,,MIT|MIT Engineers,cfbd_snapshot
+111,Northeastern,northeastern,Huskies,NE,#cc0001,#c2c3c0,assets/logos/cfbd/111.png,assets/logos/cfbd/111.png,,NE|Northeastern|Northeastern Huskies,cfbd_snapshot
+113,UMass,umass,Minutemen,UMASS,#880007,,assets/logos/fbs/UMass_Amherst_Minutemen_logo-300x300.png,assets/logos/cfbd/113.png,assets/logos/fbs/UMass_Amherst_Minutemen_logo-300x300.png,UMASS|UMass|UMass Amherst Minutemen|UMass Minutemen,cfbd_snapshot
+114,Fitchburg State,fitchburg-state,Falcons,FIT,#000000,,assets/logos/cfbd/114.png,assets/logos/cfbd/114.png,,FIT|Fitchburg St|Fitchburg State|Fitchburg State Falcons,cfbd_snapshot
+118,Johns Hopkins,johns-hopkins,Blue Jays,JOH,#000000,,assets/logos/cfbd/118.png,assets/logos/cfbd/118.png,,JOH|Johns Hopkins|Johns Hopkins Blue Jays,cfbd_snapshot
+119,Towson,towson,Tigers,TOWS,#FFC229,,assets/logos/cfbd/119.png,assets/logos/cfbd/119.png,,TOWS|Towson|Towson Tigers,cfbd_snapshot
+120,Maryland,maryland,Terrapins,MD,#D5002B,#ffcd00,assets/logos/fbs/Maryland_Terrapins_logo-300x300.png,assets/logos/cfbd/120.png,assets/logos/fbs/Maryland_Terrapins_logo-300x300.png,MD|Maryland|Maryland Terrapins,cfbd_snapshot
+125,Grand Valley State,grand-valley-state,Lakers,GVSU,#000000,,assets/logos/cfbd/125.png,assets/logos/cfbd/125.png,,GVSU|Grand Valley St|Grand Valley State|Grand Valley State Lakers,cfbd_snapshot
+127,Michigan State,michigan-state,Spartans,MSU,#18453B,#ffffff,assets/logos/fbs/Michigan_State_Spartans_logo-300x300.png,assets/logos/cfbd/127.png,assets/logos/fbs/Michigan_State_Spartans_logo-300x300.png,MSU|Michigan State|Michigan State Spartans,cfbd_snapshot
+128,Northern Michigan,northern-michigan,Wildcats,NOR,#000000,,assets/logos/cfbd/128.png,assets/logos/cfbd/128.png,,N Michigan|NOR|Northern Michigan|Northern Michigan Wildcats,cfbd_snapshot
+129,Saginaw Valley,saginaw-valley,Cardinals,SAG,#000000,,assets/logos/cfbd/129.png,assets/logos/cfbd/129.png,,SAG|Saginaw Valley|Saginaw Valley Cardinals,cfbd_snapshot
+130,Michigan,michigan,Wolverines,MICH,#00274c,#ffcb05,assets/logos/fbs/Michigan_Wolverines_logo-300x300.png,assets/logos/cfbd/130.png,assets/logos/fbs/Michigan_Wolverines_logo-300x300.png,MICH|Michigan|Michigan Wolverines,cfbd_snapshot
+131,Wayne State (MI),wayne-state-mi,Warriors,WAY,#000000,,assets/logos/cfbd/131.png,assets/logos/cfbd/131.png,,WAY|Wayne St (MI)|Wayne State (MI)|Wayne State (MI) Warriors,cfbd_snapshot
+132,Bemidji State,bemidji-state,Beavers,BEM,#000000,,assets/logos/cfbd/132.png,assets/logos/cfbd/132.png,,BEM|Bemidji State|Bemidji State Beavers,cfbd_snapshot
+134,Minnesota-Duluth,minnesota-duluth,Bulldogs,MNDU,#000000,,assets/logos/cfbd/134.png,assets/logos/cfbd/134.png,,MNDU|Minnesota-Duluth|Minnesota-Duluth Bulldogs,cfbd_snapshot
+135,Minnesota,minnesota,Golden Gophers,MINN,#7F011B,#7a0019,assets/logos/fbs/Minnesota_Golden_Gophers_logo-300x300.png,assets/logos/cfbd/135.png,assets/logos/fbs/Minnesota_Golden_Gophers_logo-300x300.png,MINN|Minnesota|Minnesota Golden Gophers,cfbd_snapshot
+138,Northwest Missouri State,northwest-missouri-state,Bearcats,NWMS,#000000,,assets/logos/cfbd/138.png,assets/logos/cfbd/138.png,,NW Missouri St|NWMS|Northwest Missouri State|Northwest Missouri State Bearcats,cfbd_snapshot
+142,Missouri,missouri,Tigers,MIZ,#000000,#000000,assets/logos/fbs/Missouri_Tigers_logo-300x300.png,assets/logos/cfbd/142.png,assets/logos/fbs/Missouri_Tigers_logo-300x300.png,MIZ|Missouri|Missouri Tigers,cfbd_snapshot
+143,Washington (MO),washington-mo,Bears,WAS,#000000,,assets/logos/cfbd/143.png,assets/logos/cfbd/143.png,,WAS|Washington (MO)|Washington (MO) Bears,cfbd_snapshot
+145,Ole Miss,ole-miss,Rebels,MISS,#001148,#00205b,assets/logos/fbs/Ole_Miss_Rebels_logo-300x300.png,assets/logos/cfbd/145.png,assets/logos/fbs/Ole_Miss_Rebels_logo-300x300.png,MISS|Ole Miss|Ole Miss Rebels,cfbd_snapshot
+146,Grove City College,grove-city-college,Wolverines,GRO,#000000,,assets/logos/cfbd/146.png,assets/logos/cfbd/146.png,,GRO|Grove City|Grove City College|Grove City College Wolverines,cfbd_snapshot
+147,Montana State,montana-state,Bobcats,MTST,#003875,#bf965c,assets/logos/cfbd/147.png,assets/logos/cfbd/147.png,,MTST|Montana State|Montana State Bobcats,cfbd_snapshot
+149,Montana,montana,Grizzlies,MONT,#751D4A,#666666,assets/logos/cfbd/149.png,assets/logos/cfbd/149.png,,MONT|Montana|Montana Grizzlies,cfbd_snapshot
+150,Duke,duke,Blue Devils,DUKE,#001A57,#f1f2f3,assets/logos/fbs/Duke_Blue_Devils_logo-300x300.png,assets/logos/cfbd/150.png,assets/logos/fbs/Duke_Blue_Devils_logo-300x300.png,DUKE|Duke|Duke Blue Devils,cfbd_snapshot
+151,East Carolina,east-carolina,Pirates,ECU,#4b1869,#f0907b,assets/logos/fbs/East_Carolina_Pirates_logo-300x300.png,assets/logos/cfbd/151.png,assets/logos/fbs/East_Carolina_Pirates_logo-300x300.png,ECU|East Carolina|East Carolina Pirates,cfbd_snapshot
+152,NC State,nc-state,Wolfpack,NCST,#EF1216,#231f20,assets/logos/fbs/North_Carolina_State_Wolfpack_logo-300x300.png,assets/logos/cfbd/152.png,assets/logos/fbs/North_Carolina_State_Wolfpack_logo-300x300.png,NC State|NC State Wolfpack|NCST|North Carolina St.|North Carolina State Wolfpack,cfbd_snapshot
+153,North Carolina,north-carolina,Tar Heels,UNC,#99bfe5,#13294b,assets/logos/fbs/North_Carolina_Tar_Heels_logo-300x300.png,assets/logos/cfbd/153.png,assets/logos/fbs/North_Carolina_Tar_Heels_logo-300x300.png,North Carolina|North Carolina Tar Heels|UNC,cfbd_snapshot
+154,Wake Forest,wake-forest,Demon Deacons,WAKE,#9E7E38,#000000,assets/logos/fbs/Wake_Forest_Demon_Deacons_logo-300x300.png,assets/logos/cfbd/154.png,assets/logos/fbs/Wake_Forest_Demon_Deacons_logo-300x300.png,WAKE|Wake Forest|Wake Forest Demon Deacons,cfbd_snapshot
+155,North Dakota,north-dakota,Fighting Hawks,UND,#00A26B,#c2c3c0,assets/logos/cfbd/155.png,assets/logos/cfbd/155.png,,North Dakota|North Dakota Fighting Hawks|UND,cfbd_snapshot
+158,Nebraska,nebraska,Cornhuskers,NEB,#F20017,#f5f1e7,assets/logos/fbs/Nebraska_Cornhuskers_logo-300x300.png,assets/logos/cfbd/158.png,assets/logos/fbs/Nebraska_Cornhuskers_logo-300x300.png,NEB|Nebraska|Nebraska Cornhuskers,cfbd_snapshot
+159,Dartmouth,dartmouth,Big Green,DART,#005730,#000000,assets/logos/cfbd/159.png,assets/logos/cfbd/159.png,,DART|Dartmouth|Dartmouth Big Green,cfbd_snapshot
+160,New Hampshire,new-hampshire,Wildcats,UNH,#004990,#c3c4c6,assets/logos/cfbd/160.png,assets/logos/cfbd/160.png,,New Hampshire|New Hampshire Wildcats|UNH,cfbd_snapshot
+163,Princeton,princeton,Tigers,PRIN,#ff9408,#080808,assets/logos/cfbd/163.png,assets/logos/cfbd/163.png,,PRIN|Princeton|Princeton Tigers,cfbd_snapshot
+164,Rutgers,rutgers,Scarlet Knights,RUTG,#d21034,#ffffff,assets/logos/fbs/Rutgers_Scarlet_Knights_logo-300x300.png,assets/logos/cfbd/164.png,assets/logos/fbs/Rutgers_Scarlet_Knights_logo-300x300.png,RUTG|Rutgers|Rutgers Scarlet Knights,cfbd_snapshot
+166,New Mexico State,new-mexico-state,Aggies,NMSU,#891216,#000000,assets/logos/fbs/New_Mexico_State_Aggies_logo-300x300.png,assets/logos/cfbd/166.png,assets/logos/fbs/New_Mexico_State_Aggies_logo-300x300.png,NMSU|New Mexico St|New Mexico State|New Mexico State Aggies,cfbd_snapshot
+167,New Mexico,new-mexico,Lobos,UNM,#000000,#231f20,assets/logos/fbs/New_Mexico_Lobos_logo-300x300.png,assets/logos/cfbd/167.png,assets/logos/fbs/New_Mexico_Lobos_logo-300x300.png,New Mexico|New Mexico Lobos|UNM,cfbd_snapshot
+171,Columbia,columbia,Lions,CLMB,#174785,#004b85,assets/logos/cfbd/171.png,assets/logos/cfbd/171.png,,CLMB|Columbia|Columbia Lions,cfbd_snapshot
+172,Cornell,cornell,Big Red,COR,#d60027,#101010,assets/logos/cfbd/172.png,assets/logos/cfbd/172.png,,COR|Cornell|Cornell Big Red,cfbd_snapshot
+174,Hobart,hobart,Statesmen,HOB,#000000,,assets/logos/cfbd/174.png,assets/logos/cfbd/174.png,,HOB|Hobart|Hobart Statesmen,cfbd_snapshot
+175,Ithaca,ithaca,Bombers,ITH,#000000,,assets/logos/cfbd/175.png,assets/logos/cfbd/175.png,,ITH|Ithaca|Ithaca Bombers,cfbd_snapshot
+183,Syracuse,syracuse,Orange,SYR,#F37321,#0d1d37,assets/logos/fbs/Syracuse_Orange_logo-300x300.png,assets/logos/cfbd/183.png,assets/logos/fbs/Syracuse_Orange_logo-300x300.png,SYR|Syracuse|Syracuse Orange,cfbd_snapshot
+184,Rochester,rochester,Yellow Jackets,ROC,#000000,,assets/logos/cfbd/184.png,assets/logos/cfbd/184.png,,ROC|Rochester|Rochester Yellow Jackets,cfbd_snapshot
+189,Bowling Green,bowling-green,Falcons,BGSU,#2b1000,#492000,assets/logos/fbs/Bowling_Green_Falcons_logo-300x300.png,assets/logos/cfbd/189.png,assets/logos/fbs/Bowling_Green_Falcons_logo-300x300.png,BGSU|Bowling Green|Bowling Green Falcons|Bowling Green State,cfbd_snapshot
+193,Miami (OH),miami-oh,RedHawks,M-OH,#a4000c,#f0f0f0,assets/logos/fbs/Miami_OH_Redhawks_logo-300x300.png,assets/logos/cfbd/193.png,assets/logos/fbs/Miami_OH_Redhawks_logo-300x300.png,M-OH|Miami (OH)|Miami (OH) RedHawks|Miami OH Redhawks,cfbd_snapshot
+194,Ohio State,ohio-state,Buckeyes,OSU,#DE3121,#666666,assets/logos/fbs/Ohio_State_Buckeyes_logo-300x300.png,assets/logos/cfbd/194.png,assets/logos/fbs/Ohio_State_Buckeyes_logo-300x300.png,OSU|Ohio State|Ohio State Buckeyes,cfbd_snapshot
+195,Ohio,ohio,Bobcats,OHIO,#295A29,#e4bb85,assets/logos/fbs/Ohio_Bobcats_logo-300x300.png,assets/logos/cfbd/195.png,assets/logos/fbs/Ohio_Bobcats_logo-300x300.png,OHIO|Ohio|Ohio Bobcats,cfbd_snapshot
+197,Oklahoma State,oklahoma-state,Cowboys,OKST,#FF6500,#ff9900,assets/logos/fbs/Oklahoma_State_Cowboys_logo-300x300.png,assets/logos/cfbd/197.png,assets/logos/fbs/Oklahoma_State_Cowboys_logo-300x300.png,OKST|Oklahoma State|Oklahoma State Cowboys,cfbd_snapshot
+199,Southeastern Oklahoma,southeastern-oklahoma,Savage Storm,SEOS,#000000,,assets/logos/cfbd/199.png,assets/logos/cfbd/199.png,,SEOS|SEOkla St|Southeastern Oklahoma|Southeastern Oklahoma Savage Storm,cfbd_snapshot
+200,Southern Nazarene,southern-nazarene,Crimson Storm,STN,#000000,,assets/logos/cfbd/200.png,assets/logos/cfbd/200.png,,S Nazarene|STN|Southern Nazarene|Southern Nazarene Crimson Storm,cfbd_snapshot
+201,Oklahoma,oklahoma,Sooners,OKLA,#7b0000,#cccccc,assets/logos/fbs/Oklahoma_Sooners_logo-300x300.png,assets/logos/cfbd/201.png,assets/logos/fbs/Oklahoma_Sooners_logo-300x300.png,OKLA|Oklahoma|Oklahoma Sooners,cfbd_snapshot
+202,Tulsa,tulsa,Golden Hurricane,TLSA,#004371,#ee3b33,assets/logos/fbs/Tulsa_Golden_Hurricane_logo-300x300.png,assets/logos/cfbd/202.png,assets/logos/fbs/Tulsa_Golden_Hurricane_logo-300x300.png,TLSA|Tulsa|Tulsa Golden Hurricane,cfbd_snapshot
+204,Oregon State,oregon-state,Beavers,ORST,#c34500,#dea076,assets/logos/fbs/Oregon_State_Beavers_logo-300x300.png,assets/logos/cfbd/204.png,assets/logos/fbs/Oregon_State_Beavers_logo-300x300.png,ORST|Oregon State|Oregon State Beavers,cfbd_snapshot
+209,Lock Haven,lock-haven,Bald Eagles,LOC,#000000,,assets/logos/cfbd/209.png,assets/logos/cfbd/209.png,,LOC|Lock Haven|Lock Haven Bald Eagles,cfbd_snapshot
+210,Millersville,millersville,Marauders,MIL,#000000,,assets/logos/cfbd/210.png,assets/logos/cfbd/210.png,,MIL|Millersville|Millersville Marauders,cfbd_snapshot
+213,Penn State,penn-state,Nittany Lions,PSU,#00265D,#002e5c,assets/logos/fbs/Penn_State_Nittany_Lions_logo-300x300.png,assets/logos/cfbd/213.png,assets/logos/fbs/Penn_State_Nittany_Lions_logo-300x300.png,PSU|Penn State|Penn State Nittany Lions,cfbd_snapshot
+215,Slippery Rock,slippery-rock,The Rock,SRU,#000000,,assets/logos/cfbd/215.png,assets/logos/cfbd/215.png,,SRU|Slippery Rock|Slippery Rock The Rock,cfbd_snapshot
+218,Temple,temple,Owls,TEM,#A80532,#a7a9ac,assets/logos/fbs/Temple_Owls_logo-300x300.png,assets/logos/cfbd/218.png,assets/logos/fbs/Temple_Owls_logo-300x300.png,TEM|Temple|Temple Owls,cfbd_snapshot
+219,Pennsylvania,pennsylvania,Quakers,PENN,#082A74,#a6163d,assets/logos/cfbd/219.png,assets/logos/cfbd/219.png,,PENN|Penn|Pennsylvania|Pennsylvania Quakers,cfbd_snapshot
+221,Pittsburgh,pittsburgh,Panthers,PITT,#003263,#231f20,assets/logos/fbs/Pitt_Panthers_logo-300x300.png,assets/logos/cfbd/221.png,assets/logos/fbs/Pitt_Panthers_logo-300x300.png,PITT|Pitt|Pitt Panthers|Pittsburgh|Pittsburgh Panthers,cfbd_snapshot
+222,Villanova,villanova,Wildcats,NOVA,#123d7C,#f0f0f0,assets/logos/cfbd/222.png,assets/logos/cfbd/222.png,,NOVA|Villanova|Villanova Wildcats,cfbd_snapshot
+223,West Chester,west-chester,Golden Rams,WES,#000000,,assets/logos/cfbd/223.png,assets/logos/cfbd/223.png,,WES|West Chester|West Chester Golden Rams,cfbd_snapshot
+225,Brown,brown,Bears,BRWN,#411e09,#949300,assets/logos/cfbd/225.png,assets/logos/cfbd/225.png,,BRWN|Brown|Brown Bears,cfbd_snapshot
+227,Rhode Island,rhode-island,Rams,URI,#3691C6,#5ab3e8,assets/logos/cfbd/227.png,assets/logos/cfbd/227.png,,Rhode Island|Rhode Island Rams|URI,cfbd_snapshot
+228,Clemson,clemson,Tigers,CLEM,#F66733,#522d80,assets/logos/fbs/Clemson_Tigers_logo-300x300.png,assets/logos/cfbd/228.png,assets/logos/fbs/Clemson_Tigers_logo-300x300.png,CLEM|Clemson|Clemson Tigers,cfbd_snapshot
+231,Furman,furman,Paladins,FUR,#4A2184,#909090,assets/logos/cfbd/231.png,assets/logos/cfbd/231.png,,FUR|Furman|Furman Paladins,cfbd_snapshot
+233,South Dakota,south-dakota,Coyotes,SDAK,#CD1241,#f0f0f0,assets/logos/cfbd/233.png,assets/logos/cfbd/233.png,,SDAK|South Dakota|South Dakota Coyotes,cfbd_snapshot
+235,Memphis,memphis,Tigers,MEM,#002447,#231f20,assets/logos/fbs/Memphis_Tigers_logo-300x300.png,assets/logos/cfbd/235.png,assets/logos/fbs/Memphis_Tigers_logo-300x300.png,MEM|Memphis|Memphis Tigers,cfbd_snapshot
+236,Chattanooga,chattanooga,Mocs,CHAT,#00386b,#dca71d,assets/logos/cfbd/236.png,assets/logos/cfbd/236.png,,CHAT|Chattanooga|Chattanooga Mocs,cfbd_snapshot
+237,Union,union,Dutchmen,UNI,#000000,,assets/logos/cfbd/237.png,assets/logos/cfbd/237.png,,UNI|Union|Union Dutchmen,cfbd_snapshot
+238,Vanderbilt,vanderbilt,Commodores,VAN,#000000,#231f20,assets/logos/fbs/Vanderbilt_Commodores_logo-300x300.png,assets/logos/cfbd/238.png,assets/logos/fbs/Vanderbilt_Commodores_logo-300x300.png,VAN|Vanderbilt|Vanderbilt Commodores,cfbd_snapshot
+239,Baylor,baylor,Bears,BAY,#004834,#ffb81c,assets/logos/fbs/Baylor_Bears_logo-300x300.png,assets/logos/cfbd/239.png,assets/logos/fbs/Baylor_Bears_logo-300x300.png,BAY|Baylor|Baylor Bears,cfbd_snapshot
+242,Rice,rice,Owls,RICE,#003D7D,#d1d5d8,assets/logos/fbs/Rice_Owls_logo-300x300.png,assets/logos/cfbd/242.png,assets/logos/fbs/Rice_Owls_logo-300x300.png,RICE|Rice|Rice Owls,cfbd_snapshot
+245,Texas A&M,texas-a-m,Aggies,TA&M,#5C0025,#ffffff,assets/logos/fbs/Texas_AM_University_logo-300x300.png,assets/logos/cfbd/245.png,assets/logos/fbs/Texas_AM_University_logo-300x300.png,TA&M|Texas A&M|Texas A&M Aggies|Texas AM University,cfbd_snapshot
+248,Houston,houston,Cougars,HOU,#C90822,#231f20,assets/logos/fbs/Houston_Cougars_logo-300x300.png,assets/logos/cfbd/248.png,assets/logos/fbs/Houston_Cougars_logo-300x300.png,HOU|Houston|Houston Cougars,cfbd_snapshot
+249,North Texas,north-texas,Mean Green,UNT,#00853D,#000000,assets/logos/fbs/North_Texas_Mean_Green_logo-300x300.png,assets/logos/cfbd/249.png,assets/logos/fbs/North_Texas_Mean_Green_logo-300x300.png,North Texas|North Texas Mean Green|UNT,cfbd_snapshot
+251,Texas,texas,Longhorns,TEX,#EE7524,#f0f0f0,assets/logos/fbs/Texas_Longhorns_logo-300x300.png,assets/logos/cfbd/251.png,assets/logos/fbs/Texas_Longhorns_logo-300x300.png,TEX|Texas|Texas Longhorns,cfbd_snapshot
+252,BYU,byu,Cougars,BYU,#001E4C,#ffffff,assets/logos/fbs/BYU_Cougars_logo-300x300.png,assets/logos/cfbd/252.png,assets/logos/fbs/BYU_Cougars_logo-300x300.png,BYU|BYU Cougars|Brigham Young,cfbd_snapshot
+253,Southern Utah,southern-utah,Thunderbirds,SUU,#d10000,#c2c3c0,assets/logos/cfbd/253.png,assets/logos/cfbd/253.png,,SUU|Southern Utah|Southern Utah Thunderbirds,cfbd_snapshot
+254,Utah,utah,Utes,UTAH,#890012,#7e8083,assets/logos/fbs/Utah_Utes_logo-300x300.png,assets/logos/cfbd/254.png,assets/logos/fbs/Utah_Utes_logo-300x300.png,UTAH|Utah|Utah Utes,cfbd_snapshot
+255,Knox College,knox-college,Prairie Fire,KNO,#000000,,assets/logos/cfbd/255.png,assets/logos/cfbd/255.png,,KNO|Knox|Knox College|Knox College Prairie Fire,cfbd_snapshot
+256,James Madison,james-madison,Dukes,JMU,#450084,#cbb778,assets/logos/fbs/James_Madison_Dukes_logo-300x300.png,assets/logos/cfbd/256.png,assets/logos/fbs/James_Madison_Dukes_logo-300x300.png,JMU|James Madison|James Madison Dukes,cfbd_snapshot
+257,Richmond,richmond,Spiders,RICH,#9e0712,#b90b2e,assets/logos/cfbd/257.png,assets/logos/cfbd/257.png,,RICH|Richmond|Richmond Spiders,cfbd_snapshot
+258,Virginia,virginia,Cavaliers,UVA,#00204e,#002d62,assets/logos/fbs/Virginia_Cavaliers_logo-300x300.png,assets/logos/cfbd/258.png,assets/logos/fbs/Virginia_Cavaliers_logo-300x300.png,UVA|Virginia|Virginia Cavaliers,cfbd_snapshot
+259,Virginia Tech,virginia-tech,Hokies,VT,#74232D,#c2c1ba,assets/logos/fbs/Virginia_Tech_Hokies_logo-300x300.png,assets/logos/cfbd/259.png,assets/logos/fbs/Virginia_Tech_Hokies_logo-300x300.png,VT|Virginia Tech|Virginia Tech Hokies,cfbd_snapshot
+262,Lake Forest,lake-forest,Foresters,LAK,#000000,,assets/logos/cfbd/262.png,assets/logos/cfbd/262.png,,LAK|Lake Forest|Lake Forest Foresters,cfbd_snapshot
+264,Washington,washington,Huskies,WASH,#2B2F64,#e8e3d3,assets/logos/fbs/Washington_Huskies_logo-300x300.png,assets/logos/cfbd/264.png,assets/logos/fbs/Washington_Huskies_logo-300x300.png,WASH|Washington|Washington Huskies,cfbd_snapshot
+265,Washington State,washington-state,Cougars,WSU,#94022a,#6a747c,assets/logos/fbs/Washington_State_Cougars_logo-300x300.png,assets/logos/cfbd/265.png,assets/logos/fbs/Washington_State_Cougars_logo-300x300.png,WSU|Washington St|Washington State|Washington State Cougars,cfbd_snapshot
+268,Lawrence,lawrence,Vikings,LAW,#000000,,assets/logos/cfbd/268.png,assets/logos/cfbd/268.png,,LAW|Lawrence|Lawrence Vikings,cfbd_snapshot
+271,UW-Oshkosh,uw-oshkosh,Titans,WIS,#000000,,assets/logos/cfbd/271.png,assets/logos/cfbd/271.png,,UW-Oshkosh|UW-Oshkosh Titans|WIS,cfbd_snapshot
+272,Wisconsin-Platteville,wisconsin-platteville,Pioneers,WIS,#000000,,assets/logos/cfbd/272.png,assets/logos/cfbd/272.png,,UW-Platteville|WIS|Wisconsin-Platteville|Wisconsin-Platteville Pioneers,cfbd_snapshot
+275,Wisconsin,wisconsin,Badgers,WIS,#A00001,#f7f7f7,assets/logos/fbs/Wisconsin_Badgers_logo-300x300.png,assets/logos/cfbd/275.png,assets/logos/fbs/Wisconsin_Badgers_logo-300x300.png,WIS|Wisconsin|Wisconsin Badgers,cfbd_snapshot
+276,Marshall,marshall,Thundering Herd,MRSH,#186329,#be854c,assets/logos/fbs/Marshall_Thundering_Herd_logo-300x300.png,assets/logos/cfbd/276.png,assets/logos/fbs/Marshall_Thundering_Herd_logo-300x300.png,MRSH|Marshall|Marshall Thundering Herd,cfbd_snapshot
+277,West Virginia,west-virginia,Mountaineers,WVU,#FFC600,#eaaa00,assets/logos/fbs/West_Virginia_Mountaineers_logo-300x300.png,assets/logos/cfbd/277.png,assets/logos/fbs/West_Virginia_Mountaineers_logo-300x300.png,WVU|West Virginia|West Virginia Mountaineers,cfbd_snapshot
+278,Fresno State,fresno-state,Bulldogs,FRES,#c41230,#231f20,assets/logos/fbs/Fresno_State_Bulldogs_logo-300x300.png,assets/logos/cfbd/278.png,assets/logos/fbs/Fresno_State_Bulldogs_logo-300x300.png,FRES|Fresno State|Fresno State Bulldogs,cfbd_snapshot
+282,Indiana State,indiana-state,Sycamores,INST,#00669a,#f0f0f0,assets/logos/cfbd/282.png,assets/logos/cfbd/282.png,,INST|Indiana State|Indiana State Sycamores,cfbd_snapshot
+284,Stonehill,stonehill,Chieftains,SBI,#000000,,assets/logos/cfbd/284.png,assets/logos/cfbd/284.png,,SBI|Stonehill|Stonehill Chieftains,cfbd_snapshot
+290,Georgia Southern,georgia-southern,Eagles,GASO,#003775,#f0f0f0,assets/logos/fbs/Georgia_Southern_Eagles_logo-300x300.png,assets/logos/cfbd/290.png,assets/logos/fbs/Georgia_Southern_Eagles_logo-300x300.png,GASO|Ga Southern|Georgia Southern|Georgia Southern Eagles,cfbd_snapshot
+294,Jacksonville,jacksonville,Dolphins,JAC,#00523e,,assets/logos/cfbd/294.png,assets/logos/cfbd/294.png,,JAC|Jacksonville|Jacksonville Dolphins,cfbd_snapshot
+295,Old Dominion,old-dominion,Monarchs,ODU,#00507d,#a1d2f1,assets/logos/fbs/Old_Dominion_Monarchs_logo-300x300.png,assets/logos/cfbd/295.png,assets/logos/fbs/Old_Dominion_Monarchs_logo-300x300.png,ODU|Old Dominion|Old Dominion Monarchs,cfbd_snapshot
+301,San Diego,san-diego,Toreros,USD,#2f99d4,#2f99d4,assets/logos/cfbd/301.png,assets/logos/cfbd/301.png,,San Diego|San Diego Toreros|USD,cfbd_snapshot
+302,UC Davis,uc-davis,Aggies,UCD,#183563,#bc9305,assets/logos/cfbd/302.png,assets/logos/cfbd/302.png,,California-Davis|UC Davis|UC Davis Aggies|UCD,cfbd_snapshot
+304,Idaho State,idaho-state,Bengals,IDST,#ef8c00,#e9a126,assets/logos/cfbd/304.png,assets/logos/cfbd/304.png,,IDST|Idaho State|Idaho State Bengals,cfbd_snapshot
+308,Ashland,ashland,Eagles,ASH,#000000,,assets/logos/cfbd/308.png,assets/logos/cfbd/308.png,,ASH|Ashland|Ashland Eagles,cfbd_snapshot
+309,Louisiana,louisiana,Ragin' Cajuns,ULL,#ce2842,,assets/logos/fbs/Louisiana-Lafayette_Ragin_Cajuns_logo-300x300.png,assets/logos/cfbd/309.png,assets/logos/fbs/Louisiana-Lafayette_Ragin_Cajuns_logo-300x300.png,Louisiana|Louisiana Lafayette Ragin Cajuns|Louisiana Ragin' Cajuns|UL Lafayette|ULL,cfbd_snapshot
+311,Maine,maine,Black Bears,MAINE,#127dbe,,assets/logos/cfbd/311.png,assets/logos/cfbd/311.png,,MAINE|Maine|Maine Black Bears,cfbd_snapshot
+319,Oklahoma Baptist,oklahoma-baptist,Bison,OB,,,assets/logos/cfbd/319.png,assets/logos/cfbd/319.png,,OB|Oklahoma Bapt|Oklahoma Baptist|Oklahoma Baptist Bison,cfbd_snapshot
+322,Lafayette,lafayette,Leopards,LAF,#790000,#a59474,assets/logos/cfbd/322.png,assets/logos/cfbd/322.png,,LAF|Lafayette|Lafayette Leopards,cfbd_snapshot
+324,Coastal Carolina,coastal-carolina,Chanticleers,CCU,#007073,#876447,assets/logos/fbs/Coastal_Carolina_Chanticleers_logo-300x300.png,assets/logos/cfbd/324.png,assets/logos/fbs/Coastal_Carolina_Chanticleers_logo-300x300.png,C. Carolina|CCU|Coastal Carolina|Coastal Carolina Chanticleers,cfbd_snapshot
+326,Texas State,texas-state,Bobcats,TXST,#4e1719,#b4975a,assets/logos/fbs/Texas_State_Bobcats_logo-300x300.png,assets/logos/cfbd/326.png,assets/logos/fbs/Texas_State_Bobcats_logo-300x300.png,TXST|Texas State|Texas State Bobcats,cfbd_snapshot
+328,Utah State,utah-state,Aggies,USU,#003263,#949ca1,assets/logos/fbs/Utah_State_Aggies_logo-300x300.png,assets/logos/cfbd/328.png,assets/logos/fbs/Utah_State_Aggies_logo-300x300.png,USU|Utah State|Utah State Aggies,cfbd_snapshot
+330,Virginia State,virginia-state,Trojans,VIR,#000000,,assets/logos/cfbd/330.png,assets/logos/cfbd/330.png,,VIR|Virginia St|Virginia State|Virginia State Trojans,cfbd_snapshot
+331,Eastern Washington,eastern-washington,Eagles,EWU,#a10022,#abb4bc,assets/logos/cfbd/331.png,assets/logos/cfbd/331.png,,E Washington|EWU|Eastern Washington|Eastern Washington Eagles,cfbd_snapshot
+333,Alabama,alabama,Crimson Tide,ALA,#690014,#f1f2f3,assets/logos/fbs/Alabama_Crimson_Tide_logo-300x300.png,assets/logos/cfbd/333.png,assets/logos/fbs/Alabama_Crimson_Tide_logo-300x300.png,ALA|Alabama|Alabama Crimson Tide,cfbd_snapshot
+338,Kennesaw State,kennesaw-state,Owls,KENN,#000000,#fdbb30,assets/logos/fbs/Kennesaw-State-Owls-logo-300x300.png,assets/logos/cfbd/338.png,assets/logos/fbs/Kennesaw-State-Owls-logo-300x300.png,KENN|Kennesaw St|Kennesaw State|Kennesaw State Owls,cfbd_snapshot
+344,Mississippi State,mississippi-state,Bulldogs,MSST,#762123,#c8c8c8,assets/logos/fbs/Mississippi_State_Bulldogs_logo-300x300.png,assets/logos/cfbd/344.png,assets/logos/fbs/Mississippi_State_Bulldogs_logo-300x300.png,MSST|Miss St|Mississippi State|Mississippi State Bulldogs,cfbd_snapshot
+349,Army,army,Black Knights,ARMY,#ce9c00,#231f20,assets/logos/fbs/Army_West_Point_Black_Knights_logo-300x300.png,assets/logos/cfbd/349.png,assets/logos/fbs/Army_West_Point_Black_Knights_logo-300x300.png,ARMY|Army|Army Black Knights|Army West Point Black Knights,cfbd_snapshot
+356,Illinois,illinois,Fighting Illini,ILL,#f77329,#fa6300,assets/logos/fbs/Illinois_Fighting_Illini_logo-300x300.png,assets/logos/cfbd/356.png,assets/logos/fbs/Illinois_Fighting_Illini_logo-300x300.png,ILL|Illinois|Illinois Fighting Illini,cfbd_snapshot
+365,Alfred,alfred,Saxons,ALF,#000000,,assets/logos/cfbd/365.png,assets/logos/cfbd/365.png,,ALF|Alfred|Alfred Saxons,cfbd_snapshot
+367,Gannon,gannon,Golden Knights,GAN,#000000,,assets/logos/cfbd/367.png,assets/logos/cfbd/367.png,,GAN|Gannon|Gannon Golden Knights,cfbd_snapshot
+379,UMass Dartmouth,umass-dartmouth,Corsairs,MAS,#000000,,assets/logos/cfbd/379.png,assets/logos/cfbd/379.png,,MAS|UMass Dartmouth|UMass Dartmouth Corsairs,cfbd_snapshot
+395,St. Augustine's,st-augustine-s,Falcons,STA,#000000,,assets/logos/cfbd/395.png,assets/logos/cfbd/395.png,,STA|St. Augustine's|St. Augustine's Falcons,cfbd_snapshot
+396,Wheaton College (Ill),wheaton-college-ill,Thunder,WHE,#000000,,assets/logos/cfbd/396.png,assets/logos/cfbd/396.png,,WHE|Wheaton  (Ill)|Wheaton College (Ill)|Wheaton College (Ill) Thunder,cfbd_snapshot
+399,Albany,albany,Great Danes,ALBY,#3D2777,#ffffff,assets/logos/cfbd/399.png,assets/logos/cfbd/399.png,,ALBY|Albany|Albany Great Danes,cfbd_snapshot
+402,Worcester State College,worcester-state-college,Lancers,WOR,#000000,,assets/logos/cfbd/402.png,assets/logos/cfbd/402.png,,WOR|Worcester St|Worcester State College|Worcester State College Lancers,cfbd_snapshot
+437,Lake Erie College,lake-erie-college,Storm,LKE,#000000,,assets/logos/cfbd/437.png,assets/logos/cfbd/437.png,,LKE|Lake Erie|Lake Erie College|Lake Erie College Storm,cfbd_snapshot
+490,Benedict College,benedict-college,Tigers,BBG,,,assets/logos/cfbd/490.png,assets/logos/cfbd/490.png,,BBG|Benedict|Benedict College|Benedict College Tigers,cfbd_snapshot
+512,Dakota State,dakota-state,Trojans,DSU,#000000,,assets/logos/cfbd/512.png,assets/logos/cfbd/512.png,,DSU|Dakota St|Dakota State|Dakota State Trojans,cfbd_snapshot
+530,Graceland University,graceland-university,Yellowjackets,GRC,#000000,,assets/logos/cfbd/530.png,assets/logos/cfbd/530.png,,GRC|Graceland University|Graceland University Yellowjackets,cfbd_snapshot
+559,University of Mary,university-of-mary,Marauders,MAR,#000000,,assets/logos/cfbd/559.png,assets/logos/cfbd/559.png,,MAR|U of Mary|University of Mary|University of Mary Marauders,cfbd_snapshot
+587,Notre Dame College,notre-dame-college,Blue Falcons,NOT,#000000,,assets/logos/cfbd/587.png,assets/logos/cfbd/587.png,,NOT|Notre Dame College|Notre Dame College Blue Falcons,cfbd_snapshot
+611,Seton Hill College,seton-hill-college,Griffins,SET,#000000,,assets/logos/cfbd/611.png,assets/logos/cfbd/611.png,,SET|Seton Hill|Seton Hill College|Seton Hill College Griffins,cfbd_snapshot
+2000,Abilene Christian,abilene-christian,Wildcats,ACU,#4e2683,#ebebeb,assets/logos/cfbd/2000.png,assets/logos/cfbd/2000.png,,ACU|Abil Christian|Abilene Christian|Abilene Christian Wildcats,cfbd_snapshot
+2005,Air Force,air-force,Falcons,AFA,#004a7b,#ffffff,assets/logos/fbs/Air_Force_Falcons_logo-300x300.png,assets/logos/cfbd/2005.png,assets/logos/fbs/Air_Force_Falcons_logo-300x300.png,AFA|Air Force|Air Force Falcons,cfbd_snapshot
+2006,Akron,akron,Zips,AKR,#00285e,#84754e,assets/logos/fbs/Akron_Zips_logo-300x300.png,assets/logos/cfbd/2006.png,assets/logos/fbs/Akron_Zips_logo-300x300.png,AKR|Akron|Akron Zips,cfbd_snapshot
+2010,Alabama A&M,alabama-a-m,Bulldogs,AAMU,#790000,#ffffff,assets/logos/cfbd/2010.png,assets/logos/cfbd/2010.png,,AAMU|Alabama A&M|Alabama A&M Bulldogs,cfbd_snapshot
+2011,Alabama State,alabama-state,Hornets,ALST,#e9a900,#0a0a0a,assets/logos/cfbd/2011.png,assets/logos/cfbd/2011.png,,ALST|Alabama State|Alabama State Hornets,cfbd_snapshot
+2013,Albany State (GA),albany-state-ga,Golden Rams,ALB,#000000,,assets/logos/cfbd/2013.png,assets/logos/cfbd/2013.png,,ALB|Albany St (GA)|Albany State (GA)|Albany State (GA) Golden Rams,cfbd_snapshot
+2016,Alcorn State,alcorn-state,Braves,ALCN,#4b0058,#46166a,assets/logos/cfbd/2016.png,assets/logos/cfbd/2016.png,,ALCN|Alcorn State|Alcorn State Braves,cfbd_snapshot
+2017,Alderson-Broaddus,alderson-broaddus,Battlers,ABC,,,assets/logos/cfbd/2017.png,assets/logos/cfbd/2017.png,,ABC|Ald.-Broaddus|Alderson-Broaddus|Alderson-Broaddus Battlers,cfbd_snapshot
+2018,Allegheny,allegheny,Golden Gators,ALL,#000000,,assets/logos/cfbd/2018.png,assets/logos/cfbd/2018.png,,ALL|Allegheny|Allegheny Golden Gators,cfbd_snapshot
+2019,Allen,allen,Yellow Jackets,ALN,,,assets/logos/cfbd/2019.png,assets/logos/cfbd/2019.png,,Allen|Allen Yellow Jackets|ALN,espn
+2022,American International,american-international,Yellow Jackets,AIC,#000000,,assets/logos/cfbd/2022.png,assets/logos/cfbd/2022.png,,AIC|American International|American International Yellow Jackets|American Intl.,cfbd_snapshot
+2023,Anderson (IN),anderson-in,Ravens,AND,#000000,,assets/logos/cfbd/2023.png,assets/logos/cfbd/2023.png,,AND|Anderson (IN)|Anderson (IN) Ravens,cfbd_snapshot
+2025,Angelo State,angelo-state,Rams,ANG,#000000,,assets/logos/cfbd/2025.png,assets/logos/cfbd/2025.png,,ANG|Angelo St|Angelo State|Angelo State Rams,cfbd_snapshot
+2026,Appalachian State,appalachian-state,Mountaineers,APP,#000000,#ffcd00,assets/logos/fbs/Appalachian_State_Mountaineers_logo-300x300.png,assets/logos/cfbd/2026.png,assets/logos/fbs/Appalachian_State_Mountaineers_logo-300x300.png,APP|Appalachian St|Appalachian State|Appalachian State Mountaineers,cfbd_snapshot
+2028,Arkansas-Monticello,arkansas-monticello,Weevils,ARK,#000000,,assets/logos/cfbd/2028.png,assets/logos/cfbd/2028.png,,AR-Monticello|ARK|Arkansas-Monticello|Arkansas-Monticello Weevils,cfbd_snapshot
+2029,Arkansas-Pine Bluff,arkansas-pine-bluff,Golden Lions,UAPB,#e0aa0f,#eaaa00,assets/logos/cfbd/2029.png,assets/logos/cfbd/2029.png,,AR-Pine Bluff|Arkansas-Pine Bluff|Arkansas-Pine Bluff Golden Lions|UAPB,cfbd_snapshot
+2032,Arkansas State,arkansas-state,Red Wolves,ARST,#e81018,#000000,assets/logos/fbs/Arkansas_State_Red_Wolves_logo-300x300.png,assets/logos/cfbd/2032.png,assets/logos/fbs/Arkansas_State_Red_Wolves_logo-300x300.png,ARST|Arkansas State|Arkansas State Red Wolves,cfbd_snapshot
+2033,Arkansas Tech,arkansas-tech,Wonder Boys,ARK,#000000,,assets/logos/cfbd/2033.png,assets/logos/cfbd/2033.png,,ARK|Arkansas Tech|Arkansas Tech Wonder Boys,cfbd_snapshot
+2046,Austin Peay,austin-peay,Governors,PEAY,#8e0b0b,,assets/logos/cfbd/2046.png,assets/logos/cfbd/2046.png,,Austin Peay|Austin Peay Governors|PEAY,cfbd_snapshot
+2050,Ball State,ball-state,Cardinals,BALL,#DA0000,#ffffff,assets/logos/fbs/Ball_State_Cardinals_logo-300x300.png,assets/logos/cfbd/2050.png,assets/logos/fbs/Ball_State_Cardinals_logo-300x300.png,BALL|Ball State|Ball State Cardinals,cfbd_snapshot
+2060,Bentley,bentley,Falcons,BENT,#000000,,assets/logos/cfbd/2060.png,assets/logos/cfbd/2060.png,,BENT|Bentley|Bentley Falcons,cfbd_snapshot
+2062,Bethany (WV),bethany-wv,Bison,BET,#000000,,assets/logos/cfbd/2062.png,assets/logos/cfbd/2062.png,,BET|Bethany (WV)|Bethany (WV) Bison,cfbd_snapshot
+2064,Bethel (TN),bethel-tn,Wildcats,BET,#000000,,assets/logos/cfbd/2064.png,assets/logos/cfbd/2064.png,,BET|Bethel (TN)|Bethel (TN) Wildcats,cfbd_snapshot
+2065,Bethune-Cookman,bethune-cookman,Wildcats,BCU,#7b1831,#e9aa12,assets/logos/cfbd/2065.png,assets/logos/cfbd/2065.png,,BCU|Bethune-Cookman|Bethune-Cookman Wildcats,cfbd_snapshot
+2069,Black Hills State,black-hills-state,Yellow Jackets,BLA,#000000,,assets/logos/cfbd/2069.png,assets/logos/cfbd/2069.png,,BLA|Black Hills St|Black Hills State|Black Hills State Yellow Jackets,cfbd_snapshot
+2071,Bloomsburg,bloomsburg,Huskies,BLO,#000000,,assets/logos/cfbd/2071.png,assets/logos/cfbd/2071.png,,BLO|Bloomsburg|Bloomsburg Huskies,cfbd_snapshot
+2075,Bowie State,bowie-state,Bulldogs,BOW,#000000,,assets/logos/cfbd/2075.png,assets/logos/cfbd/2075.png,,BOW|Bowie St|Bowie State|Bowie State Bulldogs,cfbd_snapshot
+2079,Bridgewater (VA),bridgewater-va,Eagles,BRD,#000000,,assets/logos/cfbd/2079.png,assets/logos/cfbd/2079.png,,BRD|Bridgewater (VA)|Bridgewater (VA) Eagles,cfbd_snapshot
+2083,Bucknell,bucknell,Bison,BUCK,#000060,#00316e,assets/logos/cfbd/2083.png,assets/logos/cfbd/2083.png,,BUCK|Bucknell|Bucknell Bison,cfbd_snapshot
+2084,Buffalo,buffalo,Bulls,BUFF,#041A9B,#ebebeb,assets/logos/fbs/Buffalo_Bulls_logo-300x300.png,assets/logos/cfbd/2084.png,assets/logos/fbs/Buffalo_Bulls_logo-300x300.png,BUFF|Buffalo|Buffalo Bulls,cfbd_snapshot
+2085,Buffalo State,buffalo-state,Bengals,BUF,#000000,,assets/logos/cfbd/2085.png,assets/logos/cfbd/2085.png,,BUF|Buffalo St|Buffalo State|Buffalo State Bengals,cfbd_snapshot
+2086,Butler,butler,Bulldogs,BUT,#0d1361,#00a3e0,assets/logos/cfbd/2086.png,assets/logos/cfbd/2086.png,,BUT|Butler|Butler Bulldogs,cfbd_snapshot
+2097,Campbell,campbell,Camels,CAMP,#000000,,assets/logos/cfbd/2097.png,assets/logos/cfbd/2097.png,,CAMP|Campbell|Campbell Camels,cfbd_snapshot
+2102,Carnegie Mellon,carnegie-mellon,Tartans,CAR,#000000,,assets/logos/cfbd/2102.png,assets/logos/cfbd/2102.png,,CAR|Carnegie Mellon|Carnegie Mellon Tartans,cfbd_snapshot
+2108,Catholic University,catholic-university,Cardinals,CATH,#000000,,assets/logos/cfbd/2108.png,assets/logos/cfbd/2108.png,,CATH|Catholic Univ.|Catholic University|Catholic University Cardinals,cfbd_snapshot
+2110,Central Arkansas,central-arkansas,Bears,UCA,#a7a9ac,#8e959a,assets/logos/cfbd/2110.png,assets/logos/cfbd/2110.png,,Cent Arkansas|Central Arkansas|Central Arkansas Bears|UCA,cfbd_snapshot
+2115,Central Connecticut,central-connecticut,Blue Devils,CCSU,#1B49A2,#d1d5d8,assets/logos/cfbd/2115.png,assets/logos/cfbd/2115.png,,CCSU|Cent Conn St|Central Connecticut|Central Connecticut Blue Devils|Central Connecticut State,cfbd_snapshot
+2116,UCF,ucf,Knights,UCF,#000000,#231f20,assets/logos/fbs/UCF_Knights_logo-300x300.png,assets/logos/cfbd/2116.png,assets/logos/fbs/UCF_Knights_logo-300x300.png,Central Florida|UCF|UCF Knights,cfbd_snapshot
+2117,Central Michigan,central-michigan,Chippewas,CMU,#6a0032,#ffffff,assets/logos/fbs/Central_Michigan_Chippewas_logo-300x300.png,assets/logos/cfbd/2117.png,assets/logos/fbs/Central_Michigan_Chippewas_logo-300x300.png,CMU|Cent Michigan|Central Michigan|Central Michigan Chippewas,cfbd_snapshot
+2119,Central State,central-state,Marauders,CCI,#000000,,assets/logos/cfbd/2119.png,assets/logos/cfbd/2119.png,,CCI|Central St|Central State|Central State Marauders,cfbd_snapshot
+2120,Central Washington,central-washington,Wildcats,CEN,#000000,,assets/logos/cfbd/2120.png,assets/logos/cfbd/2120.png,,CEN|Cent Washington|Central Washington|Central Washington Wildcats,cfbd_snapshot
+2127,Charleston Southern,charleston-southern,Buccaneers,CHSO,#2e3192,#ded090,assets/logos/cfbd/2127.png,assets/logos/cfbd/2127.png,,CHSO|Charleston So|Charleston Southern|Charleston Southern Buccaneers,cfbd_snapshot
+2132,Cincinnati,cincinnati,Bearcats,CIN,#000000,#717073,assets/logos/fbs/Cincinnati_Bearcats_logo-300x300.png,assets/logos/cfbd/2132.png,assets/logos/fbs/Cincinnati_Bearcats_logo-300x300.png,CIN|Cincinnati|Cincinnati Bearcats,cfbd_snapshot
+2134,Clarion,clarion,Golden Eagles,CLA,#000000,,assets/logos/cfbd/2134.png,assets/logos/cfbd/2134.png,,CLA|Clarion|Clarion Golden Eagles,cfbd_snapshot
+2142,Colgate,colgate,Raiders,COLG,#8B011D,#231f20,assets/logos/cfbd/2142.png,assets/logos/cfbd/2142.png,,COLG|Colgate|Colgate Raiders,cfbd_snapshot
+2144,Colorado College,colorado-college,Tigers,COL,#000000,,assets/logos/cfbd/2144.png,assets/logos/cfbd/2144.png,,COL|Colorado College|Colorado College Tigers,cfbd_snapshot
+2148,Concord,concord,Mountain Lions,CON,#000000,,assets/logos/cfbd/2148.png,assets/logos/cfbd/2148.png,,CON|Concord|Concord Mountain Lions,cfbd_snapshot
+2155,Cornell College (IA),cornell-college-ia,Rams,COR,#000000,,assets/logos/cfbd/2155.png,assets/logos/cfbd/2155.png,,COR|Cornell  (IA)|Cornell College|Cornell College (IA)|Cornell College (IA) Rams,cfbd_snapshot
+2166,Davidson,davidson,Wildcats,DAV,#000000,#e51837,assets/logos/cfbd/2166.png,assets/logos/cfbd/2166.png,,DAV|Davidson|Davidson Wildcats,cfbd_snapshot
+2168,Dayton,dayton,Flyers,DAY,#004B8D,#ffffff,assets/logos/cfbd/2168.png,assets/logos/cfbd/2168.png,,DAY|Dayton|Dayton Flyers,cfbd_snapshot
+2169,Delaware State,delaware-state,Hornets,DSU,#FF3630,#009cdd,assets/logos/cfbd/2169.png,assets/logos/cfbd/2169.png,,DSU|Delaware State|Delaware State Hornets,cfbd_snapshot
+2170,Delta State,delta-state,Statesmen,DEL,#000000,,assets/logos/cfbd/2170.png,assets/logos/cfbd/2170.png,,DEL|Delta St|Delta State|Delta State Statesmen,cfbd_snapshot
+2171,Denison,denison,Big Red,DEN,#000000,,assets/logos/cfbd/2171.png,assets/logos/cfbd/2171.png,,DEN|Denison|Denison Big Red,cfbd_snapshot
+2181,Drake,drake,Bulldogs,DRKE,#004477,#c0c0c0,assets/logos/cfbd/2181.png,assets/logos/cfbd/2181.png,,DRKE|Drake|Drake Bulldogs,cfbd_snapshot
+2184,Duquesne,duquesne,Dukes,DUQ,#002D62,#b90b2e,assets/logos/cfbd/2184.png,assets/logos/cfbd/2184.png,,DUQ|Duquesne|Duquesne Dukes,cfbd_snapshot
+2188,East Stroudsburg,east-stroudsburg,Warriors,EAS,#000000,,assets/logos/cfbd/2188.png,assets/logos/cfbd/2188.png,,E Stroudsburg|EAS|East Stroudsburg|East Stroudsburg Warriors,cfbd_snapshot
+2191,East Central,east-central,Tigers,EAS,#000000,,assets/logos/cfbd/2191.png,assets/logos/cfbd/2191.png,,EAS|East Central|East Central Tigers,cfbd_snapshot
+2193,East Tennessee State,east-tennessee-state,Buccaneers,ETSU,#002d61,#ffc423,assets/logos/cfbd/2193.png,assets/logos/cfbd/2193.png,,ETSU|East Tennessee State|East Tennessee State Buccaneers,cfbd_snapshot
+2197,Eastern Illinois,eastern-illinois,Panthers,EIU,#000000,#bebab9,assets/logos/cfbd/2197.png,assets/logos/cfbd/2197.png,,E Illinois|EIU|Eastern Illinois|Eastern Illinois Panthers,cfbd_snapshot
+2198,Eastern Kentucky,eastern-kentucky,Colonels,EKY,#660819,#f0f0f0,assets/logos/cfbd/2198.png,assets/logos/cfbd/2198.png,,E Kentucky|EKY|Eastern Kentucky|Eastern Kentucky Colonels,cfbd_snapshot
+2199,Eastern Michigan,eastern-michigan,Eagles,EMU,#00331b,#f0f0f0,assets/logos/fbs/Eastern_Michigan_Eagles_logo-300x300.png,assets/logos/cfbd/2199.png,assets/logos/fbs/Eastern_Michigan_Eagles_logo-300x300.png,E Michigan|EMU|Eastern Michigan|Eastern Michigan Eagles,cfbd_snapshot
+2201,Eastern New Mexico,eastern-new-mexico,Greyhounds,EAS,#000000,,assets/logos/cfbd/2201.png,assets/logos/cfbd/2201.png,,E New Mexico|EAS|Eastern New Mexico|Eastern New Mexico Greyhounds,cfbd_snapshot
+2205,Edinboro,edinboro,Fighting Scots,EDI,#000000,,assets/logos/cfbd/2205.png,assets/logos/cfbd/2205.png,,EDI|Edinboro|Edinboro Fighting Scots,cfbd_snapshot
+2206,Edward Waters,edward-waters,Tigers,EAU,,,assets/logos/cfbd/2206.png,assets/logos/cfbd/2206.png,,Edward Waters|Edward Waters Tigers|EAU,espn
+2207,Elizabeth City State,elizabeth-city-state,Vikings,ELI,#000000,,assets/logos/cfbd/2207.png,assets/logos/cfbd/2207.png,,ELI|Elizabeth City St|Elizabeth City State|Elizabeth City State Vikings,cfbd_snapshot
+2210,Elon,elon,Phoenix,ELON,#020303,#b59a57,assets/logos/cfbd/2210.png,assets/logos/cfbd/2210.png,,ELON|Elon|Elon Phoenix,cfbd_snapshot
+2220,Fayetteville State,fayetteville-state,Broncos,FAY,#000000,,assets/logos/cfbd/2220.png,assets/logos/cfbd/2220.png,,FAY|Fayetteville St|Fayetteville State|Fayetteville State Broncos,cfbd_snapshot
+2222,Ferris State,ferris-state,Bulldogs,FER,#000000,,assets/logos/cfbd/2222.png,assets/logos/cfbd/2222.png,,FER|Ferris St|Ferris State|Ferris State Bulldogs,cfbd_snapshot
+2224,Findlay,findlay,Oilers,FIN,#000000,,assets/logos/cfbd/2224.png,assets/logos/cfbd/2224.png,,FIN|Findlay|Findlay Oilers,cfbd_snapshot
+2226,Florida Atlantic,florida-atlantic,Owls,FAU,#004B85,#bb2f4c,assets/logos/fbs/Florida_Atlantic_Owls_logo-300x300.png,assets/logos/cfbd/2226.png,assets/logos/fbs/Florida_Atlantic_Owls_logo-300x300.png,FAU|Florida Atlantic|Florida Atlantic Owls,cfbd_snapshot
+2229,Florida International,florida-international,Golden Panthers,FIU,#001538,#c5960c,assets/logos/fbs/FIU-Panthers-Logo-300x300.png,assets/logos/cfbd/2229.png,assets/logos/fbs/FIU-Panthers-Logo-300x300.png,FIU|FIU Panthers|Florida International|Florida International Golden Panthers,cfbd_snapshot
+2230,Fordham,fordham,Rams,FOR,#830032,#909090,assets/logos/cfbd/2230.png,assets/logos/cfbd/2230.png,,FOR|Fordham|Fordham Rams,cfbd_snapshot
+2232,Fort Valley State,fort-valley-state,Wildcats,FOR,#000000,,assets/logos/cfbd/2232.png,assets/logos/cfbd/2232.png,,FOR|Fort Valley St|Fort Valley State|Fort Valley State Wildcats,cfbd_snapshot
+2241,Gardner-Webb,gardner-webb,Bulldogs,WEBB,#c12535,#909090,assets/logos/cfbd/2241.png,assets/logos/cfbd/2241.png,,Gardner-Webb|Gardner-Webb Bulldogs|WEBB,cfbd_snapshot
+2242,Geneva College,geneva-college,Golden Tornadoes,GEN,#000000,,assets/logos/cfbd/2242.png,assets/logos/cfbd/2242.png,,GEN|Geneva College|Geneva College Golden Tornadoes,cfbd_snapshot
+2244,George Mason,george-mason,Patriots,GMU,#016600,#ecb010,assets/logos/cfbd/2244.png,assets/logos/cfbd/2244.png,,GMU|George Mason|George Mason Patriots,cfbd_snapshot
+2247,Georgia State,georgia-state,Panthers,GAST,#1e539a,#ebebeb,assets/logos/fbs/Georgia_State_Panthers_logo-300x300.png,assets/logos/cfbd/2247.png,assets/logos/fbs/Georgia_State_Panthers_logo-300x300.png,GAST|Georgia State|Georgia State Panthers,cfbd_snapshot
+2261,Hampton,hampton,Pirates,HAMP,#0067AC,,assets/logos/cfbd/2261.png,assets/logos/cfbd/2261.png,,HAMP|Hampton|Hampton Pirates,cfbd_snapshot
+2264,Harding,harding,Bison,HAR,#000000,,assets/logos/cfbd/2264.png,assets/logos/cfbd/2264.png,,HAR|Harding|Harding Bison,cfbd_snapshot
+2271,Henderson State,henderson-state,Reddies,HEN,#000000,,assets/logos/cfbd/2271.png,assets/logos/cfbd/2271.png,,HEN|Henderson St|Henderson State|Henderson State Reddies,cfbd_snapshot
+2273,Hillsdale,hillsdale,Chargers,HIL,#000000,,assets/logos/cfbd/2273.png,assets/logos/cfbd/2273.png,,HIL|Hillsdale|Hillsdale Chargers,cfbd_snapshot
+2275,Hofstra,hofstra,Pride,HOF,#27297c,#f6c934,assets/logos/cfbd/2275.png,assets/logos/cfbd/2275.png,,HOF|Hofstra|Hofstra Pride,cfbd_snapshot
+2277,Houston Baptist,houston-baptist,Huskies,HBU,#00539c,,assets/logos/cfbd/2277.png,assets/logos/cfbd/2277.png,,HBU|Houston Baptist|Houston Baptist Huskies,cfbd_snapshot
+2286,Illinois College,illinois-college,Blueboys,ILLC,#000000,,assets/logos/cfbd/2286.png,assets/logos/cfbd/2286.png,,ILLC|Illinois College|Illinois College Blueboys,cfbd_snapshot
+2287,Illinois State,illinois-state,Redbirds,ILST,#CE1126,#ffe716,assets/logos/cfbd/2287.png,assets/logos/cfbd/2287.png,,ILST|Illinois State|Illinois State Redbirds,cfbd_snapshot
+2291,Indiana (PA),indiana-pa,Crimson Hawks,IND,#000000,,assets/logos/cfbd/2291.png,assets/logos/cfbd/2291.png,,IND|Indiana (PA)|Indiana (PA) Crimson Hawks,cfbd_snapshot
+2292,Indianapolis,indianapolis,Greyhounds,IND,#000000,,assets/logos/cfbd/2292.png,assets/logos/cfbd/2292.png,,IND|Indianapolis|Indianapolis Greyhounds,cfbd_snapshot
+2294,Iowa,iowa,Hawkeyes,IOWA,#000000,#ffe100,assets/logos/fbs/Iowa_Hawkeyes_logo-300x300.png,assets/logos/cfbd/2294.png,assets/logos/fbs/Iowa_Hawkeyes_logo-300x300.png,IOWA|Iowa|Iowa Hawkeyes,cfbd_snapshot
+2296,Jackson State,jackson-state,Tigers,JKST,#123297,#b5b7ba,assets/logos/cfbd/2296.png,assets/logos/cfbd/2296.png,,JKST|Jackson State|Jackson State Tigers,cfbd_snapshot
+2304,Johnson C Smith,johnson-c-smith,Golden Bulls,JOH,#000000,,assets/logos/cfbd/2304.png,assets/logos/cfbd/2304.png,,JOH|Johnson C Smith|Johnson C Smith Golden Bulls,cfbd_snapshot
+2305,Kansas,kansas,Jayhawks,KU,#0022B4,#e8000d,assets/logos/fbs/Kansas_Jayhawks_logo-300x300.png,assets/logos/cfbd/2305.png,assets/logos/fbs/Kansas_Jayhawks_logo-300x300.png,KU|Kansas|Kansas Jayhawks,cfbd_snapshot
+2306,Kansas State,kansas-state,Wildcats,KSU,#633194,#e7d2ad,assets/logos/fbs/Kansas_State_Wildcats_logo-300x300.png,assets/logos/cfbd/2306.png,assets/logos/fbs/Kansas_State_Wildcats_logo-300x300.png,KSU|Kansas State|Kansas State Wildcats,cfbd_snapshot
+2309,Kent State,kent-state,Golden Flashes,KENT,#002445,#f0b510,assets/logos/fbs/Kent_State_Golden_Flashes-300x300.png,assets/logos/cfbd/2309.png,assets/logos/fbs/Kent_State_Golden_Flashes-300x300.png,KENT|Kent State|Kent State Golden Flashes,cfbd_snapshot
+2310,Kentucky State,kentucky-state,Thorobreds,KYS,#000000,,assets/logos/cfbd/2310.png,assets/logos/cfbd/2310.png,,KYS|Kentucky St|Kentucky State|Kentucky State Thorobreds,cfbd_snapshot
+2315,Kutztown,kutztown,Golden Bears,KUT,#000000,,assets/logos/cfbd/2315.png,assets/logos/cfbd/2315.png,,KUT|Kutztown|Kutztown Golden Bears,cfbd_snapshot
+2316,Kentucky Wesleyan,kentucky-wesleyan,Panthers,KYW,#000000,,assets/logos/cfbd/2316.png,assets/logos/cfbd/2316.png,,KYW|Kentucky Wesleyan|Kentucky Wesleyan Panthers,cfbd_snapshot
+2320,Lamar,lamar,Cardinals,LAM,#000000,#ebebeb,assets/logos/cfbd/2320.png,assets/logos/cfbd/2320.png,,LAM|Lamar|Lamar Cardinals,cfbd_snapshot
+2323,Lane,lane,Dragons,LAN,#000000,,assets/logos/cfbd/2323.png,assets/logos/cfbd/2323.png,,LAN|Lane|Lane Dragons,cfbd_snapshot
+2329,Lehigh,lehigh,Mountain Hawks,LEH,#6c2b2a,#b69e70,assets/logos/cfbd/2329.png,assets/logos/cfbd/2329.png,,LEH|Lehigh|Lehigh Mountain Hawks,cfbd_snapshot
+2331,Lenoir-Rhyne,lenoir-rhyne,Bears,LEN,#000000,,assets/logos/cfbd/2331.png,assets/logos/cfbd/2331.png,,LEN|Lenoir-Rhyne|Lenoir-Rhyne Bears,cfbd_snapshot
+2335,Liberty,liberty,Flames,LIB,#071740,#a61f21,assets/logos/fbs/Liberty_Flames_logo-300x300.png,assets/logos/cfbd/2335.png,assets/logos/fbs/Liberty_Flames_logo-300x300.png,LIB|Liberty|Liberty Flames,cfbd_snapshot
+2339,Lincoln (PA),lincoln-pa,Lions,LIN,#000000,,assets/logos/cfbd/2339.png,assets/logos/cfbd/2339.png,,LIN|Lincoln (PA)|Lincoln (PA) Lions,cfbd_snapshot
+2348,Louisiana Tech,louisiana-tech,Bulldogs,LT,#002d65,#d3313a,assets/logos/fbs/Louisiana_Tech_Bulldogs_logo-300x300.png,assets/logos/cfbd/2348.png,assets/logos/fbs/Louisiana_Tech_Bulldogs_logo-300x300.png,LA Tech|LT|Louisiana Tech|Louisiana Tech Bulldogs,cfbd_snapshot
+2349,UMass Lowell,umass-lowell,River Hawks,UML,#000000,#cf1f2f,assets/logos/cfbd/2349.png,assets/logos/cfbd/2349.png,,UML|UMass Lowell|UMass Lowell River Hawks,cfbd_snapshot
+2359,Macalester,macalester,Scots,MAC,#000000,,assets/logos/cfbd/2359.png,assets/logos/cfbd/2359.png,,MAC|Macalester|Macalester Scots,cfbd_snapshot
+2364,Minnesota State,minnesota-state,Mavericks,MNST,#000000,,assets/logos/cfbd/2364.png,assets/logos/cfbd/2364.png,,MNST|Minnesota St|Minnesota State|Minnesota State Mavericks,cfbd_snapshot
+2368,Marist,marist,Red Foxes,MRST,#e53730,#f0f0f0,assets/logos/cfbd/2368.png,assets/logos/cfbd/2368.png,,MRST|Marist|Marist Red Foxes,cfbd_snapshot
+2369,Mars Hill,mars-hill,Lions,MAR,#000000,,assets/logos/cfbd/2369.png,assets/logos/cfbd/2369.png,,MAR|Mars Hill|Mars Hill Lions,cfbd_snapshot
+2377,McNeese,mcneese,Cowboys,MCNS,#00529C,,assets/logos/cfbd/2377.png,assets/logos/cfbd/2377.png,,MCNS|McNeese|McNeese Cowboys,cfbd_snapshot
+2382,Mercer,mercer,Bears,MER,#ff7f29,#080808,assets/logos/cfbd/2382.png,assets/logos/cfbd/2382.png,,MER|Mercer|Mercer Bears,cfbd_snapshot
+2383,Merchant Marine,merchant-marine,Mariners,MER,#000000,,assets/logos/cfbd/2383.png,assets/logos/cfbd/2383.png,,MER|Merchant Marine|Merchant Marine Mariners,cfbd_snapshot
+2385,Mercyhurst,mercyhurst,Lakers,MER,#000000,,assets/logos/cfbd/2385.png,assets/logos/cfbd/2385.png,,MER|Mercyhurst|Mercyhurst Lakers,cfbd_snapshot
+2390,Miami,miami,Hurricanes,MIAMI,#004325,#f0f0f0,assets/logos/fbs/Miami_Hurricanes_logo-300x300.png,assets/logos/cfbd/2390.png,assets/logos/fbs/Miami_Hurricanes_logo-300x300.png,MIAMI|Miami|Miami (FL)|Miami Hurricanes,cfbd_snapshot
+2392,Michigan Tech,michigan-tech,Huskies,MIC,#000000,,assets/logos/cfbd/2392.png,assets/logos/cfbd/2392.png,,MIC|Michigan Tech|Michigan Tech Huskies,cfbd_snapshot
+2393,Middle Tennessee,middle-tennessee,Blue Raiders,MTSU,#0079C2,#c3c5c8,assets/logos/fbs/Middle-Tennessee-Blue-Raiders-logo-300x300.png,assets/logos/cfbd/2393.png,assets/logos/fbs/Middle-Tennessee-Blue-Raiders-logo-300x300.png,MTSU|Mid Tennessee|Middle Tennessee|Middle Tennessee Blue Raiders|Middle Tennessee State,cfbd_snapshot
+2396,Miles,miles,Golden Bears,MIL,#000000,,assets/logos/cfbd/2396.png,assets/logos/cfbd/2396.png,,MIL|Miles|Miles Golden Bears,cfbd_snapshot
+2400,Mississippi Valley State,mississippi-valley-state,Delta Devils,MVSU,#005328,#cf2d34,assets/logos/cfbd/2400.png,assets/logos/cfbd/2400.png,,MVSU|Miss Valley St|Mississippi Valley State|Mississippi Valley State Delta Devils,cfbd_snapshot
+2402,Missouri S&T,missouri-s-t,Miners,S&T,#000000,,assets/logos/cfbd/2402.png,assets/logos/cfbd/2402.png,,Missouri S&T|Missouri S&T Miners|S&T,cfbd_snapshot
+2405,Monmouth,monmouth,Hawks,MONM,#051844,,assets/logos/cfbd/2405.png,assets/logos/cfbd/2405.png,,MONM|Monmouth|Monmouth Hawks,cfbd_snapshot
+2413,Morehead State,morehead-state,Eagles,MORE,#094FA3,#fed91a,assets/logos/cfbd/2413.png,assets/logos/cfbd/2413.png,,MORE|Morehead State|Morehead State Eagles,cfbd_snapshot
+2415,Morgan State,morgan-state,Bears,MORG,#014786,#f47937,assets/logos/cfbd/2415.png,assets/logos/cfbd/2415.png,,MORG|Morgan State|Morgan State Bears,cfbd_snapshot
+2422,Muhlenberg,muhlenberg,Mules,MUH,#000000,,assets/logos/cfbd/2422.png,assets/logos/cfbd/2422.png,,MUH|Muhlenberg|Muhlenberg Mules,cfbd_snapshot
+2424,New Mexico Highlands,new-mexico-highlands,Cowboys,NMH,#000000,,assets/logos/cfbd/2424.png,assets/logos/cfbd/2424.png,,NMH|New Mexico Highlands|New Mexico Highlands Cowboys,cfbd_snapshot
+2426,Navy,navy,Midshipmen,NAVY,#131630,#b6a77c,assets/logos/fbs/Navy_Midshipmen_logo-300x300.png,assets/logos/cfbd/2426.png,assets/logos/fbs/Navy_Midshipmen_logo-300x300.png,NAVY|Navy|Navy Midshipmen,cfbd_snapshot
+2428,North Carolina Central,north-carolina-central,Eagles,NCCU,#880023,#c2c3c0,assets/logos/cfbd/2428.png,assets/logos/cfbd/2428.png,,NC Central|NCCU|North Carolina Central|North Carolina Central Eagles,cfbd_snapshot
+2429,Charlotte,charlotte,49ers,CHAR,#0C562D,#cfab7a,assets/logos/fbs/Charlotte_49ers_logo-300x300.png,assets/logos/cfbd/2429.png,assets/logos/fbs/Charlotte_49ers_logo-300x300.png,CHAR|Charlotte|Charlotte 49ers,cfbd_snapshot
+2433,Louisiana Monroe,louisiana-monroe,Warhawks,ULM,#231F20,#b18445,assets/logos/fbs/Louisiana-Monroe_Warhawks_logo-300x300.png,assets/logos/cfbd/2433.png,assets/logos/fbs/Louisiana-Monroe_Warhawks_logo-300x300.png,La.-Monroe|Louisiana Monroe|Louisiana Monroe Warhawks|UL Monroe|ULM,cfbd_snapshot
+2437,Nebraska-Omaha,nebraska-omaha,Mavericks,UNO,#e3193e,,assets/logos/cfbd/2437.png,assets/logos/cfbd/2437.png,,Nebraska-Omaha|Nebraska-Omaha Mavericks|Omaha|UNO,cfbd_snapshot
+2439,UNLV,unlv,Rebels,UNLV,#000000,#c2c4c6,assets/logos/fbs/UNLV_Rebels_logo-300x300.png,assets/logos/cfbd/2439.png,assets/logos/fbs/UNLV_Rebels_logo-300x300.png,Nevada-Las Vegas|UNLV|UNLV Rebels,cfbd_snapshot
+2440,Nevada,nevada,Wolf Pack,NEV,#153E5F,#8e9295,assets/logos/fbs/Nevada_Wolf_Pack_logo-300x300.png,assets/logos/cfbd/2440.png,assets/logos/fbs/Nevada_Wolf_Pack_logo-300x300.png,NEV|Nevada|Nevada Wolf Pack,cfbd_snapshot
+2441,New Haven,new-haven,Chargers,NH,#000000,,assets/logos/cfbd/2441.png,assets/logos/cfbd/2441.png,,NH|New Haven|New Haven Chargers,cfbd_snapshot
+2447,Nicholls,nicholls,Colonels,NICH,#C41230,#f0f0f0,assets/logos/cfbd/2447.png,assets/logos/cfbd/2447.png,,NICH|Nicholls|Nicholls Colonels,cfbd_snapshot
+2448,North Carolina A&T,north-carolina-a-t,Aggies,NCAT,#0505aa,#004684,assets/logos/cfbd/2448.png,assets/logos/cfbd/2448.png,,NC A&T|NCAT|North Carolina A&T|North Carolina A&T Aggies,cfbd_snapshot
+2449,North Dakota State,north-dakota-state,Bison,NDSU,#01402A,#ffffff,assets/logos/cfbd/2449.png,assets/logos/cfbd/2449.png,,NDSU|North Dakota St|North Dakota State|North Dakota State Bison,cfbd_snapshot
+2450,Norfolk State,norfolk-state,Spartans,NSU,#046546,,assets/logos/cfbd/2450.png,assets/logos/cfbd/2450.png,,NSU|Norfolk State|Norfolk State Spartans,cfbd_snapshot
+2453,North Alabama,north-alabama,Lions,NOR,#000000,,assets/logos/cfbd/2453.png,assets/logos/cfbd/2453.png,,NOR|North Alabama|North Alabama Lions,cfbd_snapshot
+2458,Northern Colorado,northern-colorado,Bears,UNCO,#13558D,#ffc533,assets/logos/cfbd/2458.png,assets/logos/cfbd/2458.png,,N Colorado|Northern Colorado|Northern Colorado Bears|UNCO,cfbd_snapshot
+2459,Northern Illinois,northern-illinois,Huskies,NIU,#F1122C,#cc0000,assets/logos/fbs/Northern_Illinois_Huskies-300x300.png,assets/logos/cfbd/2459.png,assets/logos/fbs/Northern_Illinois_Huskies-300x300.png,N Illinois|NIU|Northern Illinois|Northern Illinois Huskies,cfbd_snapshot
+2460,Northern Iowa,northern-iowa,Panthers,UNI,#473282,#ffffff,assets/logos/cfbd/2460.png,assets/logos/cfbd/2460.png,,Northern Iowa|Northern Iowa Panthers|UNI,cfbd_snapshot
+2464,Northern Arizona,northern-arizona,Lumberjacks,NAU,#003976,#1b3069,assets/logos/cfbd/2464.png,assets/logos/cfbd/2464.png,,N Arizona|NAU|Northern Arizona|Northern Arizona Lumberjacks,cfbd_snapshot
+2466,Northwestern State,northwestern-state,Demons,NWST,#492F91,#ed6118,assets/logos/cfbd/2466.png,assets/logos/cfbd/2466.png,,NWST|Northwestern St|Northwestern State|Northwestern State Demons,cfbd_snapshot
+2467,Norwich,norwich,Cadets,NOR,#000000,,assets/logos/cfbd/2467.png,assets/logos/cfbd/2467.png,,NOR|Norwich|Norwich Cadets,cfbd_snapshot
+2477,Ohio Dominican,ohio-dominican,Panthers,NA,,,assets/logos/cfbd/2477.png,assets/logos/cfbd/2477.png,,Ohio Dominican|Ohio Dominican Panthers|Panthers,cfbd_snapshot
+2483,Oregon,oregon,Ducks,ORE,#044520,#fee123,assets/logos/fbs/Oregon_Ducks_logo-300x300.png,assets/logos/cfbd/2483.png,assets/logos/fbs/Oregon_Ducks_logo-300x300.png,ORE|Oregon|Oregon Ducks,cfbd_snapshot
+2502,Portland State,portland-state,Vikings,PRST,#00311e,#ebebeb,assets/logos/cfbd/2502.png,assets/logos/cfbd/2502.png,,PRST|Portland State|Portland State Vikings,cfbd_snapshot
+2504,Prairie View,prairie-view,Panthers,PVAM,#4d0960,,assets/logos/cfbd/2504.png,assets/logos/cfbd/2504.png,,PV A&M|PVAM|Prairie View|Prairie View Panthers,cfbd_snapshot
+2506,Presbyterian College,presbyterian-college,Blue Hose,PRE,#194896,#990134,assets/logos/cfbd/2506.png,assets/logos/cfbd/2506.png,,PRE|Presbyterian|Presbyterian College|Presbyterian College Blue Hose,cfbd_snapshot
+2509,Purdue,purdue,Boilermakers,PUR,#B89D29,#a4a9ad,assets/logos/fbs/Purdue_Boilermakers_logo-300x300.png,assets/logos/cfbd/2509.png,assets/logos/fbs/Purdue_Boilermakers_logo-300x300.png,PUR|Purdue|Purdue Boilermakers,cfbd_snapshot
+2523,Robert Morris,robert-morris,Colonials,RMU,#00214D,#a21d2b,assets/logos/cfbd/2523.png,assets/logos/cfbd/2523.png,,RMU|Robert Morris|Robert Morris Colonials,cfbd_snapshot
+2528,Rensselaer,rensselaer,Engineers,REN,#000000,,assets/logos/cfbd/2528.png,assets/logos/cfbd/2528.png,,REN|Rensselaer|Rensselaer Engineers,cfbd_snapshot
+2529,Sacred Heart,sacred-heart,Pioneers,SHU,#a40012,#c29472,assets/logos/cfbd/2529.png,assets/logos/cfbd/2529.png,,SHU|Sacred Heart|Sacred Heart Pioneers,cfbd_snapshot
+2534,Sam Houston State,sam-houston-state,Bearkats,SHSU,#F78F1E,#f78e1e,assets/logos/fbs/Sam-Houston-State-Bearkats-logo-300x300.png,assets/logos/cfbd/2534.png,assets/logos/fbs/Sam-Houston-State-Bearkats-logo-300x300.png,SHSU|Sam Houston|Sam Houston State|Sam Houston State Bearkats,cfbd_snapshot
+2535,Samford,samford,Bulldogs,SAM,#005485,#bc0023,assets/logos/cfbd/2535.png,assets/logos/cfbd/2535.png,,SAM|Samford|Samford Bulldogs,cfbd_snapshot
+2542,Savannah State,savannah-state,Tigers,SAV,#280298,#f78f1e,assets/logos/cfbd/2542.png,assets/logos/cfbd/2542.png,,SAV|Savannah State|Savannah State Tigers,cfbd_snapshot
+2545,Southeastern Louisiana,southeastern-louisiana,Lions,SELA,#007550,#dca008,assets/logos/cfbd/2545.png,assets/logos/cfbd/2545.png,,SE Louisiana|SELA|Southeastern Louisiana|Southeastern Louisiana Lions,cfbd_snapshot
+2546,Southeast Missouri State,southeast-missouri-state,Redhawks,SEMO,#cc0000,#080808,assets/logos/cfbd/2546.png,assets/logos/cfbd/2546.png,,SE Missouri St|SEMO|Southeast Missouri State|Southeast Missouri State Redhawks,cfbd_snapshot
+2551,Shaw,shaw,Bears,SHA,#000000,,assets/logos/cfbd/2551.png,assets/logos/cfbd/2551.png,,SHA|Shaw|Shaw Bears,cfbd_snapshot
+2557,Coast Guard,coast-guard,Bears,COA,#000000,,assets/logos/cfbd/2557.png,assets/logos/cfbd/2557.png,,COA|Coast Guard|Coast Guard Bears,cfbd_snapshot
+2559,Shippensburg,shippensburg,Raiders,SHI,#000000,,assets/logos/cfbd/2559.png,assets/logos/cfbd/2559.png,,SHI|Shippensburg|Shippensburg Raiders,cfbd_snapshot
+2560,Shorter,shorter,Hawks,SHO,#000000,,assets/logos/cfbd/2560.png,assets/logos/cfbd/2560.png,,SHO|Shorter|Shorter Hawks,cfbd_snapshot
+2567,SMU,smu,Mustangs,SMU,#E32F38,#ecdcb9,assets/logos/fbs/SMU_Mustang_logo-300x300.png,assets/logos/cfbd/2567.png,assets/logos/fbs/SMU_Mustang_logo-300x300.png,SMU|SMU Mustang|SMU Mustangs|Southern Methodist,cfbd_snapshot
+2568,Southern Arkansas,southern-arkansas,Muleriders,SOU,#000000,,assets/logos/cfbd/2568.png,assets/logos/cfbd/2568.png,,S Arkansas|SOU|Southern Arkansas|Southern Arkansas Muleriders,cfbd_snapshot
+2569,South Carolina State,south-carolina-state,Bulldogs,SCST,#7d1315,#104897,assets/logos/cfbd/2569.png,assets/logos/cfbd/2569.png,,S Carolina St|SCST|South Carolina State|South Carolina State Bulldogs,cfbd_snapshot
+2571,South Dakota State,south-dakota-state,Jackrabbits,SDSU,#005DAB,#c33139,assets/logos/cfbd/2571.png,assets/logos/cfbd/2571.png,,SDSU|South Dakota St|South Dakota State|South Dakota State Jackrabbits,cfbd_snapshot
+2572,Southern Mississippi,southern-mississippi,Golden Eagles,USM,#FFAA3C,#ffc423,assets/logos/fbs/Southern_Miss_Golden_Eagles_logo-300x300.png,assets/logos/cfbd/2572.png,assets/logos/fbs/Southern_Miss_Golden_Eagles_logo-300x300.png,Southern Miss|Southern Miss Golden Eagles|Southern Mississippi|Southern Mississippi Golden Eagles|USM,cfbd_snapshot
+2579,South Carolina,south-carolina,Gamecocks,SC,#670010,#000000,assets/logos/fbs/South_Carolina_Gamecocks_logo-300x300.png,assets/logos/cfbd/2579.png,assets/logos/fbs/South_Carolina_Gamecocks_logo-300x300.png,SC|South Carolina|South Carolina Gamecocks,cfbd_snapshot
+2582,Southern,southern,Jaguars,SOU,#004B97,#ffc82d,assets/logos/cfbd/2582.png,assets/logos/cfbd/2582.png,,SOU|Southern|Southern Jaguars,cfbd_snapshot
+2584,Southern Oregon,southern-oregon,Raiders,SOU,,,assets/logos/cfbd/2584.png,assets/logos/cfbd/2584.png,,SOU|So Oregon|Southern Oregon|Southern Oregon Raiders,cfbd_snapshot
+2586,Southwest Baptist,southwest-baptist,Bearcats,SWB,#000000,,assets/logos/cfbd/2586.png,assets/logos/cfbd/2586.png,,SW Baptist|SWB|Southwest Baptist|Southwest Baptist Bearcats,cfbd_snapshot
+2591,St. Ambrose,st-ambrose,Fighting Bees,STA,#000000,,assets/logos/cfbd/2591.png,assets/logos/cfbd/2591.png,,STA|St. Ambrose|St. Ambrose Fighting Bees,cfbd_snapshot
+2594,St. Cloud State,st-cloud-state,Huskies,STC,#000000,,assets/logos/cfbd/2594.png,assets/logos/cfbd/2594.png,,STC|St. Cloud St|St. Cloud State|St. Cloud State Huskies,cfbd_snapshot
+2598,St Francis (PA),st-francis-pa,Red Flash,SFU,#a20012,,assets/logos/cfbd/2598.png,assets/logos/cfbd/2598.png,,SFU|Saint Francis (PA)|St Francis (PA)|St Francis (PA) Red Flash,cfbd_snapshot
+2600,St. Johns (MN),st-johns-mn,Johnnies,STJ,#000000,,assets/logos/cfbd/2600.png,assets/logos/cfbd/2600.png,,STJ|St. Johns (MN)|St. Johns (MN) Johnnies,cfbd_snapshot
+2612,St. Peter's,st-peter-s,Peacocks,SPU,#001555,,assets/logos/cfbd/2612.png,assets/logos/cfbd/2612.png,,SPU|St. Peter's|St. Peter's Peacocks,cfbd_snapshot
+2614,St. Vincent,st-vincent,Bearcats,STV,#000000,,assets/logos/cfbd/2614.png,assets/logos/cfbd/2614.png,,STV|St. Vincent|St. Vincent Bearcats,cfbd_snapshot
+2617,Stephen F. Austin,stephen-f-austin,Lumberjacks,SFA,#393996,#bec0c2,assets/logos/cfbd/2617.png,assets/logos/cfbd/2617.png,,SF Austin|SFA|Stephen F Austin|Stephen F. Austin|Stephen F. Austin Lumberjacks,cfbd_snapshot
+2619,Stony Brook,stony-brook,Seawolves,STON,#990000,,assets/logos/cfbd/2619.png,assets/logos/cfbd/2619.png,,STON|Stony Brook|Stony Brook Seawolves,cfbd_snapshot
+2623,Missouri State,missouri-state,Bears,MOST,#5F0000,#e8e8e8,assets/logos/cfbd/2623.png,assets/logos/cfbd/2623.png,,MOST|Missouri State|Missouri State Bears,cfbd_snapshot
+2627,Tarleton State,tarleton-state,Texans,TAR,#000000,,assets/logos/cfbd/2627.png,assets/logos/cfbd/2627.png,,TAR|Tarleton St|Tarleton State|Tarleton State Texans,cfbd_snapshot
+2628,TCU,tcu,Horned Frogs,TCU,#3C377D,#f1f2f3,assets/logos/fbs/TCU_Horned_Frogs_logo-300x300.png,assets/logos/cfbd/2628.png,assets/logos/fbs/TCU_Horned_Frogs_logo-300x300.png,TCU|TCU Horned Frogs|Texas Christian,cfbd_snapshot
+2630,UT Martin,ut-martin,Skyhawks,UTM,#FF6700,#102a5c,assets/logos/cfbd/2630.png,assets/logos/cfbd/2630.png,,UT Martin|UT Martin Skyhawks|UTM,cfbd_snapshot
+2633,Tennessee,tennessee,Volunteers,TENN,#EE9627,#ffffff,assets/logos/fbs/Tennessee_Volunteers_logo-300x300.png,assets/logos/cfbd/2633.png,assets/logos/fbs/Tennessee_Volunteers_logo-300x300.png,TENN|Tennessee|Tennessee Volunteers,cfbd_snapshot
+2634,Tennessee State,tennessee-state,Tigers,TNST,#383C84,#f0f0f0,assets/logos/cfbd/2634.png,assets/logos/cfbd/2634.png,,TNST|Tennessee St|Tennessee State|Tennessee State Tigers,cfbd_snapshot
+2635,Tennessee Tech,tennessee-tech,Golden Eagles,TNTC,#5A4099,#ffde00,assets/logos/cfbd/2635.png,assets/logos/cfbd/2635.png,,TNTC|Tenn Tech|Tennessee Tech|Tennessee Tech Golden Eagles,cfbd_snapshot
+2636,UT San Antonio,ut-san-antonio,Roadrunners,UTSA,#002A5C,#f47321,assets/logos/fbs/Texas-SA-Roadrunners-logo-300x300.png,assets/logos/cfbd/2636.png,assets/logos/fbs/Texas-SA-Roadrunners-logo-300x300.png,Texas SA Roadrunners|Texas-San Antonio|UT San Antonio|UT San Antonio Roadrunners|UTSA,cfbd_snapshot
+2638,UTEP,utep,Miners,UTEP,#002843,#ff6f12,assets/logos/fbs/UTEP-Miners-logo-300x300.png,assets/logos/cfbd/2638.png,assets/logos/fbs/UTEP-Miners-logo-300x300.png,Texas-El Paso|UTEP|UTEP Miners,cfbd_snapshot
+2640,Texas Southern,texas-southern,Tigers,TXSO,#6A0403,#ebebeb,assets/logos/cfbd/2640.png,assets/logos/cfbd/2640.png,,TXSO|Texas Southern|Texas Southern Tigers,cfbd_snapshot
+2641,Texas Tech,texas-tech,Red Raiders,TTU,#C80025,#231f20,assets/logos/fbs/Texas_Tech_Red_Raiders_logo-300x300.png,assets/logos/cfbd/2641.png,assets/logos/fbs/Texas_Tech_Red_Raiders_logo-300x300.png,TTU|Texas Tech|Texas Tech Red Raiders,cfbd_snapshot
+2643,The Citadel,the-citadel,Bulldogs,CIT,#002b5c,#f0f0f0,assets/logos/cfbd/2643.png,assets/logos/cfbd/2643.png,,CIT|The Citadel|The Citadel Bulldogs,cfbd_snapshot
+2644,Thiel College,thiel-college,Tomcats,THI,#000000,,assets/logos/cfbd/2644.png,assets/logos/cfbd/2644.png,,THI|Thiel College|Thiel College Tomcats,cfbd_snapshot
+2649,Toledo,toledo,Rockets,TOL,#00488F,#ffd51d,assets/logos/fbs/Toledo_Rockets_logo-300x300.png,assets/logos/cfbd/2649.png,assets/logos/fbs/Toledo_Rockets_logo-300x300.png,TOL|Toledo|Toledo Rockets,cfbd_snapshot
+2652,Trinity (IL),trinity-il,Trojans,TRI,#000000,,assets/logos/cfbd/2652.png,assets/logos/cfbd/2652.png,,TRI|Trinity (IL)|Trinity (IL) Trojans,cfbd_snapshot
+2653,Troy,troy,Trojans,TROY,#AE0210,#88898c,assets/logos/fbs/Troy_Trojans_logo-300x300.png,assets/logos/cfbd/2653.png,assets/logos/fbs/Troy_Trojans_logo-300x300.png,TROY|Troy|Troy Trojans,cfbd_snapshot
+2654,Truman State,truman-state,Bulldogs,TRU,#000000,,assets/logos/cfbd/2654.png,assets/logos/cfbd/2654.png,,TRU|Truman St|Truman State|Truman State Bulldogs,cfbd_snapshot
+2655,Tulane,tulane,Green Wave,TULN,#005837,#3baf29,assets/logos/fbs/Tulane_Green_Wave_logo-300x300.png,assets/logos/cfbd/2655.png,assets/logos/fbs/Tulane_Green_Wave_logo-300x300.png,TULN|Tulane|Tulane Green Wave,cfbd_snapshot
+2657,Tuskegee,tuskegee,Golden Tigers,TUS,#000000,,assets/logos/cfbd/2657.png,assets/logos/cfbd/2657.png,,TUS|Tuskegee|Tuskegee Golden Tigers,cfbd_snapshot
+2658,Texas A&M-Kingsville,texas-a-m-kingsville,Javelinas,TXA,#000000,,assets/logos/cfbd/2658.png,assets/logos/cfbd/2658.png,,TXA|Texas A&M-Kingsville|Texas A&M-Kingsville Javelinas,cfbd_snapshot
+2673,Valdosta State,valdosta-state,Blazers,VAL,#000000,,assets/logos/cfbd/2673.png,assets/logos/cfbd/2673.png,,VAL|Valdosta St|Valdosta State|Valdosta State Blazers,cfbd_snapshot
+2674,Valparaiso,valparaiso,Crusaders,VALP,#794500,,assets/logos/cfbd/2674.png,assets/logos/cfbd/2674.png,,VALP|Valparaiso|Valparaiso Crusaders,cfbd_snapshot
+2676,Virginia Union,virginia-union,Panthers,VIR,#000000,,assets/logos/cfbd/2676.png,assets/logos/cfbd/2676.png,,VIR|Virginia Union|Virginia Union Panthers,cfbd_snapshot
+2678,VMI,vmi,Keydets,VMI,#E52D37,#eec52b,assets/logos/cfbd/2678.png,assets/logos/cfbd/2678.png,,VMI|VMI Keydets|Virginia Military Institute,cfbd_snapshot
+2681,Wagner,wagner,Seahawks,WAG,#00483A,#ffffff,assets/logos/cfbd/2681.png,assets/logos/cfbd/2681.png,,WAG|Wagner|Wagner Seahawks,cfbd_snapshot
+2686,Washington & Jefferson,washington-jefferson,Presidents,WAS,#000000,,assets/logos/cfbd/2686.png,assets/logos/cfbd/2686.png,,W&J|WAS|Washington & Jefferson|Washington & Jefferson Presidents,cfbd_snapshot
+2692,Weber State,weber-state,Wildcats,WEB,#18005a,#ebebeb,assets/logos/cfbd/2692.png,assets/logos/cfbd/2692.png,,WEB|Weber State|Weber State Wildcats,cfbd_snapshot
+2695,West Alabama,west-alabama,Tigers,WES,#000000,,assets/logos/cfbd/2695.png,assets/logos/cfbd/2695.png,,WES|West Alabama|West Alabama Tigers,cfbd_snapshot
+2701,Montana-Western,montana-western,Bulldogs,MWST,#000000,,assets/logos/cfbd/2701.png,assets/logos/cfbd/2701.png,,MWST|Montana-Western|Montana-Western Bulldogs,cfbd_snapshot
+2703,Western New Mexico,western-new-mexico,Mustangs,WES,#000000,,assets/logos/cfbd/2703.png,assets/logos/cfbd/2703.png,,W New Mexico|WES|Western New Mexico|Western New Mexico Mustangs,cfbd_snapshot
+2704,West Texas A&M,west-texas-a-m,Buffaloes,WES,#000000,,assets/logos/cfbd/2704.png,assets/logos/cfbd/2704.png,,WES|West Texas A&M|West Texas A&M Buffaloes,cfbd_snapshot
+2706,West Virginia Tech,west-virginia-tech,Golden Bears,WVT,#000000,,assets/logos/cfbd/2706.png,assets/logos/cfbd/2706.png,,W Virginia Tech|WVT|West Virginia Tech|West Virginia Tech Golden Bears,cfbd_snapshot
+2710,Western Illinois,western-illinois,Leathernecks,WIU,#4e1e8a,#ffc90a,assets/logos/cfbd/2710.png,assets/logos/cfbd/2710.png,,W Illinois|WIU|Western Illinois|Western Illinois Leathernecks,cfbd_snapshot
+2711,Western Michigan,western-michigan,Broncos,WMU,#B59966,#bfa979,assets/logos/fbs/Western_Michigan_Broncos_logo-300x300.png,assets/logos/cfbd/2711.png,assets/logos/fbs/Western_Michigan_Broncos_logo-300x300.png,W Michigan|WMU|Western Michigan|Western Michigan Broncos,cfbd_snapshot
+2717,Western Carolina,western-carolina,Catamounts,WCU,#492F91,#bf9e70,assets/logos/cfbd/2717.png,assets/logos/cfbd/2717.png,,W Carolina|WCU|Western Carolina|Western Carolina Catamounts,cfbd_snapshot
+2723,UW-River Falls,uw-river-falls,Falcons,WIS,#000000,,assets/logos/cfbd/2723.png,assets/logos/cfbd/2723.png,,UW-River Falls|UW-River Falls Falcons|WIS,cfbd_snapshot
+2729,William & Mary,william-mary,Tribe,W&M,#103217,#f6b220,assets/logos/cfbd/2729.png,assets/logos/cfbd/2729.png,,W&M|William & Mary|William & Mary Tribe,cfbd_snapshot
+2736,Winston-Salem,winston-salem,Rams,WSSU,#bb0100,,assets/logos/cfbd/2736.png,assets/logos/cfbd/2736.png,,WSSU|Winston-Salem|Winston-Salem Rams,cfbd_snapshot
+2738,Wisconsin-Eau Claire,wisconsin-eau-claire,Blugolds,WIS,#000000,,assets/logos/cfbd/2738.png,assets/logos/cfbd/2738.png,,UW-Eau Claire|WIS|Wisconsin-Eau Claire|Wisconsin-Eau Claire Blugolds,cfbd_snapshot
+2743,Wisconsin-Stevens Point,wisconsin-stevens-point,Pointers,WIS,#000000,,assets/logos/cfbd/2743.png,assets/logos/cfbd/2743.png,,UW-Stevens Point|WIS|Wisconsin-Stevens Point|Wisconsin-Stevens Point Pointers,cfbd_snapshot
+2744,UW-Stout,uw-stout,Blue Devils,WIS,#000000,,assets/logos/cfbd/2744.png,assets/logos/cfbd/2744.png,,UW-Stout|UW-Stout Blue Devils|WIS,cfbd_snapshot
+2745,UW-Whitewater,uw-whitewater,Warhawks,WISW,#000000,,assets/logos/cfbd/2745.png,assets/logos/cfbd/2745.png,,UW-Whitewater|UW-Whitewater Warhawks|WISW,cfbd_snapshot
+2747,Wofford,wofford,Terriers,WOF,#533B23,#f0f0f0,assets/logos/cfbd/2747.png,assets/logos/cfbd/2747.png,,WOF|Wofford|Wofford Terriers,cfbd_snapshot
+2749,Worcester Polytechnic,worcester-polytechnic,Engineers,WPI,#000000,,assets/logos/cfbd/2749.png,assets/logos/cfbd/2749.png,,WPI|Worcester Polytechnic|Worcester Polytechnic Engineers,cfbd_snapshot
+2750,Wright State University,wright-state-university,Raiders,WRST,#a36209,#e2b629,assets/logos/cfbd/2750.png,assets/logos/cfbd/2750.png,,WRST|Wright State|Wright State University|Wright State University Raiders,cfbd_snapshot
+2751,Wyoming,wyoming,Cowboys,WYO,#533B22,#ffffff,assets/logos/fbs/Wyoming_Cowboys_logo-300x300.png,assets/logos/cfbd/2751.png,assets/logos/fbs/Wyoming_Cowboys_logo-300x300.png,WYO|Wyoming|Wyoming Cowboys,cfbd_snapshot
+2754,Youngstown State,youngstown-state,Penguins,YSU,#E51936,#690717,assets/logos/cfbd/2754.png,assets/logos/cfbd/2754.png,,YSU|Youngstown St|Youngstown State|Youngstown State Penguins,cfbd_snapshot
+2755,Grambling,grambling,Tigers,GRAM,#ee8601,#ffd10a,assets/logos/cfbd/2755.png,assets/logos/cfbd/2755.png,,GRAM|Grambling|Grambling State|Grambling Tigers,cfbd_snapshot
+2771,Merrimack,merrimack,Warriors,MER,#000000,,assets/logos/cfbd/2771.png,assets/logos/cfbd/2771.png,,MER|Merrimack|Merrimack Warriors,cfbd_snapshot
+2779,St Lawrence,st-lawrence,Saints,STL,#000000,,assets/logos/cfbd/2779.png,assets/logos/cfbd/2779.png,,STL|St Lawrence|St Lawrence Saints,cfbd_snapshot
+2790,Albion,albion,Britons,ALBI,#000000,,assets/logos/cfbd/2790.png,assets/logos/cfbd/2790.png,,ALBI|Albion|Albion Britons,cfbd_snapshot
+2803,Bryant,bryant,Bulldogs,BRY,#000000,#9f8343,assets/logos/cfbd/2803.png,assets/logos/cfbd/2803.png,,BRY|Bryant|Bryant Bulldogs,cfbd_snapshot
+2804,Chowan,chowan,Braves,CHO,#000000,,assets/logos/cfbd/2804.png,assets/logos/cfbd/2804.png,,CHO|Chowan|Chowan Braves,cfbd_snapshot
+2805,Clark Atlanta,clark-atlanta,Panthers,CLK,#000000,,assets/logos/cfbd/2805.png,assets/logos/cfbd/2805.png,,CLK|Clark Atlanta|Clark Atlanta Panthers,cfbd_snapshot
+2815,Lindenwood,lindenwood,Lions,LIN,#000000,,assets/logos/cfbd/2815.png,assets/logos/cfbd/2815.png,,LIN|Lindenwood|Lindenwood Lions,cfbd_snapshot
+2816,McKendree,mckendree,Bearcats,MAN,#000000,,assets/logos/cfbd/2816.png,assets/logos/cfbd/2816.png,,MAN|McKendree|McKendree Bearcats,cfbd_snapshot
+2817,Minnesota St-Moorhead,minnesota-st-moorhead,Dragon,MOO,#000000,,assets/logos/cfbd/2817.png,assets/logos/cfbd/2817.png,,MOO|Minn St-Moorhead|Minnesota St-Moorhead|Minnesota St-Moorhead Dragon,cfbd_snapshot
+2822,North Greenville,north-greenville,Crusaders,NGR,#000000,,assets/logos/cfbd/2822.png,assets/logos/cfbd/2822.png,,N Greenville|NGR|North Greenville|North Greenville Crusaders,cfbd_snapshot
+2823,Northwestern Oklahoma State,northwestern-oklahoma-state,Rangers,NWO,#000000,,assets/logos/cfbd/2823.png,assets/logos/cfbd/2823.png,,NW Oklahoma St|NWO|Northwestern Oklahoma State|Northwestern Oklahoma State Rangers,cfbd_snapshot
+2825,Quincy,quincy,Hawks,QUI,#000000,,assets/logos/cfbd/2825.png,assets/logos/cfbd/2825.png,,QUI|Quincy|Quincy Hawks,cfbd_snapshot
+2827,Rowan,rowan,Professors,ROWAN,#000000,,assets/logos/cfbd/2827.png,assets/logos/cfbd/2827.png,,ROWAN|Rowan|Rowan Professors,cfbd_snapshot
+2828,Shenandoah,shenandoah,Hornets,SHE,#000000,,assets/logos/cfbd/2828.png,assets/logos/cfbd/2828.png,,SHE|Shenandoah|Shenandoah Hornets,cfbd_snapshot
+2829,Simon Fraser,simon-fraser,Clansmen,SIM,#000000,,assets/logos/cfbd/2829.png,assets/logos/cfbd/2829.png,,SIM|Simon Fraser|Simon Fraser Clansmen,cfbd_snapshot
+2832,St. Norbert,st-norbert,Green Knights,STN,#000000,,assets/logos/cfbd/2832.png,assets/logos/cfbd/2832.png,,STN|St. Norbert|St. Norbert Green Knights,cfbd_snapshot
+2834,Sul Ross State,sul-ross-state,Lobos,SUL,#000000,,assets/logos/cfbd/2834.png,assets/logos/cfbd/2834.png,,SUL|Sul Ross St|Sul Ross State|Sul Ross State Lobos,cfbd_snapshot
+2837,Texas A&M-Commerce,texas-a-m-commerce,Lions,TXA,#000000,,assets/logos/cfbd/2837.png,assets/logos/cfbd/2837.png,,TX A&M-Commerce|TXA|Texas A&M-Commerce|Texas A&M-Commerce Lions,cfbd_snapshot
+2838,Tiffin,tiffin,Dragons,TIF,#000000,,assets/logos/cfbd/2838.png,assets/logos/cfbd/2838.png,,TIF|Tiffin|Tiffin Dragons,cfbd_snapshot
+2845,Waynesburg,waynesburg,Yellow Jackets,WAY,#000000,,assets/logos/cfbd/2845.png,assets/logos/cfbd/2845.png,,WAY|Waynesburg|Waynesburg Yellow Jackets,cfbd_snapshot
+2848,Western Oregon,western-oregon,Wolves,WES,#000000,,assets/logos/cfbd/2848.png,assets/logos/cfbd/2848.png,,WES|Western Oregon|Western Oregon Wolves,cfbd_snapshot
+2849,Westminster PA,westminster-pa,Titans,WMN,#000000,,assets/logos/cfbd/2849.png,assets/logos/cfbd/2849.png,,WMN|Westminster PA|Westminster PA Titans,cfbd_snapshot
+2858,California (PA),california-pa,Vulcans,CAL,#000000,,assets/logos/cfbd/2858.png,assets/logos/cfbd/2858.png,,CAL|California (PA)|California (PA) Vulcans,cfbd_snapshot
+2880,Missouri Baptist,missouri-baptist,Spartans,MB,,,assets/logos/cfbd/2880.png,assets/logos/cfbd/2880.png,,MB|MO Baptist|Missouri Baptist|Missouri Baptist Spartans,cfbd_snapshot
+2886,Northwood (MI),northwood-mi,Timberwolves,NAR,#000000,,assets/logos/cfbd/2886.png,assets/logos/cfbd/2886.png,,NAR|Northwood|Northwood (MI)|Northwood (MI) Timberwolves,cfbd_snapshot
+2888,Ouachita Baptist,ouachita-baptist,Tigers,OUA,#000000,,assets/logos/cfbd/2888.png,assets/logos/cfbd/2888.png,,OUA|Ouachita Baptist|Ouachita Baptist Tigers,cfbd_snapshot
+2891,Ripon,ripon,Redhawks,RIPON,#000000,,assets/logos/cfbd/2891.png,assets/logos/cfbd/2891.png,,RIPON|Ripon|Ripon Redhawks,cfbd_snapshot
+2900,St. Thomas (MN),st-thomas-mn,Tommies,STMN,#000000,,assets/logos/cfbd/2900.png,assets/logos/cfbd/2900.png,,STMN|St. Thomas (MN)|St. Thomas (MN) Tommies,cfbd_snapshot
+2911,William Jewell College,william-jewell-college,Cardinals,WJC,#000000,,assets/logos/cfbd/2911.png,assets/logos/cfbd/2911.png,,WJC|William Jewell|William Jewell College|William Jewell College Cardinals,cfbd_snapshot
+2916,Incarnate Word,incarnate-word,Cardinals,IW,#000000,#080808,assets/logos/cfbd/2916.png,assets/logos/cfbd/2916.png,,IW|Incarnate Word|Incarnate Word Cardinals,cfbd_snapshot
+2919,Monmouth (IL),monmouth-il,Fighting Scots,MON,#000000,,assets/logos/cfbd/2919.png,assets/logos/cfbd/2919.png,,MON|Monmouth (IL)|Monmouth (IL) Fighting Scots,cfbd_snapshot
+2927,Southwestern Oklahoma,southwestern-oklahoma,Bulldogs,SWO,#000000,,assets/logos/cfbd/2927.png,assets/logos/cfbd/2927.png,,SW Oklahoma|SWO|Southwestern Oklahoma|Southwestern Oklahoma Bulldogs,cfbd_snapshot
+2940,Livingstone,livingstone,Blue Bears,LVI,#000000,,assets/logos/cfbd/2940.png,assets/logos/cfbd/2940.png,,LVI|Livingstone|Livingstone Blue Bears,cfbd_snapshot
+2974,Shepherd,shepherd,Rams,SHE,#000000,,assets/logos/cfbd/2974.png,assets/logos/cfbd/2974.png,,SHE|Shepherd|Shepherd Rams,cfbd_snapshot
+3101,Dixie State,dixie-state,Red Storm,DIX,#000000,,assets/logos/cfbd/3101.png,assets/logos/cfbd/3101.png,,DIX|Dixie St|Dixie State|Dixie State Red Storm,cfbd_snapshot
+110243,UT Permian Basin,ut-permian-basin,Falcons,UTPB,,,assets/logos/cfbd/110243.png,assets/logos/cfbd/110243.png,,UT Permian Basin|UT Permian Basin Falcons|UTPB,espn
+110254,Davenport,davenport,Panthers,DAV,,,assets/logos/cfbd/110254.png,assets/logos/cfbd/110254.png,,Davenport|Davenport Panthers|DAV,espn
+124180,Bluefield State University,bluefield-state-university,Big Blue,BLST,,,assets/logos/cfbd/124180.png,assets/logos/cfbd/124180.png,,Bluefield State University|Bluefield State University Big Blue|BLST,espn

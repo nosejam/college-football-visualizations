@@ -1,0 +1,80 @@
+name: Refresh data and publish site
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # 13:17 UTC: 9:17 a.m. Eastern daylight / 8:17 a.m. Eastern standard.
+    - cron: '17 13 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: cfb-data-and-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: requirements.txt
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+      - name: Install build and solver dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Download schedules and results, then rebuild
+        if: github.event_name != 'push'
+        run: python scripts/refresh_results.py
+      - name: Rebuild source changes from saved data
+        if: github.event_name == 'push'
+        run: python scripts/build.py
+      - name: Validate data and projection algorithms
+        run: |
+          python -m unittest discover -s tests -v
+          node tests/test_circles_algorithms.cjs
+          node tests/test_predictor_model.cjs
+      - name: Commit updated snapshot if changed
+        run: |
+          git add data index.html
+          if git diff --cached --quiet; then
+            echo "No updated snapshot to commit."
+          else
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'Refresh football schedules, results, and visualizations'
+            git push origin HEAD:main
+          fi
+      - name: Package the public page
+        run: python scripts/package_site.py
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: build/site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy the validated page
+        id: deployment
+        uses: actions/deploy-pages@v4

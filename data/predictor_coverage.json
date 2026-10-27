@@ -1,0 +1,75 @@
+{
+  "season": 2026,
+  "as_of": "2026-10-27T00:13:23.191606+00:00",
+  "fbs_teams": 138,
+  "games": 3679,
+  "conferences": {
+    "Big 12": 16,
+    "ACC": 17,
+    "Big Ten": 18,
+    "Mountain West": 10,
+    "Conference USA": 10,
+    "Mid-American": 13,
+    "American Athletic": 14,
+    "SEC": 16,
+    "Sun Belt": 14,
+    "Pac-12": 8,
+    "FBS Independents": 2
+  },
+  "schedule_sha256": "199bfde8839903137175a8450c52df590ded560973cf4c55bc430d038e1847de",
+  "rules": {
+    "season": 2026,
+    "format_url": "https://collegefootballplayoff.com/sports/2024/5/29/12-team-format",
+    "verified_on": "2026-10-26",
+    "field_size": 12,
+    "power_automatic": [
+      "ACC",
+      "Big Ten",
+      "Big 12",
+      "SEC"
+    ],
+    "group_automatic": [
+      "American Athletic",
+      "Conference USA",
+      "Mid-American",
+      "Mountain West",
+      "Pac-12",
+      "Sun Belt"
+    ],
+    "group_bid_requires_championship": false,
+    "notre_dame_top_12_guarantee": true,
+    "byes": 4,
+    "selection_cutoff": "2026-12-07T00:00:00+00:00",
+    "regular_end": "2026-11-30T00:00:00+00:00",
+    "sun_belt_divisions_url": "https://sunbeltsports.org/news/2026/3/13/sun-belt-announces-2026-football-schedule.aspx",
+    "sun_belt_east": [
+      2026,
+      324,
+      290,
+      2247,
+      256,
+      276,
+      295
+    ],
+    "sun_belt_west": [
+      2032,
+      309,
+      2433,
+      2348,
+      6,
+      2572,
+      2653
+    ],
+    "acc_alternate_schedule_url": "https://admin.theacc.com/news/2026/7/15/acc-announces-new-football-championship-tiebreaker-policy.aspx",
+    "conference_ties": "Projection model: winning percentage, ACC alternate-game ties, head-to-head, common opponents, opponent conference winning percentage, then a uniform lottery. This is not a complete reproduction of each league's official tiebreaker book.",
+    "ranking_model": "Final simulated Elo, random ordering for exactly tied ratings. Elo substitutes for committee judgment.",
+    "eligibility": "All source-classified 2026 FBS teams; no postseason bans are asserted by this model.",
+    "conference_flag_overrides": {
+      "401862844": {
+        "conference": false,
+        "reason": "Army\u2013Navy is a nonconference game, after the American championship and CFP Selection Day.",
+        "url": "https://goarmywestpoint.com/news/2026/2/26/2026-army-football-schedule-set"
+      }
+    }
+  }
+}

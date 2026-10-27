@@ -1,0 +1,4061 @@
+[
+  {
+    "team_id": 2,
+    "school": "Auburn",
+    "unitid": 100858,
+    "institution": "Auburn University",
+    "directory_year": 2024,
+    "city": "Auburn",
+    "state": "AL"
+  },
+  {
+    "team_id": 3,
+    "school": "Birmingham-Southern",
+    "unitid": 100937,
+    "institution": "Birmingham-Southern College",
+    "directory_year": 2024,
+    "city": "Birmingham",
+    "state": "AL"
+  },
+  {
+    "team_id": 5,
+    "school": "UAB",
+    "unitid": 100663,
+    "institution": "University of Alabama at Birmingham",
+    "directory_year": 2024,
+    "city": "Birmingham",
+    "state": "AL"
+  },
+  {
+    "team_id": 6,
+    "school": "South Alabama",
+    "unitid": 102094,
+    "institution": "University of South Alabama",
+    "directory_year": 2024,
+    "city": "Mobile",
+    "state": "AL"
+  },
+  {
+    "team_id": 7,
+    "school": "Amherst College",
+    "unitid": 164465,
+    "institution": "Amherst College",
+    "directory_year": 2024,
+    "city": "Amherst",
+    "state": "MA"
+  },
+  {
+    "team_id": 8,
+    "school": "Arkansas",
+    "unitid": 106397,
+    "institution": "University of Arkansas",
+    "directory_year": 2024,
+    "city": "Fayetteville",
+    "state": "AR"
+  },
+  {
+    "team_id": 9,
+    "school": "Arizona State",
+    "unitid": 104151,
+    "institution": "Arizona State University Campus Immersion",
+    "directory_year": 2024,
+    "city": "Tempe",
+    "state": "AZ"
+  },
+  {
+    "team_id": 12,
+    "school": "Arizona",
+    "unitid": 104179,
+    "institution": "University of Arizona",
+    "directory_year": 2024,
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  {
+    "team_id": 13,
+    "school": "Cal Poly",
+    "unitid": 110422,
+    "institution": "California Polytechnic State University-San Luis Obispo",
+    "directory_year": 2024,
+    "city": "San Luis Obispo",
+    "state": "CA"
+  },
+  {
+    "team_id": 16,
+    "school": "Sacramento State",
+    "unitid": 110617,
+    "institution": "California State University-Sacramento",
+    "directory_year": 2024,
+    "city": "Sacramento",
+    "state": "CA"
+  },
+  {
+    "team_id": 17,
+    "school": "Claremont",
+    "unitid": 112260,
+    "institution": "Claremont McKenna College",
+    "directory_year": 2024,
+    "city": "Claremont",
+    "state": "CA"
+  },
+  {
+    "team_id": 18,
+    "school": "Bridgewater State",
+    "unitid": 165024,
+    "institution": "Bridgewater State University",
+    "directory_year": 2024,
+    "city": "Bridgewater",
+    "state": "MA"
+  },
+  {
+    "team_id": 21,
+    "school": "San Diego State",
+    "unitid": 122409,
+    "institution": "San Diego State University",
+    "directory_year": 2024,
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "team_id": 23,
+    "school": "San Jos\u00e9 State",
+    "unitid": 122755,
+    "institution": "San Jose State University",
+    "directory_year": 2024,
+    "city": "San Jose",
+    "state": "CA"
+  },
+  {
+    "team_id": 24,
+    "school": "Stanford",
+    "unitid": 243744,
+    "institution": "Stanford University",
+    "directory_year": 2024,
+    "city": "Stanford",
+    "state": "CA"
+  },
+  {
+    "team_id": 25,
+    "school": "California",
+    "unitid": 110635,
+    "institution": "University of California-Berkeley",
+    "directory_year": 2024,
+    "city": "Berkeley",
+    "state": "CA"
+  },
+  {
+    "team_id": 26,
+    "school": "UCLA",
+    "unitid": 110662,
+    "institution": "University of California-Los Angeles",
+    "directory_year": 2024,
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "team_id": 29,
+    "school": "Redlands",
+    "unitid": 121691,
+    "institution": "University of Redlands",
+    "directory_year": 2024,
+    "city": "Redlands",
+    "state": "CA"
+  },
+  {
+    "team_id": 30,
+    "school": "USC",
+    "unitid": 123961,
+    "institution": "University of Southern California",
+    "directory_year": 2024,
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "team_id": 32,
+    "school": "Carroll (WI)",
+    "unitid": 238458,
+    "institution": "Carroll University",
+    "directory_year": 2024,
+    "city": "Waukesha",
+    "state": "WI"
+  },
+  {
+    "team_id": 33,
+    "school": "Colby",
+    "unitid": 161086,
+    "institution": "Colby College",
+    "directory_year": 2024,
+    "city": "Waterville",
+    "state": "ME"
+  },
+  {
+    "team_id": 36,
+    "school": "Colorado State",
+    "unitid": 126818,
+    "institution": "Colorado State University-Fort Collins",
+    "directory_year": 2024,
+    "city": "Fort Collins",
+    "state": "CO"
+  },
+  {
+    "team_id": 38,
+    "school": "Colorado",
+    "unitid": 126614,
+    "institution": "University of Colorado Boulder",
+    "directory_year": 2024,
+    "city": "Boulder",
+    "state": "CO"
+  },
+  {
+    "team_id": 41,
+    "school": "Connecticut",
+    "unitid": 129020,
+    "institution": "University of Connecticut",
+    "directory_year": 2024,
+    "city": "Storrs",
+    "state": "CT"
+  },
+  {
+    "team_id": 43,
+    "school": "Yale",
+    "unitid": 130794,
+    "institution": "Yale University",
+    "directory_year": 2024,
+    "city": "New Haven",
+    "state": "CT"
+  },
+  {
+    "team_id": 46,
+    "school": "Georgetown",
+    "unitid": 131496,
+    "institution": "Georgetown University",
+    "directory_year": 2024,
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "team_id": 47,
+    "school": "Howard",
+    "unitid": 131520,
+    "institution": "Howard University",
+    "directory_year": 2024,
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "team_id": 48,
+    "school": "Delaware",
+    "unitid": 130943,
+    "institution": "University of Delaware",
+    "directory_year": 2024,
+    "city": "Newark",
+    "state": "DE"
+  },
+  {
+    "team_id": 50,
+    "school": "Florida A&M",
+    "unitid": 133650,
+    "institution": "Florida Agricultural and Mechanical University",
+    "directory_year": 2024,
+    "city": "Tallahassee",
+    "state": "FL"
+  },
+  {
+    "team_id": 52,
+    "school": "Florida State",
+    "unitid": 134097,
+    "institution": "Florida State University",
+    "directory_year": 2024,
+    "city": "Tallahassee",
+    "state": "FL"
+  },
+  {
+    "team_id": 53,
+    "school": "Florida Tech",
+    "unitid": 133881,
+    "institution": "Florida Institute of Technology",
+    "directory_year": 2024,
+    "city": "Melbourne",
+    "state": "FL"
+  },
+  {
+    "team_id": 55,
+    "school": "Jacksonville State",
+    "unitid": 101480,
+    "institution": "Jacksonville State University",
+    "directory_year": 2024,
+    "city": "Jacksonville",
+    "state": "AL"
+  },
+  {
+    "team_id": 56,
+    "school": "Stetson",
+    "unitid": 137546,
+    "institution": "Stetson University",
+    "directory_year": 2024,
+    "city": "DeLand",
+    "state": "FL"
+  },
+  {
+    "team_id": 57,
+    "school": "Florida",
+    "unitid": 134130,
+    "institution": "University of Florida",
+    "directory_year": 2024,
+    "city": "Gainesville",
+    "state": "FL"
+  },
+  {
+    "team_id": 58,
+    "school": "South Florida",
+    "unitid": 137351,
+    "institution": "University of South Florida",
+    "directory_year": 2024,
+    "city": "Tampa",
+    "state": "FL"
+  },
+  {
+    "team_id": 59,
+    "school": "Georgia Tech",
+    "unitid": 139755,
+    "institution": "Georgia Institute of Technology-Main Campus",
+    "directory_year": 2024,
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "team_id": 60,
+    "school": "Morehouse",
+    "unitid": 140553,
+    "institution": "Morehouse College",
+    "directory_year": 2024,
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "team_id": 61,
+    "school": "Georgia",
+    "unitid": 139959,
+    "institution": "University of Georgia",
+    "directory_year": 2024,
+    "city": "Athens",
+    "state": "GA"
+  },
+  {
+    "team_id": 62,
+    "school": "Hawai'i",
+    "unitid": 141574,
+    "institution": "University of Hawaii at Manoa",
+    "directory_year": 2024,
+    "city": "Honolulu",
+    "state": "HI"
+  },
+  {
+    "team_id": 63,
+    "school": "Buena Vista",
+    "unitid": 153001,
+    "institution": "Buena Vista University",
+    "directory_year": 2024,
+    "city": "Storm Lake",
+    "state": "IA"
+  },
+  {
+    "team_id": 65,
+    "school": "Grinnell",
+    "unitid": 153384,
+    "institution": "Grinnell College",
+    "directory_year": 2024,
+    "city": "Grinnell",
+    "state": "IA"
+  },
+  {
+    "team_id": 66,
+    "school": "Iowa State",
+    "unitid": 153603,
+    "institution": "Iowa State University",
+    "directory_year": 2024,
+    "city": "Ames",
+    "state": "IA"
+  },
+  {
+    "team_id": 68,
+    "school": "Boise State",
+    "unitid": 142115,
+    "institution": "Boise State University",
+    "directory_year": 2024,
+    "city": "Boise",
+    "state": "ID"
+  },
+  {
+    "team_id": 70,
+    "school": "Idaho",
+    "unitid": 142285,
+    "institution": "University of Idaho",
+    "directory_year": 2024,
+    "city": "Moscow",
+    "state": "ID"
+  },
+  {
+    "team_id": 77,
+    "school": "Northwestern",
+    "unitid": 147767,
+    "institution": "Northwestern University",
+    "directory_year": 2024,
+    "city": "Evanston",
+    "state": "IL"
+  },
+  {
+    "team_id": 79,
+    "school": "Southern Illinois",
+    "unitid": 149222,
+    "institution": "Southern Illinois University-Carbondale",
+    "directory_year": 2024,
+    "city": "Carbondale",
+    "state": "IL"
+  },
+  {
+    "team_id": 80,
+    "school": "Chicago",
+    "unitid": 144050,
+    "institution": "University of Chicago",
+    "directory_year": 2024,
+    "city": "Chicago",
+    "state": "IL"
+  },
+  {
+    "team_id": 81,
+    "school": "Springfield",
+    "unitid": 167899,
+    "institution": "Springfield College",
+    "directory_year": 2024,
+    "city": "Springfield",
+    "state": "MA"
+  },
+  {
+    "team_id": 84,
+    "school": "Indiana",
+    "unitid": 151351,
+    "institution": "Indiana University-Bloomington",
+    "directory_year": 2024,
+    "city": "Bloomington",
+    "state": "IN"
+  },
+  {
+    "team_id": 87,
+    "school": "Notre Dame",
+    "unitid": 152080,
+    "institution": "University of Notre Dame",
+    "directory_year": 2024,
+    "city": "Notre Dame",
+    "state": "IN"
+  },
+  {
+    "team_id": 93,
+    "school": "Murray State",
+    "unitid": 157401,
+    "institution": "Murray State University",
+    "directory_year": 2024,
+    "city": "Murray",
+    "state": "KY"
+  },
+  {
+    "team_id": 96,
+    "school": "Kentucky",
+    "unitid": 157085,
+    "institution": "University of Kentucky",
+    "directory_year": 2024,
+    "city": "Lexington",
+    "state": "KY"
+  },
+  {
+    "team_id": 97,
+    "school": "Louisville",
+    "unitid": 157289,
+    "institution": "University of Louisville",
+    "directory_year": 2024,
+    "city": "Louisville",
+    "state": "KY"
+  },
+  {
+    "team_id": 98,
+    "school": "Western Kentucky",
+    "unitid": 157951,
+    "institution": "Western Kentucky University",
+    "directory_year": 2024,
+    "city": "Bowling Green",
+    "state": "KY"
+  },
+  {
+    "team_id": 99,
+    "school": "LSU",
+    "unitid": 159391,
+    "institution": "Louisiana State University and Agricultural & Mechanical College",
+    "directory_year": 2024,
+    "city": "Baton Rouge",
+    "state": "LA"
+  },
+  {
+    "team_id": 103,
+    "school": "Boston College",
+    "unitid": 164924,
+    "institution": "Boston College",
+    "directory_year": 2024,
+    "city": "Chestnut Hill",
+    "state": "MA"
+  },
+  {
+    "team_id": 107,
+    "school": "Holy Cross",
+    "unitid": 166124,
+    "institution": "College of the Holy Cross",
+    "directory_year": 2024,
+    "city": "Worcester",
+    "state": "MA"
+  },
+  {
+    "team_id": 108,
+    "school": "Harvard",
+    "unitid": 166027,
+    "institution": "Harvard University",
+    "directory_year": 2024,
+    "city": "Cambridge",
+    "state": "MA"
+  },
+  {
+    "team_id": 109,
+    "school": "MIT",
+    "unitid": 166683,
+    "institution": "Massachusetts Institute of Technology",
+    "directory_year": 2024,
+    "city": "Cambridge",
+    "state": "MA"
+  },
+  {
+    "team_id": 111,
+    "school": "Northeastern",
+    "unitid": 167358,
+    "institution": "Northeastern University",
+    "directory_year": 2024,
+    "city": "Boston",
+    "state": "MA"
+  },
+  {
+    "team_id": 113,
+    "school": "UMass",
+    "unitid": 166629,
+    "institution": "University of Massachusetts-Amherst",
+    "directory_year": 2024,
+    "city": "Amherst",
+    "state": "MA"
+  },
+  {
+    "team_id": 114,
+    "school": "Fitchburg State",
+    "unitid": 165820,
+    "institution": "Fitchburg State University",
+    "directory_year": 2024,
+    "city": "Fitchburg",
+    "state": "MA"
+  },
+  {
+    "team_id": 118,
+    "school": "Johns Hopkins",
+    "unitid": 162928,
+    "institution": "Johns Hopkins University",
+    "directory_year": 2024,
+    "city": "Baltimore",
+    "state": "MD"
+  },
+  {
+    "team_id": 119,
+    "school": "Towson",
+    "unitid": 164076,
+    "institution": "Towson University",
+    "directory_year": 2024,
+    "city": "Towson",
+    "state": "MD"
+  },
+  {
+    "team_id": 120,
+    "school": "Maryland",
+    "unitid": 163286,
+    "institution": "University of Maryland-College Park",
+    "directory_year": 2024,
+    "city": "College Park",
+    "state": "MD"
+  },
+  {
+    "team_id": 125,
+    "school": "Grand Valley State",
+    "unitid": 170082,
+    "institution": "Grand Valley State University",
+    "directory_year": 2024,
+    "city": "Allendale",
+    "state": "MI"
+  },
+  {
+    "team_id": 127,
+    "school": "Michigan State",
+    "unitid": 171100,
+    "institution": "Michigan State University",
+    "directory_year": 2024,
+    "city": "East Lansing",
+    "state": "MI"
+  },
+  {
+    "team_id": 128,
+    "school": "Northern Michigan",
+    "unitid": 171456,
+    "institution": "Northern Michigan University",
+    "directory_year": 2024,
+    "city": "Marquette",
+    "state": "MI"
+  },
+  {
+    "team_id": 129,
+    "school": "Saginaw Valley",
+    "unitid": 172051,
+    "institution": "Saginaw Valley State University",
+    "directory_year": 2024,
+    "city": "University Center",
+    "state": "MI"
+  },
+  {
+    "team_id": 130,
+    "school": "Michigan",
+    "unitid": 170976,
+    "institution": "University of Michigan-Ann Arbor",
+    "directory_year": 2024,
+    "city": "Ann Arbor",
+    "state": "MI"
+  },
+  {
+    "team_id": 131,
+    "school": "Wayne State (MI)",
+    "unitid": 172644,
+    "institution": "Wayne State University",
+    "directory_year": 2024,
+    "city": "Detroit",
+    "state": "MI"
+  },
+  {
+    "team_id": 132,
+    "school": "Bemidji State",
+    "unitid": 173124,
+    "institution": "Bemidji State University",
+    "directory_year": 2024,
+    "city": "Bemidji",
+    "state": "MN"
+  },
+  {
+    "team_id": 134,
+    "school": "Minnesota-Duluth",
+    "unitid": 174233,
+    "institution": "University of Minnesota-Duluth",
+    "directory_year": 2024,
+    "city": "Duluth",
+    "state": "MN"
+  },
+  {
+    "team_id": 135,
+    "school": "Minnesota",
+    "unitid": 174066,
+    "institution": "University of Minnesota-Twin Cities",
+    "directory_year": 2024,
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "team_id": 138,
+    "school": "Northwest Missouri State",
+    "unitid": 178624,
+    "institution": "Northwest Missouri State University",
+    "directory_year": 2024,
+    "city": "Maryville",
+    "state": "MO"
+  },
+  {
+    "team_id": 142,
+    "school": "Missouri",
+    "unitid": 178396,
+    "institution": "University of Missouri-Columbia",
+    "directory_year": 2024,
+    "city": "Columbia",
+    "state": "MO"
+  },
+  {
+    "team_id": 143,
+    "school": "Washington (MO)",
+    "unitid": 179867,
+    "institution": "Washington University in St Louis",
+    "directory_year": 2024,
+    "city": "St. Louis",
+    "state": "MO"
+  },
+  {
+    "team_id": 145,
+    "school": "Ole Miss",
+    "unitid": 176017,
+    "institution": "University of Mississippi",
+    "directory_year": 2024,
+    "city": "University",
+    "state": "MS"
+  },
+  {
+    "team_id": 146,
+    "school": "Grove City College",
+    "unitid": 212805,
+    "institution": "Grove City College",
+    "directory_year": 2024,
+    "city": "Grove City",
+    "state": "PA"
+  },
+  {
+    "team_id": 147,
+    "school": "Montana State",
+    "unitid": 180461,
+    "institution": "Montana State University",
+    "directory_year": 2024,
+    "city": "Bozeman",
+    "state": "MT"
+  },
+  {
+    "team_id": 149,
+    "school": "Montana",
+    "unitid": 180489,
+    "institution": "The University of Montana",
+    "directory_year": 2024,
+    "city": "Missoula",
+    "state": "MT"
+  },
+  {
+    "team_id": 150,
+    "school": "Duke",
+    "unitid": 198419,
+    "institution": "Duke University",
+    "directory_year": 2024,
+    "city": "Durham",
+    "state": "NC"
+  },
+  {
+    "team_id": 151,
+    "school": "East Carolina",
+    "unitid": 198464,
+    "institution": "East Carolina University",
+    "directory_year": 2024,
+    "city": "Greenville",
+    "state": "NC"
+  },
+  {
+    "team_id": 152,
+    "school": "NC State",
+    "unitid": 199193,
+    "institution": "North Carolina State University at Raleigh",
+    "directory_year": 2024,
+    "city": "Raleigh",
+    "state": "NC"
+  },
+  {
+    "team_id": 153,
+    "school": "North Carolina",
+    "unitid": 199120,
+    "institution": "University of North Carolina at Chapel Hill",
+    "directory_year": 2024,
+    "city": "Chapel Hill",
+    "state": "NC"
+  },
+  {
+    "team_id": 154,
+    "school": "Wake Forest",
+    "unitid": 199847,
+    "institution": "Wake Forest University",
+    "directory_year": 2024,
+    "city": "Winston-Salem",
+    "state": "NC"
+  },
+  {
+    "team_id": 155,
+    "school": "North Dakota",
+    "unitid": 200280,
+    "institution": "University of North Dakota",
+    "directory_year": 2024,
+    "city": "Grand Forks",
+    "state": "ND"
+  },
+  {
+    "team_id": 158,
+    "school": "Nebraska",
+    "unitid": 181464,
+    "institution": "University of Nebraska-Lincoln",
+    "directory_year": 2024,
+    "city": "Lincoln",
+    "state": "NE"
+  },
+  {
+    "team_id": 159,
+    "school": "Dartmouth",
+    "unitid": 182670,
+    "institution": "Dartmouth College",
+    "directory_year": 2024,
+    "city": "Hanover",
+    "state": "NH"
+  },
+  {
+    "team_id": 160,
+    "school": "New Hampshire",
+    "unitid": 183044,
+    "institution": "University of New Hampshire-Main Campus",
+    "directory_year": 2024,
+    "city": "Durham",
+    "state": "NH"
+  },
+  {
+    "team_id": 163,
+    "school": "Princeton",
+    "unitid": 186131,
+    "institution": "Princeton University",
+    "directory_year": 2024,
+    "city": "Princeton",
+    "state": "NJ"
+  },
+  {
+    "team_id": 164,
+    "school": "Rutgers",
+    "unitid": 186380,
+    "institution": "Rutgers University-New Brunswick",
+    "directory_year": 2024,
+    "city": "New Brunswick",
+    "state": "NJ"
+  },
+  {
+    "team_id": 166,
+    "school": "New Mexico State",
+    "unitid": 188030,
+    "institution": "New Mexico State University-Main Campus",
+    "directory_year": 2024,
+    "city": "Las Cruces",
+    "state": "NM"
+  },
+  {
+    "team_id": 167,
+    "school": "New Mexico",
+    "unitid": 187985,
+    "institution": "University of New Mexico-Main Campus",
+    "directory_year": 2024,
+    "city": "Albuquerque",
+    "state": "NM"
+  },
+  {
+    "team_id": 171,
+    "school": "Columbia",
+    "unitid": 190150,
+    "institution": "Columbia University in the City of New York",
+    "directory_year": 2024,
+    "city": "New York",
+    "state": "NY"
+  },
+  {
+    "team_id": 172,
+    "school": "Cornell",
+    "unitid": 190415,
+    "institution": "Cornell University",
+    "directory_year": 2024,
+    "city": "Ithaca",
+    "state": "NY"
+  },
+  {
+    "team_id": 174,
+    "school": "Hobart",
+    "unitid": 191630,
+    "institution": "Hobart William Smith Colleges",
+    "directory_year": 2024,
+    "city": "Geneva",
+    "state": "NY"
+  },
+  {
+    "team_id": 175,
+    "school": "Ithaca",
+    "unitid": 191968,
+    "institution": "Ithaca College",
+    "directory_year": 2024,
+    "city": "Ithaca",
+    "state": "NY"
+  },
+  {
+    "team_id": 183,
+    "school": "Syracuse",
+    "unitid": 196413,
+    "institution": "Syracuse University",
+    "directory_year": 2024,
+    "city": "Syracuse",
+    "state": "NY"
+  },
+  {
+    "team_id": 184,
+    "school": "Rochester",
+    "unitid": 195030,
+    "institution": "University of Rochester",
+    "directory_year": 2024,
+    "city": "Rochester",
+    "state": "NY"
+  },
+  {
+    "team_id": 189,
+    "school": "Bowling Green",
+    "unitid": 201441,
+    "institution": "Bowling Green State University-Main Campus",
+    "directory_year": 2024,
+    "city": "Bowling Green",
+    "state": "OH"
+  },
+  {
+    "team_id": 193,
+    "school": "Miami (OH)",
+    "unitid": 204024,
+    "institution": "Miami University-Oxford",
+    "directory_year": 2024,
+    "city": "Oxford",
+    "state": "OH"
+  },
+  {
+    "team_id": 194,
+    "school": "Ohio State",
+    "unitid": 204796,
+    "institution": "Ohio State University-Main Campus",
+    "directory_year": 2024,
+    "city": "Columbus",
+    "state": "OH"
+  },
+  {
+    "team_id": 195,
+    "school": "Ohio",
+    "unitid": 204857,
+    "institution": "Ohio University-Main Campus",
+    "directory_year": 2024,
+    "city": "Athens",
+    "state": "OH"
+  },
+  {
+    "team_id": 197,
+    "school": "Oklahoma State",
+    "unitid": 207388,
+    "institution": "Oklahoma State University-Main Campus",
+    "directory_year": 2024,
+    "city": "Stillwater",
+    "state": "OK"
+  },
+  {
+    "team_id": 199,
+    "school": "Southeastern Oklahoma",
+    "unitid": 207847,
+    "institution": "Southeastern Oklahoma State University",
+    "directory_year": 2024,
+    "city": "Durant",
+    "state": "OK"
+  },
+  {
+    "team_id": 200,
+    "school": "Southern Nazarene",
+    "unitid": 206862,
+    "institution": "Southern Nazarene University",
+    "directory_year": 2024,
+    "city": "Bethany",
+    "state": "OK"
+  },
+  {
+    "team_id": 201,
+    "school": "Oklahoma",
+    "unitid": 207500,
+    "institution": "University of Oklahoma-Norman Campus",
+    "directory_year": 2024,
+    "city": "Norman",
+    "state": "OK"
+  },
+  {
+    "team_id": 202,
+    "school": "Tulsa",
+    "unitid": 207971,
+    "institution": "University of Tulsa",
+    "directory_year": 2024,
+    "city": "Tulsa",
+    "state": "OK"
+  },
+  {
+    "team_id": 204,
+    "school": "Oregon State",
+    "unitid": 209542,
+    "institution": "Oregon State University",
+    "directory_year": 2024,
+    "city": "Corvallis",
+    "state": "OR"
+  },
+  {
+    "team_id": 209,
+    "school": "Lock Haven",
+    "unitid": 213613,
+    "institution": "Lock Haven University",
+    "directory_year": 2021,
+    "city": "Lock Haven",
+    "state": "PA"
+  },
+  {
+    "team_id": 210,
+    "school": "Millersville",
+    "unitid": 214041,
+    "institution": "Millersville University of Pennsylvania",
+    "directory_year": 2024,
+    "city": "Millersville",
+    "state": "PA"
+  },
+  {
+    "team_id": 213,
+    "school": "Penn State",
+    "unitid": 214777,
+    "institution": "Pennsylvania State University-Main Campus",
+    "directory_year": 2024,
+    "city": "University Park",
+    "state": "PA"
+  },
+  {
+    "team_id": 215,
+    "school": "Slippery Rock",
+    "unitid": 216038,
+    "institution": "Slippery Rock University of Pennsylvania",
+    "directory_year": 2024,
+    "city": "Slippery Rock",
+    "state": "PA"
+  },
+  {
+    "team_id": 218,
+    "school": "Temple",
+    "unitid": 216339,
+    "institution": "Temple University",
+    "directory_year": 2024,
+    "city": "Philadelphia",
+    "state": "PA"
+  },
+  {
+    "team_id": 219,
+    "school": "Pennsylvania",
+    "unitid": 215062,
+    "institution": "University of Pennsylvania",
+    "directory_year": 2024,
+    "city": "Philadelphia",
+    "state": "PA"
+  },
+  {
+    "team_id": 221,
+    "school": "Pittsburgh",
+    "unitid": 215293,
+    "institution": "University of Pittsburgh-Pittsburgh Campus",
+    "directory_year": 2024,
+    "city": "Pittsburgh",
+    "state": "PA"
+  },
+  {
+    "team_id": 222,
+    "school": "Villanova",
+    "unitid": 216597,
+    "institution": "Villanova University",
+    "directory_year": 2024,
+    "city": "Villanova",
+    "state": "PA"
+  },
+  {
+    "team_id": 223,
+    "school": "West Chester",
+    "unitid": 216764,
+    "institution": "West Chester University of Pennsylvania",
+    "directory_year": 2024,
+    "city": "West Chester",
+    "state": "PA"
+  },
+  {
+    "team_id": 225,
+    "school": "Brown",
+    "unitid": 217156,
+    "institution": "Brown University",
+    "directory_year": 2024,
+    "city": "Providence",
+    "state": "RI"
+  },
+  {
+    "team_id": 227,
+    "school": "Rhode Island",
+    "unitid": 217484,
+    "institution": "University of Rhode Island",
+    "directory_year": 2024,
+    "city": "Kingston",
+    "state": "RI"
+  },
+  {
+    "team_id": 228,
+    "school": "Clemson",
+    "unitid": 217882,
+    "institution": "Clemson University",
+    "directory_year": 2024,
+    "city": "Clemson",
+    "state": "SC"
+  },
+  {
+    "team_id": 231,
+    "school": "Furman",
+    "unitid": 218070,
+    "institution": "Furman University",
+    "directory_year": 2024,
+    "city": "Greenville",
+    "state": "SC"
+  },
+  {
+    "team_id": 233,
+    "school": "South Dakota",
+    "unitid": 219471,
+    "institution": "University of South Dakota",
+    "directory_year": 2024,
+    "city": "Vermillion",
+    "state": "SD"
+  },
+  {
+    "team_id": 235,
+    "school": "Memphis",
+    "unitid": 220862,
+    "institution": "University of Memphis",
+    "directory_year": 2024,
+    "city": "Memphis",
+    "state": "TN"
+  },
+  {
+    "team_id": 236,
+    "school": "Chattanooga",
+    "unitid": 221740,
+    "institution": "The University of Tennessee-Chattanooga",
+    "directory_year": 2024,
+    "city": "Chattanooga",
+    "state": "TN"
+  },
+  {
+    "team_id": 237,
+    "school": "Union",
+    "unitid": 196866,
+    "institution": "Union College",
+    "directory_year": 2024,
+    "city": "Schenectady",
+    "state": "NY"
+  },
+  {
+    "team_id": 238,
+    "school": "Vanderbilt",
+    "unitid": 221999,
+    "institution": "Vanderbilt University",
+    "directory_year": 2024,
+    "city": "Nashville",
+    "state": "TN"
+  },
+  {
+    "team_id": 239,
+    "school": "Baylor",
+    "unitid": 223232,
+    "institution": "Baylor University",
+    "directory_year": 2024,
+    "city": "Waco",
+    "state": "TX"
+  },
+  {
+    "team_id": 242,
+    "school": "Rice",
+    "unitid": 227757,
+    "institution": "Rice University",
+    "directory_year": 2024,
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "team_id": 245,
+    "school": "Texas A&M",
+    "unitid": 228723,
+    "institution": "Texas A&M University-College Station",
+    "directory_year": 2024,
+    "city": "College Station",
+    "state": "TX"
+  },
+  {
+    "team_id": 248,
+    "school": "Houston",
+    "unitid": 225511,
+    "institution": "University of Houston",
+    "directory_year": 2024,
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "team_id": 249,
+    "school": "North Texas",
+    "unitid": 227216,
+    "institution": "University of North Texas",
+    "directory_year": 2024,
+    "city": "Denton",
+    "state": "TX"
+  },
+  {
+    "team_id": 251,
+    "school": "Texas",
+    "unitid": 228778,
+    "institution": "The University of Texas at Austin",
+    "directory_year": 2024,
+    "city": "Austin",
+    "state": "TX"
+  },
+  {
+    "team_id": 252,
+    "school": "BYU",
+    "unitid": 230038,
+    "institution": "Brigham Young University",
+    "directory_year": 2024,
+    "city": "Provo",
+    "state": "UT"
+  },
+  {
+    "team_id": 253,
+    "school": "Southern Utah",
+    "unitid": 230603,
+    "institution": "Southern Utah University",
+    "directory_year": 2024,
+    "city": "Cedar City",
+    "state": "UT"
+  },
+  {
+    "team_id": 254,
+    "school": "Utah",
+    "unitid": 230764,
+    "institution": "University of Utah",
+    "directory_year": 2024,
+    "city": "Salt Lake City",
+    "state": "UT"
+  },
+  {
+    "team_id": 255,
+    "school": "Knox College",
+    "unitid": 146427,
+    "institution": "Knox College",
+    "directory_year": 2024,
+    "city": "Galesburg",
+    "state": "IL"
+  },
+  {
+    "team_id": 256,
+    "school": "James Madison",
+    "unitid": 232423,
+    "institution": "James Madison University",
+    "directory_year": 2024,
+    "city": "Harrisonburg",
+    "state": "VA"
+  },
+  {
+    "team_id": 257,
+    "school": "Richmond",
+    "unitid": 233374,
+    "institution": "University of Richmond",
+    "directory_year": 2024,
+    "city": "University of Richmond",
+    "state": "VA"
+  },
+  {
+    "team_id": 258,
+    "school": "Virginia",
+    "unitid": 234076,
+    "institution": "University of Virginia-Main Campus",
+    "directory_year": 2024,
+    "city": "Charlottesville",
+    "state": "VA"
+  },
+  {
+    "team_id": 259,
+    "school": "Virginia Tech",
+    "unitid": 233921,
+    "institution": "Virginia Polytechnic Institute and State University",
+    "directory_year": 2024,
+    "city": "Blacksburg",
+    "state": "VA"
+  },
+  {
+    "team_id": 262,
+    "school": "Lake Forest",
+    "unitid": 146481,
+    "institution": "Lake Forest College",
+    "directory_year": 2024,
+    "city": "Lake Forest",
+    "state": "IL"
+  },
+  {
+    "team_id": 264,
+    "school": "Washington",
+    "unitid": 236948,
+    "institution": "University of Washington-Seattle Campus",
+    "directory_year": 2024,
+    "city": "Seattle",
+    "state": "WA"
+  },
+  {
+    "team_id": 265,
+    "school": "Washington State",
+    "unitid": 236939,
+    "institution": "Washington State University",
+    "directory_year": 2024,
+    "city": "Pullman",
+    "state": "WA"
+  },
+  {
+    "team_id": 268,
+    "school": "Lawrence",
+    "unitid": 239017,
+    "institution": "Lawrence University",
+    "directory_year": 2024,
+    "city": "Appleton",
+    "state": "WI"
+  },
+  {
+    "team_id": 271,
+    "school": "UW-Oshkosh",
+    "unitid": 240365,
+    "institution": "University of Wisconsin-Oshkosh",
+    "directory_year": 2024,
+    "city": "Oshkosh",
+    "state": "WI"
+  },
+  {
+    "team_id": 272,
+    "school": "Wisconsin-Platteville",
+    "unitid": 240462,
+    "institution": "University of Wisconsin-Platteville",
+    "directory_year": 2024,
+    "city": "Platteville",
+    "state": "WI"
+  },
+  {
+    "team_id": 275,
+    "school": "Wisconsin",
+    "unitid": 240444,
+    "institution": "University of Wisconsin-Madison",
+    "directory_year": 2024,
+    "city": "Madison",
+    "state": "WI"
+  },
+  {
+    "team_id": 276,
+    "school": "Marshall",
+    "unitid": 237525,
+    "institution": "Marshall University",
+    "directory_year": 2024,
+    "city": "Huntington",
+    "state": "WV"
+  },
+  {
+    "team_id": 277,
+    "school": "West Virginia",
+    "unitid": 238032,
+    "institution": "West Virginia University",
+    "directory_year": 2024,
+    "city": "Morgantown",
+    "state": "WV"
+  },
+  {
+    "team_id": 278,
+    "school": "Fresno State",
+    "unitid": 110556,
+    "institution": "California State University-Fresno",
+    "directory_year": 2024,
+    "city": "Fresno",
+    "state": "CA"
+  },
+  {
+    "team_id": 282,
+    "school": "Indiana State",
+    "unitid": 151324,
+    "institution": "Indiana State University",
+    "directory_year": 2024,
+    "city": "Terre Haute",
+    "state": "IN"
+  },
+  {
+    "team_id": 284,
+    "school": "Stonehill",
+    "unitid": 167996,
+    "institution": "Stonehill College",
+    "directory_year": 2024,
+    "city": "Easton",
+    "state": "MA"
+  },
+  {
+    "team_id": 290,
+    "school": "Georgia Southern",
+    "unitid": 139931,
+    "institution": "Georgia Southern University",
+    "directory_year": 2024,
+    "city": "Statesboro",
+    "state": "GA"
+  },
+  {
+    "team_id": 294,
+    "school": "Jacksonville",
+    "unitid": 134945,
+    "institution": "Jacksonville University",
+    "directory_year": 2024,
+    "city": "Jacksonville",
+    "state": "FL"
+  },
+  {
+    "team_id": 295,
+    "school": "Old Dominion",
+    "unitid": 232982,
+    "institution": "Old Dominion University",
+    "directory_year": 2024,
+    "city": "Norfolk",
+    "state": "VA"
+  },
+  {
+    "team_id": 301,
+    "school": "San Diego",
+    "unitid": 122436,
+    "institution": "University of San Diego",
+    "directory_year": 2024,
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "team_id": 302,
+    "school": "UC Davis",
+    "unitid": 110644,
+    "institution": "University of California-Davis",
+    "directory_year": 2024,
+    "city": "Davis",
+    "state": "CA"
+  },
+  {
+    "team_id": 304,
+    "school": "Idaho State",
+    "unitid": 142276,
+    "institution": "Idaho State University",
+    "directory_year": 2024,
+    "city": "Pocatello",
+    "state": "ID"
+  },
+  {
+    "team_id": 308,
+    "school": "Ashland",
+    "unitid": 201104,
+    "institution": "Ashland University",
+    "directory_year": 2024,
+    "city": "Ashland",
+    "state": "OH"
+  },
+  {
+    "team_id": 309,
+    "school": "Louisiana",
+    "unitid": 160658,
+    "institution": "University of Louisiana at Lafayette",
+    "directory_year": 2024,
+    "city": "Lafayette",
+    "state": "LA"
+  },
+  {
+    "team_id": 311,
+    "school": "Maine",
+    "unitid": 161253,
+    "institution": "University of Maine",
+    "directory_year": 2024,
+    "city": "Orono",
+    "state": "ME"
+  },
+  {
+    "team_id": 319,
+    "school": "Oklahoma Baptist",
+    "unitid": 207403,
+    "institution": "Oklahoma Baptist University",
+    "directory_year": 2024,
+    "city": "Shawnee",
+    "state": "OK"
+  },
+  {
+    "team_id": 322,
+    "school": "Lafayette",
+    "unitid": 213385,
+    "institution": "Lafayette College",
+    "directory_year": 2024,
+    "city": "Easton",
+    "state": "PA"
+  },
+  {
+    "team_id": 324,
+    "school": "Coastal Carolina",
+    "unitid": 218724,
+    "institution": "Coastal Carolina University",
+    "directory_year": 2024,
+    "city": "Conway",
+    "state": "SC"
+  },
+  {
+    "team_id": 326,
+    "school": "Texas State",
+    "unitid": 228459,
+    "institution": "Texas State University",
+    "directory_year": 2024,
+    "city": "San Marcos",
+    "state": "TX"
+  },
+  {
+    "team_id": 328,
+    "school": "Utah State",
+    "unitid": 230728,
+    "institution": "Utah State University",
+    "directory_year": 2024,
+    "city": "Logan",
+    "state": "UT"
+  },
+  {
+    "team_id": 330,
+    "school": "Virginia State",
+    "unitid": 234155,
+    "institution": "Virginia State University",
+    "directory_year": 2024,
+    "city": "Petersburg",
+    "state": "VA"
+  },
+  {
+    "team_id": 331,
+    "school": "Eastern Washington",
+    "unitid": 235097,
+    "institution": "Eastern Washington University",
+    "directory_year": 2024,
+    "city": "Cheney",
+    "state": "WA"
+  },
+  {
+    "team_id": 333,
+    "school": "Alabama",
+    "unitid": 100751,
+    "institution": "The University of Alabama",
+    "directory_year": 2024,
+    "city": "Tuscaloosa",
+    "state": "AL"
+  },
+  {
+    "team_id": 338,
+    "school": "Kennesaw State",
+    "unitid": 486840,
+    "institution": "Kennesaw State University",
+    "directory_year": 2024,
+    "city": "Kennesaw",
+    "state": "GA"
+  },
+  {
+    "team_id": 344,
+    "school": "Mississippi State",
+    "unitid": 176080,
+    "institution": "Mississippi State University",
+    "directory_year": 2024,
+    "city": "Mississippi State",
+    "state": "MS"
+  },
+  {
+    "team_id": 349,
+    "school": "Army",
+    "unitid": 197036,
+    "institution": "United States Military Academy",
+    "directory_year": 2024,
+    "city": "West  Point",
+    "state": "NY"
+  },
+  {
+    "team_id": 356,
+    "school": "Illinois",
+    "unitid": 145637,
+    "institution": "University of Illinois Urbana-Champaign",
+    "directory_year": 2024,
+    "city": "Champaign",
+    "state": "IL"
+  },
+  {
+    "team_id": 365,
+    "school": "Alfred",
+    "unitid": 188641,
+    "institution": "Alfred University",
+    "directory_year": 2024,
+    "city": "Alfred",
+    "state": "NY"
+  },
+  {
+    "team_id": 367,
+    "school": "Gannon",
+    "unitid": 212601,
+    "institution": "Gannon University",
+    "directory_year": 2024,
+    "city": "Erie",
+    "state": "PA"
+  },
+  {
+    "team_id": 379,
+    "school": "UMass Dartmouth",
+    "unitid": 167987,
+    "institution": "University of Massachusetts-Dartmouth",
+    "directory_year": 2024,
+    "city": "North Dartmouth",
+    "state": "MA"
+  },
+  {
+    "team_id": 395,
+    "school": "St. Augustine's",
+    "unitid": 199582,
+    "institution": "Saint Augustine's University",
+    "directory_year": 2024,
+    "city": "Raleigh",
+    "state": "NC"
+  },
+  {
+    "team_id": 396,
+    "school": "Wheaton College (Ill)",
+    "unitid": 149781,
+    "institution": "Wheaton College",
+    "directory_year": 2024,
+    "city": "Wheaton",
+    "state": "IL"
+  },
+  {
+    "team_id": 399,
+    "school": "Albany",
+    "unitid": 196060,
+    "institution": "University at Albany",
+    "directory_year": 2024,
+    "city": "Albany",
+    "state": "NY"
+  },
+  {
+    "team_id": 402,
+    "school": "Worcester State College",
+    "unitid": 168430,
+    "institution": "Worcester State University",
+    "directory_year": 2024,
+    "city": "Worcester",
+    "state": "MA"
+  },
+  {
+    "team_id": 437,
+    "school": "Lake Erie College",
+    "unitid": 203580,
+    "institution": "Lake Erie College",
+    "directory_year": 2024,
+    "city": "Painesville",
+    "state": "OH"
+  },
+  {
+    "team_id": 490,
+    "school": "Benedict College",
+    "unitid": 217721,
+    "institution": "Benedict College",
+    "directory_year": 2024,
+    "city": "Columbia",
+    "state": "SC"
+  },
+  {
+    "team_id": 512,
+    "school": "Dakota State",
+    "unitid": 219082,
+    "institution": "Dakota State University",
+    "directory_year": 2024,
+    "city": "Madison",
+    "state": "SD"
+  },
+  {
+    "team_id": 530,
+    "school": "Graceland University",
+    "unitid": 153366,
+    "institution": "Graceland University-Lamoni",
+    "directory_year": 2024,
+    "city": "Lamoni",
+    "state": "IA"
+  },
+  {
+    "team_id": 559,
+    "school": "University of Mary",
+    "unitid": 200217,
+    "institution": "University of Mary",
+    "directory_year": 2024,
+    "city": "Bismarck",
+    "state": "ND"
+  },
+  {
+    "team_id": 587,
+    "school": "Notre Dame College",
+    "unitid": 204468,
+    "institution": "Notre Dame College",
+    "directory_year": 2024,
+    "city": "Cleveland",
+    "state": "OH"
+  },
+  {
+    "team_id": 611,
+    "school": "Seton Hill College",
+    "unitid": 215947,
+    "institution": "Seton Hill University",
+    "directory_year": 2024,
+    "city": "Greensburg",
+    "state": "PA"
+  },
+  {
+    "team_id": 2000,
+    "school": "Abilene Christian",
+    "unitid": 222178,
+    "institution": "Abilene Christian University",
+    "directory_year": 2024,
+    "city": "Abilene",
+    "state": "TX"
+  },
+  {
+    "team_id": 2005,
+    "school": "Air Force",
+    "unitid": 128328,
+    "institution": "United States Air Force Academy",
+    "directory_year": 2024,
+    "city": "USAF Academy",
+    "state": "CO"
+  },
+  {
+    "team_id": 2006,
+    "school": "Akron",
+    "unitid": 200800,
+    "institution": "University of Akron Main Campus",
+    "directory_year": 2024,
+    "city": "Akron",
+    "state": "OH"
+  },
+  {
+    "team_id": 2010,
+    "school": "Alabama A&M",
+    "unitid": 100654,
+    "institution": "Alabama A & M University",
+    "directory_year": 2024,
+    "city": "Normal",
+    "state": "AL"
+  },
+  {
+    "team_id": 2011,
+    "school": "Alabama State",
+    "unitid": 100724,
+    "institution": "Alabama State University",
+    "directory_year": 2024,
+    "city": "Montgomery",
+    "state": "AL"
+  },
+  {
+    "team_id": 2013,
+    "school": "Albany State (GA)",
+    "unitid": 138716,
+    "institution": "Albany State University",
+    "directory_year": 2024,
+    "city": "Albany",
+    "state": "GA"
+  },
+  {
+    "team_id": 2016,
+    "school": "Alcorn State",
+    "unitid": 175342,
+    "institution": "Alcorn State University",
+    "directory_year": 2024,
+    "city": "Alcorn State",
+    "state": "MS"
+  },
+  {
+    "team_id": 2017,
+    "school": "Alderson-Broaddus",
+    "unitid": 237118,
+    "institution": "Alderson Broaddus University",
+    "directory_year": 2021,
+    "city": "Philippi",
+    "state": "WV"
+  },
+  {
+    "team_id": 2018,
+    "school": "Allegheny",
+    "unitid": 210669,
+    "institution": "Allegheny College",
+    "directory_year": 2024,
+    "city": "Meadville",
+    "state": "PA"
+  },
+  {
+    "team_id": 2019,
+    "school": "Allen",
+    "unitid": 217624,
+    "institution": "Allen University",
+    "directory_year": 2024,
+    "city": "Columbia",
+    "state": "SC"
+  },
+  {
+    "team_id": 2022,
+    "school": "American International",
+    "unitid": 164447,
+    "institution": "American International College",
+    "directory_year": 2024,
+    "city": "Springfield",
+    "state": "MA"
+  },
+  {
+    "team_id": 2023,
+    "school": "Anderson (IN)",
+    "unitid": 150066,
+    "institution": "Anderson University",
+    "directory_year": 2024,
+    "city": "Anderson",
+    "state": "IN"
+  },
+  {
+    "team_id": 2025,
+    "school": "Angelo State",
+    "unitid": 222831,
+    "institution": "Angelo State University",
+    "directory_year": 2024,
+    "city": "San Angelo",
+    "state": "TX"
+  },
+  {
+    "team_id": 2026,
+    "school": "Appalachian State",
+    "unitid": 197869,
+    "institution": "Appalachian State University",
+    "directory_year": 2024,
+    "city": "Boone",
+    "state": "NC"
+  },
+  {
+    "team_id": 2028,
+    "school": "Arkansas-Monticello",
+    "unitid": 106485,
+    "institution": "University of Arkansas at Monticello",
+    "directory_year": 2024,
+    "city": "Monticello",
+    "state": "AR"
+  },
+  {
+    "team_id": 2029,
+    "school": "Arkansas-Pine Bluff",
+    "unitid": 106412,
+    "institution": "University of Arkansas at Pine Bluff",
+    "directory_year": 2024,
+    "city": "Pine Bluff",
+    "state": "AR"
+  },
+  {
+    "team_id": 2032,
+    "school": "Arkansas State",
+    "unitid": 106458,
+    "institution": "Arkansas State University",
+    "directory_year": 2024,
+    "city": "Jonesboro",
+    "state": "AR"
+  },
+  {
+    "team_id": 2033,
+    "school": "Arkansas Tech",
+    "unitid": 106467,
+    "institution": "Arkansas Tech University",
+    "directory_year": 2024,
+    "city": "Russellville",
+    "state": "AR"
+  },
+  {
+    "team_id": 2046,
+    "school": "Austin Peay",
+    "unitid": 219602,
+    "institution": "Austin Peay State University",
+    "directory_year": 2024,
+    "city": "Clarksville",
+    "state": "TN"
+  },
+  {
+    "team_id": 2050,
+    "school": "Ball State",
+    "unitid": 150136,
+    "institution": "Ball State University",
+    "directory_year": 2024,
+    "city": "Muncie",
+    "state": "IN"
+  },
+  {
+    "team_id": 2060,
+    "school": "Bentley",
+    "unitid": 164739,
+    "institution": "Bentley University",
+    "directory_year": 2024,
+    "city": "Waltham",
+    "state": "MA"
+  },
+  {
+    "team_id": 2062,
+    "school": "Bethany (WV)",
+    "unitid": 237181,
+    "institution": "Bethany College",
+    "directory_year": 2024,
+    "city": "Bethany",
+    "state": "WV"
+  },
+  {
+    "team_id": 2064,
+    "school": "Bethel (TN)",
+    "unitid": 219718,
+    "institution": "Bethel University",
+    "directory_year": 2024,
+    "city": "McKenzie",
+    "state": "TN"
+  },
+  {
+    "team_id": 2065,
+    "school": "Bethune-Cookman",
+    "unitid": 132602,
+    "institution": "Bethune-Cookman University",
+    "directory_year": 2024,
+    "city": "Daytona Beach",
+    "state": "FL"
+  },
+  {
+    "team_id": 2069,
+    "school": "Black Hills State",
+    "unitid": 219046,
+    "institution": "Black Hills State University",
+    "directory_year": 2024,
+    "city": "Spearfish",
+    "state": "SD"
+  },
+  {
+    "team_id": 2071,
+    "school": "Bloomsburg",
+    "unitid": 211158,
+    "institution": "Bloomsburg University of Pennsylvania",
+    "directory_year": 2021,
+    "city": "Bloomsburg",
+    "state": "PA"
+  },
+  {
+    "team_id": 2075,
+    "school": "Bowie State",
+    "unitid": 162007,
+    "institution": "Bowie State University",
+    "directory_year": 2024,
+    "city": "Bowie",
+    "state": "MD"
+  },
+  {
+    "team_id": 2079,
+    "school": "Bridgewater (VA)",
+    "unitid": 231581,
+    "institution": "Bridgewater College",
+    "directory_year": 2024,
+    "city": "Bridgewater",
+    "state": "VA"
+  },
+  {
+    "team_id": 2083,
+    "school": "Bucknell",
+    "unitid": 211291,
+    "institution": "Bucknell University",
+    "directory_year": 2024,
+    "city": "Lewisburg",
+    "state": "PA"
+  },
+  {
+    "team_id": 2084,
+    "school": "Buffalo",
+    "unitid": 196088,
+    "institution": "University at Buffalo",
+    "directory_year": 2024,
+    "city": "Buffalo",
+    "state": "NY"
+  },
+  {
+    "team_id": 2085,
+    "school": "Buffalo State",
+    "unitid": 196130,
+    "institution": "SUNY Buffalo State University",
+    "directory_year": 2024,
+    "city": "Buffalo",
+    "state": "NY"
+  },
+  {
+    "team_id": 2086,
+    "school": "Butler",
+    "unitid": 150163,
+    "institution": "Butler University",
+    "directory_year": 2024,
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "team_id": 2097,
+    "school": "Campbell",
+    "unitid": 198136,
+    "institution": "Campbell University",
+    "directory_year": 2024,
+    "city": "Buies Creek",
+    "state": "NC"
+  },
+  {
+    "team_id": 2102,
+    "school": "Carnegie Mellon",
+    "unitid": 211440,
+    "institution": "Carnegie Mellon University",
+    "directory_year": 2024,
+    "city": "Pittsburgh",
+    "state": "PA"
+  },
+  {
+    "team_id": 2108,
+    "school": "Catholic University",
+    "unitid": 131283,
+    "institution": "The Catholic University of America",
+    "directory_year": 2024,
+    "city": "Washington",
+    "state": "DC"
+  },
+  {
+    "team_id": 2110,
+    "school": "Central Arkansas",
+    "unitid": 106704,
+    "institution": "University of Central Arkansas",
+    "directory_year": 2024,
+    "city": "Conway",
+    "state": "AR"
+  },
+  {
+    "team_id": 2115,
+    "school": "Central Connecticut",
+    "unitid": 128771,
+    "institution": "Central Connecticut State University",
+    "directory_year": 2024,
+    "city": "New Britain",
+    "state": "CT"
+  },
+  {
+    "team_id": 2116,
+    "school": "UCF",
+    "unitid": 132903,
+    "institution": "University of Central Florida",
+    "directory_year": 2024,
+    "city": "Orlando",
+    "state": "FL"
+  },
+  {
+    "team_id": 2117,
+    "school": "Central Michigan",
+    "unitid": 169248,
+    "institution": "Central Michigan University",
+    "directory_year": 2024,
+    "city": "Mount Pleasant",
+    "state": "MI"
+  },
+  {
+    "team_id": 2119,
+    "school": "Central State",
+    "unitid": 201690,
+    "institution": "Central State University",
+    "directory_year": 2024,
+    "city": "Wilberforce",
+    "state": "OH"
+  },
+  {
+    "team_id": 2120,
+    "school": "Central Washington",
+    "unitid": 234827,
+    "institution": "Central Washington University",
+    "directory_year": 2024,
+    "city": "Ellensburg",
+    "state": "WA"
+  },
+  {
+    "team_id": 2127,
+    "school": "Charleston Southern",
+    "unitid": 217688,
+    "institution": "Charleston Southern University",
+    "directory_year": 2024,
+    "city": "Charleston",
+    "state": "SC"
+  },
+  {
+    "team_id": 2132,
+    "school": "Cincinnati",
+    "unitid": 201885,
+    "institution": "University of Cincinnati-Main Campus",
+    "directory_year": 2024,
+    "city": "Cincinnati",
+    "state": "OH"
+  },
+  {
+    "team_id": 2134,
+    "school": "Clarion",
+    "unitid": 211644,
+    "institution": "Clarion University of Pennsylvania",
+    "directory_year": 2021,
+    "city": "Clarion",
+    "state": "PA"
+  },
+  {
+    "team_id": 2142,
+    "school": "Colgate",
+    "unitid": 190099,
+    "institution": "Colgate University",
+    "directory_year": 2024,
+    "city": "Hamilton",
+    "state": "NY"
+  },
+  {
+    "team_id": 2144,
+    "school": "Colorado College",
+    "unitid": 126678,
+    "institution": "Colorado College",
+    "directory_year": 2024,
+    "city": "Colorado Springs",
+    "state": "CO"
+  },
+  {
+    "team_id": 2148,
+    "school": "Concord",
+    "unitid": 237330,
+    "institution": "Concord University",
+    "directory_year": 2024,
+    "city": "Athens",
+    "state": "WV"
+  },
+  {
+    "team_id": 2155,
+    "school": "Cornell College (IA)",
+    "unitid": 153162,
+    "institution": "Cornell College",
+    "directory_year": 2024,
+    "city": "Mount Vernon",
+    "state": "IA"
+  },
+  {
+    "team_id": 2166,
+    "school": "Davidson",
+    "unitid": 198385,
+    "institution": "Davidson College",
+    "directory_year": 2024,
+    "city": "Davidson",
+    "state": "NC"
+  },
+  {
+    "team_id": 2168,
+    "school": "Dayton",
+    "unitid": 202480,
+    "institution": "University of Dayton",
+    "directory_year": 2024,
+    "city": "Dayton",
+    "state": "OH"
+  },
+  {
+    "team_id": 2169,
+    "school": "Delaware State",
+    "unitid": 130934,
+    "institution": "Delaware State University",
+    "directory_year": 2024,
+    "city": "Dover",
+    "state": "DE"
+  },
+  {
+    "team_id": 2170,
+    "school": "Delta State",
+    "unitid": 175616,
+    "institution": "Delta State University",
+    "directory_year": 2024,
+    "city": "Cleveland",
+    "state": "MS"
+  },
+  {
+    "team_id": 2171,
+    "school": "Denison",
+    "unitid": 202523,
+    "institution": "Denison University",
+    "directory_year": 2024,
+    "city": "Granville",
+    "state": "OH"
+  },
+  {
+    "team_id": 2181,
+    "school": "Drake",
+    "unitid": 153269,
+    "institution": "Drake University",
+    "directory_year": 2024,
+    "city": "Des Moines",
+    "state": "IA"
+  },
+  {
+    "team_id": 2184,
+    "school": "Duquesne",
+    "unitid": 212106,
+    "institution": "Duquesne University",
+    "directory_year": 2024,
+    "city": "Pittsburgh",
+    "state": "PA"
+  },
+  {
+    "team_id": 2188,
+    "school": "East Stroudsburg",
+    "unitid": 212115,
+    "institution": "East Stroudsburg University of Pennsylvania",
+    "directory_year": 2024,
+    "city": "East Stroudsburg",
+    "state": "PA"
+  },
+  {
+    "team_id": 2191,
+    "school": "East Central",
+    "unitid": 207041,
+    "institution": "East Central University",
+    "directory_year": 2024,
+    "city": "Ada",
+    "state": "OK"
+  },
+  {
+    "team_id": 2193,
+    "school": "East Tennessee State",
+    "unitid": 220075,
+    "institution": "East Tennessee State University",
+    "directory_year": 2024,
+    "city": "Johnson City",
+    "state": "TN"
+  },
+  {
+    "team_id": 2197,
+    "school": "Eastern Illinois",
+    "unitid": 144892,
+    "institution": "Eastern Illinois University",
+    "directory_year": 2024,
+    "city": "Charleston",
+    "state": "IL"
+  },
+  {
+    "team_id": 2198,
+    "school": "Eastern Kentucky",
+    "unitid": 156620,
+    "institution": "Eastern Kentucky University",
+    "directory_year": 2024,
+    "city": "Richmond",
+    "state": "KY"
+  },
+  {
+    "team_id": 2199,
+    "school": "Eastern Michigan",
+    "unitid": 169798,
+    "institution": "Eastern Michigan University",
+    "directory_year": 2024,
+    "city": "Ypsilanti",
+    "state": "MI"
+  },
+  {
+    "team_id": 2201,
+    "school": "Eastern New Mexico",
+    "unitid": 187648,
+    "institution": "Eastern New Mexico University-Main Campus",
+    "directory_year": 2024,
+    "city": "Portales",
+    "state": "NM"
+  },
+  {
+    "team_id": 2205,
+    "school": "Edinboro",
+    "unitid": 212160,
+    "institution": "Edinboro University of Pennsylvania",
+    "directory_year": 2021,
+    "city": "Edinboro",
+    "state": "PA"
+  },
+  {
+    "team_id": 2206,
+    "school": "Edward Waters",
+    "unitid": 133526,
+    "institution": "Edward Waters University",
+    "directory_year": 2024,
+    "city": "Jacksonville",
+    "state": "FL"
+  },
+  {
+    "team_id": 2207,
+    "school": "Elizabeth City State",
+    "unitid": 198507,
+    "institution": "Elizabeth City State University",
+    "directory_year": 2024,
+    "city": "Elizabeth City",
+    "state": "NC"
+  },
+  {
+    "team_id": 2210,
+    "school": "Elon",
+    "unitid": 198516,
+    "institution": "Elon University",
+    "directory_year": 2024,
+    "city": "Elon",
+    "state": "NC"
+  },
+  {
+    "team_id": 2220,
+    "school": "Fayetteville State",
+    "unitid": 198543,
+    "institution": "Fayetteville State University",
+    "directory_year": 2024,
+    "city": "Fayetteville",
+    "state": "NC"
+  },
+  {
+    "team_id": 2222,
+    "school": "Ferris State",
+    "unitid": 169910,
+    "institution": "Ferris State University",
+    "directory_year": 2024,
+    "city": "Big Rapids",
+    "state": "MI"
+  },
+  {
+    "team_id": 2224,
+    "school": "Findlay",
+    "unitid": 202763,
+    "institution": "The University of Findlay",
+    "directory_year": 2024,
+    "city": "Findlay",
+    "state": "OH"
+  },
+  {
+    "team_id": 2226,
+    "school": "Florida Atlantic",
+    "unitid": 133669,
+    "institution": "Florida Atlantic University",
+    "directory_year": 2024,
+    "city": "Boca Raton",
+    "state": "FL"
+  },
+  {
+    "team_id": 2229,
+    "school": "Florida International",
+    "unitid": 133951,
+    "institution": "Florida International University",
+    "directory_year": 2024,
+    "city": "Miami",
+    "state": "FL"
+  },
+  {
+    "team_id": 2230,
+    "school": "Fordham",
+    "unitid": 191241,
+    "institution": "Fordham University",
+    "directory_year": 2024,
+    "city": "Bronx",
+    "state": "NY"
+  },
+  {
+    "team_id": 2232,
+    "school": "Fort Valley State",
+    "unitid": 139719,
+    "institution": "Fort Valley State University",
+    "directory_year": 2024,
+    "city": "Fort Valley",
+    "state": "GA"
+  },
+  {
+    "team_id": 2241,
+    "school": "Gardner-Webb",
+    "unitid": 198561,
+    "institution": "Gardner-Webb University",
+    "directory_year": 2024,
+    "city": "Boiling Springs",
+    "state": "NC"
+  },
+  {
+    "team_id": 2242,
+    "school": "Geneva College",
+    "unitid": 212656,
+    "institution": "Geneva College",
+    "directory_year": 2024,
+    "city": "Beaver Falls",
+    "state": "PA"
+  },
+  {
+    "team_id": 2244,
+    "school": "George Mason",
+    "unitid": 232186,
+    "institution": "George Mason University",
+    "directory_year": 2024,
+    "city": "Fairfax",
+    "state": "VA"
+  },
+  {
+    "team_id": 2247,
+    "school": "Georgia State",
+    "unitid": 139940,
+    "institution": "Georgia State University",
+    "directory_year": 2024,
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "team_id": 2261,
+    "school": "Hampton",
+    "unitid": 232265,
+    "institution": "Hampton University",
+    "directory_year": 2024,
+    "city": "Hampton",
+    "state": "VA"
+  },
+  {
+    "team_id": 2264,
+    "school": "Harding",
+    "unitid": 107044,
+    "institution": "Harding University",
+    "directory_year": 2024,
+    "city": "Searcy",
+    "state": "AR"
+  },
+  {
+    "team_id": 2271,
+    "school": "Henderson State",
+    "unitid": 107071,
+    "institution": "Henderson State University",
+    "directory_year": 2024,
+    "city": "Arkadelphia",
+    "state": "AR"
+  },
+  {
+    "team_id": 2273,
+    "school": "Hillsdale",
+    "unitid": 170286,
+    "institution": "Hillsdale College",
+    "directory_year": 2024,
+    "city": "Hillsdale",
+    "state": "MI"
+  },
+  {
+    "team_id": 2275,
+    "school": "Hofstra",
+    "unitid": 191649,
+    "institution": "Hofstra University",
+    "directory_year": 2024,
+    "city": "Hempstead",
+    "state": "NY"
+  },
+  {
+    "team_id": 2277,
+    "school": "Houston Baptist",
+    "unitid": 225399,
+    "institution": "Houston Christian University",
+    "directory_year": 2024,
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "team_id": 2286,
+    "school": "Illinois College",
+    "unitid": 145691,
+    "institution": "Illinois College",
+    "directory_year": 2024,
+    "city": "Jacksonville",
+    "state": "IL"
+  },
+  {
+    "team_id": 2287,
+    "school": "Illinois State",
+    "unitid": 145813,
+    "institution": "Illinois State University",
+    "directory_year": 2024,
+    "city": "Normal",
+    "state": "IL"
+  },
+  {
+    "team_id": 2291,
+    "school": "Indiana (PA)",
+    "unitid": 213020,
+    "institution": "Indiana University of Pennsylvania-Main Campus",
+    "directory_year": 2024,
+    "city": "Indiana",
+    "state": "PA"
+  },
+  {
+    "team_id": 2292,
+    "school": "Indianapolis",
+    "unitid": 151263,
+    "institution": "University of Indianapolis",
+    "directory_year": 2024,
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "team_id": 2294,
+    "school": "Iowa",
+    "unitid": 153658,
+    "institution": "University of Iowa",
+    "directory_year": 2024,
+    "city": "Iowa City",
+    "state": "IA"
+  },
+  {
+    "team_id": 2296,
+    "school": "Jackson State",
+    "unitid": 175856,
+    "institution": "Jackson State University",
+    "directory_year": 2024,
+    "city": "Jackson",
+    "state": "MS"
+  },
+  {
+    "team_id": 2304,
+    "school": "Johnson C Smith",
+    "unitid": 198756,
+    "institution": "Johnson C Smith University",
+    "directory_year": 2024,
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "team_id": 2305,
+    "school": "Kansas",
+    "unitid": 155317,
+    "institution": "University of Kansas",
+    "directory_year": 2024,
+    "city": "Lawrence",
+    "state": "KS"
+  },
+  {
+    "team_id": 2306,
+    "school": "Kansas State",
+    "unitid": 155399,
+    "institution": "Kansas State University",
+    "directory_year": 2024,
+    "city": "Manhattan",
+    "state": "KS"
+  },
+  {
+    "team_id": 2309,
+    "school": "Kent State",
+    "unitid": 203517,
+    "institution": "Kent State University at Kent",
+    "directory_year": 2024,
+    "city": "Kent",
+    "state": "OH"
+  },
+  {
+    "team_id": 2310,
+    "school": "Kentucky State",
+    "unitid": 157058,
+    "institution": "Kentucky State University",
+    "directory_year": 2024,
+    "city": "Frankfort",
+    "state": "KY"
+  },
+  {
+    "team_id": 2315,
+    "school": "Kutztown",
+    "unitid": 213349,
+    "institution": "Kutztown University of Pennsylvania",
+    "directory_year": 2024,
+    "city": "Kutztown",
+    "state": "PA"
+  },
+  {
+    "team_id": 2316,
+    "school": "Kentucky Wesleyan",
+    "unitid": 157076,
+    "institution": "Kentucky Wesleyan College",
+    "directory_year": 2024,
+    "city": "Owensboro",
+    "state": "KY"
+  },
+  {
+    "team_id": 2320,
+    "school": "Lamar",
+    "unitid": 226091,
+    "institution": "Lamar University",
+    "directory_year": 2024,
+    "city": "Beaumont",
+    "state": "TX"
+  },
+  {
+    "team_id": 2323,
+    "school": "Lane",
+    "unitid": 220598,
+    "institution": "Lane College",
+    "directory_year": 2024,
+    "city": "Jackson",
+    "state": "TN"
+  },
+  {
+    "team_id": 2329,
+    "school": "Lehigh",
+    "unitid": 213543,
+    "institution": "Lehigh University",
+    "directory_year": 2024,
+    "city": "Bethlehem",
+    "state": "PA"
+  },
+  {
+    "team_id": 2331,
+    "school": "Lenoir-Rhyne",
+    "unitid": 198835,
+    "institution": "Lenoir-Rhyne University",
+    "directory_year": 2024,
+    "city": "Hickory",
+    "state": "NC"
+  },
+  {
+    "team_id": 2335,
+    "school": "Liberty",
+    "unitid": 232557,
+    "institution": "Liberty University",
+    "directory_year": 2024,
+    "city": "Lynchburg",
+    "state": "VA"
+  },
+  {
+    "team_id": 2339,
+    "school": "Lincoln (PA)",
+    "unitid": 213598,
+    "institution": "Lincoln University",
+    "directory_year": 2024,
+    "city": "Lincoln University",
+    "state": "PA"
+  },
+  {
+    "team_id": 2348,
+    "school": "Louisiana Tech",
+    "unitid": 159647,
+    "institution": "Louisiana Tech University",
+    "directory_year": 2024,
+    "city": "Ruston",
+    "state": "LA"
+  },
+  {
+    "team_id": 2349,
+    "school": "UMass Lowell",
+    "unitid": 166513,
+    "institution": "University of Massachusetts-Lowell",
+    "directory_year": 2024,
+    "city": "Lowell",
+    "state": "MA"
+  },
+  {
+    "team_id": 2359,
+    "school": "Macalester",
+    "unitid": 173902,
+    "institution": "Macalester College",
+    "directory_year": 2024,
+    "city": "Saint Paul",
+    "state": "MN"
+  },
+  {
+    "team_id": 2364,
+    "school": "Minnesota State",
+    "unitid": 173920,
+    "institution": "Minnesota State University-Mankato",
+    "directory_year": 2024,
+    "city": "Mankato",
+    "state": "MN"
+  },
+  {
+    "team_id": 2368,
+    "school": "Marist",
+    "unitid": 192819,
+    "institution": "Marist University",
+    "directory_year": 2024,
+    "city": "Poughkeepsie",
+    "state": "NY"
+  },
+  {
+    "team_id": 2369,
+    "school": "Mars Hill",
+    "unitid": 198899,
+    "institution": "Mars Hill University",
+    "directory_year": 2024,
+    "city": "Mars Hill",
+    "state": "NC"
+  },
+  {
+    "team_id": 2377,
+    "school": "McNeese",
+    "unitid": 159717,
+    "institution": "McNeese State University",
+    "directory_year": 2024,
+    "city": "Lake Charles",
+    "state": "LA"
+  },
+  {
+    "team_id": 2382,
+    "school": "Mercer",
+    "unitid": 140447,
+    "institution": "Mercer University",
+    "directory_year": 2024,
+    "city": "Macon",
+    "state": "GA"
+  },
+  {
+    "team_id": 2383,
+    "school": "Merchant Marine",
+    "unitid": 197027,
+    "institution": "United States Merchant Marine Academy",
+    "directory_year": 2024,
+    "city": "Kings Point",
+    "state": "NY"
+  },
+  {
+    "team_id": 2385,
+    "school": "Mercyhurst",
+    "unitid": 213987,
+    "institution": "Mercyhurst University",
+    "directory_year": 2024,
+    "city": "Erie",
+    "state": "PA"
+  },
+  {
+    "team_id": 2390,
+    "school": "Miami",
+    "unitid": 135726,
+    "institution": "University of Miami",
+    "directory_year": 2024,
+    "city": "Coral Gables",
+    "state": "FL"
+  },
+  {
+    "team_id": 2392,
+    "school": "Michigan Tech",
+    "unitid": 171128,
+    "institution": "Michigan Technological University",
+    "directory_year": 2024,
+    "city": "Houghton",
+    "state": "MI"
+  },
+  {
+    "team_id": 2393,
+    "school": "Middle Tennessee",
+    "unitid": 220978,
+    "institution": "Middle Tennessee State University",
+    "directory_year": 2024,
+    "city": "Murfreesboro",
+    "state": "TN"
+  },
+  {
+    "team_id": 2396,
+    "school": "Miles",
+    "unitid": 101675,
+    "institution": "Miles College",
+    "directory_year": 2024,
+    "city": "Fairfield",
+    "state": "AL"
+  },
+  {
+    "team_id": 2400,
+    "school": "Mississippi Valley State",
+    "unitid": 176044,
+    "institution": "Mississippi Valley State University",
+    "directory_year": 2024,
+    "city": "Itta Bena",
+    "state": "MS"
+  },
+  {
+    "team_id": 2402,
+    "school": "Missouri S&T",
+    "unitid": 178411,
+    "institution": "Missouri University of Science and Technology",
+    "directory_year": 2024,
+    "city": "Rolla",
+    "state": "MO"
+  },
+  {
+    "team_id": 2405,
+    "school": "Monmouth",
+    "unitid": 185572,
+    "institution": "Monmouth University",
+    "directory_year": 2024,
+    "city": "West Long Branch",
+    "state": "NJ"
+  },
+  {
+    "team_id": 2413,
+    "school": "Morehead State",
+    "unitid": 157386,
+    "institution": "Morehead State University",
+    "directory_year": 2024,
+    "city": "Morehead",
+    "state": "KY"
+  },
+  {
+    "team_id": 2415,
+    "school": "Morgan State",
+    "unitid": 163453,
+    "institution": "Morgan State University",
+    "directory_year": 2024,
+    "city": "Baltimore",
+    "state": "MD"
+  },
+  {
+    "team_id": 2422,
+    "school": "Muhlenberg",
+    "unitid": 214175,
+    "institution": "Muhlenberg College",
+    "directory_year": 2024,
+    "city": "Allentown",
+    "state": "PA"
+  },
+  {
+    "team_id": 2424,
+    "school": "New Mexico Highlands",
+    "unitid": 187897,
+    "institution": "New Mexico Highlands University",
+    "directory_year": 2024,
+    "city": "Las Vegas",
+    "state": "NM"
+  },
+  {
+    "team_id": 2426,
+    "school": "Navy",
+    "unitid": 164155,
+    "institution": "United States Naval Academy",
+    "directory_year": 2024,
+    "city": "Annapolis",
+    "state": "MD"
+  },
+  {
+    "team_id": 2428,
+    "school": "North Carolina Central",
+    "unitid": 199157,
+    "institution": "North Carolina Central University",
+    "directory_year": 2024,
+    "city": "Durham",
+    "state": "NC"
+  },
+  {
+    "team_id": 2429,
+    "school": "Charlotte",
+    "unitid": 199139,
+    "institution": "University of North Carolina at Charlotte",
+    "directory_year": 2024,
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  {
+    "team_id": 2433,
+    "school": "Louisiana Monroe",
+    "unitid": 159993,
+    "institution": "University of Louisiana at Monroe",
+    "directory_year": 2024,
+    "city": "Monroe",
+    "state": "LA"
+  },
+  {
+    "team_id": 2437,
+    "school": "Nebraska-Omaha",
+    "unitid": 181394,
+    "institution": "University of Nebraska at Omaha",
+    "directory_year": 2024,
+    "city": "Omaha",
+    "state": "NE"
+  },
+  {
+    "team_id": 2439,
+    "school": "UNLV",
+    "unitid": 182281,
+    "institution": "University of Nevada-Las Vegas",
+    "directory_year": 2024,
+    "city": "Las Vegas",
+    "state": "NV"
+  },
+  {
+    "team_id": 2440,
+    "school": "Nevada",
+    "unitid": 182290,
+    "institution": "University of Nevada-Reno",
+    "directory_year": 2024,
+    "city": "Reno",
+    "state": "NV"
+  },
+  {
+    "team_id": 2441,
+    "school": "New Haven",
+    "unitid": 129941,
+    "institution": "University of New Haven",
+    "directory_year": 2024,
+    "city": "West Haven",
+    "state": "CT"
+  },
+  {
+    "team_id": 2447,
+    "school": "Nicholls",
+    "unitid": 159966,
+    "institution": "Nicholls State University",
+    "directory_year": 2024,
+    "city": "Thibodaux",
+    "state": "LA"
+  },
+  {
+    "team_id": 2448,
+    "school": "North Carolina A&T",
+    "unitid": 199102,
+    "institution": "North Carolina A & T State University",
+    "directory_year": 2024,
+    "city": "Greensboro",
+    "state": "NC"
+  },
+  {
+    "team_id": 2449,
+    "school": "North Dakota State",
+    "unitid": 200332,
+    "institution": "North Dakota State University-Main Campus",
+    "directory_year": 2024,
+    "city": "Fargo",
+    "state": "ND"
+  },
+  {
+    "team_id": 2450,
+    "school": "Norfolk State",
+    "unitid": 232937,
+    "institution": "Norfolk State University",
+    "directory_year": 2024,
+    "city": "Norfolk",
+    "state": "VA"
+  },
+  {
+    "team_id": 2453,
+    "school": "North Alabama",
+    "unitid": 101879,
+    "institution": "University of North Alabama",
+    "directory_year": 2024,
+    "city": "Florence",
+    "state": "AL"
+  },
+  {
+    "team_id": 2458,
+    "school": "Northern Colorado",
+    "unitid": 127741,
+    "institution": "University of Northern Colorado",
+    "directory_year": 2024,
+    "city": "Greeley",
+    "state": "CO"
+  },
+  {
+    "team_id": 2459,
+    "school": "Northern Illinois",
+    "unitid": 147703,
+    "institution": "Northern Illinois University",
+    "directory_year": 2024,
+    "city": "Dekalb",
+    "state": "IL"
+  },
+  {
+    "team_id": 2460,
+    "school": "Northern Iowa",
+    "unitid": 154095,
+    "institution": "University of Northern Iowa",
+    "directory_year": 2024,
+    "city": "Cedar Falls",
+    "state": "IA"
+  },
+  {
+    "team_id": 2464,
+    "school": "Northern Arizona",
+    "unitid": 105330,
+    "institution": "Northern Arizona University",
+    "directory_year": 2024,
+    "city": "Flagstaff",
+    "state": "AZ"
+  },
+  {
+    "team_id": 2466,
+    "school": "Northwestern State",
+    "unitid": 160038,
+    "institution": "Northwestern State University of Louisiana",
+    "directory_year": 2024,
+    "city": "Natchitoches",
+    "state": "LA"
+  },
+  {
+    "team_id": 2467,
+    "school": "Norwich",
+    "unitid": 230995,
+    "institution": "Norwich University",
+    "directory_year": 2024,
+    "city": "Northfield",
+    "state": "VT"
+  },
+  {
+    "team_id": 2477,
+    "school": "Ohio Dominican",
+    "unitid": 204617,
+    "institution": "Ohio Dominican University",
+    "directory_year": 2024,
+    "city": "Columbus",
+    "state": "OH"
+  },
+  {
+    "team_id": 2483,
+    "school": "Oregon",
+    "unitid": 209551,
+    "institution": "University of Oregon",
+    "directory_year": 2024,
+    "city": "Eugene",
+    "state": "OR"
+  },
+  {
+    "team_id": 2502,
+    "school": "Portland State",
+    "unitid": 209807,
+    "institution": "Portland State University",
+    "directory_year": 2024,
+    "city": "Portland",
+    "state": "OR"
+  },
+  {
+    "team_id": 2504,
+    "school": "Prairie View",
+    "unitid": 227526,
+    "institution": "Prairie View A & M University",
+    "directory_year": 2024,
+    "city": "Prairie View",
+    "state": "TX"
+  },
+  {
+    "team_id": 2506,
+    "school": "Presbyterian College",
+    "unitid": 218539,
+    "institution": "Presbyterian College",
+    "directory_year": 2024,
+    "city": "Clinton",
+    "state": "SC"
+  },
+  {
+    "team_id": 2509,
+    "school": "Purdue",
+    "unitid": 243780,
+    "institution": "Purdue University-Main Campus",
+    "directory_year": 2024,
+    "city": "West Lafayette",
+    "state": "IN"
+  },
+  {
+    "team_id": 2523,
+    "school": "Robert Morris",
+    "unitid": 215655,
+    "institution": "Robert Morris University",
+    "directory_year": 2024,
+    "city": "Moon Township",
+    "state": "PA"
+  },
+  {
+    "team_id": 2528,
+    "school": "Rensselaer",
+    "unitid": 194824,
+    "institution": "Rensselaer Polytechnic Institute",
+    "directory_year": 2024,
+    "city": "Troy",
+    "state": "NY"
+  },
+  {
+    "team_id": 2529,
+    "school": "Sacred Heart",
+    "unitid": 130253,
+    "institution": "Sacred Heart University",
+    "directory_year": 2024,
+    "city": "Fairfield",
+    "state": "CT"
+  },
+  {
+    "team_id": 2534,
+    "school": "Sam Houston State",
+    "unitid": 227881,
+    "institution": "Sam Houston State University",
+    "directory_year": 2024,
+    "city": "Huntsville",
+    "state": "TX"
+  },
+  {
+    "team_id": 2535,
+    "school": "Samford",
+    "unitid": 102049,
+    "institution": "Samford University",
+    "directory_year": 2024,
+    "city": "Birmingham",
+    "state": "AL"
+  },
+  {
+    "team_id": 2542,
+    "school": "Savannah State",
+    "unitid": 140960,
+    "institution": "Savannah State University",
+    "directory_year": 2024,
+    "city": "Savannah",
+    "state": "GA"
+  },
+  {
+    "team_id": 2545,
+    "school": "Southeastern Louisiana",
+    "unitid": 160612,
+    "institution": "Southeastern Louisiana University",
+    "directory_year": 2024,
+    "city": "Hammond",
+    "state": "LA"
+  },
+  {
+    "team_id": 2546,
+    "school": "Southeast Missouri State",
+    "unitid": 179557,
+    "institution": "Southeast Missouri State University",
+    "directory_year": 2024,
+    "city": "Cape Girardeau",
+    "state": "MO"
+  },
+  {
+    "team_id": 2551,
+    "school": "Shaw",
+    "unitid": 199643,
+    "institution": "Shaw University",
+    "directory_year": 2024,
+    "city": "Raleigh",
+    "state": "NC"
+  },
+  {
+    "team_id": 2557,
+    "school": "Coast Guard",
+    "unitid": 130624,
+    "institution": "United States Coast Guard Academy",
+    "directory_year": 2024,
+    "city": "New London",
+    "state": "CT"
+  },
+  {
+    "team_id": 2559,
+    "school": "Shippensburg",
+    "unitid": 216010,
+    "institution": "Shippensburg University of Pennsylvania",
+    "directory_year": 2024,
+    "city": "Shippensburg",
+    "state": "PA"
+  },
+  {
+    "team_id": 2560,
+    "school": "Shorter",
+    "unitid": 140988,
+    "institution": "Shorter University",
+    "directory_year": 2024,
+    "city": "Rome",
+    "state": "GA"
+  },
+  {
+    "team_id": 2567,
+    "school": "SMU",
+    "unitid": 228246,
+    "institution": "Southern Methodist University",
+    "directory_year": 2024,
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "team_id": 2568,
+    "school": "Southern Arkansas",
+    "unitid": 107983,
+    "institution": "Southern Arkansas University Main Campus",
+    "directory_year": 2024,
+    "city": "Magnolia",
+    "state": "AR"
+  },
+  {
+    "team_id": 2569,
+    "school": "South Carolina State",
+    "unitid": 218733,
+    "institution": "South Carolina State University",
+    "directory_year": 2024,
+    "city": "Orangeburg",
+    "state": "SC"
+  },
+  {
+    "team_id": 2571,
+    "school": "South Dakota State",
+    "unitid": 219356,
+    "institution": "South Dakota State University",
+    "directory_year": 2024,
+    "city": "Brookings",
+    "state": "SD"
+  },
+  {
+    "team_id": 2572,
+    "school": "Southern Mississippi",
+    "unitid": 176372,
+    "institution": "University of Southern Mississippi",
+    "directory_year": 2024,
+    "city": "Hattiesburg",
+    "state": "MS"
+  },
+  {
+    "team_id": 2579,
+    "school": "South Carolina",
+    "unitid": 218663,
+    "institution": "University of South Carolina-Columbia",
+    "directory_year": 2024,
+    "city": "Columbia",
+    "state": "SC"
+  },
+  {
+    "team_id": 2582,
+    "school": "Southern",
+    "unitid": 160621,
+    "institution": "Southern University and A & M College",
+    "directory_year": 2024,
+    "city": "Baton Rouge",
+    "state": "LA"
+  },
+  {
+    "team_id": 2584,
+    "school": "Southern Oregon",
+    "unitid": 210146,
+    "institution": "Southern Oregon University",
+    "directory_year": 2024,
+    "city": "Ashland",
+    "state": "OR"
+  },
+  {
+    "team_id": 2586,
+    "school": "Southwest Baptist",
+    "unitid": 179326,
+    "institution": "Southwest Baptist University",
+    "directory_year": 2024,
+    "city": "Bolivar",
+    "state": "MO"
+  },
+  {
+    "team_id": 2591,
+    "school": "St. Ambrose",
+    "unitid": 154235,
+    "institution": "Saint Ambrose University",
+    "directory_year": 2024,
+    "city": "Davenport",
+    "state": "IA"
+  },
+  {
+    "team_id": 2594,
+    "school": "St. Cloud State",
+    "unitid": 174783,
+    "institution": "Saint Cloud State University",
+    "directory_year": 2024,
+    "city": "Saint Cloud",
+    "state": "MN"
+  },
+  {
+    "team_id": 2598,
+    "school": "St Francis (PA)",
+    "unitid": 215743,
+    "institution": "Saint Francis University",
+    "directory_year": 2024,
+    "city": "Loretto",
+    "state": "PA"
+  },
+  {
+    "team_id": 2600,
+    "school": "St. Johns (MN)",
+    "unitid": 174792,
+    "institution": "Saint Johns University",
+    "directory_year": 2024,
+    "city": "Collegeville",
+    "state": "MN"
+  },
+  {
+    "team_id": 2612,
+    "school": "St. Peter's",
+    "unitid": 186432,
+    "institution": "Saint Peter's University",
+    "directory_year": 2024,
+    "city": "Jersey City",
+    "state": "NJ"
+  },
+  {
+    "team_id": 2614,
+    "school": "St. Vincent",
+    "unitid": 215798,
+    "institution": "Saint Vincent College",
+    "directory_year": 2024,
+    "city": "Latrobe",
+    "state": "PA"
+  },
+  {
+    "team_id": 2617,
+    "school": "Stephen F. Austin",
+    "unitid": 228431,
+    "institution": "Stephen F Austin State University",
+    "directory_year": 2024,
+    "city": "Nacogdoches",
+    "state": "TX"
+  },
+  {
+    "team_id": 2619,
+    "school": "Stony Brook",
+    "unitid": 196097,
+    "institution": "Stony Brook University",
+    "directory_year": 2024,
+    "city": "Stony Brook",
+    "state": "NY"
+  },
+  {
+    "team_id": 2623,
+    "school": "Missouri State",
+    "unitid": 179566,
+    "institution": "Missouri State University-Springfield",
+    "directory_year": 2024,
+    "city": "Springfield",
+    "state": "MO"
+  },
+  {
+    "team_id": 2627,
+    "school": "Tarleton State",
+    "unitid": 228529,
+    "institution": "Tarleton State University",
+    "directory_year": 2024,
+    "city": "Stephenville",
+    "state": "TX"
+  },
+  {
+    "team_id": 2628,
+    "school": "TCU",
+    "unitid": 228875,
+    "institution": "Texas Christian University",
+    "directory_year": 2024,
+    "city": "Fort Worth",
+    "state": "TX"
+  },
+  {
+    "team_id": 2630,
+    "school": "UT Martin",
+    "unitid": 221768,
+    "institution": "The University of Tennessee-Martin",
+    "directory_year": 2024,
+    "city": "Martin",
+    "state": "TN"
+  },
+  {
+    "team_id": 2633,
+    "school": "Tennessee",
+    "unitid": 221759,
+    "institution": "The University of Tennessee-Knoxville",
+    "directory_year": 2024,
+    "city": "Knoxville",
+    "state": "TN"
+  },
+  {
+    "team_id": 2634,
+    "school": "Tennessee State",
+    "unitid": 221838,
+    "institution": "Tennessee State University",
+    "directory_year": 2024,
+    "city": "Nashville",
+    "state": "TN"
+  },
+  {
+    "team_id": 2635,
+    "school": "Tennessee Tech",
+    "unitid": 221847,
+    "institution": "Tennessee Technological University",
+    "directory_year": 2024,
+    "city": "Cookeville",
+    "state": "TN"
+  },
+  {
+    "team_id": 2636,
+    "school": "UT San Antonio",
+    "unitid": 229027,
+    "institution": "The University of Texas at San Antonio",
+    "directory_year": 2024,
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "team_id": 2638,
+    "school": "UTEP",
+    "unitid": 228796,
+    "institution": "The University of Texas at El Paso",
+    "directory_year": 2024,
+    "city": "El Paso",
+    "state": "TX"
+  },
+  {
+    "team_id": 2640,
+    "school": "Texas Southern",
+    "unitid": 229063,
+    "institution": "Texas Southern University",
+    "directory_year": 2024,
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "team_id": 2641,
+    "school": "Texas Tech",
+    "unitid": 229115,
+    "institution": "Texas Tech University",
+    "directory_year": 2024,
+    "city": "Lubbock",
+    "state": "TX"
+  },
+  {
+    "team_id": 2643,
+    "school": "The Citadel",
+    "unitid": 217864,
+    "institution": "Citadel Military College of South Carolina",
+    "directory_year": 2024,
+    "city": "Charleston",
+    "state": "SC"
+  },
+  {
+    "team_id": 2644,
+    "school": "Thiel College",
+    "unitid": 216357,
+    "institution": "Thiel College",
+    "directory_year": 2024,
+    "city": "Greenville",
+    "state": "PA"
+  },
+  {
+    "team_id": 2649,
+    "school": "Toledo",
+    "unitid": 206084,
+    "institution": "University of Toledo",
+    "directory_year": 2024,
+    "city": "Toledo",
+    "state": "OH"
+  },
+  {
+    "team_id": 2652,
+    "school": "Trinity (IL)",
+    "unitid": 149514,
+    "institution": "Trinity International University-Illinois",
+    "directory_year": 2024,
+    "city": "Deerfield",
+    "state": "IL"
+  },
+  {
+    "team_id": 2653,
+    "school": "Troy",
+    "unitid": 102368,
+    "institution": "Troy University",
+    "directory_year": 2024,
+    "city": "Troy",
+    "state": "AL"
+  },
+  {
+    "team_id": 2654,
+    "school": "Truman State",
+    "unitid": 178615,
+    "institution": "Truman State University",
+    "directory_year": 2024,
+    "city": "Kirksville",
+    "state": "MO"
+  },
+  {
+    "team_id": 2655,
+    "school": "Tulane",
+    "unitid": 160755,
+    "institution": "Tulane University of Louisiana",
+    "directory_year": 2024,
+    "city": "New Orleans",
+    "state": "LA"
+  },
+  {
+    "team_id": 2657,
+    "school": "Tuskegee",
+    "unitid": 102377,
+    "institution": "Tuskegee University",
+    "directory_year": 2024,
+    "city": "Tuskegee",
+    "state": "AL"
+  },
+  {
+    "team_id": 2658,
+    "school": "Texas A&M-Kingsville",
+    "unitid": 228705,
+    "institution": "Texas A&M University-Kingsville",
+    "directory_year": 2024,
+    "city": "Kingsville",
+    "state": "TX"
+  },
+  {
+    "team_id": 2673,
+    "school": "Valdosta State",
+    "unitid": 141264,
+    "institution": "Valdosta State University",
+    "directory_year": 2024,
+    "city": "Valdosta",
+    "state": "GA"
+  },
+  {
+    "team_id": 2674,
+    "school": "Valparaiso",
+    "unitid": 152600,
+    "institution": "Valparaiso University",
+    "directory_year": 2024,
+    "city": "Valparaiso",
+    "state": "IN"
+  },
+  {
+    "team_id": 2676,
+    "school": "Virginia Union",
+    "unitid": 234164,
+    "institution": "Virginia Union University",
+    "directory_year": 2024,
+    "city": "Richmond",
+    "state": "VA"
+  },
+  {
+    "team_id": 2678,
+    "school": "VMI",
+    "unitid": 234085,
+    "institution": "Virginia Military Institute",
+    "directory_year": 2024,
+    "city": "Lexington",
+    "state": "VA"
+  },
+  {
+    "team_id": 2681,
+    "school": "Wagner",
+    "unitid": 197197,
+    "institution": "Wagner College",
+    "directory_year": 2024,
+    "city": "Staten Island",
+    "state": "NY"
+  },
+  {
+    "team_id": 2686,
+    "school": "Washington & Jefferson",
+    "unitid": 216667,
+    "institution": "Washington & Jefferson College",
+    "directory_year": 2024,
+    "city": "Washington",
+    "state": "PA"
+  },
+  {
+    "team_id": 2692,
+    "school": "Weber State",
+    "unitid": 230782,
+    "institution": "Weber State University",
+    "directory_year": 2024,
+    "city": "Ogden",
+    "state": "UT"
+  },
+  {
+    "team_id": 2695,
+    "school": "West Alabama",
+    "unitid": 101587,
+    "institution": "University of West Alabama",
+    "directory_year": 2024,
+    "city": "Livingston",
+    "state": "AL"
+  },
+  {
+    "team_id": 2701,
+    "school": "Montana-Western",
+    "unitid": 180692,
+    "institution": "The University of Montana-Western",
+    "directory_year": 2024,
+    "city": "Dillon",
+    "state": "MT"
+  },
+  {
+    "team_id": 2703,
+    "school": "Western New Mexico",
+    "unitid": 188304,
+    "institution": "Western New Mexico University",
+    "directory_year": 2024,
+    "city": "Silver City",
+    "state": "NM"
+  },
+  {
+    "team_id": 2704,
+    "school": "West Texas A&M",
+    "unitid": 229814,
+    "institution": "West Texas A & M University",
+    "directory_year": 2024,
+    "city": "Canyon",
+    "state": "TX"
+  },
+  {
+    "team_id": 2706,
+    "school": "West Virginia Tech",
+    "unitid": 237950,
+    "institution": "West Virginia University Institute of Technology",
+    "directory_year": 2024,
+    "city": "Beckley",
+    "state": "WV"
+  },
+  {
+    "team_id": 2710,
+    "school": "Western Illinois",
+    "unitid": 149772,
+    "institution": "Western Illinois University",
+    "directory_year": 2024,
+    "city": "Macomb",
+    "state": "IL"
+  },
+  {
+    "team_id": 2711,
+    "school": "Western Michigan",
+    "unitid": 172699,
+    "institution": "Western Michigan University",
+    "directory_year": 2024,
+    "city": "Kalamazoo",
+    "state": "MI"
+  },
+  {
+    "team_id": 2717,
+    "school": "Western Carolina",
+    "unitid": 200004,
+    "institution": "Western Carolina University",
+    "directory_year": 2024,
+    "city": "Cullowhee",
+    "state": "NC"
+  },
+  {
+    "team_id": 2723,
+    "school": "UW-River Falls",
+    "unitid": 240471,
+    "institution": "University of Wisconsin-River Falls",
+    "directory_year": 2024,
+    "city": "River Falls",
+    "state": "WI"
+  },
+  {
+    "team_id": 2729,
+    "school": "William & Mary",
+    "unitid": 231624,
+    "institution": "William & Mary",
+    "directory_year": 2024,
+    "city": "Williamsburg",
+    "state": "VA"
+  },
+  {
+    "team_id": 2736,
+    "school": "Winston-Salem",
+    "unitid": 199999,
+    "institution": "Winston-Salem State University",
+    "directory_year": 2024,
+    "city": "Winston-Salem",
+    "state": "NC"
+  },
+  {
+    "team_id": 2738,
+    "school": "Wisconsin-Eau Claire",
+    "unitid": 240268,
+    "institution": "University of Wisconsin-Eau Claire",
+    "directory_year": 2024,
+    "city": "Eau Claire",
+    "state": "WI"
+  },
+  {
+    "team_id": 2743,
+    "school": "Wisconsin-Stevens Point",
+    "unitid": 240480,
+    "institution": "University of Wisconsin-Stevens Point",
+    "directory_year": 2024,
+    "city": "Stevens Point",
+    "state": "WI"
+  },
+  {
+    "team_id": 2744,
+    "school": "UW-Stout",
+    "unitid": 240417,
+    "institution": "University of Wisconsin-Stout",
+    "directory_year": 2024,
+    "city": "Menomonie",
+    "state": "WI"
+  },
+  {
+    "team_id": 2745,
+    "school": "UW-Whitewater",
+    "unitid": 240189,
+    "institution": "University of Wisconsin-Whitewater",
+    "directory_year": 2024,
+    "city": "Whitewater",
+    "state": "WI"
+  },
+  {
+    "team_id": 2747,
+    "school": "Wofford",
+    "unitid": 218973,
+    "institution": "Wofford College",
+    "directory_year": 2024,
+    "city": "Spartanburg",
+    "state": "SC"
+  },
+  {
+    "team_id": 2749,
+    "school": "Worcester Polytechnic",
+    "unitid": 168421,
+    "institution": "Worcester Polytechnic Institute",
+    "directory_year": 2024,
+    "city": "Worcester",
+    "state": "MA"
+  },
+  {
+    "team_id": 2750,
+    "school": "Wright State University",
+    "unitid": 206604,
+    "institution": "Wright State University-Main Campus",
+    "directory_year": 2024,
+    "city": "Dayton",
+    "state": "OH"
+  },
+  {
+    "team_id": 2751,
+    "school": "Wyoming",
+    "unitid": 240727,
+    "institution": "University of Wyoming",
+    "directory_year": 2024,
+    "city": "Laramie",
+    "state": "WY"
+  },
+  {
+    "team_id": 2754,
+    "school": "Youngstown State",
+    "unitid": 206695,
+    "institution": "Youngstown State University",
+    "directory_year": 2024,
+    "city": "Youngstown",
+    "state": "OH"
+  },
+  {
+    "team_id": 2755,
+    "school": "Grambling",
+    "unitid": 159009,
+    "institution": "Grambling State University",
+    "directory_year": 2024,
+    "city": "Grambling",
+    "state": "LA"
+  },
+  {
+    "team_id": 2771,
+    "school": "Merrimack",
+    "unitid": 166850,
+    "institution": "Merrimack College",
+    "directory_year": 2024,
+    "city": "North Andover",
+    "state": "MA"
+  },
+  {
+    "team_id": 2779,
+    "school": "St Lawrence",
+    "unitid": 195216,
+    "institution": "St Lawrence University",
+    "directory_year": 2024,
+    "city": "Canton",
+    "state": "NY"
+  },
+  {
+    "team_id": 2790,
+    "school": "Albion",
+    "unitid": 168546,
+    "institution": "Albion College",
+    "directory_year": 2024,
+    "city": "Albion",
+    "state": "MI"
+  },
+  {
+    "team_id": 2803,
+    "school": "Bryant",
+    "unitid": 217165,
+    "institution": "Bryant University",
+    "directory_year": 2024,
+    "city": "Smithfield",
+    "state": "RI"
+  },
+  {
+    "team_id": 2804,
+    "school": "Chowan",
+    "unitid": 198303,
+    "institution": "Chowan University",
+    "directory_year": 2024,
+    "city": "Murfreesboro",
+    "state": "NC"
+  },
+  {
+    "team_id": 2805,
+    "school": "Clark Atlanta",
+    "unitid": 138947,
+    "institution": "Clark Atlanta University",
+    "directory_year": 2024,
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "team_id": 2815,
+    "school": "Lindenwood",
+    "unitid": 177968,
+    "institution": "Lindenwood University",
+    "directory_year": 2024,
+    "city": "Saint Charles",
+    "state": "MO"
+  },
+  {
+    "team_id": 2816,
+    "school": "McKendree",
+    "unitid": 147013,
+    "institution": "McKendree University",
+    "directory_year": 2024,
+    "city": "Lebanon",
+    "state": "IL"
+  },
+  {
+    "team_id": 2817,
+    "school": "Minnesota St-Moorhead",
+    "unitid": 174358,
+    "institution": "Minnesota State University Moorhead",
+    "directory_year": 2024,
+    "city": "Moorhead",
+    "state": "MN"
+  },
+  {
+    "team_id": 2822,
+    "school": "North Greenville",
+    "unitid": 218441,
+    "institution": "North Greenville University",
+    "directory_year": 2024,
+    "city": "Tigerville",
+    "state": "SC"
+  },
+  {
+    "team_id": 2823,
+    "school": "Northwestern Oklahoma State",
+    "unitid": 207306,
+    "institution": "Northwestern Oklahoma State University",
+    "directory_year": 2024,
+    "city": "Alva",
+    "state": "OK"
+  },
+  {
+    "team_id": 2825,
+    "school": "Quincy",
+    "unitid": 148131,
+    "institution": "Quincy University",
+    "directory_year": 2024,
+    "city": "Quincy",
+    "state": "IL"
+  },
+  {
+    "team_id": 2827,
+    "school": "Rowan",
+    "unitid": 184782,
+    "institution": "Rowan University",
+    "directory_year": 2024,
+    "city": "Glassboro",
+    "state": "NJ"
+  },
+  {
+    "team_id": 2828,
+    "school": "Shenandoah",
+    "unitid": 233541,
+    "institution": "Shenandoah University",
+    "directory_year": 2024,
+    "city": "Winchester",
+    "state": "VA"
+  },
+  {
+    "team_id": 2832,
+    "school": "St. Norbert",
+    "unitid": 239716,
+    "institution": "Saint Norbert College",
+    "directory_year": 2024,
+    "city": "De Pere",
+    "state": "WI"
+  },
+  {
+    "team_id": 2834,
+    "school": "Sul Ross State",
+    "unitid": 228501,
+    "institution": "Sul Ross State University",
+    "directory_year": 2024,
+    "city": "Alpine",
+    "state": "TX"
+  },
+  {
+    "team_id": 2837,
+    "school": "Texas A&M-Commerce",
+    "unitid": 224554,
+    "institution": "East Texas A&M University",
+    "directory_year": 2024,
+    "city": "Commerce",
+    "state": "TX"
+  },
+  {
+    "team_id": 2838,
+    "school": "Tiffin",
+    "unitid": 206048,
+    "institution": "Tiffin University",
+    "directory_year": 2024,
+    "city": "Tiffin",
+    "state": "OH"
+  },
+  {
+    "team_id": 2845,
+    "school": "Waynesburg",
+    "unitid": 216694,
+    "institution": "Waynesburg University",
+    "directory_year": 2024,
+    "city": "Waynesburg",
+    "state": "PA"
+  },
+  {
+    "team_id": 2848,
+    "school": "Western Oregon",
+    "unitid": 210429,
+    "institution": "Western Oregon University",
+    "directory_year": 2024,
+    "city": "Monmouth",
+    "state": "OR"
+  },
+  {
+    "team_id": 2849,
+    "school": "Westminster PA",
+    "unitid": 216807,
+    "institution": "Westminster College",
+    "directory_year": 2024,
+    "city": "New Wilmington",
+    "state": "PA"
+  },
+  {
+    "team_id": 2858,
+    "school": "California (PA)",
+    "unitid": 211361,
+    "institution": "California University of Pennsylvania",
+    "directory_year": 2021,
+    "city": "California",
+    "state": "PA"
+  },
+  {
+    "team_id": 2880,
+    "school": "Missouri Baptist",
+    "unitid": 178244,
+    "institution": "Missouri Baptist University",
+    "directory_year": 2024,
+    "city": "Saint Louis",
+    "state": "MO"
+  },
+  {
+    "team_id": 2886,
+    "school": "Northwood (MI)",
+    "unitid": 171492,
+    "institution": "Northwood University",
+    "directory_year": 2024,
+    "city": "Midland",
+    "state": "MI"
+  },
+  {
+    "team_id": 2888,
+    "school": "Ouachita Baptist",
+    "unitid": 107512,
+    "institution": "Ouachita Baptist University",
+    "directory_year": 2024,
+    "city": "Arkadelphia",
+    "state": "AR"
+  },
+  {
+    "team_id": 2891,
+    "school": "Ripon",
+    "unitid": 239628,
+    "institution": "Ripon College",
+    "directory_year": 2024,
+    "city": "Ripon",
+    "state": "WI"
+  },
+  {
+    "team_id": 2900,
+    "school": "St. Thomas (MN)",
+    "unitid": 174914,
+    "institution": "University of St Thomas",
+    "directory_year": 2024,
+    "city": "Saint Paul",
+    "state": "MN"
+  },
+  {
+    "team_id": 2911,
+    "school": "William Jewell College",
+    "unitid": 179955,
+    "institution": "William Jewell College",
+    "directory_year": 2024,
+    "city": "Liberty",
+    "state": "MO"
+  },
+  {
+    "team_id": 2916,
+    "school": "Incarnate Word",
+    "unitid": 225627,
+    "institution": "University of the Incarnate Word",
+    "directory_year": 2024,
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "team_id": 2919,
+    "school": "Monmouth (IL)",
+    "unitid": 147341,
+    "institution": "Monmouth College",
+    "directory_year": 2024,
+    "city": "Monmouth",
+    "state": "IL"
+  },
+  {
+    "team_id": 2927,
+    "school": "Southwestern Oklahoma",
+    "unitid": 207865,
+    "institution": "Southwestern Oklahoma State University",
+    "directory_year": 2024,
+    "city": "Weatherford",
+    "state": "OK"
+  },
+  {
+    "team_id": 2940,
+    "school": "Livingstone",
+    "unitid": 198862,
+    "institution": "Livingstone College",
+    "directory_year": 2024,
+    "city": "Salisbury",
+    "state": "NC"
+  },
+  {
+    "team_id": 2974,
+    "school": "Shepherd",
+    "unitid": 237792,
+    "institution": "Shepherd University",
+    "directory_year": 2024,
+    "city": "Shepherdstown",
+    "state": "WV"
+  },
+  {
+    "team_id": 3101,
+    "school": "Dixie State",
+    "unitid": 230171,
+    "institution": "Utah Tech University",
+    "directory_year": 2024,
+    "city": "Saint George",
+    "state": "UT"
+  },
+  {
+    "team_id": 110243,
+    "school": "UT Permian Basin",
+    "unitid": 229018,
+    "institution": "The University of Texas Permian Basin",
+    "directory_year": 2024,
+    "city": "Odessa",
+    "state": "TX"
+  },
+  {
+    "team_id": 110254,
+    "school": "Davenport",
+    "unitid": 169479,
+    "institution": "Davenport University",
+    "directory_year": 2024,
+    "city": "Grand Rapids",
+    "state": "MI"
+  },
+  {
+    "team_id": 124180,
+    "school": "Bluefield State University",
+    "unitid": 237215,
+    "institution": "Bluefield State University",
+    "directory_year": 2024,
+    "city": "Bluefield",
+    "state": "WV"
+  }
+]

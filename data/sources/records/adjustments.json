@@ -1,0 +1,35 @@
+[
+  {
+    "season": 2020,
+    "team_id": 166,
+    "wins": 1,
+    "losses": 1,
+    "ties": 0,
+    "status": "spring_season",
+    "conference": "FBS Independents",
+    "reason": "ESPN shows 0-0; the school's 2020-21 season consisted of two spring 2021 games, separate from fall 2021.",
+    "source_url": "https://nmstatesports.com/sports/football/stats/2020-21"
+  },
+  {
+    "season": 2020,
+    "team_id": 41,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "status": "did_not_play",
+    "conference": "FBS Independents",
+    "reason": "Canceled all competition for 2020-21; absent from ESPN standings. Explicit zero-game row, no win percentage.",
+    "source_url": "https://uconnhuskies.com/news/2020/8/5/uconn-football-announces-cancellation-of-2020-season-due-to-risks-associated-with-covid-19"
+  },
+  {
+    "season": 2020,
+    "team_id": 295,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "status": "did_not_play",
+    "conference": "Conference USA",
+    "reason": "Canceled 2020 season; absent from ESPN standings. Explicit zero-game row, no win percentage.",
+    "source_url": "https://odusports.com/news/2020/08/10/old-dominion-athletics-announces-cancellation-of-fall-sports-season"
+  }
+]

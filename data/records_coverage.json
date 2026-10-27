@@ -1,0 +1,8401 @@
+{
+  "scope": "FBS membership in each season, 2016–2025; overall records include postseason",
+  "seasons": [
+    {
+      "season": 2016,
+      "teams": 128,
+      "schedule_fbs_teams": 128,
+      "schedule_includes_postseason": false,
+      "missing_from_standings": [],
+      "missing_from_schedule": []
+    },
+    {
+      "season": 2017,
+      "teams": 130,
+      "schedule_fbs_teams": 130,
+      "schedule_includes_postseason": false,
+      "missing_from_standings": [],
+      "missing_from_schedule": []
+    },
+    {
+      "season": 2018,
+      "teams": 130,
+      "schedule_fbs_teams": 130,
+      "schedule_includes_postseason": false,
+      "missing_from_standings": [],
+      "missing_from_schedule": []
+    },
+    {
+      "season": 2019,
+      "teams": 130,
+      "schedule_fbs_teams": 130,
+      "schedule_includes_postseason": false,
+      "missing_from_standings": [],
+      "missing_from_schedule": []
+    },
+    {
+      "season": 2020,
+      "teams": 130,
+      "schedule_fbs_teams": 127,
+      "schedule_includes_postseason": false,
+      "missing_from_standings": [],
+      "missing_from_schedule": [
+        41,
+        166,
+        295
+      ]
+    },
+    {
+      "season": 2021,
+      "teams": 130,
+      "schedule_fbs_teams": 130,
+      "schedule_includes_postseason": false,
+      "missing_from_standings": [],
+      "missing_from_schedule": []
+    },
+    {
+      "season": 2022,
+      "teams": 131,
+      "schedule_fbs_teams": 131,
+      "schedule_includes_postseason": false,
+      "missing_from_standings": [],
+      "missing_from_schedule": []
+    },
+    {
+      "season": 2023,
+      "teams": 133,
+      "schedule_fbs_teams": 133,
+      "schedule_includes_postseason": true,
+      "missing_from_standings": [],
+      "missing_from_schedule": []
+    },
+    {
+      "season": 2024,
+      "teams": 134,
+      "schedule_fbs_teams": 134,
+      "schedule_includes_postseason": true,
+      "missing_from_standings": [],
+      "missing_from_schedule": []
+    },
+    {
+      "season": 2025,
+      "teams": 136,
+      "schedule_fbs_teams": 136,
+      "schedule_includes_postseason": true,
+      "missing_from_standings": [],
+      "missing_from_schedule": []
+    }
+  ],
+  "standings_schedule_differences": [
+    {
+      "season": 2016,
+      "team_id": 58,
+      "school": "South Florida",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 218,
+      "school": "Temple",
+      "record": [
+        10,
+        4,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2116,
+      "school": "UCF",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 202,
+      "school": "Tulsa",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 248,
+      "school": "Houston",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2426,
+      "school": "Navy",
+      "record": [
+        9,
+        5,
+        0
+      ],
+      "schedule": [
+        9,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 235,
+      "school": "Memphis",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 228,
+      "school": "Clemson",
+      "record": [
+        14,
+        1,
+        0
+      ],
+      "schedule": [
+        12,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 52,
+      "school": "Florida State",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 97,
+      "school": "Louisville",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 152,
+      "school": "NC State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 154,
+      "school": "Wake Forest",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 103,
+      "school": "Boston College",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 259,
+      "school": "Virginia Tech",
+      "record": [
+        10,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2390,
+      "school": "Miami",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 59,
+      "school": "Georgia Tech",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 153,
+      "school": "North Carolina",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 221,
+      "school": "Pittsburgh",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 201,
+      "school": "Oklahoma",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 197,
+      "school": "Oklahoma State",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 277,
+      "school": "West Virginia",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2306,
+      "school": "Kansas State",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 239,
+      "school": "Baylor",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2628,
+      "school": "TCU",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 194,
+      "school": "Ohio State",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        11,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 213,
+      "school": "Penn State",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        11,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 130,
+      "school": "Michigan",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 84,
+      "school": "Indiana",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 120,
+      "school": "Maryland",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 275,
+      "school": "Wisconsin",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 158,
+      "school": "Nebraska",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 135,
+      "school": "Minnesota",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2294,
+      "school": "Iowa",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 77,
+      "school": "Northwestern",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 98,
+      "school": "Western Kentucky",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 295,
+      "school": "Old Dominion",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2393,
+      "school": "Middle Tennessee",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2348,
+      "school": "Louisiana Tech",
+      "record": [
+        9,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2572,
+      "school": "Southern Mississippi",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2636,
+      "school": "UT San Antonio",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 249,
+      "school": "North Texas",
+      "record": [
+        5,
+        8,
+        0
+      ],
+      "schedule": [
+        5,
+        7,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 252,
+      "school": "BYU",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 349,
+      "school": "Army",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 195,
+      "school": "Ohio",
+      "record": [
+        8,
+        6,
+        0
+      ],
+      "schedule": [
+        8,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 193,
+      "school": "Miami (OH)",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2711,
+      "school": "Western Michigan",
+      "record": [
+        13,
+        1,
+        0
+      ],
+      "schedule": [
+        13,
+        0,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2649,
+      "school": "Toledo",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2199,
+      "school": "Eastern Michigan",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2117,
+      "school": "Central Michigan",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 68,
+      "school": "Boise State",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2005,
+      "school": "Air Force",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 167,
+      "school": "New Mexico",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2751,
+      "school": "Wyoming",
+      "record": [
+        8,
+        6,
+        0
+      ],
+      "schedule": [
+        8,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 36,
+      "school": "Colorado State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 21,
+      "school": "San Diego State",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 62,
+      "school": "Hawai'i",
+      "record": [
+        7,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        7,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 264,
+      "school": "Washington",
+      "record": [
+        12,
+        2,
+        0
+      ],
+      "schedule": [
+        12,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 24,
+      "school": "Stanford",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 265,
+      "school": "Washington State",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 30,
+      "school": "USC",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 38,
+      "school": "Colorado",
+      "record": [
+        10,
+        4,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 254,
+      "school": "Utah",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 57,
+      "school": "Florida",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2633,
+      "school": "Tennessee",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 61,
+      "school": "Georgia",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 96,
+      "school": "Kentucky",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2579,
+      "school": "South Carolina",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 238,
+      "school": "Vanderbilt",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 333,
+      "school": "Alabama",
+      "record": [
+        14,
+        1,
+        0
+      ],
+      "schedule": [
+        13,
+        0,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 99,
+      "school": "LSU",
+      "record": [
+        8,
+        4,
+        0
+      ],
+      "schedule": [
+        7,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2,
+      "school": "Auburn",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 245,
+      "school": "Texas A&M",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 8,
+      "school": "Arkansas",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 344,
+      "school": "Mississippi State",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        5,
+        7,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2026,
+      "school": "Appalachian State",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2653,
+      "school": "Troy",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 70,
+      "school": "Idaho",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 2032,
+      "school": "Arkansas State",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 309,
+      "school": "Louisiana",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2016,
+      "team_id": 6,
+      "school": "South Alabama",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2116,
+      "school": "UCF",
+      "record": [
+        13,
+        0,
+        0
+      ],
+      "schedule": [
+        12,
+        0,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 58,
+      "school": "South Florida",
+      "record": [
+        10,
+        2,
+        0
+      ],
+      "schedule": [
+        9,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 218,
+      "school": "Temple",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 235,
+      "school": "Memphis",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 248,
+      "school": "Houston",
+      "record": [
+        7,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2426,
+      "school": "Navy",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2567,
+      "school": "SMU",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 228,
+      "school": "Clemson",
+      "record": [
+        12,
+        2,
+        0
+      ],
+      "schedule": [
+        12,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 152,
+      "school": "NC State",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 154,
+      "school": "Wake Forest",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 97,
+      "school": "Louisville",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 103,
+      "school": "Boston College",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 52,
+      "school": "Florida State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2390,
+      "school": "Miami",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 259,
+      "school": "Virginia Tech",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 150,
+      "school": "Duke",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 258,
+      "school": "Virginia",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 201,
+      "school": "Oklahoma",
+      "record": [
+        12,
+        2,
+        0
+      ],
+      "schedule": [
+        12,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2628,
+      "school": "TCU",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 197,
+      "school": "Oklahoma State",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2306,
+      "school": "Kansas State",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 66,
+      "school": "Iowa State",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 251,
+      "school": "Texas",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 277,
+      "school": "West Virginia",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2641,
+      "school": "Texas Tech",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 194,
+      "school": "Ohio State",
+      "record": [
+        12,
+        2,
+        0
+      ],
+      "schedule": [
+        11,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 213,
+      "school": "Penn State",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 127,
+      "school": "Michigan State",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 130,
+      "school": "Michigan",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 275,
+      "school": "Wisconsin",
+      "record": [
+        13,
+        1,
+        0
+      ],
+      "schedule": [
+        12,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 77,
+      "school": "Northwestern",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2294,
+      "school": "Iowa",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2509,
+      "school": "Purdue",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2226,
+      "school": "Florida Atlantic",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2229,
+      "school": "Florida International",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 276,
+      "school": "Marshall",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2393,
+      "school": "Middle Tennessee",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 98,
+      "school": "Western Kentucky",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 249,
+      "school": "North Texas",
+      "record": [
+        9,
+        5,
+        0
+      ],
+      "schedule": [
+        9,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 5,
+      "school": "UAB",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2572,
+      "school": "Southern Mississippi",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2348,
+      "school": "Louisiana Tech",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 349,
+      "school": "Army",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 87,
+      "school": "Notre Dame",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 195,
+      "school": "Ohio",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2006,
+      "school": "Akron",
+      "record": [
+        7,
+        7,
+        0
+      ],
+      "schedule": [
+        7,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2649,
+      "school": "Toledo",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        11,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2117,
+      "school": "Central Michigan",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2459,
+      "school": "Northern Illinois",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 68,
+      "school": "Boise State",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2751,
+      "school": "Wyoming",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 36,
+      "school": "Colorado State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 328,
+      "school": "Utah State",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 21,
+      "school": "San Diego State",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 278,
+      "school": "Fresno State",
+      "record": [
+        10,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 264,
+      "school": "Washington",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 265,
+      "school": "Washington State",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 24,
+      "school": "Stanford",
+      "record": [
+        9,
+        5,
+        0
+      ],
+      "schedule": [
+        9,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2483,
+      "school": "Oregon",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 30,
+      "school": "USC",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        11,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 9,
+      "school": "Arizona State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 12,
+      "school": "Arizona",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 254,
+      "school": "Utah",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 26,
+      "school": "UCLA",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 61,
+      "school": "Georgia",
+      "record": [
+        13,
+        2,
+        0
+      ],
+      "schedule": [
+        12,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2579,
+      "school": "South Carolina",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 96,
+      "school": "Kentucky",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 142,
+      "school": "Missouri",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 333,
+      "school": "Alabama",
+      "record": [
+        13,
+        1,
+        0
+      ],
+      "schedule": [
+        11,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2,
+      "school": "Auburn",
+      "record": [
+        10,
+        4,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 99,
+      "school": "LSU",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 344,
+      "school": "Mississippi State",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 245,
+      "school": "Texas A&M",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2653,
+      "school": "Troy",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2026,
+      "school": "Appalachian State",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2032,
+      "school": "Arkansas State",
+      "record": [
+        7,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 2247,
+      "school": "Georgia State",
+      "record": [
+        7,
+        5,
+        0
+      ],
+      "schedule": [
+        6,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2017,
+      "team_id": 166,
+      "school": "New Mexico State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2116,
+      "school": "UCF",
+      "record": [
+        12,
+        1,
+        0
+      ],
+      "schedule": [
+        12,
+        0,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2132,
+      "school": "Cincinnati",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 218,
+      "school": "Temple",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 58,
+      "school": "South Florida",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 248,
+      "school": "Houston",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 235,
+      "school": "Memphis",
+      "record": [
+        8,
+        6,
+        0
+      ],
+      "schedule": [
+        8,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2655,
+      "school": "Tulane",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 228,
+      "school": "Clemson",
+      "record": [
+        15,
+        0,
+        0
+      ],
+      "schedule": [
+        13,
+        0,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 183,
+      "school": "Syracuse",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 152,
+      "school": "NC State",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 154,
+      "school": "Wake Forest",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 258,
+      "school": "Virginia",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 150,
+      "school": "Duke",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 59,
+      "school": "Georgia Tech",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2390,
+      "school": "Miami",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 221,
+      "school": "Pittsburgh",
+      "record": [
+        7,
+        7,
+        0
+      ],
+      "schedule": [
+        7,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 259,
+      "school": "Virginia Tech",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 201,
+      "school": "Oklahoma",
+      "record": [
+        12,
+        2,
+        0
+      ],
+      "schedule": [
+        12,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 251,
+      "school": "Texas",
+      "record": [
+        10,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 277,
+      "school": "West Virginia",
+      "record": [
+        8,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 66,
+      "school": "Iowa State",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2628,
+      "school": "TCU",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 239,
+      "school": "Baylor",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 197,
+      "school": "Oklahoma State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 194,
+      "school": "Ohio State",
+      "record": [
+        13,
+        1,
+        0
+      ],
+      "schedule": [
+        12,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 130,
+      "school": "Michigan",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 213,
+      "school": "Penn State",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 127,
+      "school": "Michigan State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2294,
+      "school": "Iowa",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 77,
+      "school": "Northwestern",
+      "record": [
+        9,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 275,
+      "school": "Wisconsin",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 135,
+      "school": "Minnesota",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2509,
+      "school": "Purdue",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 276,
+      "school": "Marshall",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2229,
+      "school": "Florida International",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2393,
+      "school": "Middle Tennessee",
+      "record": [
+        8,
+        6,
+        0
+      ],
+      "schedule": [
+        8,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 5,
+      "school": "UAB",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 249,
+      "school": "North Texas",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2348,
+      "school": "Louisiana Tech",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 87,
+      "school": "Notre Dame",
+      "record": [
+        12,
+        1,
+        0
+      ],
+      "schedule": [
+        12,
+        0,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 349,
+      "school": "Army",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 252,
+      "school": "BYU",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2084,
+      "school": "Buffalo",
+      "record": [
+        10,
+        4,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 195,
+      "school": "Ohio",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2459,
+      "school": "Northern Illinois",
+      "record": [
+        8,
+        6,
+        0
+      ],
+      "schedule": [
+        8,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2199,
+      "school": "Eastern Michigan",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2649,
+      "school": "Toledo",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2711,
+      "school": "Western Michigan",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 328,
+      "school": "Utah State",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 278,
+      "school": "Fresno State",
+      "record": [
+        12,
+        2,
+        0
+      ],
+      "schedule": [
+        11,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2440,
+      "school": "Nevada",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 62,
+      "school": "Hawai'i",
+      "record": [
+        8,
+        6,
+        0
+      ],
+      "schedule": [
+        8,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 21,
+      "school": "San Diego State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 265,
+      "school": "Washington State",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 264,
+      "school": "Washington",
+      "record": [
+        10,
+        4,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 24,
+      "school": "Stanford",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2483,
+      "school": "Oregon",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 25,
+      "school": "California",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 254,
+      "school": "Utah",
+      "record": [
+        9,
+        5,
+        0
+      ],
+      "schedule": [
+        9,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 9,
+      "school": "Arizona State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 61,
+      "school": "Georgia",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        11,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 96,
+      "school": "Kentucky",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 57,
+      "school": "Florida",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 142,
+      "school": "Missouri",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2579,
+      "school": "South Carolina",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 238,
+      "school": "Vanderbilt",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 333,
+      "school": "Alabama",
+      "record": [
+        14,
+        1,
+        0
+      ],
+      "schedule": [
+        13,
+        0,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 99,
+      "school": "LSU",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 245,
+      "school": "Texas A&M",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 344,
+      "school": "Mississippi State",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2,
+      "school": "Auburn",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2026,
+      "school": "Appalachian State",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2653,
+      "school": "Troy",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 290,
+      "school": "Georgia Southern",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 2032,
+      "school": "Arkansas State",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2018,
+      "team_id": 309,
+      "school": "Louisiana",
+      "record": [
+        7,
+        7,
+        0
+      ],
+      "schedule": [
+        7,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2132,
+      "school": "Cincinnati",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2116,
+      "school": "UCF",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 218,
+      "school": "Temple",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 235,
+      "school": "Memphis",
+      "record": [
+        12,
+        2,
+        0
+      ],
+      "schedule": [
+        12,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2426,
+      "school": "Navy",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2567,
+      "school": "SMU",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2655,
+      "school": "Tulane",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 228,
+      "school": "Clemson",
+      "record": [
+        14,
+        1,
+        0
+      ],
+      "schedule": [
+        13,
+        0,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 97,
+      "school": "Louisville",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 154,
+      "school": "Wake Forest",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 52,
+      "school": "Florida State",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 103,
+      "school": "Boston College",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 258,
+      "school": "Virginia",
+      "record": [
+        9,
+        5,
+        0
+      ],
+      "schedule": [
+        9,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 259,
+      "school": "Virginia Tech",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 221,
+      "school": "Pittsburgh",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 153,
+      "school": "North Carolina",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2390,
+      "school": "Miami",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 201,
+      "school": "Oklahoma",
+      "record": [
+        12,
+        2,
+        0
+      ],
+      "schedule": [
+        12,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 239,
+      "school": "Baylor",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        11,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 251,
+      "school": "Texas",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 197,
+      "school": "Oklahoma State",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2306,
+      "school": "Kansas State",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 66,
+      "school": "Iowa State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 194,
+      "school": "Ohio State",
+      "record": [
+        13,
+        1,
+        0
+      ],
+      "schedule": [
+        13,
+        0,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 213,
+      "school": "Penn State",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 130,
+      "school": "Michigan",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 84,
+      "school": "Indiana",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 127,
+      "school": "Michigan State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 135,
+      "school": "Minnesota",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2294,
+      "school": "Iowa",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 275,
+      "school": "Wisconsin",
+      "record": [
+        10,
+        4,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 356,
+      "school": "Illinois",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2226,
+      "school": "Florida Atlantic",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 98,
+      "school": "Western Kentucky",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 276,
+      "school": "Marshall",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2429,
+      "school": "Charlotte",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2229,
+      "school": "Florida International",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2348,
+      "school": "Louisiana Tech",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 5,
+      "school": "UAB",
+      "record": [
+        9,
+        5,
+        0
+      ],
+      "schedule": [
+        9,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2572,
+      "school": "Southern Mississippi",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 87,
+      "school": "Notre Dame",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2335,
+      "school": "Liberty",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 252,
+      "school": "BYU",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2084,
+      "school": "Buffalo",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 193,
+      "school": "Miami (OH)",
+      "record": [
+        8,
+        6,
+        0
+      ],
+      "schedule": [
+        8,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 195,
+      "school": "Ohio",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2309,
+      "school": "Kent State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2117,
+      "school": "Central Michigan",
+      "record": [
+        8,
+        6,
+        0
+      ],
+      "schedule": [
+        8,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2711,
+      "school": "Western Michigan",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2199,
+      "school": "Eastern Michigan",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 68,
+      "school": "Boise State",
+      "record": [
+        12,
+        2,
+        0
+      ],
+      "schedule": [
+        12,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2005,
+      "school": "Air Force",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2751,
+      "school": "Wyoming",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 328,
+      "school": "Utah State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 21,
+      "school": "San Diego State",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 62,
+      "school": "Hawai'i",
+      "record": [
+        10,
+        5,
+        0
+      ],
+      "schedule": [
+        9,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2440,
+      "school": "Nevada",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2483,
+      "school": "Oregon",
+      "record": [
+        12,
+        2,
+        0
+      ],
+      "schedule": [
+        11,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 25,
+      "school": "California",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 264,
+      "school": "Washington",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 265,
+      "school": "Washington State",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 254,
+      "school": "Utah",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        11,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 30,
+      "school": "USC",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 9,
+      "school": "Arizona State",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 61,
+      "school": "Georgia",
+      "record": [
+        12,
+        2,
+        0
+      ],
+      "schedule": [
+        11,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 57,
+      "school": "Florida",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2633,
+      "school": "Tennessee",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 96,
+      "school": "Kentucky",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 99,
+      "school": "LSU",
+      "record": [
+        15,
+        0,
+        0
+      ],
+      "schedule": [
+        13,
+        0,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 333,
+      "school": "Alabama",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2,
+      "school": "Auburn",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 245,
+      "school": "Texas A&M",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 344,
+      "school": "Mississippi State",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2026,
+      "school": "Appalachian State",
+      "record": [
+        13,
+        1,
+        0
+      ],
+      "schedule": [
+        12,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 290,
+      "school": "Georgia Southern",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2247,
+      "school": "Georgia State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 309,
+      "school": "Louisiana",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2019,
+      "team_id": 2032,
+      "school": "Arkansas State",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 2132,
+      "school": "Cincinnati",
+      "record": [
+        9,
+        1,
+        0
+      ],
+      "schedule": [
+        9,
+        0,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 235,
+      "school": "Memphis",
+      "record": [
+        8,
+        3,
+        0
+      ],
+      "schedule": [
+        7,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 202,
+      "school": "Tulsa",
+      "record": [
+        6,
+        3,
+        0
+      ],
+      "schedule": [
+        6,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 2116,
+      "school": "UCF",
+      "record": [
+        6,
+        4,
+        0
+      ],
+      "schedule": [
+        6,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 2655,
+      "school": "Tulane",
+      "record": [
+        6,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 248,
+      "school": "Houston",
+      "record": [
+        3,
+        5,
+        0
+      ],
+      "schedule": [
+        3,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 87,
+      "school": "Notre Dame",
+      "record": [
+        10,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 228,
+      "school": "Clemson",
+      "record": [
+        10,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 2390,
+      "school": "Miami",
+      "record": [
+        8,
+        3,
+        0
+      ],
+      "schedule": [
+        8,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 153,
+      "school": "North Carolina",
+      "record": [
+        8,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 152,
+      "school": "NC State",
+      "record": [
+        8,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 154,
+      "school": "Wake Forest",
+      "record": [
+        4,
+        5,
+        0
+      ],
+      "schedule": [
+        4,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 201,
+      "school": "Oklahoma",
+      "record": [
+        9,
+        2,
+        0
+      ],
+      "schedule": [
+        8,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 66,
+      "school": "Iowa State",
+      "record": [
+        9,
+        3,
+        0
+      ],
+      "schedule": [
+        8,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 197,
+      "school": "Oklahoma State",
+      "record": [
+        8,
+        3,
+        0
+      ],
+      "schedule": [
+        7,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 251,
+      "school": "Texas",
+      "record": [
+        7,
+        3,
+        0
+      ],
+      "schedule": [
+        6,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 277,
+      "school": "West Virginia",
+      "record": [
+        6,
+        4,
+        0
+      ],
+      "schedule": [
+        5,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 194,
+      "school": "Ohio State",
+      "record": [
+        7,
+        1,
+        0
+      ],
+      "schedule": [
+        6,
+        0,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 84,
+      "school": "Indiana",
+      "record": [
+        6,
+        2,
+        0
+      ],
+      "schedule": [
+        6,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 77,
+      "school": "Northwestern",
+      "record": [
+        7,
+        2,
+        0
+      ],
+      "schedule": [
+        6,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 275,
+      "school": "Wisconsin",
+      "record": [
+        4,
+        3,
+        0
+      ],
+      "schedule": [
+        3,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 276,
+      "school": "Marshall",
+      "record": [
+        7,
+        3,
+        0
+      ],
+      "schedule": [
+        7,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 2226,
+      "school": "Florida Atlantic",
+      "record": [
+        5,
+        4,
+        0
+      ],
+      "schedule": [
+        5,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 98,
+      "school": "Western Kentucky",
+      "record": [
+        5,
+        7,
+        0
+      ],
+      "schedule": [
+        5,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 2636,
+      "school": "UT San Antonio",
+      "record": [
+        7,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 2348,
+      "school": "Louisiana Tech",
+      "record": [
+        5,
+        5,
+        0
+      ],
+      "schedule": [
+        5,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 249,
+      "school": "North Texas",
+      "record": [
+        4,
+        6,
+        0
+      ],
+      "schedule": [
+        4,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 252,
+      "school": "BYU",
+      "record": [
+        11,
+        1,
+        0
+      ],
+      "schedule": [
+        10,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 2335,
+      "school": "Liberty",
+      "record": [
+        10,
+        1,
+        0
+      ],
+      "schedule": [
+        9,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 349,
+      "school": "Army",
+      "record": [
+        9,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 166,
+      "school": "New Mexico State",
+      "record": [
+        1,
+        1,
+        0
+      ],
+      "schedule": [
+        0,
+        0,
+        0
+      ],
+      "reason": "Spring games absent from schedule archive"
+    },
+    {
+      "season": 2020,
+      "team_id": 2084,
+      "school": "Buffalo",
+      "record": [
+        6,
+        1,
+        0
+      ],
+      "schedule": [
+        5,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 2050,
+      "school": "Ball State",
+      "record": [
+        7,
+        1,
+        0
+      ],
+      "schedule": [
+        6,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 23,
+      "school": "San José State",
+      "record": [
+        7,
+        1,
+        0
+      ],
+      "schedule": [
+        7,
+        0,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 2440,
+      "school": "Nevada",
+      "record": [
+        7,
+        2,
+        0
+      ],
+      "schedule": [
+        6,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 62,
+      "school": "Hawai'i",
+      "record": [
+        5,
+        4,
+        0
+      ],
+      "schedule": [
+        4,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 2483,
+      "school": "Oregon",
+      "record": [
+        4,
+        3,
+        0
+      ],
+      "schedule": [
+        4,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 38,
+      "school": "Colorado",
+      "record": [
+        4,
+        2,
+        0
+      ],
+      "schedule": [
+        4,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 61,
+      "school": "Georgia",
+      "record": [
+        8,
+        2,
+        0
+      ],
+      "schedule": [
+        7,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 57,
+      "school": "Florida",
+      "record": [
+        8,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 96,
+      "school": "Kentucky",
+      "record": [
+        5,
+        6,
+        0
+      ],
+      "schedule": [
+        4,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 333,
+      "school": "Alabama",
+      "record": [
+        13,
+        0,
+        0
+      ],
+      "schedule": [
+        11,
+        0,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 245,
+      "school": "Texas A&M",
+      "record": [
+        9,
+        1,
+        0
+      ],
+      "schedule": [
+        8,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 2,
+      "school": "Auburn",
+      "record": [
+        6,
+        5,
+        0
+      ],
+      "schedule": [
+        6,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 145,
+      "school": "Ole Miss",
+      "record": [
+        5,
+        5,
+        0
+      ],
+      "schedule": [
+        4,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 344,
+      "school": "Mississippi State",
+      "record": [
+        4,
+        7,
+        0
+      ],
+      "schedule": [
+        3,
+        7,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 324,
+      "school": "Coastal Carolina",
+      "record": [
+        11,
+        1,
+        0
+      ],
+      "schedule": [
+        11,
+        0,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 2026,
+      "school": "Appalachian State",
+      "record": [
+        9,
+        3,
+        0
+      ],
+      "schedule": [
+        8,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 290,
+      "school": "Georgia Southern",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 2247,
+      "school": "Georgia State",
+      "record": [
+        6,
+        4,
+        0
+      ],
+      "schedule": [
+        5,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2020,
+      "team_id": 309,
+      "school": "Louisiana",
+      "record": [
+        10,
+        1,
+        0
+      ],
+      "schedule": [
+        9,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2132,
+      "school": "Cincinnati",
+      "record": [
+        13,
+        1,
+        0
+      ],
+      "schedule": [
+        13,
+        0,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 248,
+      "school": "Houston",
+      "record": [
+        12,
+        2,
+        0
+      ],
+      "schedule": [
+        11,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2116,
+      "school": "UCF",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 202,
+      "school": "Tulsa",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 154,
+      "school": "Wake Forest",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 228,
+      "school": "Clemson",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 97,
+      "school": "Louisville",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 221,
+      "school": "Pittsburgh",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        11,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 259,
+      "school": "Virginia Tech",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 153,
+      "school": "North Carolina",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 197,
+      "school": "Oklahoma State",
+      "record": [
+        12,
+        2,
+        0
+      ],
+      "schedule": [
+        11,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 239,
+      "school": "Baylor",
+      "record": [
+        12,
+        2,
+        0
+      ],
+      "schedule": [
+        11,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 201,
+      "school": "Oklahoma",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2306,
+      "school": "Kansas State",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 66,
+      "school": "Iowa State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2641,
+      "school": "Texas Tech",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 277,
+      "school": "West Virginia",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 130,
+      "school": "Michigan",
+      "record": [
+        12,
+        2,
+        0
+      ],
+      "schedule": [
+        12,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 194,
+      "school": "Ohio State",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 127,
+      "school": "Michigan State",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 213,
+      "school": "Penn State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 120,
+      "school": "Maryland",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 164,
+      "school": "Rutgers",
+      "record": [
+        5,
+        8,
+        0
+      ],
+      "schedule": [
+        5,
+        7,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2294,
+      "school": "Iowa",
+      "record": [
+        10,
+        4,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 135,
+      "school": "Minnesota",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 275,
+      "school": "Wisconsin",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2509,
+      "school": "Purdue",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 98,
+      "school": "Western Kentucky",
+      "record": [
+        9,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 276,
+      "school": "Marshall",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2393,
+      "school": "Middle Tennessee",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 295,
+      "school": "Old Dominion",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2636,
+      "school": "UT San Antonio",
+      "record": [
+        12,
+        2,
+        0
+      ],
+      "schedule": [
+        12,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 5,
+      "school": "UAB",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2638,
+      "school": "UTEP",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 249,
+      "school": "North Texas",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 87,
+      "school": "Notre Dame",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        11,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 252,
+      "school": "BYU",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 349,
+      "school": "Army",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2335,
+      "school": "Liberty",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 193,
+      "school": "Miami (OH)",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2309,
+      "school": "Kent State",
+      "record": [
+        7,
+        7,
+        0
+      ],
+      "schedule": [
+        7,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2117,
+      "school": "Central Michigan",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2459,
+      "school": "Northern Illinois",
+      "record": [
+        9,
+        5,
+        0
+      ],
+      "schedule": [
+        9,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2711,
+      "school": "Western Michigan",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2649,
+      "school": "Toledo",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2199,
+      "school": "Eastern Michigan",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2050,
+      "school": "Ball State",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 328,
+      "school": "Utah State",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2005,
+      "school": "Air Force",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2751,
+      "school": "Wyoming",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 21,
+      "school": "San Diego State",
+      "record": [
+        12,
+        2,
+        0
+      ],
+      "schedule": [
+        11,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 278,
+      "school": "Fresno State",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2440,
+      "school": "Nevada",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2483,
+      "school": "Oregon",
+      "record": [
+        10,
+        4,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 265,
+      "school": "Washington State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 204,
+      "school": "Oregon State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 254,
+      "school": "Utah",
+      "record": [
+        10,
+        4,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 9,
+      "school": "Arizona State",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 61,
+      "school": "Georgia",
+      "record": [
+        14,
+        1,
+        0
+      ],
+      "schedule": [
+        12,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 96,
+      "school": "Kentucky",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2633,
+      "school": "Tennessee",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2579,
+      "school": "South Carolina",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 142,
+      "school": "Missouri",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 57,
+      "school": "Florida",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 333,
+      "school": "Alabama",
+      "record": [
+        13,
+        2,
+        0
+      ],
+      "schedule": [
+        12,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 145,
+      "school": "Ole Miss",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 8,
+      "school": "Arkansas",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 344,
+      "school": "Mississippi State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2,
+      "school": "Auburn",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 99,
+      "school": "LSU",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 324,
+      "school": "Coastal Carolina",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2026,
+      "school": "Appalachian State",
+      "record": [
+        10,
+        4,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 2247,
+      "school": "Georgia State",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2021,
+      "team_id": 309,
+      "school": "Louisiana",
+      "record": [
+        13,
+        1,
+        0
+      ],
+      "schedule": [
+        12,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2655,
+      "school": "Tulane",
+      "record": [
+        12,
+        2,
+        0
+      ],
+      "schedule": [
+        11,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2132,
+      "school": "Cincinnati",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2116,
+      "school": "UCF",
+      "record": [
+        9,
+        5,
+        0
+      ],
+      "schedule": [
+        9,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 248,
+      "school": "Houston",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 151,
+      "school": "East Carolina",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2567,
+      "school": "SMU",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 235,
+      "school": "Memphis",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 228,
+      "school": "Clemson",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        11,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 52,
+      "school": "Florida State",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 97,
+      "school": "Louisville",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 152,
+      "school": "NC State",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 154,
+      "school": "Wake Forest",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 183,
+      "school": "Syracuse",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 221,
+      "school": "Pittsburgh",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 150,
+      "school": "Duke",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 153,
+      "school": "North Carolina",
+      "record": [
+        9,
+        5,
+        0
+      ],
+      "schedule": [
+        9,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2628,
+      "school": "TCU",
+      "record": [
+        13,
+        2,
+        0
+      ],
+      "schedule": [
+        12,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2306,
+      "school": "Kansas State",
+      "record": [
+        10,
+        4,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 251,
+      "school": "Texas",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2641,
+      "school": "Texas Tech",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 197,
+      "school": "Oklahoma State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 239,
+      "school": "Baylor",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 201,
+      "school": "Oklahoma",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2305,
+      "school": "Kansas",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 130,
+      "school": "Michigan",
+      "record": [
+        13,
+        1,
+        0
+      ],
+      "schedule": [
+        13,
+        0,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 194,
+      "school": "Ohio State",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        11,
+        1,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 213,
+      "school": "Penn State",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 120,
+      "school": "Maryland",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 135,
+      "school": "Minnesota",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 356,
+      "school": "Illinois",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2294,
+      "school": "Iowa",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2509,
+      "school": "Purdue",
+      "record": [
+        8,
+        6,
+        0
+      ],
+      "schedule": [
+        8,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 275,
+      "school": "Wisconsin",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2636,
+      "school": "UT San Antonio",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        11,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 98,
+      "school": "Western Kentucky",
+      "record": [
+        9,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2393,
+      "school": "Middle Tennessee",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 5,
+      "school": "UAB",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 249,
+      "school": "North Texas",
+      "record": [
+        7,
+        7,
+        0
+      ],
+      "schedule": [
+        7,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 242,
+      "school": "Rice",
+      "record": [
+        5,
+        8,
+        0
+      ],
+      "schedule": [
+        5,
+        7,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 87,
+      "school": "Notre Dame",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2335,
+      "school": "Liberty",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 252,
+      "school": "BYU",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 166,
+      "school": "New Mexico State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 41,
+      "school": "Connecticut",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 195,
+      "school": "Ohio",
+      "record": [
+        10,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2084,
+      "school": "Buffalo",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 189,
+      "school": "Bowling Green",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 193,
+      "school": "Miami (OH)",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2199,
+      "school": "Eastern Michigan",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2649,
+      "school": "Toledo",
+      "record": [
+        9,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2005,
+      "school": "Air Force",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 68,
+      "school": "Boise State",
+      "record": [
+        10,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2751,
+      "school": "Wyoming",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 328,
+      "school": "Utah State",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 278,
+      "school": "Fresno State",
+      "record": [
+        10,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 23,
+      "school": "San José State",
+      "record": [
+        7,
+        5,
+        0
+      ],
+      "schedule": [
+        7,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 21,
+      "school": "San Diego State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 264,
+      "school": "Washington",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 30,
+      "school": "USC",
+      "record": [
+        11,
+        3,
+        0
+      ],
+      "schedule": [
+        11,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2483,
+      "school": "Oregon",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 204,
+      "school": "Oregon State",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 254,
+      "school": "Utah",
+      "record": [
+        10,
+        4,
+        0
+      ],
+      "schedule": [
+        10,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 26,
+      "school": "UCLA",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 265,
+      "school": "Washington State",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 61,
+      "school": "Georgia",
+      "record": [
+        15,
+        0,
+        0
+      ],
+      "schedule": [
+        13,
+        0,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2633,
+      "school": "Tennessee",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2579,
+      "school": "South Carolina",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 96,
+      "school": "Kentucky",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        7,
+        5,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 57,
+      "school": "Florida",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 142,
+      "school": "Missouri",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 333,
+      "school": "Alabama",
+      "record": [
+        11,
+        2,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 99,
+      "school": "LSU",
+      "record": [
+        10,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 344,
+      "school": "Mississippi State",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 145,
+      "school": "Ole Miss",
+      "record": [
+        8,
+        5,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 8,
+      "school": "Arkansas",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 324,
+      "school": "Coastal Carolina",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        9,
+        3,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 276,
+      "school": "Marshall",
+      "record": [
+        9,
+        4,
+        0
+      ],
+      "schedule": [
+        8,
+        4,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 290,
+      "school": "Georgia Southern",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2653,
+      "school": "Troy",
+      "record": [
+        12,
+        2,
+        0
+      ],
+      "schedule": [
+        11,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 6,
+      "school": "South Alabama",
+      "record": [
+        10,
+        3,
+        0
+      ],
+      "schedule": [
+        10,
+        2,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 2572,
+      "school": "Southern Mississippi",
+      "record": [
+        7,
+        6,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    },
+    {
+      "season": 2022,
+      "team_id": 309,
+      "school": "Louisiana",
+      "record": [
+        6,
+        7,
+        0
+      ],
+      "schedule": [
+        6,
+        6,
+        0
+      ],
+      "reason": "Schedule archive omits postseason"
+    }
+  ],
+  "missing_records": [],
+  "teams_using_cfbd_logos": [
+    "Delaware",
+    "Idaho",
+    "Missouri State"
+  ]
+}

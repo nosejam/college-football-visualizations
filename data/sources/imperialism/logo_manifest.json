@@ -1,0 +1,408 @@
+[
+  {
+    "team_id": 13,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+    "file": "assets/imperialism/logos/13.png",
+    "sha256": "023b7b31a3b24e726aa09bda81e34db631fe50cf102bb3a5da2c259b2d8b950e",
+    "retrieved_at": "2026-10-24T22:27:36.578983+00:00"
+  },
+  {
+    "team_id": 16,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/16.png",
+    "file": "assets/imperialism/logos/16.png",
+    "sha256": "4384290d93eaceb6978916329a11fe5ee635b729c799339c65164721bb2c8afd",
+    "retrieved_at": "2026-10-24T22:27:36.523065+00:00"
+  },
+  {
+    "team_id": 47,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/47.png",
+    "file": "assets/imperialism/logos/47.png",
+    "sha256": "318ab52c35840aa523eaa36a023644cff8f7bafdb0b36962a4d55e54f6f9be20",
+    "retrieved_at": "2026-10-24T22:27:36.555183+00:00"
+  },
+  {
+    "team_id": 48,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/48.png",
+    "file": "assets/imperialism/logos/48.png",
+    "sha256": "89e021f5f9b67d3024a17b83347dbb76d77a2b08fc67e8ac49411317228c7964",
+    "retrieved_at": "2026-10-24T22:27:36.562483+00:00"
+  },
+  {
+    "team_id": 70,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
+    "file": "assets/imperialism/logos/70.png",
+    "sha256": "90a5d108db490744199b4e1f2cc45d8b05ac06dd0e3f05b223e3a74ac01ec2a3",
+    "retrieved_at": "2026-10-24T22:27:36.653118+00:00"
+  },
+  {
+    "team_id": 79,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/79.png",
+    "file": "assets/imperialism/logos/79.png",
+    "sha256": "b67e5afaad47a604f385ab3e7677568d9f282b8f49420c66719438898ea56ab2",
+    "retrieved_at": "2026-10-24T22:27:36.656976+00:00"
+  },
+  {
+    "team_id": 119,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/119.png",
+    "file": "assets/imperialism/logos/119.png",
+    "sha256": "6d8fd528d556e620761fcbcdee982a68c66be5de1c2e4cbb498ce8b5847a2fbb",
+    "retrieved_at": "2026-10-24T22:27:36.719545+00:00"
+  },
+  {
+    "team_id": 147,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
+    "file": "assets/imperialism/logos/147.png",
+    "sha256": "76d263dde9e7c6969d9da4ac4dd7d8be7086a7630dac2b9162d30be1cd84b856",
+    "retrieved_at": "2026-10-24T22:27:36.676042+00:00"
+  },
+  {
+    "team_id": 149,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
+    "file": "assets/imperialism/logos/149.png",
+    "sha256": "d39daee1716e6e413c6203d54ac1962b89c90d3e8680a01d0efa9630bd54ffc2",
+    "retrieved_at": "2026-10-24T22:27:36.758114+00:00"
+  },
+  {
+    "team_id": 155,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/155.png",
+    "file": "assets/imperialism/logos/155.png",
+    "sha256": "aa01210973a92384cd39a795dabfede0997369872207fb7c86293f9a2679b8de",
+    "retrieved_at": "2026-10-24T22:27:36.780011+00:00"
+  },
+  {
+    "team_id": 163,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/163.png",
+    "file": "assets/imperialism/logos/163.png",
+    "sha256": "1ba19c1ecc721cb6fd92327b967c54d2efc4181f77fc6f18afd84e4a2f3c644b",
+    "retrieved_at": "2026-10-24T22:27:36.875421+00:00"
+  },
+  {
+    "team_id": 171,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/171.png",
+    "file": "assets/imperialism/logos/171.png",
+    "sha256": "17998aa6c72a205aa2f1daa999effcfa2e69b1f325d7d21017908fa43ad7329b",
+    "retrieved_at": "2026-10-24T22:27:36.844848+00:00"
+  },
+  {
+    "team_id": 219,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/219.png",
+    "file": "assets/imperialism/logos/219.png",
+    "sha256": "292db72f7dc3153119e8848fcaedd542b49074a6adf3e097db366cf07b55455d",
+    "retrieved_at": "2026-10-24T22:27:36.851997+00:00"
+  },
+  {
+    "team_id": 222,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/222.png",
+    "file": "assets/imperialism/logos/222.png",
+    "sha256": "710a12532521705923b4022b571e7832eb01265aa34fa66a650fb784b7730128",
+    "retrieved_at": "2026-10-24T22:27:36.896972+00:00"
+  },
+  {
+    "team_id": 233,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/233.png",
+    "file": "assets/imperialism/logos/233.png",
+    "sha256": "cd0a3318987c5254d2cec818a4676e4108949e114dc966d8368a6c5a6d1302be",
+    "retrieved_at": "2026-10-24T22:27:37.009302+00:00"
+  },
+  {
+    "team_id": 236,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/236.png",
+    "file": "assets/imperialism/logos/236.png",
+    "sha256": "afbecd3f9a308a966108334c7bf9878d495822519e7356cc8c80d9ca6a0052e3",
+    "retrieved_at": "2026-10-24T22:27:36.957806+00:00"
+  },
+  {
+    "team_id": 257,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/257.png",
+    "file": "assets/imperialism/logos/257.png",
+    "sha256": "e6901ec451f612cc83d717f7c2f26d83db1572e67352855d944aa55f995f4c82",
+    "retrieved_at": "2026-10-24T22:27:36.971809+00:00"
+  },
+  {
+    "team_id": 302,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/302.png",
+    "file": "assets/imperialism/logos/302.png",
+    "sha256": "f30b549c6c0fea64b65100f480b2092b80fb845c2d63304b451e04f1db968aa8",
+    "retrieved_at": "2026-10-24T22:27:37.009406+00:00"
+  },
+  {
+    "team_id": 304,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/304.png",
+    "file": "assets/imperialism/logos/304.png",
+    "sha256": "9e7a357ba8c5a56848a2d2a70c5184b27a2e937272065771fadd6b10df939435",
+    "retrieved_at": "2026-10-24T22:27:37.064966+00:00"
+  },
+  {
+    "team_id": 331,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
+    "file": "assets/imperialism/logos/331.png",
+    "sha256": "c11f8657322b3ee05d230694fd12d825216c69635ab939bc0ef7593554d29db1",
+    "retrieved_at": "2026-10-24T22:27:37.132587+00:00"
+  },
+  {
+    "team_id": 399,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/399.png",
+    "file": "assets/imperialism/logos/399.png",
+    "sha256": "8f775693e211515deb77394a0e8ba895962a139dc3f04923956afa178fa08ff7",
+    "retrieved_at": "2026-10-24T22:27:37.308995+00:00"
+  },
+  {
+    "team_id": 2000,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
+    "file": "assets/imperialism/logos/2000.png",
+    "sha256": "48df2780bed969034239b91b28dbdd3a10b10f3b92da118235a0682d3e0c0d28",
+    "retrieved_at": "2026-10-24T22:27:37.227347+00:00"
+  },
+  {
+    "team_id": 2046,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2046.png",
+    "file": "assets/imperialism/logos/2046.png",
+    "sha256": "cff68efc792f9f87312946a231b63f07f549100cc1a1e8f18531ee9911c6eb37",
+    "retrieved_at": "2026-10-24T22:27:37.188396+00:00"
+  },
+  {
+    "team_id": 2065,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2065.png",
+    "file": "assets/imperialism/logos/2065.png",
+    "sha256": "47e65ef1e16bded33827e8fe9d8dda991c8f641778a3caa31f038955b11c73e0",
+    "retrieved_at": "2026-10-24T22:27:37.232725+00:00"
+  },
+  {
+    "team_id": 2110,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2110.png",
+    "file": "assets/imperialism/logos/2110.png",
+    "sha256": "44ad647305b4207b2d97a5177dc8d7009c4cb43039ba43e110b49e50cc07ff02",
+    "retrieved_at": "2026-10-24T22:27:37.370028+00:00"
+  },
+  {
+    "team_id": 2127,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2127.png",
+    "file": "assets/imperialism/logos/2127.png",
+    "sha256": "52e688e83e2b7ef3cbb8e0156dd3d0b1505b9000237e8ff93c842482bf1caa92",
+    "retrieved_at": "2026-10-24T22:27:37.325019+00:00"
+  },
+  {
+    "team_id": 2193,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png",
+    "file": "assets/imperialism/logos/2193.png",
+    "sha256": "57b9ce10573e6772658c3682139f309d37558b7c13348ee42c57d6c4fbc80da2",
+    "retrieved_at": "2026-10-24T22:27:37.324748+00:00"
+  },
+  {
+    "team_id": 2197,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2197.png",
+    "file": "assets/imperialism/logos/2197.png",
+    "sha256": "94ab7f4add1330cc308f08cbc1c9fd0e3a3e6e4ec6e4d4fee89ccbd3a1081d82",
+    "retrieved_at": "2026-10-24T22:27:37.424322+00:00"
+  },
+  {
+    "team_id": 2241,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2241.png",
+    "file": "assets/imperialism/logos/2241.png",
+    "sha256": "75f90e615c5216f9315bcaaae3a1f3283f9284247d79c2e9524d927c11b8fdd1",
+    "retrieved_at": "2026-10-24T22:27:37.513259+00:00"
+  },
+  {
+    "team_id": 2287,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2287.png",
+    "file": "assets/imperialism/logos/2287.png",
+    "sha256": "84323b5afbdd4e49b7bb96c118d253f61a65b5898cf0d0c55646c7f1c7b8cc3d",
+    "retrieved_at": "2026-10-24T22:27:37.459511+00:00"
+  },
+  {
+    "team_id": 2377,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2377.png",
+    "file": "assets/imperialism/logos/2377.png",
+    "sha256": "17ece0f65637dc20ff08278060937cbe61920031aa2725bb0e6a382c0ca6c46d",
+    "retrieved_at": "2026-10-24T22:27:37.479763+00:00"
+  },
+  {
+    "team_id": 2382,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2382.png",
+    "file": "assets/imperialism/logos/2382.png",
+    "sha256": "63f3261ef6e17ebfaffddad1ae274f0c0d08d5c9ce9f6499112798a147914dbf",
+    "retrieved_at": "2026-10-24T22:27:37.531789+00:00"
+  },
+  {
+    "team_id": 2415,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2415.png",
+    "file": "assets/imperialism/logos/2415.png",
+    "sha256": "e605c9fd3fed10411510a543f426fdcd5e9e2dc132f3bd8f6f8968c61feb75eb",
+    "retrieved_at": "2026-10-24T22:27:37.618587+00:00"
+  },
+  {
+    "team_id": 2447,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2447.png",
+    "file": "assets/imperialism/logos/2447.png",
+    "sha256": "f0b69c891db7cdeb097eec53f5c34bd57da711b6b014a4cbf3b2850d44bbad92",
+    "retrieved_at": "2026-10-24T22:27:37.632068+00:00"
+  },
+  {
+    "team_id": 2448,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2448.png",
+    "file": "assets/imperialism/logos/2448.png",
+    "sha256": "2f7c2ca1e483d7717d33cb9beb73dbb5a5659fc00b1947510e80d640796a88d5",
+    "retrieved_at": "2026-10-24T22:27:37.642692+00:00"
+  },
+  {
+    "team_id": 2449,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png",
+    "file": "assets/imperialism/logos/2449.png",
+    "sha256": "a807289822ded61aec1f3d412e0246464154c2af329002ac810a9bb5ca268228",
+    "retrieved_at": "2026-10-24T22:27:37.625685+00:00"
+  },
+  {
+    "team_id": 2460,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2460.png",
+    "file": "assets/imperialism/logos/2460.png",
+    "sha256": "d34bf2280ad87249efc7f64b99331f21b0be591e74c6f13697701eb954385d77",
+    "retrieved_at": "2026-10-24T22:27:37.717830+00:00"
+  },
+  {
+    "team_id": 2464,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
+    "file": "assets/imperialism/logos/2464.png",
+    "sha256": "10f81c2897a6c87d6f569a2b8f89483758f8d666c3fca8600ef581030394f12e",
+    "retrieved_at": "2026-10-24T22:27:37.727975+00:00"
+  },
+  {
+    "team_id": 2502,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
+    "file": "assets/imperialism/logos/2502.png",
+    "sha256": "39f24819ad2c5b6fb1c08ef337c195759a53742cdfeba031dc78aafb2e406fd7",
+    "retrieved_at": "2026-10-24T22:27:37.727884+00:00"
+  },
+  {
+    "team_id": 2529,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2529.png",
+    "file": "assets/imperialism/logos/2529.png",
+    "sha256": "71dd8f23377d56fa5a95e8c3ab4ccd6230d005d32691090b74d44d66e0be4b97",
+    "retrieved_at": "2026-10-24T22:27:37.764271+00:00"
+  },
+  {
+    "team_id": 2545,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2545.png",
+    "file": "assets/imperialism/logos/2545.png",
+    "sha256": "ace0e2d4f5c9e0b0bbcda80182d99bdd136d593484d124df3b2ef76efd5bd3b3",
+    "retrieved_at": "2026-10-24T22:27:37.827987+00:00"
+  },
+  {
+    "team_id": 2569,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2569.png",
+    "file": "assets/imperialism/logos/2569.png",
+    "sha256": "f7284bb62fc664c97e9d70e92723045f4efa2f56cc180a92738bb594ef627bbf",
+    "retrieved_at": "2026-10-24T22:27:37.862926+00:00"
+  },
+  {
+    "team_id": 2571,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2571.png",
+    "file": "assets/imperialism/logos/2571.png",
+    "sha256": "6962bbe537c5b06bd306af1b003588e899dfa16d14be86c4a14d0e5c92ef0cff",
+    "retrieved_at": "2026-10-24T22:27:37.839545+00:00"
+  },
+  {
+    "team_id": 2617,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
+    "file": "assets/imperialism/logos/2617.png",
+    "sha256": "1237d32216c8a5cc1ebe022983a18606f47f99e9b0454f1fb26d96f61bb8b9c2",
+    "retrieved_at": "2026-10-24T22:27:37.862104+00:00"
+  },
+  {
+    "team_id": 2619,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2619.png",
+    "file": "assets/imperialism/logos/2619.png",
+    "sha256": "8e0243b81d1dd5564b7e49042fb2370a38496345b0d3e690db7431c6ba1620bc",
+    "retrieved_at": "2026-10-24T22:27:37.976143+00:00"
+  },
+  {
+    "team_id": 2623,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png",
+    "file": "assets/imperialism/logos/2623.png",
+    "sha256": "46d36761e7c210f650db2499b48da428f5e5aa652e1ef9430868a932e3db88bf",
+    "retrieved_at": "2026-10-24T22:27:37.966698+00:00"
+  },
+  {
+    "team_id": 2627,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2627.png",
+    "file": "assets/imperialism/logos/2627.png",
+    "sha256": "7b585d3bc104c647f0a9aac425515b9287fa33481960e830a4a5680216c5b92f",
+    "retrieved_at": "2026-10-24T22:27:37.975895+00:00"
+  },
+  {
+    "team_id": 2630,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2630.png",
+    "file": "assets/imperialism/logos/2630.png",
+    "sha256": "b480bc0e014a150ef8efaf1f99bf9a22973cc86dbfa97326da42eb2a33d9a15a",
+    "retrieved_at": "2026-10-24T22:27:37.959063+00:00"
+  },
+  {
+    "team_id": 2634,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2634.png",
+    "file": "assets/imperialism/logos/2634.png",
+    "sha256": "ab607bdb2e5bbb0d6b793e97a1455b3a41f283ac33821b073281b6f65f20e1a5",
+    "retrieved_at": "2026-10-24T22:27:38.102852+00:00"
+  },
+  {
+    "team_id": 2643,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2643.png",
+    "file": "assets/imperialism/logos/2643.png",
+    "sha256": "a7a20e9f20f8f544d87e65f9838f213c5d447bff8a167ff538f575f82f97022f",
+    "retrieved_at": "2026-10-24T22:27:38.069810+00:00"
+  },
+  {
+    "team_id": 2681,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2681.png",
+    "file": "assets/imperialism/logos/2681.png",
+    "sha256": "c256af3ed07b32a9df7af3685b550add941d834878af809c71462215f2dafa00",
+    "retrieved_at": "2026-10-24T22:27:38.083580+00:00"
+  },
+  {
+    "team_id": 2692,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png",
+    "file": "assets/imperialism/logos/2692.png",
+    "sha256": "13398176a38b167728c4ba1c3bc3b4900d05feb0c6a63f1bd95996bcd2b8ef61",
+    "retrieved_at": "2026-10-24T22:27:38.119271+00:00"
+  },
+  {
+    "team_id": 2729,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2729.png",
+    "file": "assets/imperialism/logos/2729.png",
+    "sha256": "5e22af23b7ca50663afaf78342eae31ec635b9708d5f537bf61927a2afc5c1da",
+    "retrieved_at": "2026-10-24T22:27:38.180976+00:00"
+  },
+  {
+    "team_id": 2754,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2754.png",
+    "file": "assets/imperialism/logos/2754.png",
+    "sha256": "c0dcf0098c73268d27abfed0588322c6631bcb0b4d01258dda84b500f924d3bc",
+    "retrieved_at": "2026-10-24T22:27:38.173062+00:00"
+  },
+  {
+    "team_id": 2815,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2815.png",
+    "file": "assets/imperialism/logos/2815.png",
+    "sha256": "e563c230bae64bcdc7e899c221f1a851a97a8b2fb863439d17e6e501bf98a187",
+    "retrieved_at": "2026-10-24T22:27:38.203980+00:00"
+  },
+  {
+    "team_id": 2837,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2837.png",
+    "file": "assets/imperialism/logos/2837.png",
+    "sha256": "fa46556eac9485dd574440779b1951f968ce2a2977959dd9be1b8a3f5c051974",
+    "retrieved_at": "2026-10-24T22:27:38.263910+00:00"
+  },
+  {
+    "team_id": 2916,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/2916.png",
+    "file": "assets/imperialism/logos/2916.png",
+    "sha256": "1fafa4479521073628f980490bd079510401291112f715726590514f4089196f",
+    "retrieved_at": "2026-10-24T22:27:38.302418+00:00"
+  },
+  {
+    "team_id": 3101,
+    "url": "https://a.espncdn.com/i/teamlogos/ncaa/500/3101.png",
+    "file": "assets/imperialism/logos/3101.png",
+    "sha256": "8a12a10bf06517543a9ffe45f44a62bf36da6b3d3d20dd6cb62e8e924e5da2ea",
+    "retrieved_at": "2026-10-24T22:27:38.272915+00:00"
+  }
+]

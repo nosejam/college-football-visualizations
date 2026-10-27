@@ -1,0 +1,32 @@
+[
+  {
+    "team_id": 292,
+    "school": "UT Rio Grande Valley",
+    "abbreviation": "RGV",
+    "color": "#4b5960",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/292",
+    "file": "data/sources/circles/team_292.json",
+    "sha256": "8575e198305505098310627acc9090818da62338ee86ee7da32b8a59da2ab12a",
+    "retrieved_at": "2026-10-25T01:17:10.668394+00:00"
+  },
+  {
+    "team_id": 2341,
+    "school": "Long Island University",
+    "abbreviation": "LIU",
+    "color": "#4b5960",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2341",
+    "file": "data/sources/circles/team_2341.json",
+    "sha256": "d8cb67298e0352b64fd4a5c543d2d895a52c8cf6265c6ee7bc781e7dd26f264a",
+    "retrieved_at": "2026-10-25T01:17:10.693616+00:00"
+  },
+  {
+    "team_id": 2698,
+    "school": "West Georgia",
+    "abbreviation": "WES",
+    "color": "#0033a1",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2698",
+    "file": "data/sources/circles/team_2698.json",
+    "sha256": "f220cd6741aca803fa4a6ea408fe96015e45aa03fbb1c54d18ea2069df6109b8",
+    "retrieved_at": "2026-10-25T01:17:10.697947+00:00"
+  }
+]

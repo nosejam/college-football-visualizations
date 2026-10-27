@@ -1,0 +1,162 @@
+[
+  {
+    "season": 2016,
+    "kind": "standings",
+    "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?season=2016",
+    "file": "data/sources/records/standings_2016.json.gz",
+    "retrieved_at": "2026-10-24T21:16:35.341963+00:00",
+    "sha256": "665d641a5598737f92c620f4984ba74c1b6829030fe48e5438247b7113e73e8f"
+  },
+  {
+    "season": 2016,
+    "kind": "schedules",
+    "url": "https://raw.githubusercontent.com/sportsdataverse/cfbfastR-data/main/schedules/csv/cfb_schedules_2016.csv",
+    "file": "data/sources/records/schedules_2016.csv.gz",
+    "retrieved_at": "2026-10-24T21:16:34.808999+00:00",
+    "sha256": "f60e57cdab028d2d35bd589c46139a6dce11ee8c52c3f4ca975c5d98522f403c"
+  },
+  {
+    "season": 2017,
+    "kind": "standings",
+    "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?season=2017",
+    "file": "data/sources/records/standings_2017.json.gz",
+    "retrieved_at": "2026-10-24T21:16:35.341560+00:00",
+    "sha256": "a073a3d3fbd15930c5966328109be453ab3d15a9356f0798e77c8e2af4c2dac6"
+  },
+  {
+    "season": 2017,
+    "kind": "schedules",
+    "url": "https://raw.githubusercontent.com/sportsdataverse/cfbfastR-data/main/schedules/csv/cfb_schedules_2017.csv",
+    "file": "data/sources/records/schedules_2017.csv.gz",
+    "retrieved_at": "2026-10-24T21:16:34.807149+00:00",
+    "sha256": "c5a6f47dc1b121e366c0e9ef6cf1524e6ea54f58cf997874bf6d818e46fa3b26"
+  },
+  {
+    "season": 2018,
+    "kind": "standings",
+    "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?season=2018",
+    "file": "data/sources/records/standings_2018.json.gz",
+    "retrieved_at": "2026-10-24T21:16:35.702011+00:00",
+    "sha256": "015679bedb134fa5ab570f49acf36480a5028d00c416759e5ba948925c8a7bfa"
+  },
+  {
+    "season": 2018,
+    "kind": "schedules",
+    "url": "https://raw.githubusercontent.com/sportsdataverse/cfbfastR-data/main/schedules/csv/cfb_schedules_2018.csv",
+    "file": "data/sources/records/schedules_2018.csv.gz",
+    "retrieved_at": "2026-10-24T21:16:35.302839+00:00",
+    "sha256": "a4d4c2ccd06f933c1b6848b3ef4fddbc56695f6b066c9376b1249bfb9d29c00f"
+  },
+  {
+    "season": 2019,
+    "kind": "standings",
+    "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?season=2019",
+    "file": "data/sources/records/standings_2019.json.gz",
+    "retrieved_at": "2026-10-24T21:16:36.121802+00:00",
+    "sha256": "9c5a21fe65fb965f1c2db4534159070dd93fbc257460e53c34d9a93a2fbb7fdf"
+  },
+  {
+    "season": 2019,
+    "kind": "schedules",
+    "url": "https://raw.githubusercontent.com/sportsdataverse/cfbfastR-data/main/schedules/csv/cfb_schedules_2019.csv",
+    "file": "data/sources/records/schedules_2019.csv.gz",
+    "retrieved_at": "2026-10-24T21:16:35.785639+00:00",
+    "sha256": "d8665fa0aced3d02d59405c8b9ff157ba00ef128a90c1c5eab31d268d917abac"
+  },
+  {
+    "season": 2020,
+    "kind": "standings",
+    "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?season=2020",
+    "file": "data/sources/records/standings_2020.json.gz",
+    "retrieved_at": "2026-10-24T21:16:36.022485+00:00",
+    "sha256": "c98b74995e8df6319b989a5d448fc82ca4bca555f57a0dfc69bd16cf9eeb3331"
+  },
+  {
+    "season": 2020,
+    "kind": "schedules",
+    "url": "https://raw.githubusercontent.com/sportsdataverse/cfbfastR-data/main/schedules/csv/cfb_schedules_2020.csv",
+    "file": "data/sources/records/schedules_2020.csv.gz",
+    "retrieved_at": "2026-10-24T21:16:36.019279+00:00",
+    "sha256": "f902a845a7e79199ab15dff7c3ed91ee7ef1cb54d32ef80fed5aad5c0ac6c316"
+  },
+  {
+    "season": 2021,
+    "kind": "standings",
+    "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?season=2021",
+    "file": "data/sources/records/standings_2021.json.gz",
+    "retrieved_at": "2026-10-24T21:16:36.876020+00:00",
+    "sha256": "67f4cb6bee3ba23d7f78c8bb58104f69ba925ff426a8acf0ca8ea94c2241510a"
+  },
+  {
+    "season": 2021,
+    "kind": "schedules",
+    "url": "https://raw.githubusercontent.com/sportsdataverse/cfbfastR-data/main/schedules/csv/cfb_schedules_2021.csv",
+    "file": "data/sources/records/schedules_2021.csv.gz",
+    "retrieved_at": "2026-10-24T21:16:36.301711+00:00",
+    "sha256": "91616be40e7f4d611a6e714ee7284cdd7372249888287b05b790019e9397d5fd"
+  },
+  {
+    "season": 2022,
+    "kind": "standings",
+    "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?season=2022",
+    "file": "data/sources/records/standings_2022.json.gz",
+    "retrieved_at": "2026-10-24T21:16:36.876146+00:00",
+    "sha256": "828cfb5861beb037e632488b3673f4ed1363f4a8a0489b2e5e19b0665ac5dc96"
+  },
+  {
+    "season": 2022,
+    "kind": "schedules",
+    "url": "https://raw.githubusercontent.com/sportsdataverse/cfbfastR-data/main/schedules/csv/cfb_schedules_2022.csv",
+    "file": "data/sources/records/schedules_2022.csv.gz",
+    "retrieved_at": "2026-10-24T21:16:36.593984+00:00",
+    "sha256": "bfee92544d7269f764dcb5726ce5c037837cb100a8c6326e0e4c7103a2e6656d"
+  },
+  {
+    "season": 2023,
+    "kind": "standings",
+    "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?season=2023",
+    "file": "data/sources/records/standings_2023.json.gz",
+    "retrieved_at": "2026-10-24T21:16:37.125187+00:00",
+    "sha256": "6e6d54ffd2d1fa857bd85c804c937a2ebecb9e6fa917c431a25dd83aa01462af"
+  },
+  {
+    "season": 2023,
+    "kind": "schedules",
+    "url": "https://raw.githubusercontent.com/sportsdataverse/cfbfastR-data/main/schedules/csv/cfb_schedules_2023.csv",
+    "file": "data/sources/records/schedules_2023.csv.gz",
+    "retrieved_at": "2026-10-24T21:16:37.269548+00:00",
+    "sha256": "7ffc245da1242fc44c021dae724029074aece78544ba498937cc7703417f0dff"
+  },
+  {
+    "season": 2024,
+    "kind": "standings",
+    "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?season=2024",
+    "file": "data/sources/records/standings_2024.json.gz",
+    "retrieved_at": "2026-10-24T21:16:38.576561+00:00",
+    "sha256": "a229b8c06ad7b1a21388608594fcb91b6f557f59a6ed99028066357572c51ba9"
+  },
+  {
+    "season": 2024,
+    "kind": "schedules",
+    "url": "https://raw.githubusercontent.com/sportsdataverse/cfbfastR-data/main/schedules/csv/cfb_schedules_2024.csv",
+    "file": "data/sources/records/schedules_2024.csv.gz",
+    "retrieved_at": "2026-10-24T21:16:37.553942+00:00",
+    "sha256": "3e4f3cab542657015ff73d1b527c41df58e6a17acf5fbe7d6fb518a1aabcac61"
+  },
+  {
+    "season": 2025,
+    "kind": "standings",
+    "url": "https://site.api.espn.com/apis/v2/sports/football/college-football/standings?season=2025",
+    "file": "data/sources/records/standings_2025.json.gz",
+    "retrieved_at": "2026-10-24T21:16:38.121404+00:00",
+    "sha256": "95ddd6f43bd9e4d957ac060e44ecb6ff8f78bce69985aacf110765b9c982c056"
+  },
+  {
+    "season": 2025,
+    "kind": "schedules",
+    "url": "https://raw.githubusercontent.com/sportsdataverse/cfbfastR-data/main/schedules/csv/cfb_schedules_2025.csv",
+    "file": "data/sources/records/schedules_2025.csv.gz",
+    "retrieved_at": "2026-10-24T21:16:37.742255+00:00",
+    "sha256": "bfecf10bc5a8ffd2e3b6a76b5f0b03b406e17c1a0e03b2000bdf7e2263712db4"
+  }
+]

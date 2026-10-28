@@ -2,7 +2,7 @@
   "schema": 1,
   "source": "CFBD /ratings/sp",
   "season": 2026,
-  "retrieved_at": "2026-10-28T21:56:29.421700+00:00",
+  "retrieved_at": "2026-10-28T21:59:59.911533+00:00",
   "scale": {
     "unit": "points relative to an average FBS team on a neutral field",
     "verified": true,
@@ -3299,6 +3299,41 @@
         "rating": -0.4
       }
     },
+    "2026": {
+      "rating": -4.9,
+      "source_team": "App State",
+      "ranking": 95,
+      "offense": {
+        "ranking": 89,
+        "rating": 24.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 96,
+        "rating": 29.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.4
+      }
+    },
     "164": {
       "rating": -4.9,
       "source_team": "Rutgers",
@@ -4807,16 +4842,14 @@
   },
   "coverage": {
     "expected": 138,
-    "matched": 137,
-    "missing_ids": [
-      2026
-    ],
-    "unmatched_names": [
-      "App State",
+    "matched": 138,
+    "missing_ids": [],
+    "unmatched_names": [],
+    "ignored_aggregate_names": [
       "nationalAverages"
     ]
   },
   "historical_week_snapshots": false,
   "response_sha256": "1b6561440524dc991c805bcfd0173839334958e98a8e6c44e9a2291850aef0e1",
-  "api_calls_remaining": "998"
+  "api_calls_remaining": "997"
 }

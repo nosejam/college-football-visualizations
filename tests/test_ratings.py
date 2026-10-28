@@ -60,3 +60,12 @@ class RatingsTests(unittest.TestCase):
                 self.assertNotIn('test-secret',output.getvalue())
                 with patch.dict(module.os.environ,{'CFBD_API_KEY':'test\nsecret'}),patch.object(module.urllib.request,'urlopen') as request:
                     self.assertFalse(module.refresh(2026,True));request.assert_not_called()
+    def test_point_scale_consistency(self):
+        bad={**self.rows[0],'rating':80}
+        with self.assertRaisesRegex(ValueError,'point-scale'):parse([bad],2026,self.catalog,[1])
+    def test_explicit_app_state_and_aggregate(self):
+        catalog=[dict(team_id=2026,school='Appalachian State',aliases=[])]
+        rows=[dict(year=2026,team='App State',rating=-5),dict(year=2026,team='nationalAverages',rating=None)]
+        s=parse(rows,2026,catalog,[2026],{'App State':2026})
+        self.assertEqual(s['coverage']['matched'],1);self.assertEqual(s['coverage']['unmatched_names'],[])
+        self.assertEqual(s['coverage']['ignored_aggregate_names'],['nationalAverages'])

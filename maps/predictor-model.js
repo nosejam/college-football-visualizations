@@ -170,7 +170,7 @@
   }
   // Predictive power and selection résumé are deliberately separate.
   const MODEL_VERSION='objective-sor-1';
-  const normalCDF=x=>{const sign=x<0?-1:1,z=Math.abs(x)/Math.SQRT2,t=1/(1+.3275911*z),erf=1-(((((1.061405429*t-1.453152027)*t)+1.421413741)*t-.284496736)*t+.254829592)*t*Math.exp(-z*z);return .5*(1+sign*erf);};
+  const normalCDF=x=>{if(x===0)return .5;const sign=x<0?-1:1,z=Math.abs(x)/Math.SQRT2,t=1/(1+.3275911*z),erf=1-(((((1.061405429*t-1.453152027)*t)+1.421413741)*t-.284496736)*t+.254829592)*t*Math.exp(-z*z);return .5*(1+sign*erf);};
   function ratingProvider(data,frameIndex,method='sp'){
     const s=data.spSnapshot,frame=data.frames[frameIndex],now=Date.now(),stamp=Date.parse(s?.retrieved_at),age=(now-stamp)/86400000;
     const historical=frameIndex<data.frames.length-1&&(!frame.date||stamp>Date.parse(frame.date));
@@ -200,7 +200,7 @@
   function objectiveRanking(roster,resumes,teams,h2h,tolerance=Math.log(1.01)){
     const ordered=[...roster].sort((a,b)=>resumes[b].sor-resumes[a].sor||teams[a].id-teams[b].id),answer=[];
     // Anchor near-tie groups to the best remaining score; avoids a non-transitive epsilon comparator.
-    for(let at=0;at<ordered.length;){let end=at+1;while(end<ordered.length&&resumes[ordered[at]].sor-resumes[ordered[end]].sor<=tolerance)end++;
+    for(let at=0;at<ordered.length;){let end=at+1;while(end<ordered.length&&(resumes[ordered[at]].sor===resumes[ordered[end]].sor||resumes[ordered[at]].sor-resumes[ordered[end]].sor<=tolerance))end++;
       const group=ordered.slice(at,end),head=i=>group.reduce((n,j)=>n+(h2h?.get(`${i}:${j}`)||0)-(h2h?.get(`${j}:${i}`)||0),0);
       group.sort((a,b)=>resumes[b].sos-resumes[a].sos||head(b)-head(a)||resumes[b].power-resumes[a].power||teams[a].id-teams[b].id);answer.push(...group);at=end;
     }return answer;

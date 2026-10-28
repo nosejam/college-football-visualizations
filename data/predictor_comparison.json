@@ -1,0 +1,1038 @@
+{
+  "season": 2026,
+  "as_of": "2026-10-28T18:53:04.961881+00:00",
+  "iterations": 2000,
+  "seed": 2026,
+  "sp_snapshot": "2026-10-28T21:59:59.911533+00:00",
+  "calibration_limitation": "Unvalidated point-scale transfer from chronological pregame Elo residuals; no historical pregame SP+ snapshots available. Not an SP+ backtest.",
+  "models": {
+    "sp_objective": {
+      "effective_method": "sp",
+      "expected_places_by_conference": {
+        "SEC": 3.5900000000000003,
+        "American Athletic": 0.16799999999999998,
+        "Sun Belt": 0.08700000000000001,
+        "Big 12": 2.0589999999999997,
+        "Mid-American": 0,
+        "Pac-12": 0.5924999999999999,
+        "Mountain West": 0.155,
+        "ACC": 1.44,
+        "Big Ten": 3.1180000000000003,
+        "FBS Independents": 0.7565,
+        "Conference USA": 0.034
+      },
+      "top_20": [
+        {
+          "id": 194,
+          "team": "Ohio State",
+          "qualification_probability": 0.9355,
+          "objective_rank": 5
+        },
+        {
+          "id": 2390,
+          "team": "Miami",
+          "qualification_probability": 0.9255,
+          "objective_rank": 3
+        },
+        {
+          "id": 84,
+          "team": "Indiana",
+          "qualification_probability": 0.879,
+          "objective_rank": 4
+        },
+        {
+          "id": 87,
+          "team": "Notre Dame",
+          "qualification_probability": 0.7565,
+          "objective_rank": 13
+        },
+        {
+          "id": 61,
+          "team": "Georgia",
+          "qualification_probability": 0.7415,
+          "objective_rank": 14
+        },
+        {
+          "id": 254,
+          "team": "Utah",
+          "qualification_probability": 0.6435,
+          "objective_rank": 6
+        },
+        {
+          "id": 26,
+          "team": "UCLA",
+          "qualification_probability": 0.5755,
+          "objective_rank": 2
+        },
+        {
+          "id": 96,
+          "team": "Kentucky",
+          "qualification_probability": 0.57,
+          "objective_rank": 1
+        },
+        {
+          "id": 68,
+          "team": "Boise State",
+          "qualification_probability": 0.5485,
+          "objective_rank": 11
+        },
+        {
+          "id": 333,
+          "team": "Alabama",
+          "qualification_probability": 0.543,
+          "objective_rank": 8
+        },
+        {
+          "id": 99,
+          "team": "LSU",
+          "qualification_probability": 0.474,
+          "objective_rank": 24
+        },
+        {
+          "id": 252,
+          "team": "BYU",
+          "qualification_probability": 0.461,
+          "objective_rank": 7
+        },
+        {
+          "id": 251,
+          "team": "Texas",
+          "qualification_probability": 0.45,
+          "objective_rank": 15
+        },
+        {
+          "id": 2641,
+          "team": "Texas Tech",
+          "qualification_probability": 0.392,
+          "objective_rank": 19
+        },
+        {
+          "id": 145,
+          "team": "Ole Miss",
+          "qualification_probability": 0.2945,
+          "objective_rank": 10
+        },
+        {
+          "id": 77,
+          "team": "Northwestern",
+          "qualification_probability": 0.274,
+          "objective_rank": 12
+        },
+        {
+          "id": 12,
+          "team": "Arizona",
+          "qualification_probability": 0.2645,
+          "objective_rank": 20
+        },
+        {
+          "id": 154,
+          "team": "Wake Forest",
+          "qualification_probability": 0.262,
+          "objective_rank": 9
+        },
+        {
+          "id": 248,
+          "team": "Houston",
+          "qualification_probability": 0.217,
+          "objective_rank": 17
+        },
+        {
+          "id": 2567,
+          "team": "SMU",
+          "qualification_probability": 0.2145,
+          "objective_rank": 21
+        }
+      ]
+    },
+    "elo_objective": {
+      "effective_method": "elo",
+      "expected_places_by_conference": {
+        "SEC": 1.9100000000000004,
+        "American Athletic": 0.8065,
+        "Sun Belt": 0.55,
+        "Big 12": 2.3895,
+        "Mid-American": 0.08299999999999999,
+        "Pac-12": 0.6059999999999999,
+        "Mountain West": 0.461,
+        "ACC": 1.695,
+        "Big Ten": 2.6125000000000003,
+        "FBS Independents": 0.5045,
+        "Conference USA": 0.382
+      },
+      "top_20": [
+        {
+          "id": 2390,
+          "team": "Miami",
+          "qualification_probability": 0.789,
+          "objective_rank": 1
+        },
+        {
+          "id": 26,
+          "team": "UCLA",
+          "qualification_probability": 0.7395,
+          "objective_rank": 2
+        },
+        {
+          "id": 254,
+          "team": "Utah",
+          "qualification_probability": 0.7005,
+          "objective_rank": 3
+        },
+        {
+          "id": 84,
+          "team": "Indiana",
+          "qualification_probability": 0.6555,
+          "objective_rank": 5
+        },
+        {
+          "id": 96,
+          "team": "Kentucky",
+          "qualification_probability": 0.549,
+          "objective_rank": 4
+        },
+        {
+          "id": 68,
+          "team": "Boise State",
+          "qualification_probability": 0.5335,
+          "objective_rank": 8
+        },
+        {
+          "id": 87,
+          "team": "Notre Dame",
+          "qualification_probability": 0.5045,
+          "objective_rank": 7
+        },
+        {
+          "id": 154,
+          "team": "Wake Forest",
+          "qualification_probability": 0.465,
+          "objective_rank": 11
+        },
+        {
+          "id": 2636,
+          "team": "UT San Antonio",
+          "qualification_probability": 0.465,
+          "objective_rank": 14
+        },
+        {
+          "id": 256,
+          "team": "James Madison",
+          "qualification_probability": 0.457,
+          "objective_rank": 13
+        },
+        {
+          "id": 194,
+          "team": "Ohio State",
+          "qualification_probability": 0.4485,
+          "objective_rank": 6
+        },
+        {
+          "id": 2641,
+          "team": "Texas Tech",
+          "qualification_probability": 0.4165,
+          "objective_rank": 10
+        },
+        {
+          "id": 252,
+          "team": "BYU",
+          "qualification_probability": 0.406,
+          "objective_rank": 12
+        },
+        {
+          "id": 12,
+          "team": "Arizona",
+          "qualification_probability": 0.378,
+          "objective_rank": 9
+        },
+        {
+          "id": 77,
+          "team": "Northwestern",
+          "qualification_probability": 0.3655,
+          "objective_rank": 16
+        },
+        {
+          "id": 61,
+          "team": "Georgia",
+          "qualification_probability": 0.331,
+          "objective_rank": 17
+        },
+        {
+          "id": 2335,
+          "team": "Liberty",
+          "qualification_probability": 0.3155,
+          "objective_rank": 18
+        },
+        {
+          "id": 2567,
+          "team": "SMU",
+          "qualification_probability": 0.3145,
+          "objective_rank": 20
+        },
+        {
+          "id": 248,
+          "team": "Houston",
+          "qualification_probability": 0.2795,
+          "objective_rank": 15
+        },
+        {
+          "id": 167,
+          "team": "New Mexico",
+          "qualification_probability": 0.2785,
+          "objective_rank": 23
+        }
+      ]
+    },
+    "elo_legacy": {
+      "effective_method": "legacy Elo",
+      "expected_places_by_conference": {
+        "SEC": 1.962,
+        "American Athletic": 0.9225,
+        "Sun Belt": 0.714,
+        "Big 12": 1.9490000000000003,
+        "Mid-American": 0.5685,
+        "Pac-12": 0.5045,
+        "Mountain West": 0.5575000000000001,
+        "ACC": 1.7285,
+        "Big Ten": 2.3444999999999996,
+        "FBS Independents": 0.30600000000000005,
+        "Conference USA": 0.44300000000000006
+      },
+      "top_20": [
+        {
+          "id": 2390,
+          "team": "Miami",
+          "qualification_probability": 0.657,
+          "objective_rank": null
+        },
+        {
+          "id": 26,
+          "team": "UCLA",
+          "qualification_probability": 0.6295,
+          "objective_rank": null
+        },
+        {
+          "id": 254,
+          "team": "Utah",
+          "qualification_probability": 0.592,
+          "objective_rank": null
+        },
+        {
+          "id": 96,
+          "team": "Kentucky",
+          "qualification_probability": 0.5235,
+          "objective_rank": null
+        },
+        {
+          "id": 2636,
+          "team": "UT San Antonio",
+          "qualification_probability": 0.445,
+          "objective_rank": null
+        },
+        {
+          "id": 256,
+          "team": "James Madison",
+          "qualification_probability": 0.4235,
+          "objective_rank": null
+        },
+        {
+          "id": 84,
+          "team": "Indiana",
+          "qualification_probability": 0.418,
+          "objective_rank": null
+        },
+        {
+          "id": 194,
+          "team": "Ohio State",
+          "qualification_probability": 0.416,
+          "objective_rank": null
+        },
+        {
+          "id": 68,
+          "team": "Boise State",
+          "qualification_probability": 0.36,
+          "objective_rank": null
+        },
+        {
+          "id": 154,
+          "team": "Wake Forest",
+          "qualification_probability": 0.358,
+          "objective_rank": null
+        },
+        {
+          "id": 2567,
+          "team": "SMU",
+          "qualification_probability": 0.3245,
+          "objective_rank": null
+        },
+        {
+          "id": 61,
+          "team": "Georgia",
+          "qualification_probability": 0.313,
+          "objective_rank": null
+        },
+        {
+          "id": 12,
+          "team": "Arizona",
+          "qualification_probability": 0.308,
+          "objective_rank": null
+        },
+        {
+          "id": 87,
+          "team": "Notre Dame",
+          "qualification_probability": 0.2785,
+          "objective_rank": null
+        },
+        {
+          "id": 252,
+          "team": "BYU",
+          "qualification_probability": 0.276,
+          "objective_rank": null
+        },
+        {
+          "id": 2335,
+          "team": "Liberty",
+          "qualification_probability": 0.275,
+          "objective_rank": null
+        },
+        {
+          "id": 167,
+          "team": "New Mexico",
+          "qualification_probability": 0.274,
+          "objective_rank": null
+        },
+        {
+          "id": 77,
+          "team": "Northwestern",
+          "qualification_probability": 0.2725,
+          "objective_rank": null
+        },
+        {
+          "id": 2641,
+          "team": "Texas Tech",
+          "qualification_probability": 0.2605,
+          "objective_rank": null
+        },
+        {
+          "id": 195,
+          "team": "Ohio",
+          "qualification_probability": 0.233,
+          "objective_rank": null
+        }
+      ]
+    }
+  },
+  "reference_sensitivity": [
+    {
+      "reference_sp": 15,
+      "sor_tolerance": 0,
+      "iterations": 1000,
+      "expected_group_places": 1.022,
+      "top_12": [
+        {
+          "id": 194,
+          "team": "Ohio State",
+          "qualification_probability": 0.943
+        },
+        {
+          "id": 2390,
+          "team": "Miami",
+          "qualification_probability": 0.928
+        },
+        {
+          "id": 84,
+          "team": "Indiana",
+          "qualification_probability": 0.891
+        },
+        {
+          "id": 87,
+          "team": "Notre Dame",
+          "qualification_probability": 0.763
+        },
+        {
+          "id": 61,
+          "team": "Georgia",
+          "qualification_probability": 0.742
+        },
+        {
+          "id": 254,
+          "team": "Utah",
+          "qualification_probability": 0.628
+        },
+        {
+          "id": 26,
+          "team": "UCLA",
+          "qualification_probability": 0.608
+        },
+        {
+          "id": 96,
+          "team": "Kentucky",
+          "qualification_probability": 0.595
+        },
+        {
+          "id": 68,
+          "team": "Boise State",
+          "qualification_probability": 0.542
+        },
+        {
+          "id": 333,
+          "team": "Alabama",
+          "qualification_probability": 0.538
+        },
+        {
+          "id": 99,
+          "team": "LSU",
+          "qualification_probability": 0.5
+        },
+        {
+          "id": 252,
+          "team": "BYU",
+          "qualification_probability": 0.469
+        }
+      ]
+    },
+    {
+      "reference_sp": 15,
+      "sor_tolerance": 0.009950330853168092,
+      "iterations": 1000,
+      "expected_group_places": 1.02,
+      "top_12": [
+        {
+          "id": 194,
+          "team": "Ohio State",
+          "qualification_probability": 0.945
+        },
+        {
+          "id": 2390,
+          "team": "Miami",
+          "qualification_probability": 0.925
+        },
+        {
+          "id": 84,
+          "team": "Indiana",
+          "qualification_probability": 0.89
+        },
+        {
+          "id": 61,
+          "team": "Georgia",
+          "qualification_probability": 0.744
+        },
+        {
+          "id": 87,
+          "team": "Notre Dame",
+          "qualification_probability": 0.739
+        },
+        {
+          "id": 254,
+          "team": "Utah",
+          "qualification_probability": 0.622
+        },
+        {
+          "id": 26,
+          "team": "UCLA",
+          "qualification_probability": 0.608
+        },
+        {
+          "id": 96,
+          "team": "Kentucky",
+          "qualification_probability": 0.595
+        },
+        {
+          "id": 68,
+          "team": "Boise State",
+          "qualification_probability": 0.543
+        },
+        {
+          "id": 333,
+          "team": "Alabama",
+          "qualification_probability": 0.542
+        },
+        {
+          "id": 99,
+          "team": "LSU",
+          "qualification_probability": 0.51
+        },
+        {
+          "id": 252,
+          "team": "BYU",
+          "qualification_probability": 0.468
+        }
+      ]
+    },
+    {
+      "reference_sp": 15,
+      "sor_tolerance": 0.04879016416943205,
+      "iterations": 1000,
+      "expected_group_places": 1.0190000000000001,
+      "top_12": [
+        {
+          "id": 194,
+          "team": "Ohio State",
+          "qualification_probability": 0.946
+        },
+        {
+          "id": 2390,
+          "team": "Miami",
+          "qualification_probability": 0.923
+        },
+        {
+          "id": 84,
+          "team": "Indiana",
+          "qualification_probability": 0.889
+        },
+        {
+          "id": 61,
+          "team": "Georgia",
+          "qualification_probability": 0.739
+        },
+        {
+          "id": 87,
+          "team": "Notre Dame",
+          "qualification_probability": 0.735
+        },
+        {
+          "id": 254,
+          "team": "Utah",
+          "qualification_probability": 0.611
+        },
+        {
+          "id": 26,
+          "team": "UCLA",
+          "qualification_probability": 0.603
+        },
+        {
+          "id": 96,
+          "team": "Kentucky",
+          "qualification_probability": 0.601
+        },
+        {
+          "id": 68,
+          "team": "Boise State",
+          "qualification_probability": 0.552
+        },
+        {
+          "id": 333,
+          "team": "Alabama",
+          "qualification_probability": 0.547
+        },
+        {
+          "id": 99,
+          "team": "LSU",
+          "qualification_probability": 0.512
+        },
+        {
+          "id": 251,
+          "team": "Texas",
+          "qualification_probability": 0.474
+        }
+      ]
+    },
+    {
+      "reference_sp": 20,
+      "sor_tolerance": 0,
+      "iterations": 1000,
+      "expected_group_places": 1.04,
+      "top_12": [
+        {
+          "id": 194,
+          "team": "Ohio State",
+          "qualification_probability": 0.939
+        },
+        {
+          "id": 2390,
+          "team": "Miami",
+          "qualification_probability": 0.927
+        },
+        {
+          "id": 84,
+          "team": "Indiana",
+          "qualification_probability": 0.893
+        },
+        {
+          "id": 87,
+          "team": "Notre Dame",
+          "qualification_probability": 0.77
+        },
+        {
+          "id": 61,
+          "team": "Georgia",
+          "qualification_probability": 0.742
+        },
+        {
+          "id": 254,
+          "team": "Utah",
+          "qualification_probability": 0.644
+        },
+        {
+          "id": 26,
+          "team": "UCLA",
+          "qualification_probability": 0.592
+        },
+        {
+          "id": 96,
+          "team": "Kentucky",
+          "qualification_probability": 0.571
+        },
+        {
+          "id": 68,
+          "team": "Boise State",
+          "qualification_probability": 0.543
+        },
+        {
+          "id": 333,
+          "team": "Alabama",
+          "qualification_probability": 0.534
+        },
+        {
+          "id": 99,
+          "team": "LSU",
+          "qualification_probability": 0.476
+        },
+        {
+          "id": 252,
+          "team": "BYU",
+          "qualification_probability": 0.454
+        }
+      ]
+    },
+    {
+      "reference_sp": 20,
+      "sor_tolerance": 0.009950330853168092,
+      "iterations": 1000,
+      "expected_group_places": 1.0270000000000001,
+      "top_12": [
+        {
+          "id": 194,
+          "team": "Ohio State",
+          "qualification_probability": 0.938
+        },
+        {
+          "id": 2390,
+          "team": "Miami",
+          "qualification_probability": 0.926
+        },
+        {
+          "id": 84,
+          "team": "Indiana",
+          "qualification_probability": 0.892
+        },
+        {
+          "id": 87,
+          "team": "Notre Dame",
+          "qualification_probability": 0.77
+        },
+        {
+          "id": 61,
+          "team": "Georgia",
+          "qualification_probability": 0.737
+        },
+        {
+          "id": 254,
+          "team": "Utah",
+          "qualification_probability": 0.641
+        },
+        {
+          "id": 26,
+          "team": "UCLA",
+          "qualification_probability": 0.592
+        },
+        {
+          "id": 96,
+          "team": "Kentucky",
+          "qualification_probability": 0.575
+        },
+        {
+          "id": 68,
+          "team": "Boise State",
+          "qualification_probability": 0.543
+        },
+        {
+          "id": 333,
+          "team": "Alabama",
+          "qualification_probability": 0.537
+        },
+        {
+          "id": 99,
+          "team": "LSU",
+          "qualification_probability": 0.477
+        },
+        {
+          "id": 252,
+          "team": "BYU",
+          "qualification_probability": 0.455
+        }
+      ]
+    },
+    {
+      "reference_sp": 20,
+      "sor_tolerance": 0.04879016416943205,
+      "iterations": 1000,
+      "expected_group_places": 1.026,
+      "top_12": [
+        {
+          "id": 194,
+          "team": "Ohio State",
+          "qualification_probability": 0.944
+        },
+        {
+          "id": 2390,
+          "team": "Miami",
+          "qualification_probability": 0.92
+        },
+        {
+          "id": 84,
+          "team": "Indiana",
+          "qualification_probability": 0.89
+        },
+        {
+          "id": 87,
+          "team": "Notre Dame",
+          "qualification_probability": 0.752
+        },
+        {
+          "id": 61,
+          "team": "Georgia",
+          "qualification_probability": 0.73
+        },
+        {
+          "id": 254,
+          "team": "Utah",
+          "qualification_probability": 0.62
+        },
+        {
+          "id": 96,
+          "team": "Kentucky",
+          "qualification_probability": 0.596
+        },
+        {
+          "id": 26,
+          "team": "UCLA",
+          "qualification_probability": 0.586
+        },
+        {
+          "id": 68,
+          "team": "Boise State",
+          "qualification_probability": 0.552
+        },
+        {
+          "id": 333,
+          "team": "Alabama",
+          "qualification_probability": 0.54
+        },
+        {
+          "id": 99,
+          "team": "LSU",
+          "qualification_probability": 0.497
+        },
+        {
+          "id": 251,
+          "team": "Texas",
+          "qualification_probability": 0.455
+        }
+      ]
+    },
+    {
+      "reference_sp": 25,
+      "sor_tolerance": 0,
+      "iterations": 1000,
+      "expected_group_places": 1.086,
+      "top_12": [
+        {
+          "id": 2390,
+          "team": "Miami",
+          "qualification_probability": 0.932
+        },
+        {
+          "id": 194,
+          "team": "Ohio State",
+          "qualification_probability": 0.927
+        },
+        {
+          "id": 84,
+          "team": "Indiana",
+          "qualification_probability": 0.892
+        },
+        {
+          "id": 87,
+          "team": "Notre Dame",
+          "qualification_probability": 0.781
+        },
+        {
+          "id": 61,
+          "team": "Georgia",
+          "qualification_probability": 0.728
+        },
+        {
+          "id": 254,
+          "team": "Utah",
+          "qualification_probability": 0.66
+        },
+        {
+          "id": 26,
+          "team": "UCLA",
+          "qualification_probability": 0.634
+        },
+        {
+          "id": 68,
+          "team": "Boise State",
+          "qualification_probability": 0.542
+        },
+        {
+          "id": 333,
+          "team": "Alabama",
+          "qualification_probability": 0.54
+        },
+        {
+          "id": 96,
+          "team": "Kentucky",
+          "qualification_probability": 0.531
+        },
+        {
+          "id": 252,
+          "team": "BYU",
+          "qualification_probability": 0.446
+        },
+        {
+          "id": 99,
+          "team": "LSU",
+          "qualification_probability": 0.404
+        }
+      ]
+    },
+    {
+      "reference_sp": 25,
+      "sor_tolerance": 0.009950330853168092,
+      "iterations": 1000,
+      "expected_group_places": 1.068,
+      "top_12": [
+        {
+          "id": 194,
+          "team": "Ohio State",
+          "qualification_probability": 0.929
+        },
+        {
+          "id": 2390,
+          "team": "Miami",
+          "qualification_probability": 0.929
+        },
+        {
+          "id": 84,
+          "team": "Indiana",
+          "qualification_probability": 0.895
+        },
+        {
+          "id": 87,
+          "team": "Notre Dame",
+          "qualification_probability": 0.781
+        },
+        {
+          "id": 61,
+          "team": "Georgia",
+          "qualification_probability": 0.724
+        },
+        {
+          "id": 254,
+          "team": "Utah",
+          "qualification_probability": 0.651
+        },
+        {
+          "id": 26,
+          "team": "UCLA",
+          "qualification_probability": 0.599
+        },
+        {
+          "id": 68,
+          "team": "Boise State",
+          "qualification_probability": 0.548
+        },
+        {
+          "id": 333,
+          "team": "Alabama",
+          "qualification_probability": 0.542
+        },
+        {
+          "id": 96,
+          "team": "Kentucky",
+          "qualification_probability": 0.538
+        },
+        {
+          "id": 252,
+          "team": "BYU",
+          "qualification_probability": 0.441
+        },
+        {
+          "id": 99,
+          "team": "LSU",
+          "qualification_probability": 0.424
+        }
+      ]
+    },
+    {
+      "reference_sp": 25,
+      "sor_tolerance": 0.04879016416943205,
+      "iterations": 1000,
+      "expected_group_places": 1.046,
+      "top_12": [
+        {
+          "id": 194,
+          "team": "Ohio State",
+          "qualification_probability": 0.934
+        },
+        {
+          "id": 2390,
+          "team": "Miami",
+          "qualification_probability": 0.922
+        },
+        {
+          "id": 84,
+          "team": "Indiana",
+          "qualification_probability": 0.891
+        },
+        {
+          "id": 87,
+          "team": "Notre Dame",
+          "qualification_probability": 0.748
+        },
+        {
+          "id": 61,
+          "team": "Georgia",
+          "qualification_probability": 0.723
+        },
+        {
+          "id": 254,
+          "team": "Utah",
+          "qualification_probability": 0.609
+        },
+        {
+          "id": 96,
+          "team": "Kentucky",
+          "qualification_probability": 0.591
+        },
+        {
+          "id": 26,
+          "team": "UCLA",
+          "qualification_probability": 0.589
+        },
+        {
+          "id": 68,
+          "team": "Boise State",
+          "qualification_probability": 0.556
+        },
+        {
+          "id": 333,
+          "team": "Alabama",
+          "qualification_probability": 0.544
+        },
+        {
+          "id": 251,
+          "team": "Texas",
+          "qualification_probability": 0.442
+        },
+        {
+          "id": 99,
+          "team": "LSU",
+          "qualification_probability": 0.437
+        }
+      ]
+    }
+  ]
+}

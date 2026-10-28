@@ -19,7 +19,7 @@ The predictor asks which teams earn qualification under a declared mathematical 
 
 ## Credentials and updates
 
-Set `CFBD_API_KEY` in the environment used to run Python. On GitHub, use repository **Settings → Secrets and variables → Actions → New repository secret**, named `CFBD_API_KEY`. Never use a frontend environment variable, paste a key into HTML, or commit it. No key or authenticated request header is saved in snapshots.
+Set `CFBD_API_KEY` in the environment used to run Python. On GitHub, use repository **Settings → Secrets and variables → Actions → New repository secret**, named `CFBD_API_KEY`. Never use a frontend environment variable, paste a key into HTML, or commit it. Surrounding whitespace and an optional Bearer prefix are normalized; invalid internal whitespace is rejected without printing the value. No key or authenticated request header is saved in snapshots.
 
 ```bash
 .venv/bin/python scripts/refresh_ratings.py --year 2026
@@ -83,10 +83,14 @@ Conference elimination retains exact optimistic standings feasibility. Old Elo r
 node tests/test_predictor_model.cjs
 node tests/test_objective_predictor.cjs
 node tests/test_circles_algorithms.cjs
-node scripts/compare_predictor.cjs 2000
+node scripts/compare_predictor.cjs 2000 --sensitivity
 .venv/bin/python scripts/build.py
 .venv/bin/python scripts/check_predictor.py
 .venv/bin/python scripts/check_visualizations.py
 ```
 
 Tests cover parsing, explicit/ambiguous mappings, missing/invalid/stale snapshots, HTTP errors/cache preservation/request throttle, neutral/home/complementary probabilities, held-out calibration, stable log tails, schedule/record comparisons, reference/tolerance sensitivity, actual and forced results, frozen SP+, 2026 bid/seeding/Notre Dame/nonchampion G6 cases, probability conservation and deterministic simulation. Existing Elo and graph tests remain in place. Browser checks exercise scenario mirroring/conflicts, sorting, rating switching, explanation panels, mobile scrolling, independent tabs and offline operation.
+
+Validation recorded 2026-10-28: live CFBD retrieval matched **138/138 FBS teams**, with the national-average aggregate excluded. Both automatic weekly-cache and explicit forced-refresh cloud paths were exercised. A 50,000-run offline browser forecast plus pick/rating-switch checks took about 14 seconds on the development machine; performance varies by device. The saved comparison uses 2,000 runs per model and 1,000 per reference/tolerance sensitivity case; it is illustrative scenario output, not historical predictive validation.
+
+Final validation: **37 Python tests passed**; the existing Elo/selection and graph suites, the new objective predictor suite (including bounded exhaustive proofs), and both predictor/tab browser regression scripts passed. The offline browser also verified fixed SP+ across forced outcomes, retained picks across method switches, 50,000-run defaults, and no runtime network requests or page errors.

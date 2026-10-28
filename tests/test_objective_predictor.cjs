@@ -62,3 +62,6 @@ assert.equal(bounded.proof.completions,64);
 const exhaustive=M.project(data,{iterations:64,choices:allPicks,seed:9,enumerate:true});
 for(const t of bounded.teams){const e=exhaustive.teams.find(x=>x.id===t.id);assert.equal(t.playoffOut,e.playoffs===0);assert.equal(t.playoffClinched,e.playoffs===64);}
 console.log('Passed bounded exhaustive qualification/elimination proof against every remaining title outcome.');
+// An impressive one-loss schedule can outrank a weak undefeated schedule without conference multipliers.
+assert(M.sorDistribution(Array(12).fill(.65))[11]>M.sorDistribution(Array(12).fill(.95))[12]);
+assert.deepEqual(M.objectiveRanking([0,1],[{sor:Infinity,sos:.1,power:1},{sor:Infinity,sos:.5,power:1}],teams,new Map()),[1,0]);

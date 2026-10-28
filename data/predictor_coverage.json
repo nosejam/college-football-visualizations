@@ -1,4 +1,7 @@
 {
+  "rating_status": "missing",
+  "rating_coverage": null,
+  "model_version": "objective-sor-1",
   "season": 2026,
   "as_of": "2026-10-28T18:53:04.961881+00:00",
   "fbs_teams": 138,
@@ -20,7 +23,7 @@
   "rules": {
     "season": 2026,
     "format_url": "https://collegefootballplayoff.com/sports/2024/5/29/12-team-format",
-    "verified_on": "2026-10-26",
+    "verified_on": "2026-10-28",
     "field_size": 12,
     "power_automatic": [
       "ACC",
@@ -61,8 +64,8 @@
       2653
     ],
     "acc_alternate_schedule_url": "https://admin.theacc.com/news/2026/7/15/acc-announces-new-football-championship-tiebreaker-policy.aspx",
-    "conference_ties": "Projection model: winning percentage, ACC alternate-game ties, head-to-head, common opponents, opponent conference winning percentage, then a uniform lottery. This is not a complete reproduction of each league's official tiebreaker book.",
-    "ranking_model": "Final simulated Elo, random ordering for exactly tied ratings. Elo substitutes for committee judgment.",
+    "conference_ties": "Conference winning percentage, ACC alternate-schedule equivalence, head-to-head, common opponents, opponent conference win percentage, stable team ID. Partial league-rule approximation; every tied qualification is flagged.",
+    "ranking_model": "Deterministic Poisson-binomial Strength of Record; SOS, head-to-head, predictive power, stable ID near-tie resolution.",
     "eligibility": "All source-classified 2026 FBS teams; no postseason bans are asserted by this model.",
     "conference_flag_overrides": {
       "401862844": {
@@ -70,6 +73,12 @@
         "reason": "Army\u2013Navy is a nonconference game, after the American championship and CFP Selection Day.",
         "url": "https://goarmywestpoint.com/news/2026/2/26/2026-army-football-schedule-set"
       }
-    }
+    },
+    "notre_dame_id": 87,
+    "championship_home_conferences": [
+      "Sun Belt",
+      "Conference USA",
+      "Mountain West"
+    ]
   }
 }

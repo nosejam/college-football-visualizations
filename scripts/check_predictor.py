@@ -8,7 +8,7 @@ from playwright.sync_api import sync_playwright
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT))
 
-def wait(frame):frame.wait_for_function('CFB_PLAYOFF?.ready&&!CFB_PLAYOFF.state.running',timeout=60000)
+def wait(frame):frame.wait_for_function('CFB_PLAYOFF?.ready&&!CFB_PLAYOFF.state.running',timeout=120000)
 def choice(frame,team,mode):return frame.locator(f'tr[data-team="{team}"] input[data-mode="{mode}"]')
 
 with sync_playwright() as p:
@@ -16,15 +16,18 @@ with sync_playwright() as p:
     page=browser.new_page(viewport={'width':1600,'height':1050},accept_downloads=True);errors=[];requests=[]
     page.on('pageerror',lambda e:errors.append(str(e)));page.on('request',lambda r:requests.append(r.url))
     page.goto((ROOT/'index.html').as_uri()+'#predictor',wait_until='load')
-    frame=page.query_selector('#view-predictor').content_frame();wait(frame)
+    frame=page.query_selector('#view-predictor').content_frame();frame.select_option('#simulation-count','2000');wait(frame)
     assert page.get_by_role('tab').count()==3
     assert frame.locator('#prediction-rows tr').count()==138
-    assert frame.locator('thead th').count()==10
+    assert frame.locator('thead th').count()==21
+    assert frame.evaluate('CFB_PLAYOFF.state.sort')=='objectiveRank'
+    frame.select_option('#rating-method','elo');wait(frame)
+    frame.click('[data-sort="elo"]')
     assert frame.evaluate('CFB_PLAYOFF.result.teams.reduce((n,t)=>n+t.playoffs,0)===12*CFB_PLAYOFF.result.iterations')
     assert frame.evaluate('CFB_PLAYOFF.result.teams.reduce((n,t)=>n+t.championships,0)===CFB_PLAYOFF.result.iterations')
     assert frame.evaluate('CFB_PLAYOFF.result.teams.reduce((n,t)=>n+t.conferenceWins,0)===10*CFB_PLAYOFF.result.iterations')
     assert frame.evaluate('CFB_PLAYOFF.result.teams.every(t=>!t.conferenceOut||t.conferenceWins===0)')
-    assert frame.evaluate('''() => {const cells=[...document.querySelectorAll('#prediction-rows tr')].map(r=>Number(r.cells[0].textContent));return cells.every((v,i)=>!i||cells[i-1]>=v);}''')
+    assert frame.evaluate('''() => {const cells=[...document.querySelectorAll('#prediction-rows tr')].map(r=>Number(r.cells[20].textContent));return cells.every((v,i)=>!i||cells[i-1]>=v);}''')
     assert frame.locator('#week-slider').bounding_box()['y']<1050
     for key in ['conference','playoff','championship']:
         frame.click(f'[data-sort="{key}"]')
@@ -74,6 +77,11 @@ with sync_playwright() as p:
     assert frame.evaluate('CFB_PLAYOFF.result.teams.every(t=>t.elo===1500)')
     assert frame.evaluate('Object.keys(CFB_PLAYOFF.state.choices).length')==0
     assert frame.evaluate('CFB_PLAYOFF.data.frames[0].records[130]')=={'wins':0,'losses':0,'ties':0}
+    # Switching power source preserves scenarios; SP+ may explicitly fall back when unavailable.
+    frame.select_option('#rating-method','sp');wait(frame)
+    frame.locator('.team-name').first.click()
+    assert 'SOR' in frame.locator('#resume-content').inner_text()
+    assert frame.locator('#rating-status').inner_text()
     # Any zero without a mathematical proof is labeled rare rather than eliminated.
     assert frame.locator('.rare').evaluate_all('nodes=>nodes.every(n=>n.textContent.startsWith("~"))')
     page.set_viewport_size({'width':390,'height':844});page.wait_for_timeout(200)

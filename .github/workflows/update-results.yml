@@ -7,6 +7,11 @@ on:
     # 13:17 UTC: 9:17 a.m. Eastern daylight / 8:17 a.m. Eastern standard.
     - cron: '17 13 * * *'
   workflow_dispatch:
+    inputs:
+      force_ratings:
+        description: 'Force one SP+ API request, bypassing the weekly cache'
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -36,9 +41,19 @@ jobs:
           node-version: '24'
       - name: Install build and solver dependencies
         run: python -m pip install -r requirements.txt
+      - name: Refresh weekly SP+ snapshot (server side only)
+        env:
+          CFBD_API_KEY: ${{ secrets.CFBD_API_KEY }}
+          FORCE_RATINGS: ${{ github.event_name == 'workflow_dispatch' && inputs.force_ratings }}
+        run: |
+          if [ "$FORCE_RATINGS" = true ]; then
+            python scripts/refresh_ratings.py --force
+          else
+            python scripts/refresh_ratings.py
+          fi
       - name: Download schedules and results, then rebuild
         if: github.event_name != 'push'
-        run: python scripts/refresh_results.py
+        run: python scripts/refresh_results.py --force-build
       - name: Rebuild source changes from saved data
         if: github.event_name == 'push'
         run: python scripts/build.py
@@ -47,6 +62,7 @@ jobs:
           python -m unittest discover -s tests -v
           node tests/test_circles_algorithms.cjs
           node tests/test_predictor_model.cjs
+          node tests/test_objective_predictor.cjs
       - name: Commit updated snapshot if changed
         run: |
           git add data index.html

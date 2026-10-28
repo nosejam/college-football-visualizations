@@ -24,19 +24,13 @@ This project uses [standard win/loss Elo](https://www.stat.cmu.edu/cmsac/footbal
 
 ## Playoff Predictor (2026)
 
-The third tab lists every FBS team with **Elo, logo, name, Win next, Lose next, Win out, Lose out, Win conference, Make playoff, and Win championship**. It starts sorted by Elo; click the Elo/name/probability headers to change the sort. Team notes include the observed record and next opponent. The week slider runs from preseason (everyone starts at 1500) to the latest saved results. Victory Cycles now opens the shortest found cycle first and includes the observed record in logo hovers.
+The opening tab lists every FBS team and starts sorted by objective résumé rank. SP+ is the default predictive source when a current snapshot is available, with an explicit Elo fallback/comparison. Power rank predicts strength; Strength of Record evaluates achievement against each team's schedule. Columns include SOR, SOS, projected record/rank, conference title, automatic bid, at-large bid, total qualification, bye and championship probabilities. Select a team name for its résumé explanation.
 
-Future checkboxes fix actual matchups. Choosing a win simultaneously fixes the opponent's loss. Win/lose out applies to all remaining **known regular-season games**, not hypothetical conference-title or playoff games. Opponents' checkboxes and fixed-result notes update accordingly. The latest edit replaces an inconsistent previous pick; the game list lets you remove individual picks, and **Clear all picks** restores an unconstrained forecast. Changing the week clears picks to prevent stale assumptions.
+Future checkboxes fix actual matchups and the opponent's corresponding loss. Conflicting picks use the latest edit. Week changes clear picks; rating-method changes preserve them. SP+ stays fixed during simulations. Use 2,000–50,000 simulations (default 50,000) with a reproducible seed; the background worker remains cancellable.
 
-Each background simulation draws the remaining games from Elo probabilities and updates both teams' ratings after every result. It then simulates conference titles and a fixed 12-team playoff bracket. The displayed Elo column applies only fixed future results to the selected week's rating; probability calculations also simulate unfixed outcomes. Use 2,000, 5,000, or 20,000 simulations.
+Qualification follows the [2026 CFP format](https://collegefootballplayoff.com/sports/2024/5/29/12-team-format), using deterministic SOR rankings as its authority, without committee randomness or conference bonuses. Conference tiebreakers remain an explicitly flagged approximation. Sampled zero/all hits are not elimination/clinching proofs. The SP+ probability mapping is an **unvalidated transfer** from a chronologically tested pregame Elo baseline; historical pregame SP+ snapshots are unavailable.
 
-The app uses the [current official 2026 CFP format](https://collegefootballplayoff.com/sports/2024/5/29/12-team-format): ACC, Big Ten, Big 12, and SEC champions; the highest-ranked **team** from the six other conferences (not necessarily a champion); remaining at-large places; and Notre Dame's top-12 guarantee. Seeds 1–4 get byes. **Final simulated Elo substitutes for committee rankings.** The predictor is not an official selection forecast.
-
-Conference projections use conference records, Sun Belt divisions, ACC alternate-schedule ties, head-to-head, common opponents, opponent conference winning percentage, and a lottery for unresolved ties. **This approximates full conference tiebreakers.** Known gaps such as unscheduled Pac-12 flex matchups are not invented. Conference elimination is checked with a max-flow standings feasibility calculation allowing optimistic ties; conservative Elo interval bounds can also prove selection impossible under the model. Only proven elimination is displayed as **0.0%**. A team with zero sampled successes but no proof displays **~0% (zero sampled successes, not proven out)**, so rare chances are not mislabeled as elimination. Real committee judgment and complete league tiebreakers may differ.
-
-Army–Navy is retained as a selectable nonconference game after Selection Day: it can change playoff game strength, but not field selection. The predictor corrects the source’s conference-game flag using Army’s published schedule.
-
-The verified rules and sources are in `data/sources/predictor/rules_2026.json`; `data/predictor_coverage.json` records schedule coverage and its checksum. The daily build regenerates the predictor from saved actual and future schedules.
+[Full model documentation, API credentials, refresh commands, calibration results, tests and limitations](docs/objective-predictor.md).
 
 ## Project layout
 

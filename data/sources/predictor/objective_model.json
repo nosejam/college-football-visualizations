@@ -1,0 +1,12 @@
+{
+  "version": "objective-sor-1",
+  "reference_sp": 20,
+  "reference_elo": 1625,
+  "reference_description": "Fixed contender reference: SP+ +20 points; Elo 1625 for missing SP+ opponents or Elo comparison. Both are explicit modelling choices, fixed across scenarios, not re-estimated from user picks.",
+  "sor_tolerance": 0.009950330853168092,
+  "near_tie_description": "Natural log(1.01): tail probabilities within 1% of the anchored group leader are near ties. A configurable policy choice, not a fitted coefficient. SOS then within-group head-to-head win differential, power, stable ID.",
+  "independence": "Reference-team games independent conditional on fixed opponent ratings.",
+  "quality_win_top_n": 25,
+  "default_iterations": 50000,
+  "default_seed": 2026
+}

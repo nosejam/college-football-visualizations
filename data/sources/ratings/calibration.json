@@ -1,0 +1,374 @@
+{
+  "model_version": "objective-sor-1",
+  "training_seasons": [
+    2016,
+    2022
+  ],
+  "validation_seasons": [
+    2023
+  ],
+  "test_seasons": [
+    2024,
+    2025
+  ],
+  "training_games": 5162,
+  "margin": {
+    "elo_point_scale": 0.1610896737396937,
+    "home_field": 4.076617268312046,
+    "sigma": 18.96804687495992
+  },
+  "logistic": {
+    "elo_slope": 0.01532813626004295,
+    "home_logit": 0.4060704545046916
+  },
+  "selected": "logistic",
+  "validation": {
+    "normal": {
+      "n": 792,
+      "brier": 0.20973022379981598,
+      "log_loss": 0.6087191811382885,
+      "reliability": [
+        {
+          "count": 1,
+          "predicted": 0.06153787160798383,
+          "observed": 0.0
+        },
+        {
+          "count": 23,
+          "predicted": 0.1612820893443569,
+          "observed": 0.21739130434782608
+        },
+        {
+          "count": 32,
+          "predicted": 0.2521123252634148,
+          "observed": 0.28125
+        },
+        {
+          "count": 84,
+          "predicted": 0.359619297604437,
+          "observed": 0.2619047619047619
+        },
+        {
+          "count": 128,
+          "predicted": 0.4656324274964292,
+          "observed": 0.4140625
+        },
+        {
+          "count": 210,
+          "predicted": 0.5657709069049954,
+          "observed": 0.6190476190476191
+        },
+        {
+          "count": 143,
+          "predicted": 0.6543379286627001,
+          "observed": 0.7412587412587412
+        },
+        {
+          "count": 97,
+          "predicted": 0.7487702329702087,
+          "observed": 0.7525773195876289
+        },
+        {
+          "count": 54,
+          "predicted": 0.8405744184796323,
+          "observed": 0.8148148148148148
+        },
+        {
+          "count": 20,
+          "predicted": 0.9312630443860506,
+          "observed": 0.85
+        }
+      ]
+    },
+    "logistic": {
+      "n": 792,
+      "brier": 0.20900700055239466,
+      "log_loss": 0.6076266577530757,
+      "reliability": [
+        {
+          "count": 1,
+          "predicted": 0.05924986400781595,
+          "observed": 0.0
+        },
+        {
+          "count": 28,
+          "predicted": 0.15424359230297346,
+          "observed": 0.25
+        },
+        {
+          "count": 38,
+          "predicted": 0.25558132075633366,
+          "observed": 0.3157894736842105
+        },
+        {
+          "count": 76,
+          "predicted": 0.35711362359354115,
+          "observed": 0.23684210526315788
+        },
+        {
+          "count": 122,
+          "predicted": 0.466287722879167,
+          "observed": 0.4262295081967213
+        },
+        {
+          "count": 117,
+          "predicted": 0.5563034679806634,
+          "observed": 0.5555555555555556
+        },
+        {
+          "count": 186,
+          "predicted": 0.6282413070661802,
+          "observed": 0.6881720430107527
+        },
+        {
+          "count": 140,
+          "predicted": 0.745789945919452,
+          "observed": 0.7928571428571428
+        },
+        {
+          "count": 60,
+          "predicted": 0.8484674548847476,
+          "observed": 0.75
+        },
+        {
+          "count": 24,
+          "predicted": 0.9320267603394736,
+          "observed": 0.875
+        }
+      ]
+    },
+    "legacy_elo": {
+      "n": 792,
+      "brier": 0.22712245409577209,
+      "log_loss": 0.6463575525439847,
+      "reliability": [
+        {
+          "count": 0,
+          "predicted": null,
+          "observed": null
+        },
+        {
+          "count": 0,
+          "predicted": null,
+          "observed": null
+        },
+        {
+          "count": 8,
+          "predicted": 0.27826693972967337,
+          "observed": 0.0
+        },
+        {
+          "count": 66,
+          "predicted": 0.3561094952583406,
+          "observed": 0.2878787878787879
+        },
+        {
+          "count": 288,
+          "predicted": 0.45474553003355883,
+          "observed": 0.4236111111111111
+        },
+        {
+          "count": 351,
+          "predicted": 0.5344479910641556,
+          "observed": 0.7236467236467237
+        },
+        {
+          "count": 68,
+          "predicted": 0.6364268334585077,
+          "observed": 0.7941176470588235
+        },
+        {
+          "count": 11,
+          "predicted": 0.7229623810853698,
+          "observed": 0.9090909090909091
+        },
+        {
+          "count": 0,
+          "predicted": null,
+          "observed": null
+        },
+        {
+          "count": 0,
+          "predicted": null,
+          "observed": null
+        }
+      ]
+    }
+  },
+  "test": {
+    "normal": {
+      "n": 1606,
+      "brier": 0.2107266955255892,
+      "log_loss": 0.6076634821272008,
+      "reliability": [
+        {
+          "count": 5,
+          "predicted": 0.07597025161187751,
+          "observed": 0.0
+        },
+        {
+          "count": 21,
+          "predicted": 0.1601739640079874,
+          "observed": 0.14285714285714285
+        },
+        {
+          "count": 87,
+          "predicted": 0.24811865046365317,
+          "observed": 0.2988505747126437
+        },
+        {
+          "count": 153,
+          "predicted": 0.35903288976588005,
+          "observed": 0.3137254901960784
+        },
+        {
+          "count": 267,
+          "predicted": 0.4602512960367913,
+          "observed": 0.4943820224719101
+        },
+        {
+          "count": 459,
+          "predicted": 0.5643247234388913,
+          "observed": 0.5925925925925926
+        },
+        {
+          "count": 295,
+          "predicted": 0.6608813781171902,
+          "observed": 0.6745762711864407
+        },
+        {
+          "count": 164,
+          "predicted": 0.751095179840494,
+          "observed": 0.774390243902439
+        },
+        {
+          "count": 110,
+          "predicted": 0.8464267264876307,
+          "observed": 0.8909090909090909
+        },
+        {
+          "count": 45,
+          "predicted": 0.9325756465958441,
+          "observed": 0.9333333333333333
+        }
+      ]
+    },
+    "logistic": {
+      "n": 1606,
+      "brier": 0.21044710661920374,
+      "log_loss": 0.6069465478365877,
+      "reliability": [
+        {
+          "count": 5,
+          "predicted": 0.07132595190383628,
+          "observed": 0.0
+        },
+        {
+          "count": 39,
+          "predicted": 0.1659860422547281,
+          "observed": 0.23076923076923078
+        },
+        {
+          "count": 89,
+          "predicted": 0.2515974227437987,
+          "observed": 0.24719101123595505
+        },
+        {
+          "count": 149,
+          "predicted": 0.3589775773600766,
+          "observed": 0.35570469798657717
+        },
+        {
+          "count": 243,
+          "predicted": 0.4616903947804479,
+          "observed": 0.49382716049382713
+        },
+        {
+          "count": 255,
+          "predicted": 0.5525823142317864,
+          "observed": 0.5725490196078431
+        },
+        {
+          "count": 384,
+          "predicted": 0.6298180081764154,
+          "observed": 0.6302083333333334
+        },
+        {
+          "count": 258,
+          "predicted": 0.7396417850388806,
+          "observed": 0.748062015503876
+        },
+        {
+          "count": 127,
+          "predicted": 0.8486981712999124,
+          "observed": 0.8582677165354331
+        },
+        {
+          "count": 57,
+          "predicted": 0.9313329472519416,
+          "observed": 0.9298245614035088
+        }
+      ]
+    },
+    "legacy_elo": {
+      "n": 1606,
+      "brier": 0.22799138118462245,
+      "log_loss": 0.6479548636268608,
+      "reliability": [
+        {
+          "count": 0,
+          "predicted": null,
+          "observed": null
+        },
+        {
+          "count": 0,
+          "predicted": null,
+          "observed": null
+        },
+        {
+          "count": 11,
+          "predicted": 0.26974574616480185,
+          "observed": 0.09090909090909091
+        },
+        {
+          "count": 153,
+          "predicted": 0.36359342451550736,
+          "observed": 0.2679738562091503
+        },
+        {
+          "count": 581,
+          "predicted": 0.45827397822328914,
+          "observed": 0.5008605851979346
+        },
+        {
+          "count": 693,
+          "predicted": 0.5329362387928828,
+          "observed": 0.6695526695526696
+        },
+        {
+          "count": 146,
+          "predicted": 0.6407397000149726,
+          "observed": 0.8835616438356164
+        },
+        {
+          "count": 22,
+          "predicted": 0.7268574859749947,
+          "observed": 0.9545454545454546
+        },
+        {
+          "count": 0,
+          "predicted": null,
+          "observed": null
+        },
+        {
+          "count": 0,
+          "predicted": null,
+          "observed": null
+        }
+      ]
+    }
+  },
+  "sp_calibration": "Unvalidated point-scale transfer from chronological pregame Elo residuals; no historical pregame SP+ snapshots available. Not an SP+ backtest.",
+  "source": "Saved actual games; season-reset pregame Elo, never final-season ratings",
+  "probability_clip": null
+}

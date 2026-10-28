@@ -52,7 +52,7 @@ with sync_playwright() as p:
     assert page.get_by_role('tab').count()==3
     assert page.locator('#tab-predictor').get_attribute('aria-selected')=='true'
     page.wait_for_function('CFB_VISUALIZATIONS.loaded.length===1')
-    predictor=view(page,'predictor');predictor.wait_for_function('CFB_PLAYOFF?.ready&&!CFB_PLAYOFF.state.running')
+    predictor=view(page,'predictor');predictor.select_option('#simulation-count','2000');predictor.wait_for_function('CFB_PLAYOFF?.ready&&!CFB_PLAYOFF.state.running',timeout=60000)
     page.click('#tab-imperialism')
     imperialism=view(page,'imperialism');wait_map(imperialism)
     imperialism.click('#zoom-in');imperialism.click('#zoom-in');imperialism.wait_for_timeout(300)

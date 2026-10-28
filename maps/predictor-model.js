@@ -227,16 +227,16 @@
       if(sp){const margin=config.reference_sp-provider.values[opponent]+cal.margin.home_field*site;return cal.selected==='logistic'?1/(1+Math.exp(-margin*cal.logistic.elo_slope/cal.margin.elo_point_scale)):normalCDF(margin/cal.margin.sigma);}
       return cal.selected==='logistic'?1/(1+Math.exp(-(cal.logistic.elo_slope*(config.reference_elo-p.base[opponent])+cal.logistic.home_logit*site))):normalCDF(((config.reference_elo-p.base[opponent])*cal.margin.elo_point_scale+cal.margin.home_field*site)/cal.margin.sigma);
     };
-    const refSchedules=Array.from({length:p.n},()=>[]),observedSchedules=Array.from({length:p.n},()=>[]),observedWins=new Float64Array(p.n),observedLosses=new Float64Array(p.n),observedCw=new Float64Array(p.n),observedHead=new Map(),quality=new Uint16Array(p.n),weakLosses=new Uint16Array(p.n);
+    const refSchedules=Array.from({length:p.n},()=>[]),observedSchedules=Array.from({length:p.n},()=>[]),observedWins=new Float64Array(p.n),observedLosses=new Float64Array(p.n),observedCw=new Float64Array(p.n),observedCl=new Float64Array(p.n),actualTitle=new Map(),observedHead=new Map(),quality=new Uint16Array(p.n),weakLosses=new Uint16Array(p.n);
     const power=i=>provider.method==='sp'&&provider.values[i]!==null?provider.values[i]:(p.base[i]-1500)*cal.margin.elo_point_scale;
-    const powerOrder=[...p.roster].sort((a,b)=>power(b)-power(a)||p.teams[a].id-p.teams[b].id),powerRanks=new Map(powerOrder.map((i,j)=>[i,j+1])),top=new Set(powerOrder.slice(0,25));
+    const powerOrder=[...p.roster].sort((a,b)=>power(b)-power(a)||p.teams[a].id-p.teams[b].id),powerRanks=new Map(powerOrder.map((i,j)=>[i,j+1])),top=new Set(powerOrder.slice(0,config.quality_win_top_n||25));
     const probs=new Map(),champCache=new Map(),titleMatchups=new Map();let fallbackGames=0;
     for(const g of p.data.games.filter(g=>g.championship)){titleMatchups.set([g.home,g.away].sort((a,b)=>a-b).join(':'),g);}
     const lateGames=p.future.filter(g=>g.after_selection),homeTitles=new Set(data.rules.championship_home_conferences||[]);
     for(const g of relevant){const site=g.neutral?0:1,pa=reference(g.b,site),pb=reference(g.a,-site);refSchedules[g.a].push(pa);refSchedules[g.b].push(pb);
       const observed=g.score&&p.frame.week!==null&&g.week<=p.frame.week,fixed=!observed&&p.choices[g.id]!==undefined;
       if(observed||fixed){const winner=observed?(g.score[0]>g.score[1]?g.a:g.b):p.choices[g.id]===g.home?g.a:g.b,loser=winner===g.a?g.b:g.a;
-        observedSchedules[g.a].push(pa);observedSchedules[g.b].push(pb);observedWins[winner]++;observedLosses[loser]++;if(g.conference)observedCw[winner]++;
+        observedSchedules[g.a].push(pa);observedSchedules[g.b].push(pb);observedWins[winner]++;observedLosses[loser]++;if(g.conference){observedCw[winner]++;observedCl[loser]++;}if(observed&&g.championship){actualTitle.set(winner,'Won');actualTitle.set(loser,'Lost');}
         observedHead.set(`${winner}:${loser}`,(observedHead.get(`${winner}:${loser}`)||0)+1);if(top.has(loser))quality[winner]++;if(power(loser)>power(winner))weakLosses[loser]++;
       }
       if(provider.method==='sp'&&(provider.values[g.a]===null||provider.values[g.b]===null))fallbackGames++;
@@ -249,7 +249,7 @@
     const eligibleChampChoices={};for(const g of p.data.games.filter(g=>g.championship&&!(g.score&&p.frame.week!==null&&g.week<=p.frame.week)))if(options.choices?.[g.id]===g.home||options.choices?.[g.id]===g.away)eligibleChampChoices[g.id]=options.choices[g.id];
     function result(done){return {iterations:done,frameIndex:p.frameIndex,choices:{...p.choices,...eligibleChampChoices},method:provider.method,ratingMessage:provider.message,modelVersion:MODEL_VERSION,snapshot:provider.snapshot?.retrieved_at||null,fallbackGames,
       warnings:[...p.tiebreakWarnings].sort().map(c=>`${c}: conference tiebreaker approximation used; complete official rule sequence unavailable.`),
-      teams:p.roster.map(i=>({id:p.teams[i].id,elo:p.scenario[i],sp:provider.values[i],powerRank:powerRanks.get(i),objectiveRank:observedRanks.get(i),sorRank:rawSorRanks.get(i),sor:observed[i].sor,sos:observed[i].sos,record:{wins:observedWins[i],losses:observedLosses[i]},qualityWins:quality[i],weakLosses:weakLosses[i],standingWins:observedCw[i],
+      teams:p.roster.map(i=>({id:p.teams[i].id,elo:p.scenario[i],sp:provider.values[i],powerRank:powerRanks.get(i),objectiveRank:observedRanks.get(i),sorRank:rawSorRanks.get(i),sor:observed[i].sor,sos:observed[i].sos,record:{wins:observedWins[i],losses:observedLosses[i]},qualityWins:quality[i],weakLosses:weakLosses[i],standingWins:observedCw[i],standingLosses:observedCl[i],conferenceTitleResult:actualTitle.get(i)||(p.knownChampions.has(p.teams[i].conference)?'Did not participate':'Not yet played'),
         headToHead:[...observedHead].filter(([k])=>k.startsWith(i+':')||k.endsWith(':'+i)).map(([k,wins])=>({winner:p.teams[Number(k.split(':')[0])].id,loser:p.teams[Number(k.split(':')[1])].id,wins})),
         projectedWins:done?winSum[i]/done:observedWins[i],projectedLosses:done?lossSum[i]/done:observedLosses[i],projectedRank:done?rankSum[i]/done:observedRanks.get(i),conference:p.teams[i].conference,conferenceWins:conf[i],conferenceFinals:champParticipants[i],playoffs:playoff[i],automatic:auto[i],atlarge:atlarge[i],byes:byes[i],championships:title[i],conferenceOut:p.eliminated.has(i),playoffOut:selectionResolved&&done>0&&playoff[i]===0,playoffClinched:selectionResolved&&done>0&&playoff[i]===done}))};}
     for(let trial=0;trial<iterations;trial++){

@@ -24,11 +24,17 @@ def aliases(catalog, overrides=None):
 def parse(payload, year, catalog, roster, overrides=None, retrieved_at=None):
     if not isinstance(payload, list) or not payload:
         raise SnapshotError('SP+ response must be a nonempty array')
-    lookup = aliases(catalog, overrides); ratings = {}; unmatched = []; invalid = []
+    lookup = aliases(catalog, overrides); ratings = {}; unmatched = []; invalid = []; ignored = []
     for row in payload:
         if not isinstance(row, dict) or row.get('year') != year:
             raise SnapshotError('Unexpected SP+ season or response schema')
-        name = row.get('team', ''); matches = lookup.get(name.casefold().strip(), set())
+        name = row.get('team', '')
+        if name == 'nationalAverages':
+            ignored.append(name); continue
+        parts=[row.get(field,{}).get('rating') if isinstance(row.get(field),dict) else None for field in ['offense','defense','specialTeams']]
+        if all(isinstance(v,(float,int)) and math.isfinite(v) for v in parts) and isinstance(row.get('rating'),(float,int)) and abs(row['rating']-(parts[0]-parts[1]+parts[2]))>.5:
+            raise SnapshotError('SP+ overall/component point-scale consistency failed')
+        matches = lookup.get(name.casefold().strip(), set())
         if len(matches) != 1:
             unmatched.append(name); continue
         ident = next(iter(matches)); value = row.get('rating')
@@ -45,7 +51,7 @@ def parse(payload, year, catalog, roster, overrides=None, retrieved_at=None):
     return dict(schema=1, source='CFBD /ratings/sp', season=year,
                 retrieved_at=retrieved_at or dt.datetime.now(dt.timezone.utc).isoformat(),
                 scale=SCALE, ratings=ratings,
-                coverage=dict(expected=len(roster), matched=len(set(roster) - set(missing)), missing_ids=missing, unmatched_names=unmatched),
+                coverage=dict(expected=len(roster), matched=len(set(roster) - set(missing)), missing_ids=missing, unmatched_names=unmatched, ignored_aggregate_names=ignored),
                 historical_week_snapshots=False)
 
 

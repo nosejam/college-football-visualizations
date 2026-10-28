@@ -56,3 +56,9 @@ const sites=[];M.championship(Array.from({length:12},(_,i)=>i),(a,b,site=0)=>{si
 const titleData={...data,games:[...data.games,{...data.games[0],id:900,championship:true,week:2}],frames:data.frames};
 const titleForced=M.project(titleData,{iterations:30,choices:{900:1},seed:4});assert.equal(titleForced.teams.find(t=>t.id===1).conferenceWins,30);
 console.log('Passed exact completed-season endpoint proofs, near-tie policy, playoff venues and conditional title picks.');
+const allPicks=Object.fromEntries(games.map(g=>[g.id,g.home]));
+const bounded=M.project(data,{iterations:50,choices:allPicks,seed:9});
+assert.equal(bounded.proof.completions,64);
+const exhaustive=M.project(data,{iterations:64,choices:allPicks,seed:9,enumerate:true});
+for(const t of bounded.teams){const e=exhaustive.teams.find(x=>x.id===t.id);assert.equal(t.playoffOut,e.playoffs===0);assert.equal(t.playoffClinched,e.playoffs===64);}
+console.log('Passed bounded exhaustive qualification/elimination proof against every remaining title outcome.');

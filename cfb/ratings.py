@@ -2,6 +2,9 @@
 import datetime as dt
 import math
 
+class SnapshotError(ValueError):
+    """Safe public validation reason; never contains credentials or request headers."""
+
 MAX_AGE_DAYS = 10
 SCALE = dict(unit='points relative to an average FBS team on a neutral field', verified=True,
              source='https://www.espn.com/college-football/story/_/id/45842676/college-football-2025-breakthrough-bounce-back-teams')
@@ -20,11 +23,11 @@ def aliases(catalog, overrides=None):
 
 def parse(payload, year, catalog, roster, overrides=None, retrieved_at=None):
     if not isinstance(payload, list) or not payload:
-        raise ValueError('SP+ response must be a nonempty array')
+        raise SnapshotError('SP+ response must be a nonempty array')
     lookup = aliases(catalog, overrides); ratings = {}; unmatched = []; invalid = []
     for row in payload:
         if not isinstance(row, dict) or row.get('year') != year:
-            raise ValueError('Unexpected SP+ season or response schema')
+            raise SnapshotError('Unexpected SP+ season or response schema')
         name = row.get('team', ''); matches = lookup.get(name.casefold().strip(), set())
         if len(matches) != 1:
             unmatched.append(name); continue
@@ -32,13 +35,13 @@ def parse(payload, year, catalog, roster, overrides=None, retrieved_at=None):
         if isinstance(value, bool) or not isinstance(value, (float, int)) or not math.isfinite(value) or abs(value) > 100:
             invalid.append(name); continue
         if str(ident) in ratings:
-            raise ValueError(f'Duplicate SP+ identity: {ident}')
+            raise SnapshotError(f'Duplicate SP+ identity: {ident}')
         # Store source components without interpreting defensive scales as net ratings.
         ratings[str(ident)] = dict(rating=value, source_team=name, ranking=row.get('ranking'),
                                   offense=row.get('offense'), defense=row.get('defense'), specialTeams=row.get('specialTeams'))
     missing = sorted(set(roster) - {int(i) for i in ratings})
     if not ratings or invalid:
-        raise ValueError(f'Invalid SP+ ratings: {len(invalid)} invalid rows; {len(ratings)} mapped')
+        raise SnapshotError(f'Invalid SP+ ratings: {len(invalid)} invalid rows; {len(ratings)} mapped')
     return dict(schema=1, source='CFBD /ratings/sp', season=year,
                 retrieved_at=retrieved_at or dt.datetime.now(dt.timezone.utc).isoformat(),
                 scale=SCALE, ratings=ratings,

@@ -12,7 +12,7 @@ import urllib.error
 import urllib.request
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT))
-from cfb.ratings import parse, status
+from cfb.ratings import parse, status, SnapshotError
 
 
 def refresh(year, force=False):
@@ -21,7 +21,10 @@ def refresh(year, force=False):
     saved=json.loads(path.read_text()) if path.exists() else None
     if not force and status(saved,year)=='valid' and (dt.datetime.now(dt.timezone.utc)-dt.datetime.fromisoformat(saved['retrieved_at'])).days<7:
         print('SP+ snapshot is less than seven days old; no API request.'); return False
-    key=os.environ.get('CFBD_API_KEY')
+    key=os.environ.get('CFBD_API_KEY','').strip()
+    if key.lower().startswith('bearer '):key=key[7:].strip()
+    if key and any(ord(char)<33 or ord(char)>126 for char in key):
+        print('CFBD_API_KEY contains invalid internal whitespace or non-ASCII characters; cached snapshot preserved.'); return False
     if not key:
         print('CFBD_API_KEY unavailable; preserving cached SP+ or using explicit Elo fallback.'); return False
     catalog=json.loads((ROOT/'data/teams.json').read_text())
@@ -38,15 +41,15 @@ def refresh(year, force=False):
         snapshot=parse(payload,year,catalog,roster,overrides)
         # A partial provider response must not replace a more complete cached snapshot.
         if saved and snapshot['coverage']['matched']<saved['coverage']['matched']:
-            raise ValueError('Coverage regressed')
+            raise SnapshotError('Coverage regressed')
         if snapshot['coverage']['matched']<len(roster)*.8:
-            raise ValueError('Insufficient FBS coverage')
+            raise SnapshotError('Insufficient FBS coverage')
         snapshot['response_sha256']=hashlib.sha256(raw).hexdigest()
         snapshot['api_calls_remaining']=usage
     except urllib.error.HTTPError as error:
         print(f'SP+ refresh failed (HTTP {error.code}); last snapshot preserved.'); return False
     except (urllib.error.URLError,TimeoutError,ValueError) as error:
-        reason=str(error) if isinstance(error,ValueError) else type(error).__name__
+        reason=str(error) if isinstance(error,SnapshotError) else type(error).__name__
         print(f'SP+ refresh failed: {reason}; last snapshot preserved.'); return False
     archive=folder/'snapshots'/str(year); archive.mkdir(parents=True,exist_ok=True)
     stamp=dt.datetime.fromisoformat(snapshot['retrieved_at']).strftime('%Y%m%dT%H%M%SZ')

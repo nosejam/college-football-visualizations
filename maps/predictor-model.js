@@ -218,6 +218,9 @@
     const selectionResolved=p.future.filter(g=>!g.after_selection).length===0&&[...p.groups.keys()].every(c=>p.knownChampions.has(c));
     const relevant=p.data.games.filter(g=>!g.after_selection&&(g.score&&p.frame.week!==null&&g.week<=p.frame.week||!g.championship)&& (data.roster.includes(g.home)||data.roster.includes(g.away))).map(g=>({...g,a:p.index.get(g.home),b:p.index.get(g.away)}));
     const scheduled=p.future.filter(g=>!g.after_selection&&(p.local.has(g.a)||p.local.has(g.b)));
+    const proofKeys=[...scheduled.filter(g=>p.choices[g.id]===undefined).map(g=>'g'+g.id),...[...p.groups.keys()].filter(c=>!p.knownChampions.has(c)).map(c=>'c'+c)];
+    const proofSlots=new Map(proofKeys.map((k,j)=>[k,j])),sample=(trial,key)=>options.enumerate&&proofSlots.has(key)?((trial>>>proofSlots.get(key))&1):commonDraw(seed,trial,key);
+    if(options.enumerate&&proofKeys.length>10)throw Error('Exact proof enumeration is limited to ten uncertain regular/title results');
     const conf=new Uint32Array(p.n),playoff=new Uint32Array(p.n),title=new Uint32Array(p.n),auto=new Uint32Array(p.n),atlarge=new Uint32Array(p.n),byes=new Uint32Array(p.n),winSum=new Float64Array(p.n),lossSum=new Float64Array(p.n),rankSum=new Float64Array(p.n),champParticipants=new Uint32Array(p.n);
     const reference=(opponent,site)=>{
       const sp=provider.method==='sp'&&provider.values[opponent]!==null;
@@ -253,7 +256,7 @@
       const ratings=Float64Array.from(p.base),cw=Float64Array.from(p.cw),h2h=Uint8Array.from(p.h2h),wins=new Float64Array(p.n),losses=new Float64Array(p.n),head=new Map();
       const apply=(g,win)=>{const a=win?g.a:g.b,b=win?g.b:g.a;wins[a]++;losses[b]++;head.set(`${a}:${b}`,(head.get(`${a}:${b}`)||0)+1);};
       for(const g of relevant)if(g.score&&p.frame.week!==null&&g.week<=p.frame.week)apply(g,g.score[0]>g.score[1]);
-      for(const g of scheduled){const forced=p.choices[g.id],win=forced===undefined?commonDraw(seed,trial,'g'+g.id)<(provider.method==='sp'&&provider.values[g.a]!==null&&provider.values[g.b]!==null?probs.get(g.id):gameProbability(provider,g.a,g.b,ratings,g.neutral?0:1,cal)):forced===g.home;apply(g,win);
+      for(const g of scheduled){const forced=p.choices[g.id],win=forced===undefined?sample(trial,'g'+g.id)<(provider.method==='sp'&&provider.values[g.a]!==null&&provider.values[g.b]!==null?probs.get(g.id):gameProbability(provider,g.a,g.b,ratings,g.neutral?0:1,cal)):forced===g.home;apply(g,win);
         if(provider.method==='elo')update(ratings,g.a,g.b,Number(win));
         if(g.conference){cw[g.a]+=Number(win);cw[g.b]+=Number(!win);h2h[p.local.get(g.a)*p.m+p.local.get(g.b)]+=win?2:0;h2h[p.local.get(g.b)*p.m+p.local.get(g.a)]+=win?0:2;}
       }
@@ -263,7 +266,7 @@
           champParticipants[a]++;champParticipants[b]++;
           const game=titleMatchups.get([p.teams[a].id,p.teams[b].id].sort((a,b)=>a-b).join(':'));
           const fixed=game&&eligibleChampChoices[game.id],site=game?(game.neutral?0:game.home===p.teams[a].id?1:-1):homeTitles.has(name)?1:0;
-          winner=fixed!==undefined?p.index.get(fixed):commonDraw(seed,trial,'c'+name)<gameProbability(provider,a,b,ratings,site,cal)?a:b;
+          winner=fixed!==undefined?p.index.get(fixed):sample(trial,'c'+name)<gameProbability(provider,a,b,ratings,site,cal)?a:b;
           const loser=winner===a?b:a;apply({a,b},winner===a);if(provider.method==='elo')update(ratings,a,b,Number(winner===a));
           extra.set(a,{opponent:b,site});extra.set(b,{opponent:a,site:-site});
         }champions.set(name,winner);conf[winner]++;
@@ -280,10 +283,17 @@
       const nd=ranking.slice(0,data.rules.field_size||12).find(i=>p.teams[i].id===(data.rules.notre_dame_id||87));if(nd!==undefined&&data.rules.notre_dame_top_12_guarantee)automatic.add(nd);
       for(const i of field){playoff[i]++;if(automatic.has(i))auto[i]++;else atlarge[i]++;}field.slice(0,data.rules.byes||4).forEach(i=>byes[i]++);
       // Late games cannot change selection; Elo may update playoff strength afterwards.
-      for(const g of lateGames)if(provider.method==='elo'){const forced=p.choices[g.id],win=forced===undefined?commonDraw(seed,trial,'g'+g.id)<gameProbability(provider,g.a,g.b,ratings,g.neutral?0:1,cal):forced===g.home;update(ratings,g.a,g.b,Number(win));}
-      title[championship(field,(a,b,site=0)=>{const win=commonDraw(seed,trial,`p${a}:${b}`)<gameProbability(provider,a,b,ratings,site,cal);if(provider.method==='elo')update(ratings,a,b,Number(win));return win?a:b;})]++;
+      for(const g of lateGames)if(provider.method==='elo'){const forced=p.choices[g.id],win=forced===undefined?sample(trial,'g'+g.id)<gameProbability(provider,g.a,g.b,ratings,g.neutral?0:1,cal):forced===g.home;update(ratings,g.a,g.b,Number(win));}
+      if(!options.enumerate)title[championship(field,(a,b,site=0)=>{const win=commonDraw(seed,trial,`p${a}:${b}`)<gameProbability(provider,a,b,ratings,site,cal);if(provider.method==='elo')update(ratings,a,b,Number(win));return win?a:b;})]++;
       if((trial+1)%500===0)progress(result(trial+1));
-    }return result(iterations);
+    }
+    const answer=result(iterations);
+    if(!options.enumerate&&!selectionResolved&&proofKeys.length<=10){
+      const proof=projectObjective(data,{...options,enumerate:true,iterations:2**proofKeys.length},()=>{}),byId=new Map(proof.teams.map(t=>[t.id,t]));
+      for(const team of answer.teams){const exact=byId.get(team.id);team.playoffOut=exact.playoffs===0;team.playoffClinched=exact.playoffs===proof.iterations;}
+      answer.proof={method:'Exhaustive modeled regular/title outcome enumeration',completions:proof.iterations};
+    }else if(selectionResolved)answer.proof={method:'Selection resolved from completed results',completions:1};
+    return answer;
   }
 
   const project=(data,options={},progress=()=>{})=>(data.objective?projectObjective:projectLegacy)(data,options,progress);

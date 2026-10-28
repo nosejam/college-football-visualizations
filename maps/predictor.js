@@ -18,7 +18,7 @@
     const n=state.result.iterations,value=count(item,key);
     if(out){cell.textContent='0.0%';cell.title='Proven out under this model';cell.classList.add('out');}
     else if(!value){cell.textContent='~0%';cell.title=`No wins in ${n.toLocaleString()} simulations; not proven eliminated`;cell.classList.add('rare');}
-    else if(value===n&&item?.playoffClinched&&key==='playoffs'){cell.textContent='100%';cell.title='Verified: selection is resolved from completed results';}
+    else if(value===n&&item?.playoffClinched&&key==='playoffs'){cell.textContent='100%';cell.title='Verified: qualifies in every modeled remaining completion';}
     else if(value===n){cell.textContent='~100%';cell.title=`All ${n.toLocaleString()} simulations; not proven clinched`;}
     else{const rounded=(100*value/n).toFixed(n>=20000?1:0);cell.textContent=Number(rounded)===0?'<0.1%':Number(rounded)===100?'>99.9%':rounded+'%';const ph=value/n,se=1.96*Math.sqrt(ph*(1-ph)/n);cell.title=`${value.toLocaleString()} of ${n.toLocaleString()} simulations · approximate 95% sampling interval ${Math.max(0,100*(ph-se)).toFixed(1)}–${Math.min(100,100*(ph+se)).toFixed(1)}%; model uncertainty is additional`;}
 

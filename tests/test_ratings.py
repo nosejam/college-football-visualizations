@@ -43,3 +43,20 @@ class RatingsTests(unittest.TestCase):
                 with patch.object(module.urllib.request,'urlopen') as request:
                     request.return_value.__enter__.return_value.read.return_value=b'not json'
                     self.assertFalse(module.refresh(2026,True));self.assertEqual(path.read_text(),content)
+    def test_credential_normalization_and_redaction(self):
+        import contextlib
+        import io
+        spec=importlib.util.spec_from_file_location('refresh_ratings',ROOT/'scripts/refresh_ratings.py');module=importlib.util.module_from_spec(spec);spec.loader.exec_module(module)
+        with tempfile.TemporaryDirectory() as tmp:
+            root=Path(tmp);(root/'data/sources/ratings').mkdir(parents=True)
+            (root/'data/teams.json').write_text(json.dumps(self.catalog));(root/'data/imperialism.json').write_text(json.dumps({'seasons':{'2026':{'roster':[1]}}}))
+            with patch.object(module,'ROOT',root),patch.dict(module.os.environ,{'CFBD_API_KEY':'  Bearer test-secret\n'}):
+                with patch.object(module.urllib.request,'urlopen') as request:
+                    response=request.return_value.__enter__.return_value;response.read.return_value=json.dumps(self.rows).encode();response.headers={}
+                    self.assertTrue(module.refresh(2026,True));self.assertEqual(request.call_args.args[0].get_header('Authorization'),'Bearer test-secret')
+                output=io.StringIO()
+                with patch.object(module.urllib.request,'urlopen',side_effect=ValueError('invalid header test-secret')),contextlib.redirect_stdout(output):
+                    self.assertFalse(module.refresh(2026,True))
+                self.assertNotIn('test-secret',output.getvalue())
+                with patch.dict(module.os.environ,{'CFBD_API_KEY':'test\nsecret'}),patch.object(module.urllib.request,'urlopen') as request:
+                    self.assertFalse(module.refresh(2026,True));request.assert_not_called()

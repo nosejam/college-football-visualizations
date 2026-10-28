@@ -1,6 +1,16 @@
 {
-  "rating_status": "missing",
-  "rating_coverage": null,
+  "rating_status": "valid",
+  "rating_coverage": {
+    "expected": 138,
+    "matched": 137,
+    "missing_ids": [
+      2026
+    ],
+    "unmatched_names": [
+      "App State",
+      "nationalAverages"
+    ]
+  },
   "model_version": "objective-sor-1",
   "season": 2026,
   "as_of": "2026-10-28T18:53:04.961881+00:00",

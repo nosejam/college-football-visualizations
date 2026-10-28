@@ -14,6 +14,7 @@ The predictor asks which teams earn qualification under a declared mathematical 
 - `maps/predictor-model.js`: rating-provider abstraction, cached probabilities, log-space Poisson-binomial SOR, deterministic national ranking, objective Monte Carlo simulation. The old Elo selection model remains exported as `projectLegacy` for reproducible comparisons; the UI Elo choice changes predictive ratings while keeping objective selection.
 - `maps/predictor.js` and `predictor-template.html`: rating selector, 50,000-run default, seed, separate power/résumé columns, bid/bye probabilities, team explanations, scheduled title-game controls, warnings and snapshot labels.
 - `.github/workflows/update-results.yml`: server-side weekly ratings check before the existing daily results/build/deploy pipeline. Only the refresh step receives the secret.
+- `scripts/compare_predictor.cjs` and `data/predictor_comparison.json`: seeded current-season SP+/objective, Elo/objective and original Elo-selection forecasts, including expected places by conference and top qualification probabilities.
 - `tests/test_ratings.py`, `tests/test_objective_predictor.cjs`, `scripts/check_predictor.py`: data/provider, probability, ranking, qualification, simulation and browser checks. Generated `index.html` incorporates these changes.
 
 ## Credentials and updates
@@ -25,7 +26,7 @@ Set `CFBD_API_KEY` in the environment used to run Python. On GitHub, use reposit
 .venv/bin/python scripts/build.py
 ```
 
-The existing daily Action calls the refresh function, but an SP+ download occurs only when the cache is at least seven days old. This is one request to `GET https://api.collegefootballdata.com/ratings/sp?year=2026`, not one request per team. There are no browser or simulation API calls. `--force` bypasses the seven-day throttle for an explicit refresh; use within your subscription's limits. Authentication failures, access restrictions, 429 responses and network/data errors preserve the old snapshot, with no immediate retry storm. API error bodies and credentials are not logged. The cached snapshot is stale after ten days and the UI explicitly falls back to Elo. A lower-coverage response cannot replace a more complete cached response; responses covering less than 80% of FBS are rejected.
+The existing daily Action calls the refresh function, but an SP+ download occurs only when the cache is at least seven days old. This is one request to `GET https://api.collegefootballdata.com/ratings/sp?year=2026`, not one request per team. There are no browser or simulation API calls. `--force` bypasses the seven-day throttle for an explicit refresh; use within your subscription's limits. The manual GitHub workflow also offers a `force_ratings` checkbox. Authentication failures, access restrictions, 429 responses and network/data errors preserve the old snapshot, with no immediate retry storm. API error bodies and credentials are not logged. The cached snapshot is stale after ten days and the UI explicitly falls back to Elo. A lower-coverage response cannot replace a more complete cached response; responses covering less than 80% of FBS are rejected.
 
 Snapshots live in `data/sources/ratings/sp_2026.json` and `snapshots/2026/<UTC timestamp>.json`; they include season, source, retrieval time, overall/component ratings, raw response hash, mapped/missing coverage and unmatched names. The endpoint has **no week parameter**. A current snapshot is never passed off as historical pregame data. Earlier week selections use Elo unless the embedded snapshot actually predates that week. This first implementation embeds the latest snapshot; archives enable a future historical snapshot picker. A successful ratings refresh forces a rebuild even when game results are unchanged.
 
@@ -82,6 +83,7 @@ Conference elimination retains exact optimistic standings feasibility. Old Elo r
 node tests/test_predictor_model.cjs
 node tests/test_objective_predictor.cjs
 node tests/test_circles_algorithms.cjs
+node scripts/compare_predictor.cjs 2000
 .venv/bin/python scripts/build.py
 .venv/bin/python scripts/check_predictor.py
 .venv/bin/python scripts/check_visualizations.py

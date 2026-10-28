@@ -31,7 +31,11 @@ def refresh(year, force=False):
     try:
         with urllib.request.urlopen(request,timeout=40) as response:
             raw=response.read(); usage=response.headers.get('X-CallLimit-Remaining')
-        snapshot=parse(json.loads(raw),year,catalog,roster,overrides)
+        payload=json.loads(raw)
+        if isinstance(payload,list):
+            seasons=sorted({str(row.get('year')) for row in payload if isinstance(row,dict)})
+            print(f'SP+ response: {len(payload)} rows; seasons {seasons}.')
+        snapshot=parse(payload,year,catalog,roster,overrides)
         # A partial provider response must not replace a more complete cached snapshot.
         if saved and snapshot['coverage']['matched']<saved['coverage']['matched']:
             raise ValueError('Coverage regressed')
@@ -42,7 +46,8 @@ def refresh(year, force=False):
     except urllib.error.HTTPError as error:
         print(f'SP+ refresh failed (HTTP {error.code}); last snapshot preserved.'); return False
     except (urllib.error.URLError,TimeoutError,ValueError) as error:
-        print(f'SP+ refresh failed ({type(error).__name__}); last snapshot preserved.'); return False
+        reason=str(error) if isinstance(error,ValueError) else type(error).__name__
+        print(f'SP+ refresh failed: {reason}; last snapshot preserved.'); return False
     archive=folder/'snapshots'/str(year); archive.mkdir(parents=True,exist_ok=True)
     stamp=dt.datetime.fromisoformat(snapshot['retrieved_at']).strftime('%Y%m%dT%H%M%SZ')
     content=json.dumps(snapshot,indent=2,allow_nan=False)+'\n'

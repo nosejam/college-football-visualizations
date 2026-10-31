@@ -22,6 +22,7 @@
   $('reset-columns').addEventListener('click',()=>{visibleColumns=new Set(defaultColumns);saveColumns();});
   document.addEventListener('click',event=>{if(!$('column-menu').contains(event.target))$('column-menu').open=false;});
   function expandTable(expanded){document.body.classList.toggle('table-expanded',expanded);$('expand-table').setAttribute('aria-pressed',String(expanded));$('expand-table').textContent=expanded?'Exit expanded view':'Expand table';if(expanded)window.scrollTo(0,0);}
+  $('back-to-table').addEventListener('click',()=>window.scrollTo(0,0));
   $('expand-table').addEventListener('click',()=>expandTable(!document.body.classList.contains('table-expanded')));
   document.addEventListener('keydown',event=>{if(event.key==='Escape'){expandTable(false);$('column-menu').open=false;}});
   columnVisibility();

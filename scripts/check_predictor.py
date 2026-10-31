@@ -20,6 +20,26 @@ with sync_playwright() as p:
     assert page.get_by_role('tab').count()==3
     assert frame.locator('#prediction-rows tr').count()==138
     assert frame.locator('thead th').count()==21
+    assert frame.locator('#simulation-count').input_value()=='2000'
+    assert frame.evaluate('CFB_PLAYOFF.result.iterations')==2000
+    assert frame.locator('thead th:visible').count()==11
+    assert frame.locator('thead th:visible').evaluate_all('nodes=>nodes.map(n=>n.textContent.replace(/[↑↓]/g,"").trim())')==['Objective rank','SP+ power','Logo','Team name','Win next','Lose next','Win out','Lose out','Win conference','Make playoff','Win championship']
+    assert not frame.locator('#predictor-details').evaluate('el=>el.open')
+    page.set_viewport_size({'width':1600,'height':900})
+    visible_rows=frame.evaluate("""()=>{const box=document.querySelector('.table-scroll').getBoundingClientRect();return [...document.querySelectorAll('tbody tr')].filter(t=>{const r=t.getBoundingClientRect();return r.top>=box.top&&r.bottom<=Math.min(innerHeight,box.bottom)}).length}""")
+    assert visible_rows>=20,visible_rows
+    page.set_viewport_size({'width':1600,'height':1050})
+    height=frame.locator('.table-scroll').bounding_box()['height']
+    frame.click('#expand-table')
+    assert frame.locator('#expand-table').get_attribute('aria-pressed')=='true'
+    assert frame.locator('.table-scroll').bounding_box()['height']>height
+    frame.press('#expand-table','Escape')
+    assert frame.locator('#expand-table').get_attribute('aria-pressed')=='false'
+    frame.locator('#column-menu summary').click()
+    frame.locator('#column-options input[value="elo"]').check()
+    frame.locator('#column-menu summary').click()
+    assert frame.locator('thead th:visible').count()==12
+
     assert frame.evaluate('CFB_PLAYOFF.state.sort')=='objectiveRank'
     frame.select_option('#rating-method','elo');wait(frame)
     frame.click('[data-sort="elo"]')
@@ -54,7 +74,7 @@ with sync_playwright() as p:
     frame.click('#clear-scenario');wait(frame)
     choice(frame,team,'win-out').check();wait(frame)
     assert frame.evaluate(f'CFBPredictor.targets(CFB_PLAYOFF.data,CFB_PLAYOFF.state.index,{team}).every(g=>CFB_PLAYOFF.state.choices[g.id]==={team})')
-    assert frame.locator('#scenario-summary').inner_text().startswith(str(frame.evaluate('Object.keys(CFB_PLAYOFF.state.choices).length')))
+    assert frame.locator('#scenario-summary').text_content().startswith(str(frame.evaluate('Object.keys(CFB_PLAYOFF.state.choices).length')))
     page.click('#theme-toggle');frame.wait_for_function('document.documentElement.dataset.theme==="dark"')
     page.screenshot(path='/tmp/cfb-predictor-dark-scenario.png',full_page=True)
     page.click('#tab-circles');circles=page.query_selector('#view-circles').content_frame();circles.wait_for_function('CFB_CIRCLES?.ready')
@@ -89,7 +109,15 @@ with sync_playwright() as p:
     assert frame.evaluate('document.documentElement.scrollWidth<=innerWidth')
     assert frame.locator('.table-scroll').evaluate('el=>el.scrollWidth>el.clientWidth')
     page.screenshot(path='/tmp/cfb-predictor-mobile.png',full_page=True)
+    page.reload(wait_until='load');frame=page.query_selector('#view-predictor').content_frame();wait(frame)
+    assert frame.locator('thead th[data-column="elo"]').is_visible()
+    frame.locator('#column-menu summary').click()
+    assert frame.locator('#column-options input[value="elo"]').is_checked()
+    assert frame.evaluate('document.documentElement.scrollWidth<=innerWidth')
+    frame.click('#reset-columns')
+    assert frame.locator('thead th:visible').count()==11
+    assert not frame.locator('thead th[data-column="elo"]').is_visible()
     assert not errors,errors
     assert not [r for r in requests if r.startswith(('http://','https://'))]
     browser.close()
-    print('Passed: 138-team table, probability conservation, Elo/default and probability sorting, mirrored picks, conflict resolution, win-out scenarios, scenario Elo, theme, independent tabs, smallest-first cycles, record hover, preseason neutrality, rare-vs-eliminated labels, mobile table scrolling, and offline use.')
+    print('Passed: 20+ visible desktop rows, 11 default columns, persisted optional columns/reset, expanded view, 2,000-run default, 138-team table, probability conservation and sorting, mirrored picks, conflict resolution, win-out scenarios, scenario Elo, theme, independent tabs, smallest-first cycles, record hover, preseason neutrality, rare-vs-eliminated labels, mobile table scrolling, and offline use.')

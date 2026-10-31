@@ -7,6 +7,6 @@
   "near_tie_description": "Natural log(1.01): tail probabilities within 1% of the anchored group leader are near ties. A configurable policy choice, not a fitted coefficient. SOS then within-group head-to-head win differential, power, stable ID.",
   "independence": "Reference-team games independent conditional on fixed opponent ratings.",
   "quality_win_top_n": 25,
-  "default_iterations": 50000,
+  "default_iterations": 2000,
   "default_seed": 2026
 }

@@ -211,7 +211,7 @@
     const p=prepare(data,options.frameIndex??data.frames.length-1,options.choices||{}),provider=ratingProvider(data,p.frameIndex,options.method||'sp'),cal=data.calibration;
     if(!cal)throw Error('Saved calibration is required for objective projections');
     const config={reference_sp:20,reference_elo:1625,sor_tolerance:Math.log(1.01),...data.objective,...options.modelConfig};
-    const seed=options.seed??2026,iterations=options.iterations??50000;
+    const seed=options.seed??2026,iterations=options.iterations??2000;
     if(!Number.isInteger(iterations)||iterations<1||iterations>200000)throw Error('Invalid simulation count');
     p.playoffOut.clear(); // Elo bounds cannot prove SOR elimination.
     p.tiebreakWarnings=new Set();

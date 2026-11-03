@@ -11,7 +11,7 @@
   },
   "model_version": "objective-sor-1",
   "season": 2026,
-  "as_of": "2026-11-02T22:20:44.709310+00:00",
+  "as_of": "2026-11-03T20:07:53.686701+00:00",
   "fbs_teams": 138,
   "games": 3679,
   "conferences": {
@@ -27,7 +27,7 @@
     "Pac-12": 8,
     "FBS Independents": 2
   },
-  "schedule_sha256": "dd55b034ce35f9bbfd6becac0ea3f337b4240eb42f124cda566489c3e6916a59",
+  "schedule_sha256": "64cdf4081835f51e11c00d27734ea1daec6e447deb5311b37ea1e2461ccb5ffa",
   "rules": {
     "season": 2026,
     "format_url": "https://collegefootballplayoff.com/sports/2024/5/29/12-team-format",

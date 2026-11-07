@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-06T19:57:56.095481+00:00",
+  "as_of": "2026-11-07T18:03:45.409780+00:00",
   "sources": [
     {
       "season": 2016,
@@ -75,1480 +75,1480 @@
       "season": 2026,
       "url": "https://raw.githubusercontent.com/sportsdataverse/cfbfastR-cfb-data/main/cfb/cfb_schedules/parquet/cfb_schedules_2026.parquet",
       "file": "data/sources/imperialism/schedules_2026.parquet",
-      "sha256": "8f5ca52b8bf336d2166a538ddaa3afeac6720023bde76c439a2b49a39e4d3800",
-      "retrieved_at": "2026-11-06T19:57:56.095481+00:00",
+      "sha256": "3628e204e1f95dae5899eff2bf03cfa109f65263acb571fde8f5acd70b148422",
+      "retrieved_at": "2026-11-07T18:03:45.409780+00:00",
       "format": "merged_parquet",
       "base": {
         "url": "https://raw.githubusercontent.com/sportsdataverse/cfbfastR-cfb-data/main/cfb/cfb_schedules/parquet/cfb_schedules_2026.parquet",
-        "sha256": "2bd55cb9f2914af030d25b7085971c17258e8c13ac4c6461204c0d815840ab0a",
-        "retrieved_at": "2026-11-05T20:41:12.863059+00:00",
-        "file": "data/sources/imperialism/updates/20261106T195756Z/base.parquet"
+        "sha256": "8f5ca52b8bf336d2166a538ddaa3afeac6720023bde76c439a2b49a39e4d3800",
+        "retrieved_at": "2026-11-06T19:57:56.095481+00:00",
+        "file": "data/sources/imperialism/updates/20261107T180345Z/base.parquet"
       },
       "updates": [
         {
           "url": "https://raw.githubusercontent.com/sportsdataverse/cfbfastR-cfb-data/main/cfb/cfb_schedules/parquet/cfb_schedules_2026.parquet",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/upstream.parquet",
-          "sha256": "d037d0594f37759db1d9e29acb10960c63703fdb718193a45a543b326e8c8732"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/upstream.parquet",
+          "sha256": "4acd3afca9e9102d81765e3c085731f4d5b26b4dbd727351ed45e55c87a1a3fe"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2-2.json.gz",
-          "sha256": "b460a8aa0b903f15be269bc3d2f392af7ad35bd6d39432a3090f6bd9c11d874a"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2-2.json.gz",
+          "sha256": "ec7863869c950a3e42dce6aa2eb58eb1a54bd8aacaa69e83495d50f1c338866c"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2-3.json.gz",
-          "sha256": "4475d1adbb127d7bb0dbb7aaa1641be48d6f81ddb6f6d36036827d1d018c4cc2"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2-3.json.gz",
+          "sha256": "ccbe8c61a3d5c4df02d658bb82b440de6521fada2cb9dc9eb2f943d659c07d85"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/5/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-5-2.json.gz",
-          "sha256": "41e69c29e36c1365e406bc1aa774ade381d025a7e1a1e86cda203016c9c9163a"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-5-2.json.gz",
+          "sha256": "12b16e075fb5369b50295a19e1266065fa664791ff093b6f2b5fba553ca6d561"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/5/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-5-3.json.gz",
-          "sha256": "172b3a13a97ddc80cbd6e5dbc13341e84d22d79c90f445262683ff6969989fa0"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-5-3.json.gz",
+          "sha256": "2833ad0f9226f71a5d24d45a04d13954a71c2fd923cfe8deb67cc566e1d652c9"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/6/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-6-2.json.gz",
-          "sha256": "ad37cc14a7659409cb0bdda45cd1d04695e9ec407f5039eaaa881de47f50d1aa"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-6-2.json.gz",
+          "sha256": "17b3e49ae04bbc0f208243d5c3d72fda8d9467f7b91f8fc77e02e7daa056bcf4"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/6/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-6-3.json.gz",
-          "sha256": "a458bb5224465915d05ecfe323ef346125dd43bbcf3edb799fed52cf27eb3529"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-6-3.json.gz",
+          "sha256": "2d2170757031a24cb0a4e427e3def0ab96335c6fe889e7562f42af9f53474295"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/8/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-8-2.json.gz",
-          "sha256": "a057c48d50e8b11092e51174b8d018807e41fc14c97695979e774ba8d9ea6791"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-8-2.json.gz",
+          "sha256": "33e70c4c1f43251f83e475279cd029f4220734fecd5db42f033b0c0b18c991b8"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/8/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-8-3.json.gz",
-          "sha256": "0d831bdb0e55f3a689bf160eb1766ddc7ae022d6cca5a4879afe235f6edd5d57"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-8-3.json.gz",
+          "sha256": "0d8fdba7bb7000d5ec8e0fa9efc1ed76597a4e01d14ab75f34f3b1022822c5e8"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/9/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-9-2.json.gz",
-          "sha256": "109c81983835018bf9045381cc2c8fc34d27b48f4705f767ee380fd648c7c92e"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-9-2.json.gz",
+          "sha256": "d09c004bf51157f788a97a4ce1448c7f7349791756709ae61029446db8d01582"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/9/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-9-3.json.gz",
-          "sha256": "5cdd400667f7a2753795e5bb4d54a32491a662dce35d8242c2f9a6bc978d3025"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-9-3.json.gz",
+          "sha256": "a965813435d5428df2afc113371d561b6fa2d4764761460590b10496a155475b"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/12/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-12-2.json.gz",
-          "sha256": "480326d7d8947317792a10def9eafc107f395dee89babba1a271d17e8bfc923c"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-12-2.json.gz",
+          "sha256": "04e90577dab2dc3c8055c68c6cab9b7b9998b2e869a5f08c6c4465b8f5661fa4"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/12/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-12-3.json.gz",
-          "sha256": "b088005e8d3ee4d732c975e09f62d0b2f45ab54af077a89b8f1d16a2757e3c21"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-12-3.json.gz",
+          "sha256": "dee1ed63cb3b305015a51273a660cdf05b3a822ac274e914017bb7140fa3979a"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/16/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-16-2.json.gz",
-          "sha256": "643594601f6edeb3a104e856d380e16af99533a61e3672af9970e1040063eaaf"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-16-2.json.gz",
+          "sha256": "2b81991027dbdfc47363082e94a01795272b87bcdcaba949ac0c2d937d8fe77e"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/16/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-16-3.json.gz",
-          "sha256": "14f977d6c527862e5ddad396eb6f341b928d40c0f96e1a2218d8e7afbcd3a40e"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-16-3.json.gz",
+          "sha256": "ef3478904d016cc1f915577d91a68c1d10c40d2eaed464ff0d6b932e4fe34640"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/21/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-21-2.json.gz",
-          "sha256": "664d6731e558adcb0e316cd139bd80d02c0b78580a7b96781fada791b15b2fb4"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-21-2.json.gz",
+          "sha256": "a1a0c875d890464b5257c94992bd156b1a613343e77dc65a60c5e792185ce350"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/21/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-21-3.json.gz",
-          "sha256": "61004d9b0236c8f0bb8bb3f2ed112e3c596caaf7503dcae5d5a493276c55368d"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-21-3.json.gz",
+          "sha256": "459bf1e0cbcfb3a70f7ab41a693b33e25ef44017ef8cbf03f6b02b292ad30b15"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/23/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-23-2.json.gz",
-          "sha256": "765bdbaf222fc13539ff7cf39d60e11d988fcdd7d02e43015067241b3283500c"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-23-2.json.gz",
+          "sha256": "e5683bc4a8b76d0e0d13dbbd6f781a28f574271132ba698cf2abaa4eda05e5fa"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/23/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-23-3.json.gz",
-          "sha256": "0c2c08fa8d515f544b5d8e39e64dc652faf335e7cfd7be3346c957ea4c4a3822"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-23-3.json.gz",
+          "sha256": "2fdaecacd3470b15598597bd1f28990ebe5e128438af9151199c069406d599b4"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/24/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-24-2.json.gz",
-          "sha256": "15d36e9edac11be54cb19c608bb85fdc9b95cd4d9e55ab6839dc05af8d2070a7"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-24-2.json.gz",
+          "sha256": "626849ff3dea4afccb884db2271f573e7f5f3cb47319141027ae97dce783ffeb"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/24/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-24-3.json.gz",
-          "sha256": "95ada9d56e9a1c2bdcbc59fa6aef05b57f9244387243aa1c26ab94bcb32fd478"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-24-3.json.gz",
+          "sha256": "e43d59b8cad093a3309103deeb043a1964a4040071dc211a1976b5c6c06f872e"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/25/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-25-2.json.gz",
-          "sha256": "55fbe6e280c1a2da34a32f2484d9dc1ee693ddcebed91c62617b86d0d9c57812"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-25-2.json.gz",
+          "sha256": "ccc81931853d1705f71f7c75791e6eb786e671ca375157ce5af175d65915995c"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/25/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-25-3.json.gz",
-          "sha256": "d62dcbac17dadcab08ad74ca543e564ada48cc8c350416632715af935da94c8e"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-25-3.json.gz",
+          "sha256": "11b8534a88299ad5c868d7bcbd9822ed2025fe935da68efd688eedd22d82b7a3"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/26/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-26-2.json.gz",
-          "sha256": "3c23096b9c836d17207d038ae153d23eda89a2167420a3deed50a08e8279d2fe"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-26-2.json.gz",
+          "sha256": "e41ec1955482f4a9565fa779b9746146de0745122148683dd4feee751abb83b2"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/26/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-26-3.json.gz",
-          "sha256": "3687be85470f84a404308fecd2bf1199a3553b9967ed284a93ec175ce9fbee1d"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-26-3.json.gz",
+          "sha256": "44e1483e305a05b8ae0652e044c58d73e44b204189e229f439662f6af9791cb8"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/30/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-30-2.json.gz",
-          "sha256": "26637a31a438619e8c54cd524ea123996d3a5458ca3dffb111e37ea0317875f4"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-30-2.json.gz",
+          "sha256": "a49f64099843dcf65bf545800571a4e061dac21b38d8ed7ded6c826bdd0c02e5"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/30/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-30-3.json.gz",
-          "sha256": "ab2c4ca13c3c94ecdf07d727b4eeb57b1b84ba3d195bf400f809eb2c3384324f"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-30-3.json.gz",
+          "sha256": "3ea220915bf2a35749a4cf0623641c569f06c9410499221ec48e4e1acc818fdf"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/36/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-36-2.json.gz",
-          "sha256": "2c4cee41aa61f869fdfd7d6833b6628f708cbeae91f800bbf4488cd8e126cb4f"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-36-2.json.gz",
+          "sha256": "8d24d4e7faea58e37fe131a6f0aeb2a099be742eac9620fc3a0d206099516925"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/36/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-36-3.json.gz",
-          "sha256": "8dfadf8dd64821c4f009fc7a86ca77d52f62b65db63d79d100960bd516c967c1"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-36-3.json.gz",
+          "sha256": "baee02afcca2edff5d575774fa7466bb4469ae4f9a43c91566db9b2e1ce3f3be"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/38/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-38-2.json.gz",
-          "sha256": "95fb53716484b7337da189885d8dfc9370705360046c36822bf0f2b82620e1a1"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-38-2.json.gz",
+          "sha256": "b69c17919a1a4d34a7c65adfcce58921e1866d32601502ff202308f146f5aacb"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/38/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-38-3.json.gz",
-          "sha256": "baba48add1370678a7f620639a7c1373b7886931770b02dbfdc5f74677b6d3df"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-38-3.json.gz",
+          "sha256": "68da746e206c5e41454d7122dcd80507641f1f79eb726f3a1b3bad343f5664ba"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/41/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-41-2.json.gz",
-          "sha256": "0c57974b56551445918c398059e7fbb0a4b91ddeecc5b25d2944472a71960263"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-41-2.json.gz",
+          "sha256": "4495469f0e72e78274a4fce66b2561832f339ae6cbbf1f27e50032c4a5da1227"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/41/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-41-3.json.gz",
-          "sha256": "46028749b5cdb5511afc10fb30975d9cc8f48366931f68ca570af7c48ecdb178"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-41-3.json.gz",
+          "sha256": "c71ba8622e54dcc2349162919267ad0e5e66af6176ac79fd99eaeef0732b1e0a"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/48/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-48-2.json.gz",
-          "sha256": "a257bea95f3798a858f79669683059e15d1d8cfb07157a963cbf47cd5a6ca087"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-48-2.json.gz",
+          "sha256": "52869caa6f9b725042e5fc2f5aba9d470add39ee5713626179b924acf4b4e588"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/48/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-48-3.json.gz",
-          "sha256": "4270652babca400f522f06ce84265fb0bf6027062107be5ceef4e3e80b149a72"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-48-3.json.gz",
+          "sha256": "e3f40a859d508785bd6d656e2f26bdb1ed0e50640f2832e957ece79c7519c260"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/52/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-52-2.json.gz",
-          "sha256": "e461d633f0de76a90d7bc58de9239a31a0922661105077cc771d73a63f7ac0e7"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-52-2.json.gz",
+          "sha256": "b0393e991e96b2dacc710db362588b31f07c7a30080a5924411c37c607cb76bb"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/52/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-52-3.json.gz",
-          "sha256": "64fd424d15e0a655a41997f2b9b7a9a40c695edbca8bdde7149fb54a41f4b467"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-52-3.json.gz",
+          "sha256": "e2615264b196967631b6101a35a8d6690c771bf71dda931ef8448df982eb88c3"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/55/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-55-2.json.gz",
-          "sha256": "bfe158e1561d993ab11e3367489475ce653580efdd6ddd6385db532960d2448a"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-55-2.json.gz",
+          "sha256": "82922bd14e6f8145a7645ff329be2109df9c3f337d766dac3b21033b56c2f725"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/55/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-55-3.json.gz",
-          "sha256": "b74afbf32e165ee0aae4c90755860b42898cc2c039fa48c97f7e27946e0e2b6e"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-55-3.json.gz",
+          "sha256": "20a5747dcbde3a768c1852c28ef69976120b01bdc46051612c171764e2194b56"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/57/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-57-2.json.gz",
-          "sha256": "1404b54bb311efd9b3b747b454601316786452e1f942b0948e17229acc8d69cb"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-57-2.json.gz",
+          "sha256": "b9829f126c026c377afae6de9bb7e8da55085d21cc4afdf74ffc5dbcadde4f8a"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/57/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-57-3.json.gz",
-          "sha256": "0c12b6d139675a60d732fb090dab5d0865d86e623d3263559af24095a35c4893"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-57-3.json.gz",
+          "sha256": "02d2354afd7f0bf9d716d5d538d98ce8b9fe4040ee03aecc49f0575031845dfb"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/58/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-58-2.json.gz",
-          "sha256": "534d85c1f123e883fa4c87334aa793654e66ae86fdea8d7ca1f1bdda319cb7e1"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-58-2.json.gz",
+          "sha256": "e480311ee3719124ab8f3d1c56a6182995917959150ff222f96cbc4a6765d954"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/58/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-58-3.json.gz",
-          "sha256": "b849a9b55fc58173a507c2cbd465e205af885a8d3a131936784b9c5204962871"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-58-3.json.gz",
+          "sha256": "3a48587697724f459f30ae23478aeb1aedea8ac82c7769f90e01eda3f2142869"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/59/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-59-2.json.gz",
-          "sha256": "5783cf7bd22f05b84d96a5d8bafcb0ea6f9625b5a1a5feb9440d1a936c468b79"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-59-2.json.gz",
+          "sha256": "cab898f90a65312b5b5ccb65eb104b2e4b9cce45cdab6223c2445d3b6419a8e6"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/59/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-59-3.json.gz",
-          "sha256": "78ed1df69988f0bbf4060fca5525430e4e0c4b7aacb54c1961d652283d592081"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-59-3.json.gz",
+          "sha256": "cd474428c3b1559e868574821ac35357ff53de32d0db49bc6587666f9b64b569"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/61/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-61-2.json.gz",
-          "sha256": "adfdda4eaecb2b483270205c187d8730952c38917be97e808a2a29b4a185c283"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-61-2.json.gz",
+          "sha256": "bd54cf87c19e8577fba6267a1098de4774b26d6c108cbe8658f34155c79005d0"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/61/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-61-3.json.gz",
-          "sha256": "a5c82e0b075af31f317a66e4f2310e52e675a8d62e2fb4ca3799b9e557d06717"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-61-3.json.gz",
+          "sha256": "9e8f682d07b7e868e89e39d8213887d108c4ffec9719d416a41f2c424d06201c"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/62/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-62-2.json.gz",
-          "sha256": "53adfae81cae29d6e790ed449e91c488a0d9a29b4bf3c5eac18da08256bb5c0d"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-62-2.json.gz",
+          "sha256": "2301687ac3f0a2fbf8ff271cedee71e666cacbd6fc90a81982c4aabaa89c27fa"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/62/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-62-3.json.gz",
-          "sha256": "3c40c75cf9875b395e51a840c1f1fba44758a537c9b786d07186d2fba2ca3cb8"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-62-3.json.gz",
+          "sha256": "7ec0808c7d3ca930c761668e5a2615bf5fee9b67bba91ebbe8b3c0aa1d1c0b1d"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/66/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-66-2.json.gz",
-          "sha256": "766333fcfb2feb0a2e0c344834d85198001ef421977db06a80945235a1245925"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-66-2.json.gz",
+          "sha256": "c6ad5905ab285b0296ac03dac6f108c4c0cbd63cf495e0b5ac5198bd8c601ae4"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/66/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-66-3.json.gz",
-          "sha256": "d89fb2f9d35f4cdbe1942d0a78d8d00babb48128d525ee6e145974f1f5d4c14e"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-66-3.json.gz",
+          "sha256": "4a4ec60fd07f50c6e00d248dfd9699f9c889b6ebbb74666a2a53bd4ad1d3a331"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/68/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-68-2.json.gz",
-          "sha256": "3f24511bc0f73d033051f84c3444ad6a37d6806a5e2979d61d1b4a7674155e93"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-68-2.json.gz",
+          "sha256": "48af69490d3cfeb206945360676181e1cfcc4bc2726536c8cbe6cc7c91cdcb08"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/68/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-68-3.json.gz",
-          "sha256": "41f4efabdfcee10c2aa3a53ebfa37447f4c2c6c71ced989adbcc428e1ad41f6c"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-68-3.json.gz",
+          "sha256": "cee0429d0e0577b8d65843408878fc86e8e2eb91b0ae1a62af6b31b53f86f2a3"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/77/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-77-2.json.gz",
-          "sha256": "d96f6ce23f8f32baf4a6071aefceb42f84aa6789814d9bdbb8bddc075e3c73a7"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-77-2.json.gz",
+          "sha256": "637636d3b093486beffec0c9eb384d306486b6fba24f2fd59fa312360f51ee43"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/77/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-77-3.json.gz",
-          "sha256": "437082fd30959df2b66c46a2d8d85ae15e80b15969c2c1ad76cfb25263be2aff"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-77-3.json.gz",
+          "sha256": "19d486e1ed1eb182ddf42bb1d3a3ed35060883271aceb7b687122c5314f4549a"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/84/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-84-2.json.gz",
-          "sha256": "57f15f3fcebd19b5d313d1dc36bdcdaa679dce7b0d17fcf06f978f5f11f42f2a"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-84-2.json.gz",
+          "sha256": "08ba2837f23c422b8036de9039b6878e7c9480d6b32d0ac9f2098becc5f16c59"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/84/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-84-3.json.gz",
-          "sha256": "39ddd55828720dbd6c10f63783de1570420e85eeaa20e5a03e402c201cc977c6"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-84-3.json.gz",
+          "sha256": "abf08acf334df0d53f134f05f49ac8fd39c3690d26ca09fa4dd9219ec8556d8d"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/87/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-87-2.json.gz",
-          "sha256": "a2a8da8ccfd9335d2078725591f61841eb61d2b09675f32845cfa68982c0393e"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-87-2.json.gz",
+          "sha256": "aad6a6bd7ef9670a5841d87a33639b8dcae25e3da285283536a4c95939ae4a75"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/87/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-87-3.json.gz",
-          "sha256": "b26d1b21014d7c5a8c8cb9433948b7954608737f1c7c5544dd60b170f4f9b6e9"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-87-3.json.gz",
+          "sha256": "2c618ffea10cb86a96d2e1adc6fcfff95822a7cdf5e61ed381fdb20e8b318ba4"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/96/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-96-2.json.gz",
-          "sha256": "7c0ae5ef0f4336ca9a2cbb05407328fd2339cccde7c340fca366ca32339023f4"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-96-2.json.gz",
+          "sha256": "e3ed275d197431a25ea1460e3b1b7e48d97df199800dc3229dcc677f07cbfc36"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/96/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-96-3.json.gz",
-          "sha256": "3f852444e3b61860b45fa4f3385a09cf77886d6c69175bf0fc4df40acdee0e4a"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-96-3.json.gz",
+          "sha256": "d4f535f0500d93af570b61b95efa649344e6dcb9fc1868c93462294f46f6be52"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/97/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-97-2.json.gz",
-          "sha256": "5c21ab323151f02e7b8b0cc42de2a8691ed9ed372ea0fab300fbdde0ae5d8b32"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-97-2.json.gz",
+          "sha256": "91ef64a683e222a907843e26c3414bc15677bfb17bc435783eb666d45ac8c38f"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/97/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-97-3.json.gz",
-          "sha256": "684b922ab1e720c7db8fbbe5ed49a3c35796582100ef5217acd8e6bc39ccad5c"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-97-3.json.gz",
+          "sha256": "60ce5a175fdef431c65e0bfb790ef009fc44e4d8b99a88f67a254a3f315a2470"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/98/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-98-2.json.gz",
-          "sha256": "81e2c926c6c54c2c4a2b09aa8f8ea90b1dbe0f1de092eea9c77005421e097600"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-98-2.json.gz",
+          "sha256": "52a50e862a04aa63bd143fb3ca1246ccff290dbf8b9dbc362d19a563ba5940a0"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/98/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-98-3.json.gz",
-          "sha256": "278d039854f2a9d06c7cd99fbf52c17734a5eff6ab80b78ebf6f8146fed5ed1f"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-98-3.json.gz",
+          "sha256": "e37f35185e6c8e7ed9e3e209593a39993793a072f647b54d6a2f1c1c4d081c03"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/99/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-99-2.json.gz",
-          "sha256": "ca0707f073776ab1e3748d80dfb7804ca249e5bd9cd6c7f97b25346d0c892da1"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-99-2.json.gz",
+          "sha256": "b6e117e2d6f4dbf5cd153b35c9ca3ef6c32674b7d086faf37fdcca69ff8e2060"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/99/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-99-3.json.gz",
-          "sha256": "f0fd29d8d73419338d824ef874f1b1f787384aaf9d0745f5e29637dfc7697f04"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-99-3.json.gz",
+          "sha256": "88214ee35fccbec392474d8ebe426940b1683c2580b7fd03870de1d4ce1f42fa"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/103/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-103-2.json.gz",
-          "sha256": "cc866658114d337c29f4b556c110acdb1ac33a5fe3fb053bf9b04ebdd3a85f1f"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-103-2.json.gz",
+          "sha256": "6e353ca3669741ef8645ce3c7816e88974c6dc952b0c81bca63c41ffdf29d11b"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/103/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-103-3.json.gz",
-          "sha256": "d3e70fcb2aae673c2f5eb0a034e04c742ec44531dd1cf8800d065d8611e01309"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-103-3.json.gz",
+          "sha256": "b6aebeb33990d30f6a4f17db466194c8a5130c5b5552b9abde05581c9376abf2"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/113/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-113-2.json.gz",
-          "sha256": "071133aa769356500ea28837325a9eed259d0fe06fadc0c3412682b0f7040608"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-113-2.json.gz",
+          "sha256": "4ff1f737f2e62d881a2cc448da1b99a768660e7f5ad3e38d39e18f0eb0348bc6"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/113/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-113-3.json.gz",
-          "sha256": "544e660eb5b8c23502b5bf645b50c32e869f7892f60addec8f5be87935a9b757"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-113-3.json.gz",
+          "sha256": "e404deab3a7c4af8eeb2db4881c6443e53993c17ed17f22f66c093572018ef46"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/120/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-120-2.json.gz",
-          "sha256": "994287dfdb302ff5f75a938dfec3c19d10c6ff5228681a1a2d1b8620a2b60696"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-120-2.json.gz",
+          "sha256": "333c60e99e4ffb00648d886fb24fd546726e5c165fa83fc1999a4e0769e62651"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/120/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-120-3.json.gz",
-          "sha256": "507ebdd1b4779b5b24ddec3a80cff1e1a86b278403c18fbdeace9d5afed6f14a"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-120-3.json.gz",
+          "sha256": "15b2375d16e5fb8a4bb752d0e20ae72a1f1fe3dc5432a2a1718dcd51e2edb8a5"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/127/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-127-2.json.gz",
-          "sha256": "d1acd0723947ec63cde179163297af1603ff0b7bd5e633f6eb2e6ae574166e67"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-127-2.json.gz",
+          "sha256": "4a2d4cc49cf6d02b4fdd53b3e732b6231969275fe73cd08219ebe8901308a275"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/127/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-127-3.json.gz",
-          "sha256": "6c0ab10ce1fdcc295aa2a5f571e01aa260807b68172f9f124053c16748bc0d8d"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-127-3.json.gz",
+          "sha256": "024b00d0c399b4a5a84a4b872c10feaf67662f121aa029b47d7cd625aad95ba0"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/130/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-130-2.json.gz",
-          "sha256": "894c6f387bb2d48de00b5d78835c84966c2366fe3744fe89efe95b5f6e067139"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-130-2.json.gz",
+          "sha256": "f9146289b93c1d46df7f1969e1cee5e65ddc20fa42486a001745928330db65e3"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/130/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-130-3.json.gz",
-          "sha256": "68e052707e36d3ad4436fe27337f3af0deabe807a2e3c9fab025b5a8bb82facb"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-130-3.json.gz",
+          "sha256": "d090f36ac7b5f1e32092a5582b8c27a61f708ae48738f35e23a4bfd0ec9a7a34"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/135/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-135-2.json.gz",
-          "sha256": "705ffaae3ee13d7212478397f8d264de1aacf05959f3bce7395fefd7209acd0a"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-135-2.json.gz",
+          "sha256": "bc4fe354cc21ce6b1a9bcddada7d723c624f4b6a3188d5749d72ff92519a8f07"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/135/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-135-3.json.gz",
-          "sha256": "7a86efb0937353b13d7a5493ffde7b5a165ab1ac89857393523a62dafe424e7c"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-135-3.json.gz",
+          "sha256": "1b3d4e218a66d5be4726bf36b1af4dd862fa3017e498b753d6afba86745e57e6"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/142/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-142-2.json.gz",
-          "sha256": "e3660575468a0a377eabfec1cf59d838dcd7c2bf9593d7fc4ce8698e5bf1912d"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-142-2.json.gz",
+          "sha256": "f84a622eb83dd4a56465db08941709692274a3bee6891c5d8015d4a70ff8d9a5"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/142/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-142-3.json.gz",
-          "sha256": "62d4677ec13393b0b29497997675c7ab38e36b8fc4e27ee3d18a4026a5dceed1"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-142-3.json.gz",
+          "sha256": "9d7a8ed6ce7222c771d504d45f44c48446938faf0156c2f8fc6a98ac23b671cf"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/145/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-145-2.json.gz",
-          "sha256": "4376e8e18cd990f9013d1ee340a5cd477d1c84db90f739b06bf3892eefe55847"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-145-2.json.gz",
+          "sha256": "0b11aef5410a183d3e8264131b710f2d716f5e205385266ce007747cb98e5bb9"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/145/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-145-3.json.gz",
-          "sha256": "a905839fcd2992189cfb349d2fb342e94285952d71d8c44395ad3d05ff789a53"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-145-3.json.gz",
+          "sha256": "c561ff14d0d3a9cd856880b966e66483b8f983ba6f1fb112e6d77bb611097337"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/150/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-150-2.json.gz",
-          "sha256": "1785f74552427b0e0d1bb583ce16d1f868d2725217792e58d32facc6aecd530f"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-150-2.json.gz",
+          "sha256": "de012e38d160e53b28d06721b08851299386a771b3d53859816faf06bc2afa1e"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/150/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-150-3.json.gz",
-          "sha256": "c135c8552e13ec35c2d7cca663c448f9ed4ce0f27a4e8d0ccdde5fc9daaf6962"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-150-3.json.gz",
+          "sha256": "0cecb5a79312b3d2e268ba7308db832b1afa043b801eef44fcf96599d6395bca"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/151/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-151-2.json.gz",
-          "sha256": "0c180aa681e4f1540c36c2b18a076f0543ee34b9c56e693924574e256dc7b1bd"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-151-2.json.gz",
+          "sha256": "43408bd8a15155b7eeb14a9ea9f857ff17feffcc4319e4a52f0ca778cb78735c"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/151/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-151-3.json.gz",
-          "sha256": "6cbef9ebd417598b4ad6d4749354993867c76139b736aeaef184e2f9efb2b112"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-151-3.json.gz",
+          "sha256": "e9a478a659315c95d3c243e600fc4f6115095433063a109b2cfb5f9c322acd83"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/152/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-152-2.json.gz",
-          "sha256": "a4f39d06fcce506063a95b7d85ddf6f71a452f4954add53ddf9d9da07cd1210c"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-152-2.json.gz",
+          "sha256": "76bc9696f4eee14e503ee0d05157594f2304463737d2910a5ecf9025ddf5d9aa"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/152/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-152-3.json.gz",
-          "sha256": "b6cca5b44faa853effbbd7f546fcf6702a177cee714ea0a65d9264343a82b7a3"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-152-3.json.gz",
+          "sha256": "de4b5f2d39706e2af5935f01fb89ec510c0f3a6a50405ece9c169bee6df2ee2e"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/153/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-153-2.json.gz",
-          "sha256": "c8430ce2752f74d3de2acd2470dc8e177c24dfe65b20d3cee949349125d3becb"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-153-2.json.gz",
+          "sha256": "e5b9e84e15ae7f1ed4b9f216187f9fbe2ceefda5e6a48cfb35cbe39a6450f765"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/153/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-153-3.json.gz",
-          "sha256": "573d5369a35620f91122ef665ba97f3561734dc104f2035f959b005cbbedce18"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-153-3.json.gz",
+          "sha256": "e2babb178dba7f7ee80930c8dc6363bcceb546a6b0adb41dbbef304116e569cb"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/154/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-154-2.json.gz",
-          "sha256": "0d50abd7eae9068c7f31fabe0bd1e1c260c29f69b0d79839dd1aa8150eab8b06"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-154-2.json.gz",
+          "sha256": "0e2a1187b9dd16842afd068651edd3f34d76e678c8a984652f3d01046a484b3a"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/154/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-154-3.json.gz",
-          "sha256": "cec3f9dcab6c65d72eb5561c74c2fa808307941a6c763c6ed476c90488653f8c"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-154-3.json.gz",
+          "sha256": "28d03239aa48ead496b2201932f5ec1a27f91b0a9e807b5b67d0be7299a4a5dd"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/158/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-158-2.json.gz",
-          "sha256": "6ae6e24f4ff58fd8b604861da610eee64508401534dce5ccb9e65461c2fa8d9f"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-158-2.json.gz",
+          "sha256": "13624654d669e4f21186496e5ed64df7ac771aac29028810ea70b28934fb8384"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/158/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-158-3.json.gz",
-          "sha256": "af6642273826896a98ae87d2b67700f03125c27fc755c147fff9b6c2fe4d7b00"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-158-3.json.gz",
+          "sha256": "6a84eca7611d7ffe327b3e3a35c6cafc6a5da3f53a4e2fdd5553f4877ffdecfe"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/164/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-164-2.json.gz",
-          "sha256": "31eeff5385417e7ce9727a11ddcc2167774f0122812167e61a64cf435f7d2249"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-164-2.json.gz",
+          "sha256": "5840bfe14f6c7ca6dcf061c277bfd276a243369478a41bd650d0ffee4b0e4849"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/164/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-164-3.json.gz",
-          "sha256": "c725a2e57501a6e63abcf3776476424e81b5bd7a14dd23b92081da19101fae9c"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-164-3.json.gz",
+          "sha256": "8b5aa05a1be29dfbb7bc126eed976ec02e821212633c3fb5df9b1688a2e3a29f"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/166/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-166-2.json.gz",
-          "sha256": "12cb324ee7f32be27982088f3474e076f1648f7dfd58f7d1d10341b764855a18"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-166-2.json.gz",
+          "sha256": "6fe74ac06bdd6b361b96fe88b2f2cf12b0b195590b58185c490af1ac8c4f646f"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/166/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-166-3.json.gz",
-          "sha256": "85859f46dc3e8c12791cd90ad102ae85a0c4f14b8a38b5552abe4cdbdd774592"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-166-3.json.gz",
+          "sha256": "47abaa02b2dc2b04c94e140e5d13f1a39ee069add1aea4ce5ecc504fd6d38917"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/167/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-167-2.json.gz",
-          "sha256": "4b583fd27e44342b889602e0d6aaeade40a74e90633018cea2f79fd7f515bce4"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-167-2.json.gz",
+          "sha256": "2468ba46924e3345aa506ebe50230342d19d57e6492f289ce225250f32d14009"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/167/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-167-3.json.gz",
-          "sha256": "5257c9ae1d9282548d9bf615f8d3ba550f71dc7866289d2cff86a873490fdb84"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-167-3.json.gz",
+          "sha256": "090b94f430fd618917417ae5c5623a39e08d7062086ad1e9bce61253a44004bc"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/183/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-183-2.json.gz",
-          "sha256": "05874c09f26fc12546bf32cf27218fcc120f996e82eb7a64402caaf9b7bb56fa"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-183-2.json.gz",
+          "sha256": "359b28d011fcbfc61393de4849c76fd5429df15eabd9840e8b4c2832198b80bc"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/183/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-183-3.json.gz",
-          "sha256": "13a99bb567ab011115bd37845f7b04fe393b97fe096b7a0eaa764a34a335a79f"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-183-3.json.gz",
+          "sha256": "cecc243c0b91f0fe983215c64769a1e92c418485efe3c9caf0fb95f11f3f90b1"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/189/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-189-2.json.gz",
-          "sha256": "a35e34fbcc8c95ebb11f5a98e87a5c9bca43885ecc87d16eac2302a7ef43d1b1"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-189-2.json.gz",
+          "sha256": "465591e804b5fbfd60726c2f9c15cea94689038e8d3a90d14eaa9b908aa34740"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/189/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-189-3.json.gz",
-          "sha256": "c529c3470f4de2c9717044cf422cc20117a31c13874ebfe9c27433a5f60ebb9b"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-189-3.json.gz",
+          "sha256": "c150762e0bba45ae7fe9278a1751e22be9a9547e20b77f92ee9b07403243cc7c"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/193/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-193-2.json.gz",
-          "sha256": "91c2ba3f32607d7c1c05e04886b0558eb094b04d47a6213d6c53ed779ea88b55"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-193-2.json.gz",
+          "sha256": "306dd83852e19ff4c0262c5f4411763e9f6ffdcf10a513eea512efd3b8a19f74"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/193/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-193-3.json.gz",
-          "sha256": "4b6f7b429ae01d94b64807c8d0708a40dfacf4d45c37edb5761e67c0aaf965d2"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-193-3.json.gz",
+          "sha256": "fc4dbd8081e8d3a369e799d581922360e5884b86c42f8f09fd5e57f94863a557"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/194/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-194-2.json.gz",
-          "sha256": "7127949b2b34ccd87937e0a2e666ed7bde48d55b0f493de8b2e9b5b3cd3ae547"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-194-2.json.gz",
+          "sha256": "1f803d848c485fbb01eee72a1b4c0407e92f5d028deedf2cdfdb69415c715e6d"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/194/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-194-3.json.gz",
-          "sha256": "2b1cba3348218635c553b0686b8160261d5d917cb4ac045f06293ddc45e4dd54"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-194-3.json.gz",
+          "sha256": "ae45de5602f0d74b63d562516cca3b62d2716ca5fdf74072f14f3d48a1bab472"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/195/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-195-2.json.gz",
-          "sha256": "6d4bc7f2ba953b6946ddb6121f717d331c790838cfa5d1792b36738cc554a768"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-195-2.json.gz",
+          "sha256": "b1ef91c02a7c71f3af442b3f546db55e95fd6dbe34bbea4563090b3474af0344"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/195/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-195-3.json.gz",
-          "sha256": "af51873dde4d4312c05f9832840a36a384f88e9c8fb238957b7813276b62a80d"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-195-3.json.gz",
+          "sha256": "10ad71bf0e9a93a80505eda302891c6cf76d347ec141bdb1a2e39bfb9cbe31cc"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/197/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-197-2.json.gz",
-          "sha256": "c7dbedaf3e1bc54fe0926ca76e2142ec4fcc240932b62f36734655996324e1e2"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-197-2.json.gz",
+          "sha256": "e26257ca5bc395c38d52d9308916ded7ceee31df9053abbbb8efe8f633925ce3"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/197/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-197-3.json.gz",
-          "sha256": "36aee986bb14b3ac5e5739926ed67921577837cd58ec7547a4dd468201e8246b"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-197-3.json.gz",
+          "sha256": "9fd3b2e7d0f704327ee0dbe7cfe76809594f03e122e23a6c08733230f15ad749"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/201/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-201-2.json.gz",
-          "sha256": "414bf751db442160c19d1c7a5014b9d25276bb83d37b5209243185e116507786"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-201-2.json.gz",
+          "sha256": "07bbbde297a5997a85eb93e0a1e5c09e14d289292574f6c11b61e546fd178d3a"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/201/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-201-3.json.gz",
-          "sha256": "f2fad4cd0cc6a0483324ddc9593bc1759c96939019322d6ab56bfdb7cede646e"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-201-3.json.gz",
+          "sha256": "66f9ae4e2a471f83e86cfd96289686e0498d4020a5d495d7e7a7cbbd60df7285"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/202/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-202-2.json.gz",
-          "sha256": "09ef9884ebe7d9b35004566d1592a320830f5b3205e35d6f50a0a25fc5671075"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-202-2.json.gz",
+          "sha256": "e3cd75e1bdf5d7809aa4de0aa8b3e30cf4ef6c37b10e30b915d40700bca3fbd3"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/202/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-202-3.json.gz",
-          "sha256": "ec77f16cf5c28aa0fe222efd2892a0db4e1821708cb58940191de97a60912078"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-202-3.json.gz",
+          "sha256": "df63d43c0859585020d052d87d9d8800de97718f380af3f0d7f6ec3c0e9640c0"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/204/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-204-2.json.gz",
-          "sha256": "c132a910eea9100d181d16e1a3ba0b0568b302cb781098d6a6f9b5295a764df6"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-204-2.json.gz",
+          "sha256": "dc82dbabef0f6ffdbd0dcd07cf2e067c9b4a9cbe6c5b19af639b29f615ed71d8"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/204/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-204-3.json.gz",
-          "sha256": "f87759fe9d5399edae71afbe2d22993a300342842507d8a95f2b9b75211b04e3"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-204-3.json.gz",
+          "sha256": "e73c852f1aa19be17511bb8dc495b58d7a01f43e407c235c1281eba6cbeee572"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/213/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-213-2.json.gz",
-          "sha256": "03e94f092f4a74476af7e3b57a4fec36174454a9fb9c752d9fac02b40bae5ab6"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-213-2.json.gz",
+          "sha256": "8f3e821f5778ef692e81cf841955f7b4596582a646d2077a2597b6b655bf152a"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/213/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-213-3.json.gz",
-          "sha256": "c6de7cf8037c81f45c9e8c232c98a783c4582f49df1fc38805ca8cff26e1fc71"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-213-3.json.gz",
+          "sha256": "80fe7e68052920ecbfe8ebaa4da6af3add5eeb790a3f4638107678eab3ee844d"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/218/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-218-2.json.gz",
-          "sha256": "0fdfd338ec9e266aaba7caa36f9633b9213d5bd1ceefc0fa0d1da7e4f0a99166"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-218-2.json.gz",
+          "sha256": "505d1f86743d5f438c7017bb56a64311e05e790b7c63ac2da2160abff2611fc1"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/218/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-218-3.json.gz",
-          "sha256": "54f96bb01f106014d2a37755439663e787144e109701edb29d7cd133de5f60cc"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-218-3.json.gz",
+          "sha256": "6cd87bafc8507b5653502426ddff6e3e63d40d207df4f133afbfcdaf451081c4"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/221/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-221-2.json.gz",
-          "sha256": "9a29c04901b238127b10981ff42f6c4c4d710528ea65945f54c05b064f5f6030"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-221-2.json.gz",
+          "sha256": "4dfbfde7fcb4bb07bfdd3fe5810d681abb60c153d07c0a28dc316e41620ce79f"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/221/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-221-3.json.gz",
-          "sha256": "dbf31b060ac272e280088d0b0fa7e73d90f1472c03d0e9711ca4d40c29aeced1"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-221-3.json.gz",
+          "sha256": "319624d6959d91203473aeccdfe5822b0e73a9b5bb9b399bd9d482be88d9a753"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/228/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-228-2.json.gz",
-          "sha256": "1314cfee9347df577bf414bb57526af15ff1fac0ef3825d773041fbc1cfa67f0"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-228-2.json.gz",
+          "sha256": "029b3a08b2c416551d7f815ea790e637ec67b899d57c5d584cdb5d565e2bfe4b"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/228/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-228-3.json.gz",
-          "sha256": "cc54910c0b731b5dba2a6c8aff0bca7997a924f3ed2ef17fc6565be6f3d6d7a5"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-228-3.json.gz",
+          "sha256": "d9eb8b59717694b3f46c23b28e50632380a459d8d063255d007ebf81a2744a48"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/235/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-235-2.json.gz",
-          "sha256": "666e9a85cf6c6e1d99d4d54733a65ec19d7cf59f8f927380551d6a2d035471cd"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-235-2.json.gz",
+          "sha256": "dc8f9c52ca0341b4c95131d2e696edd3584450170927a555a24b2ec57afb4038"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/235/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-235-3.json.gz",
-          "sha256": "a1eebf11f1bc571ab33695ec5eacbb7f01826b3ef6618a82a147a22e7f3d955c"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-235-3.json.gz",
+          "sha256": "a1710a26cd0b74c4da2982f126f893b05dccc4391dc04cdc556f7d0736281fef"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/238/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-238-2.json.gz",
-          "sha256": "30118342a67c926925ecb2fbc70c98fa7d10056d7370ecd31101fc1d06489800"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-238-2.json.gz",
+          "sha256": "1956226eb775a8651dc75523bcb45f2e9a71fed2d9100e8eb77033a8d0a1d784"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/238/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-238-3.json.gz",
-          "sha256": "95846aaae4d46d956400c5e250bb94108ec881b79844a67be5eb90ad3eec1ae4"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-238-3.json.gz",
+          "sha256": "6d5093d959cbc70d696e06181c51db4128c3ba7e2d887aac9e6acecc1f2469b8"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/239/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-239-2.json.gz",
-          "sha256": "80a94c87fd73cae477ea81ee25996c53d17a463572874620956d9d32c85d3d91"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-239-2.json.gz",
+          "sha256": "6c23b555b878a9b894fed00dff2fdf11496ee2d67d24bdceb1d3cbd8d90127a3"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/239/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-239-3.json.gz",
-          "sha256": "c1817999f998f67c9624fe849f7df3cd507e8dd4ebd7cae16c7c2083e281a65b"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-239-3.json.gz",
+          "sha256": "8a809ad5eac8812779215f8ce02d5766fe277ba2d29018efd05a5ce670539054"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/242/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-242-2.json.gz",
-          "sha256": "fc381dfcdb1d055ab29f4b0a9cf0c0ae2cfc700646329e2170c0bd2564bdac52"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-242-2.json.gz",
+          "sha256": "d79d068379eff1ce3309ce0b46587e91b0e37c58c4c2fb3ac4ce3067a6ee2d4f"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/242/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-242-3.json.gz",
-          "sha256": "618d41cba87ba0b3a6a057db6c695b08dfe94d811d106022a32be9f3797a8a8c"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-242-3.json.gz",
+          "sha256": "908fe6853830616ebf780b5d718aa107cb59f3ae52b933046dd7bf51d1217d4b"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/245/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-245-2.json.gz",
-          "sha256": "ffb4983dd280ed61d1667b480a86254d3d1e005cc5caf8480ea8d491772f4c09"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-245-2.json.gz",
+          "sha256": "a803efbc58536c377befa1b3ed2e6f5d2205e2db5fdc975419a5f045945232c8"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/245/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-245-3.json.gz",
-          "sha256": "ebbac6b1c2b55cda7db44ca55509e729c731716ff4f23526fc3708347c40375c"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-245-3.json.gz",
+          "sha256": "1515d74ac907a7cb9bc47e37545b6e78640a2d196dd7125341a3235febf60d75"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/248/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-248-2.json.gz",
-          "sha256": "03fb87d85e42c78577595b95ed38f8296de5fe31922d4f896bbc0924b2500b5a"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-248-2.json.gz",
+          "sha256": "b4568d51553c2f31b19dac5df40c0f74829f57f17c4aa3dd0bd346ae8609967c"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/248/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-248-3.json.gz",
-          "sha256": "aee3121d218f6c7180be447bc0f3b010c88fecd35679c1ea9ccac95a2c16efd4"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-248-3.json.gz",
+          "sha256": "e7f175f0f017d17b6ee9fc16fed129bec31c6844c82799e7a61d96c613f4742a"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/249/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-249-2.json.gz",
-          "sha256": "987c3eea5f9984b7324be1223eff911bb19cc6a9dffa1e8cc964e4e403859f74"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-249-2.json.gz",
+          "sha256": "91bbebe6d1ec3b8f102c5d9fc7c7301732af9409b7a8f448d5ab1e3d775607de"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/249/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-249-3.json.gz",
-          "sha256": "11957a59fd3d316e5cad921710ca092623311a1c1e0880f93ed1a83f41c859ba"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-249-3.json.gz",
+          "sha256": "a7679a69fc525e8dba102c94954b8510e0580b812575ea0eef17028c10d50cf3"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/251/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-251-2.json.gz",
-          "sha256": "393a55baf225965d4a288ceb2cf95e5efa7f37a6c7a0e7e03829f1044e045cec"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-251-2.json.gz",
+          "sha256": "4f42dfd6adc7a3c455c52080ad2c3f25caae271782d382dd454aaab136f6cc27"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/251/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-251-3.json.gz",
-          "sha256": "4be39239bf9bbcd36cfea1b283a1c6f9ec5925598620a268cfbf8213d8518e29"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-251-3.json.gz",
+          "sha256": "8a19f29a92c3c41ece12a84a960c3eb85910c2b195b66b38b376696a3c92efb7"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/252/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-252-2.json.gz",
-          "sha256": "5d3807244abf5c9926cc51a30fdd1b758b5ef168557dd90948767794ee9d36a5"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-252-2.json.gz",
+          "sha256": "9ffed4eede1c6cc2a7a7d74003d05b3193c82543ff825fe01e06da3aa0158a23"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/252/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-252-3.json.gz",
-          "sha256": "dc4bf2dbb5d827bc2076a44932bd76d261735b30a23c21ba2bb74e553f770a91"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-252-3.json.gz",
+          "sha256": "57cc5ee232d379a3cc12e14cd601ce863e900a09e1513c5ccd985e98c473e2b5"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/254/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-254-2.json.gz",
-          "sha256": "15379585c602204b7878143b8270049c68deee8c5cfaf67bdac05d79c004c57f"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-254-2.json.gz",
+          "sha256": "1e8f092cdd9deacdec4f244a10b000429dd07ce5b18ce7804c62d6708839b007"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/254/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-254-3.json.gz",
-          "sha256": "4fadef30dbba6eb1950c393e9b6e9d67d79ed9a466e96e7fdee53142c7dfa218"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-254-3.json.gz",
+          "sha256": "6189d2c2c2d8a1802164619afdb65acd7d679d73b5d9900bfaa24f3914f22775"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/256/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-256-2.json.gz",
-          "sha256": "8270405f8bfae1252ccd567634f88c914359c08c89564645a87e0f6765a5bd88"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-256-2.json.gz",
+          "sha256": "ba28e1aa2a27790e24b97c80d8120df08d2688d66df86809ee515b537934b1f3"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/256/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-256-3.json.gz",
-          "sha256": "f4934c165be4e797492fa3de9d914aa01739722a0e7fa7b5d018a4ff18b48dfe"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-256-3.json.gz",
+          "sha256": "79bd9bd2422924801bfdfd5500d520c16f3e0f026c202c6026c13b4ffb7cfe6f"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/258/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-258-2.json.gz",
-          "sha256": "17594c2e186b1c336add318ed2d5bd85939259eb7899effd9299908942a42989"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-258-2.json.gz",
+          "sha256": "2c6b43fa39b7a118f1877d8c0b0eaea6a84e8d51eb71d160d3ef37cf15dd86ed"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/258/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-258-3.json.gz",
-          "sha256": "62e23d4eccb9f92c68f8e7cf53095538a6eb922ad1040122b573341a3d1ad586"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-258-3.json.gz",
+          "sha256": "0238d3c7fd253922db42b8e5f92c995a0a582af31f328467ede6f1fc755467bc"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/259/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-259-2.json.gz",
-          "sha256": "909e40b1cb95e9a63bd3dee8de0e6e23894fe836cbc0a64f8a4ba1bdab10b345"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-259-2.json.gz",
+          "sha256": "6be6095edfd323b68af3f9bce75ae1a7386ffef9f9d0b01ab55369bcfa3d8aa2"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/259/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-259-3.json.gz",
-          "sha256": "cfeb3f51bebc7f3f05ddaa72c508707858ff3ecb971161f68cc3e11bb81d3c95"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-259-3.json.gz",
+          "sha256": "588558e2207c793542943db52772213131780e1dc6bccefcd1ca1700ccec7cac"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/264/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-264-2.json.gz",
-          "sha256": "767bb6256c250ac37e15beed2bb19fe03c6ae562d7b981b01c70499519f6ed07"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-264-2.json.gz",
+          "sha256": "cbb94b6d597bad78723f3bafcfbff9e92c71bc7f625f43662dda802e7b1a4d98"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/264/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-264-3.json.gz",
-          "sha256": "7a322c23fc0cccb5303d43d5af9a1c9808dd8a9402916291f00df90ac46e30e6"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-264-3.json.gz",
+          "sha256": "9fe2f45906979d9993e29f5638442f199bebe11ed38ea364c965af179450f94e"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/265/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-265-2.json.gz",
-          "sha256": "7ebce6bddc62e6f8c84ddc8f34bdb11e746ebc3e518d0d2fb6ec8f0b731a87a5"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-265-2.json.gz",
+          "sha256": "70418e33230fd8423a10ed4c4b0ea3f4dbd43ed236f806279b594c55d469ff1b"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/265/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-265-3.json.gz",
-          "sha256": "cf0fce41f8e627ce4e38b1a51fb3b8db9aab5d9be1f81887615e47dbcb9390f2"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-265-3.json.gz",
+          "sha256": "74bfbabe64e89f9df539f7c9438a813c4387a3c7bcdce4493bc8cdff8780be38"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/275/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-275-2.json.gz",
-          "sha256": "dab9fda7a33e74a94f35aad04ed315a06103b2faad70d46cefdd7510d6a5eeb5"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-275-2.json.gz",
+          "sha256": "6d8af9474141729b93cc8c29539e06bf5ce714101cca9580f1d4406ebba0c6b5"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/275/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-275-3.json.gz",
-          "sha256": "fc0352b9f751c106febf939d4d12218870a5a754032f76ae5d7816dc7b7af017"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-275-3.json.gz",
+          "sha256": "1b004562dcaec05fd2f70aee839c25e5c05a4a8052ba2da84239430cfe8c178f"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/276/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-276-2.json.gz",
-          "sha256": "fd6b1d373ffc8388eed1a1366d562eb3844bfdabdc1f53997173c76baf1a3ff8"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-276-2.json.gz",
+          "sha256": "5ea29feb17f1728a751fef8fb172afe496cbc8466e8319bb51d41d60d3d5d70c"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/276/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-276-3.json.gz",
-          "sha256": "78d2fd783d5add2fb463ba5f7555eb1ce642f40dbe1cb19856fb5d98ad5b10e2"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-276-3.json.gz",
+          "sha256": "fa1b1798d7c70e04e068c783c5cb1b301c75c5841e7a83846b023b023d9c9f6f"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/277/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-277-2.json.gz",
-          "sha256": "ba4972a4f8078a95677be317dda82e5476184064c99f6f13e0841c084bad3630"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-277-2.json.gz",
+          "sha256": "d8dadd9678589bd515495aa4f020d8b0d31cf32c09e364565d2ceaab9a878326"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/277/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-277-3.json.gz",
-          "sha256": "32df8bf80eac66c7a9bdb4cc7d39cd6f126ce3dc8e8c7f7feaf7945f8bc1b42b"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-277-3.json.gz",
+          "sha256": "3dbebee57afcfa3c320c064c956862b4422f9a396997b27067010c5c5ac12d63"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/278/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-278-2.json.gz",
-          "sha256": "261278fa4d865e11a829c5e2dbab78b39ab3b351da36be5377d9933f8457b569"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-278-2.json.gz",
+          "sha256": "17b3f2f04184359649ae1bcd710dd1dad55d09c44f3c1b1898c7f66d2c0fa8b4"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/278/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-278-3.json.gz",
-          "sha256": "d05a44c5577a0227902097e19272c2d85f335ac4d7faeba6cd85d4aab0e790d1"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-278-3.json.gz",
+          "sha256": "33258ebf56e9a0f8fd12ab8b42c995dc8fec52edc03d76b8cbebc7faf3306d94"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/290/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-290-2.json.gz",
-          "sha256": "679a185c1b17af013c19f055f95aef163790b5f123bbc00450e90cd5a1bf81ab"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-290-2.json.gz",
+          "sha256": "24d7b9897c52b5cd4db3cac7220a10232628929e5a922a570c44137ca92f6996"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/290/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-290-3.json.gz",
-          "sha256": "f177c3bd3d03cab08213cee596cc60e90ec539e1229eae4a4005d885ed89e5e3"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-290-3.json.gz",
+          "sha256": "9306a6987237f07b49a3bb69e36645ec4b24edb2199fd0f3fa1eb9b5163b78c2"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/295/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-295-2.json.gz",
-          "sha256": "3fd47f34f9c8bd0b144e2230a6de26afd9dd590af171a736e83bc72d3c4e4c42"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-295-2.json.gz",
+          "sha256": "f6c5da865ce6b0181a4a49d671b3cf9afe2bdba835628c9b951c40fcbaa7f506"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/295/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-295-3.json.gz",
-          "sha256": "dc8c091394b8eac653cb84ec62faf11d5467abcba2da43315ac905a94bb0f3f3"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-295-3.json.gz",
+          "sha256": "2c4dd396877fff49b660201a78bc82f77f8477d99cc02f69f032493ebbdd161a"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/309/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-309-2.json.gz",
-          "sha256": "724a2c581b8aee0ef8a2de151dcd1e92ffc956c3b1e564c9ac8735bccd6d4f97"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-309-2.json.gz",
+          "sha256": "58b7d2074f4b0da8f4a3a22cb2582f6efa2f5cbaf21fa510239a43139dabc9e7"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/309/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-309-3.json.gz",
-          "sha256": "d7b6d27220f9bccd32b92e04e6528883a1a9565e82fbf758c9e02fc817780549"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-309-3.json.gz",
+          "sha256": "74a86efdec1ecef0ad4c05c780c85fe22ab3eb83d86d9c42d2d243575cb5e6a9"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/324/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-324-2.json.gz",
-          "sha256": "e14f9cc383f4901391579772783ad01185359f1561cab71cf82ab39cf16fd921"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-324-2.json.gz",
+          "sha256": "2ae0429bd3364503cd3de364d2606d0acbf92d55c7d084b903561bf5324dabfc"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/324/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-324-3.json.gz",
-          "sha256": "8a2d8bd93d30bf2778a5525ce1ae46e31f367aa65ce50674980a0437438fb944"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-324-3.json.gz",
+          "sha256": "d4f553e4f646f07b39c40b1d1e1047ffb5f82f666978e2dd720dcdc180b30e61"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/326/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-326-2.json.gz",
-          "sha256": "55f77354efba4f106d395cbb9f15a5d2a326273797001a290d5de2ee22454e6d"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-326-2.json.gz",
+          "sha256": "38ee2d31193ec79fe408a0667037e6f53161855f8c9e4a2b8f5823d4910f8b54"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/326/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-326-3.json.gz",
-          "sha256": "c425e7be710675a2ad6823f47504b34a949f9d5bf6f01db6a414f950109285d0"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-326-3.json.gz",
+          "sha256": "84a3f291095d61734a6aebe05a922a91506951c888ce5119901aa0f3729001b8"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/328/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-328-2.json.gz",
-          "sha256": "ca35f2fd86b30669b942a1d53c6f385bdb3aa9872270d940ae522ab4551d2679"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-328-2.json.gz",
+          "sha256": "561cc18ff5a64711b56d58298c4c641be822691bc0eac0901305f0182322a8a5"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/328/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-328-3.json.gz",
-          "sha256": "814daca9bd3f1fb64147b332c0f097c4f18f1e24ade3266876e2a9f51a2f0fc4"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-328-3.json.gz",
+          "sha256": "9d697f908765d646b6f192e96f4f4e5523d4bb8bc4ed189105db9108542e0cb5"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/333/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-333-2.json.gz",
-          "sha256": "35d0217833f60d41012a9b40746fa0cea6e40d28726d0bd236d58bc55902e767"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-333-2.json.gz",
+          "sha256": "208e861200779517e26069805536623db146e24eddc543a3ba88bf1d46de73f3"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/333/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-333-3.json.gz",
-          "sha256": "f910f4e1dee439e22e51d26aa38f89d06d78b6bb2d745c26018787ad107fa0af"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-333-3.json.gz",
+          "sha256": "183b5b28bebfc47eb82a178513074b24be03201b598dba6515aa9398e32ff151"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/338/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-338-2.json.gz",
-          "sha256": "b587a4d74f5aaf19a4f524e86377eda83d4eac5f4a67fc37ad87afcb9167a787"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-338-2.json.gz",
+          "sha256": "39c8c5caa18f8094212b658c34dcd3f1416aca115b34e6823438955f8a30b4ae"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/338/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-338-3.json.gz",
-          "sha256": "b8888517c743bbece162fe9473e9280184a1e23310e49fbc341dcd8bdc5afd96"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-338-3.json.gz",
+          "sha256": "4fa8e87f41fd200508aedabf4941c606cf28b0eec524401fa498e6937c75df33"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/344/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-344-2.json.gz",
-          "sha256": "e4e8e28a9a8f1334c0194d391b65f1122ab92ea05da2e7fd834f3dc743d6f214"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-344-2.json.gz",
+          "sha256": "518ff5620bd850564a6bf033b4f43b5183d27b6c5a5ff9e4c70f776405a9ce2b"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/344/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-344-3.json.gz",
-          "sha256": "04ef243ca3431547e92181b06ca7ba9667203ab46e31e11e27aa3ea306b8cf08"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-344-3.json.gz",
+          "sha256": "8cc50121d32038f2cfb357725c3321f1918e4c8ac7ded4ef12659f1a07f97710"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/349/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-349-2.json.gz",
-          "sha256": "a338ea33330dab89505ddd07f2e81c6a813234ff090e0c22cfec1d9658ef271b"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-349-2.json.gz",
+          "sha256": "e1e22fa532ad16db5e4d2d39ae24ac67b093534c3dc45fc030a8a517064f6a3e"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/349/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-349-3.json.gz",
-          "sha256": "e2b2046554512631bf82350793984810aeb2aed033cb5a6801ebb7e6986a92eb"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-349-3.json.gz",
+          "sha256": "a7cbd2ba6d1353b5b8a457086559e369d606a3a4aa853799cc4edcdd90545a29"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/356/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-356-2.json.gz",
-          "sha256": "ea6007746a38180d60048e3de8bbc9bd96b70136fb22edeaf15ddd561f60eb7e"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-356-2.json.gz",
+          "sha256": "2e8a87d04328fc59f876ec3f6046512dadfc964ba239fb5102ba3b99db546926"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/356/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-356-3.json.gz",
-          "sha256": "223ca84c12020ccf7a91364e81364cd3bae32ece22ebab1f61a8212a5d6d3097"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-356-3.json.gz",
+          "sha256": "bd4a9d9785f0de399130f54df2036753b24769da287e27b0d866e8f13b1c3fb9"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2005/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2005-2.json.gz",
-          "sha256": "ecd868d1b26956bf2272c6552cc9a0a46c3267729b0f6ed550c06805cd2f5c69"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2005-2.json.gz",
+          "sha256": "c84fce13add6863fe410fcfe506be06641d9315fd4e612a7117d9443edcf0930"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2005/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2005-3.json.gz",
-          "sha256": "3c0dc180619367591ed075958b6f3c17d5f558f89bb0cb4a540c6d0134fe79b0"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2005-3.json.gz",
+          "sha256": "43dbeb48654dd1f572917869f0cbc669930c2cb61e7306c0cc700b56ab41c2b3"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2006/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2006-2.json.gz",
-          "sha256": "3f1587bcbe8ce31a1cba3115e42a8fa4df21b8634aea41fec8b64a6dbcf3d83c"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2006-2.json.gz",
+          "sha256": "4a56b0df20e2b2570369f83b3b9c76aeb908b3e4f120bb379fb8bfcb8ce8b14a"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2006/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2006-3.json.gz",
-          "sha256": "f29036459a95c279843160267fa2fc931bfe88cca568435804a15ca4371eae25"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2006-3.json.gz",
+          "sha256": "8895d0ecb8ccdac5c5158764604de0187f43c1a5b43338a13f12de8ee8905e00"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2026/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2026-2.json.gz",
-          "sha256": "51519a813a9544cc29e3df89a01a4cfefd1a8b8f26c03cc5653041513ebf9388"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2026-2.json.gz",
+          "sha256": "f43ad6c514527d0ba8e9418e7bbb48ca529fc0f06b25c3e0c4b5da52f4bf8521"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2026/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2026-3.json.gz",
-          "sha256": "18d48b13af0a99a552780cbda919ec09e97e1977a9bf9566f4a7356ff0f33ed4"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2026-3.json.gz",
+          "sha256": "2041b24c4c2adf02d655b5ddf3e74bd67143a53f2bb9425dc92558c52070cb15"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2032/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2032-2.json.gz",
-          "sha256": "fdeae3154879d39163dfbc60395a71c0481821c72ae9b3c775c5c563a890cfc2"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2032-2.json.gz",
+          "sha256": "0b6577a89ef11558abb85d9181183514001a66c21eb839a1c4c27a7bb7ea3aa8"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2032/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2032-3.json.gz",
-          "sha256": "33b9fc3e7bd444b1a60fbf1e4c6323af6ae531ac1b447825a51ac93b01c19ece"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2032-3.json.gz",
+          "sha256": "ac0912f35208d2433748b9b3cf8bb21a69da0198fbbe7ecc7d237d98d4f6661e"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2050/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2050-2.json.gz",
-          "sha256": "9cb241ef50bf90395715b49c7e68e784f14a9c3a256db5659a266a70c0b6d5f7"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2050-2.json.gz",
+          "sha256": "23a3eac1b61939141bc80747504cad24f114570b300408ecdd23945902aade1e"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2050/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2050-3.json.gz",
-          "sha256": "03bf2af2666953d0bc12264f21b8f1add9ed42bc0e3b9160819a02eb2d80c17d"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2050-3.json.gz",
+          "sha256": "3c42e9a9f1742e9bd941d70bd9e7a894d8e224271ec0e0848c98034a5338f464"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2084/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2084-2.json.gz",
-          "sha256": "f34da26f69955d25a5c1c998bf1eb3f74a8be633f9fae5ad5fcfb23849ab4880"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2084-2.json.gz",
+          "sha256": "c63c370781ccd75a83e61561beade5d56bdc3302bb51c12ba84e54ec48d68bf4"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2084/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2084-3.json.gz",
-          "sha256": "082ec458102c99cf72849866b344cb2fbbb456c1251ac81b67156c01c94968e0"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2084-3.json.gz",
+          "sha256": "39c1eaf0b196ca407774c482d6b463b2b87ce2afee6822a9954e6babf2079e75"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2116/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2116-2.json.gz",
-          "sha256": "bd07fdcb53facf261b535ad6a90ede5decff46dcc7eb558276e34ec5172101a3"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2116-2.json.gz",
+          "sha256": "4e51e31f87631a705940b6e57ef90030db3df218ef080d14ceac4abf3f076b3e"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2116/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2116-3.json.gz",
-          "sha256": "162e41d8bbe0643ad07bd28a03c0516bd8061cf46ae6a4f71ddd312e13bf86c0"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2116-3.json.gz",
+          "sha256": "1d1894761b46c007885278f6e63cfa7c8f8bcd864c75cee120a468a99f616844"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2117/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2117-2.json.gz",
-          "sha256": "f5b74ac505e6d7a616929d07dc3f131097dde421318580ef7b6835588eecd381"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2117-2.json.gz",
+          "sha256": "7d1e21134dfd18eb40165c3d2b7f06c8ca78b2950b1f86a370dc23a39e26ccac"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2117/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2117-3.json.gz",
-          "sha256": "028d2cc8bde17454023f532212d0aa48fb5501f3720e7fea86fd4c2a793beaea"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2117-3.json.gz",
+          "sha256": "ac3f5f8408820b909c687fe5c9d09c8cdbe18e0cb1fc0dab85be77226362fc22"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2132/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2132-2.json.gz",
-          "sha256": "fcff8cd547474c797b6666d1210b30c9ce822fd101a639e8e5bbc811d2b4076d"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2132-2.json.gz",
+          "sha256": "a9080d6912e18ceedda2f8ab9c0e3b19879bfbd888178f47684aed0ebb48e45b"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2132/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2132-3.json.gz",
-          "sha256": "aedb28c33fc9e81fe49af685c0ebbddca2eaec9590735a2b85d2b5c6837fbf20"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2132-3.json.gz",
+          "sha256": "103ff8074156c44ab16b4c62aecf9d3e06cce9ac5ed60f0820949e34ebf55933"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2199/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2199-2.json.gz",
-          "sha256": "c39df42ffa9db87e3b2e92db352a3e136a7c747d51bfa29b59ba5625d8202e6c"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2199-2.json.gz",
+          "sha256": "280b810971095186bddb9bfb8dfdb2ec27857be97b16885e12e0f1635cb728e2"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2199/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2199-3.json.gz",
-          "sha256": "e529ac540299834e0f2c78882f0bb6bb02c4e62340e9885184a13a9b79caf47a"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2199-3.json.gz",
+          "sha256": "2823e5d60ac969876b86172baeb8fedcad21ad42f44bbbbd495c3caee25d0792"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2226/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2226-2.json.gz",
-          "sha256": "7b5a52ea2d223bcd04528db269dbd24b51f6a7fb9da370d7f2fe3d0ac14c7119"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2226-2.json.gz",
+          "sha256": "bf1c26664872fef25e69feab5136394988c83f0ec2c1189441f1d87e361275f4"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2226/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2226-3.json.gz",
-          "sha256": "debcd99a492db00d32cf01763a27a376fb58f283d38017538f5028433ca7127d"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2226-3.json.gz",
+          "sha256": "c369305848064b91e143f4b3755c7becd2b1fcb8a30b0f611de17425a212af0c"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2229/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2229-2.json.gz",
-          "sha256": "7cddbb9c791359464d3da87ed662aefa3d06ea7a5280fae1029a57bbb09770b4"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2229-2.json.gz",
+          "sha256": "a6115f1e1f2213c2b08bde2d15f47d68ba2dd744e4334d06af35ca2fc5a7e16e"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2229/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2229-3.json.gz",
-          "sha256": "1fe8db4e040dc7ff968da54bfdfece0679a71275c4b41a64c25c25439cca47e9"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2229-3.json.gz",
+          "sha256": "99543b534efc0a4d8998a2ad4c409c72c44085df3fca4d1ea5a83cde15dfbad9"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2247/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2247-2.json.gz",
-          "sha256": "420eef5a524b8ff6073bc040b2a47db56a3456fad1fe089812dc570d0c21dfd8"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2247-2.json.gz",
+          "sha256": "5e4f084d8d51d4cb4583725fb6942c6e55634f2cdac74e1c3bdfd51ba8a7baf7"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2247/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2247-3.json.gz",
-          "sha256": "bd0232718595791d0a827571b4b62c12da09e2319f87cfe7cbb89889e9687225"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2247-3.json.gz",
+          "sha256": "7086bcb99ea278f39e290a5b8ce47d320eb7d9ff1593054f8158242984e4f647"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2294/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2294-2.json.gz",
-          "sha256": "dc7f139bac217d4f12e90bfb7935262f70e99e3c0f3d39cc942a4954350cda3e"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2294-2.json.gz",
+          "sha256": "9a19ad7befc407630050d3166b37d8107aa4a336f9b7fa1319c4c28764218c86"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2294/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2294-3.json.gz",
-          "sha256": "acb04d672b4254dab50e19157f2b6127e56eff8991b3e0072ffa2cb7dac717c7"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2294-3.json.gz",
+          "sha256": "0048e1a20a15ef3fa3ce4a40e781c8428f7adc62a994ff461960eb21f2889e30"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2305/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2305-2.json.gz",
-          "sha256": "7edc7918d547f6f619066c29e0a9d370f3a7b31c56791b8027244b314b92fe81"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2305-2.json.gz",
+          "sha256": "11659cf4c51862a994b9faa49726e255aadc20eeafca23d3c26bd457b6b879ef"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2305/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2305-3.json.gz",
-          "sha256": "1e6814ebfc4523dd8a69a8f1e1c187f0095e8cdbe4f0636db7aa7424af21c291"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2305-3.json.gz",
+          "sha256": "1bbd63554366656c32c19b7af8c6472d739ac6c25911a01ddef884134abd76ca"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2306/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2306-2.json.gz",
-          "sha256": "54b9ce582646e65d689e1430bf7f8d7a45bbb32ff8cb1fd3a9667054f72c81ad"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2306-2.json.gz",
+          "sha256": "0f4046d94ec12ef4234b1b9fee29e45f706249b80bd2dda4b130d7f84178f8ee"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2306/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2306-3.json.gz",
-          "sha256": "e35756013040ce889f78a00f7b1a12ddef8523e5e68fede5b81b655cc20c911d"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2306-3.json.gz",
+          "sha256": "1454ac57eead6361f03111bba1198787b6295426f2cc7b23f8b29d7876f43437"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2309/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2309-2.json.gz",
-          "sha256": "acae0e4f902a251335fe5d9ece9976f0f4c9d839c781de83dd7dbc6d5e5bfbdf"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2309-2.json.gz",
+          "sha256": "96ddae257f1ea7e7201f2a989088ecd46ad4b5cc78d8c8ed70c92702b0fe0f7c"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2309/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2309-3.json.gz",
-          "sha256": "00388972ad1b3165b1b9b2bf25a21c10eb7499fea0dc71adbecbe2b1b9a57fdc"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2309-3.json.gz",
+          "sha256": "63f7fd413d2674d090f7fdd4f9a8dd9a620cb59a0181963328d71af90f56ac88"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2335/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2335-2.json.gz",
-          "sha256": "99c63432a75ca1e239f1a0595a0e04a500ed9640238312d497022124c75c0c82"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2335-2.json.gz",
+          "sha256": "4182c934b8bee21963f32dc4326d54a34733a55e1d0730806dfbef40d0096001"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2335/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2335-3.json.gz",
-          "sha256": "ec68aa6f5c058428bd489a5b6c9f563331c6e5503f3188419ca78cd8aa70b08e"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2335-3.json.gz",
+          "sha256": "7fc1ea8ee120171f74af6269112f96f54463a2fc6b54e83e9af3719068d49f40"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2348/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2348-2.json.gz",
-          "sha256": "d1254a77008d4d7e315ca3282fd94141f0f701add9d8e7db44e745f0dc0c2aee"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2348-2.json.gz",
+          "sha256": "c4e5baef074f7bfdbfd5bad7215a9083235848a19f256392932a37620d1a6721"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2348/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2348-3.json.gz",
-          "sha256": "6b27b2335d9d3f4f95726f8ec62fb5f5dc9a5aa617d59d4d3acfabf3b9677109"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2348-3.json.gz",
+          "sha256": "01bee0b1878b3b7db3e5d1107fa0119619e50ced3c3f43db1a474eb1f7dcca2e"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2390/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2390-2.json.gz",
-          "sha256": "4c03d705afe4ca38f07700bb709aba1f1c59997aa368e7ca20bb5afecb1ec5f7"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2390-2.json.gz",
+          "sha256": "5d6715206362afe36e9b38c99f293f468d10a2285ebbfc59ae6865eb4869981b"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2390/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2390-3.json.gz",
-          "sha256": "4a085517be9d432f6509e31bcd08d4f070bd5e86c7ad0b1fcf7e060a31187199"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2390-3.json.gz",
+          "sha256": "80e1ff2c2f42e013b573c66cca12c01949b8caec0479edc29786a6248b54a46a"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2393/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2393-2.json.gz",
-          "sha256": "5bd6b45371444e200f66f520f11e6e6734c557e4128234de242948031450d786"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2393-2.json.gz",
+          "sha256": "2268e03c888df0cc3ddfc59585712eeb60cfbb3c2a2581534ccc5ec9d77c21c1"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2393/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2393-3.json.gz",
-          "sha256": "3d83b02be64e894be6d4c0778b4e65bcad383a8f7a1e679f1055d7f41e36cfed"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2393-3.json.gz",
+          "sha256": "947ed44de2ec3621d3e0a601252b9931b5ba37356ae6b3493f13ef0a62465ac5"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2426/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2426-2.json.gz",
-          "sha256": "8fd2dd2a262ac7e253584bf9d63970dc5705f3ac0ae93b6b2c39ca30b689a50a"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2426-2.json.gz",
+          "sha256": "d87369734616f48afd42a058ebc7452f4582f363ab85bdef13612c0f23c81f0f"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2426/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2426-3.json.gz",
-          "sha256": "0d375423e18e0e926efdbf8eb52c0f8c30e5b5209e04c70c99b904abdb7bd74e"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2426-3.json.gz",
+          "sha256": "420ab842f19c25b9dd8545e6400f9c32c82a4fd3389786802340a88d22e4c0c5"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2429/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2429-2.json.gz",
-          "sha256": "ab83ce35b7f3e08bc10acc0a620684b31c8ee5e4c55e4be833b9a7109751851c"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2429-2.json.gz",
+          "sha256": "692ceb7b80460e348ac88905a45086fcc08832246d3996be7e4f4a54e32220e2"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2429/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2429-3.json.gz",
-          "sha256": "158c84de553caef494225e76e341451796d659c0165df623e988b9e0d1f4474f"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2429-3.json.gz",
+          "sha256": "bc1a9949c6eb90955030932eb30079856f578d0cbf220f6d13f8fd4e6ea4e190"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2433/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2433-2.json.gz",
-          "sha256": "6028a1737ce9f99d796c3a3a63b1b39a0a16e5dfa8babf36535f78a366729145"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2433-2.json.gz",
+          "sha256": "8e92fce183e038134b1c45c071755b8d216d97dad8cc22e4c22ca7645b509855"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2433/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2433-3.json.gz",
-          "sha256": "48fea73e8ea5aee2ac6e40723f976bff92211a9e27a92404bf6a6feb65f765c9"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2433-3.json.gz",
+          "sha256": "4308b2c3c6ef78fc256a26531d5635dd40b6e29a9a9a40859ef1a821e78e6722"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2439/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2439-2.json.gz",
-          "sha256": "289139fd1d176f50677eb05509b8540fc5036121403dbc1b6b6eb3679b2867d9"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2439-2.json.gz",
+          "sha256": "1826a688595f4466357a46a271a6692ba311e23061651e506d256f673a9ee660"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2439/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2439-3.json.gz",
-          "sha256": "b864bd110681efc83871710db32ed89bd79b0f2b7df12f391057b29f281ccb97"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2439-3.json.gz",
+          "sha256": "3e56bf0229b3fb0268214e7346a637a6fd5c3adf2126e52c426fdd88f250fa69"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2440/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2440-2.json.gz",
-          "sha256": "3b16d4cdbba019fdd35cea06c562647723563457a68837e1deaa853c58d342ff"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2440-2.json.gz",
+          "sha256": "b9d9519a4c98549445036959bf1acf80f5bd3ef2d58c0bf58b1fad2724265283"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2440/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2440-3.json.gz",
-          "sha256": "a9115397f8ae291d9011e9b9d9f0042f85dcea404ea5e31242339058cf048f50"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2440-3.json.gz",
+          "sha256": "933cd9f38d911814d61a28d25c4b7f2c75401839b72de773b8ca2ffbf4ee1602"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2449/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2449-2.json.gz",
-          "sha256": "a05cc7dce392ed43364e0c2b3bfdc85eee2243e0c8c72993ce6bb6eda13bc72a"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2449-2.json.gz",
+          "sha256": "f9cd52211e5f2d079355612fd77144c2511af3c320d702d2a1b82cb5f4f434e1"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2449/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2449-3.json.gz",
-          "sha256": "c1e53af84ca37cb235d4750cbf40ebae5053aa4e84e63674f2fda9fd6e3bed8b"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2449-3.json.gz",
+          "sha256": "804d1079440bd338eae4b523a80652953b520cb44a36fd1a94d55b1139647727"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2459/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2459-2.json.gz",
-          "sha256": "f4124446ad5693c36f0c91156941d7e5b637c85d67673c82b71ce44f89594602"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2459-2.json.gz",
+          "sha256": "a01a50ba57a946a4b649845e4186f244910a17236b15a3b8051fc57f08c2402c"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2459/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2459-3.json.gz",
-          "sha256": "ce49ec4322d0472cff40f2ec19074a1a05fd2496de815bc4efd01becb34062fe"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2459-3.json.gz",
+          "sha256": "6de78015124f088d4e2037a6c7243a836108499694fe21d37cd29ae7238bae2e"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2483/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2483-2.json.gz",
-          "sha256": "c7ec716185ef940506619382716ea236ca89aa9e399c7068d0ce2e87f9547a19"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2483-2.json.gz",
+          "sha256": "46c832b2b534e263ac0fa93a5954342f0c5cad50b3488e7c5870708387486048"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2483/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2483-3.json.gz",
-          "sha256": "6f33b03992cccf172a106e8d57a6f4aefd5c83de51fc60a3e241d82800d9c685"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2483-3.json.gz",
+          "sha256": "f5253500a2d2fbcd3da49d684b6b2d481ef20c5bbd42bbead48f3d0ed89178cf"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2509/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2509-2.json.gz",
-          "sha256": "38d277d42a354f0964483196ea83d95e8aaec5c57bd893fa8b6d3125c88ee98a"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2509-2.json.gz",
+          "sha256": "4063c5c1f6d32f0dd28287b8b795db24e4623acd39ee84e54a596fa72be59a6d"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2509/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2509-3.json.gz",
-          "sha256": "9f46ab3ec089c5d2572cea953b99fc5fdcc154bb75996186d96f641c20e7f6ec"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2509-3.json.gz",
+          "sha256": "b2047d62c4367c0b1554bbcd40c12b43409b5c43252543ca325d83165697ca20"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2534/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2534-2.json.gz",
-          "sha256": "03ddd97900410b8879ce8700e4eac6d6de05a0dfa64ca53e7dc3dd20c0e0ff5f"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2534-2.json.gz",
+          "sha256": "a25564e826c9d575a9e9935b88625de11394ff530199eedf839cd70bd0789f0c"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2534/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2534-3.json.gz",
-          "sha256": "9a6ec218928053ab4211b9193adb023b9428bd2bce2c9e4d30f4980e5dbb48b9"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2534-3.json.gz",
+          "sha256": "fc97ccbf75d95cb2fceb02251e66d043c864079b1a927d8a0527446148f5e8fd"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2567/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2567-2.json.gz",
-          "sha256": "bd3eb120a80f5e9c3ed1c0d9a83470695b05c02b47b053230fd044024a3dce46"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2567-2.json.gz",
+          "sha256": "3837e15160447cbcf99453d30b85c03590693c3c037f23fb5e0dcb741ab31581"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2567/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2567-3.json.gz",
-          "sha256": "ff08e98396009f7f51794d3ad40a8332d94658689cfe6d47ca84b4e1e7eb537c"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2567-3.json.gz",
+          "sha256": "fd45c299204fdcf0dbae87da835f69cb263cf521e7f021b1912145835e50dea3"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2572/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2572-2.json.gz",
-          "sha256": "4a5b04f88b9cab88073a8fb504f0e2fdc8976a733b656a6692da45a95cbac0f6"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2572-2.json.gz",
+          "sha256": "844478ff30a578abbbdad9eb9612043a1199a400cfc381afb90459e89f2bc048"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2572/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2572-3.json.gz",
-          "sha256": "c2bc8f9bc8f75f85ca5cec4119e5d850b46a375af1010233831febaf6f83f7c8"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2572-3.json.gz",
+          "sha256": "f4b466a3f4be70aa8341a21fc986aa3d52f5eb3373f9d5605a63f125d46242f0"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2579/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2579-2.json.gz",
-          "sha256": "b53b5f39afd5dcc794d4b38477cb026318c048644b7686660ac8bf3b2bc8b605"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2579-2.json.gz",
+          "sha256": "e3016e4350625c69ff2929dfc7856ea225f9f360f9cd3a51cf37514fb6b70fa6"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2579/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2579-3.json.gz",
-          "sha256": "88fbc9b925122396717d69bd5cde8b4e6cb061892addd13f04cc82c31ab1b785"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2579-3.json.gz",
+          "sha256": "0187f759e7823a840b93e8a59603d4353a4b822a5292a1aec8752c1046c9e4d6"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2623/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2623-2.json.gz",
-          "sha256": "20cd4b481bab0c2d16005d811e51ae854f1dc9e78a65440dcf5b426c8496e4f5"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2623-2.json.gz",
+          "sha256": "43086de5f2edd7b7b4e440cd98b814207705faa8fd99c078f7b7dccc52c6e9ec"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2623/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2623-3.json.gz",
-          "sha256": "fae4095b4867149e82c9a7c521a8c95b9cf0825e3318e72d8fbe23c2f7064cec"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2623-3.json.gz",
+          "sha256": "3f58c1226cac2f5f0a3907116a54f7bbd22d3a22221ff1599dec46d3ba689356"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2628/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2628-2.json.gz",
-          "sha256": "10e613fa37b892896fea7cd655ea70865cc9ef88f235d45ff306962e020618b4"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2628-2.json.gz",
+          "sha256": "7a62227265d307922ca2bb5ca36bf571d235d9e42e371c26d697f19aeae015fe"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2628/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2628-3.json.gz",
-          "sha256": "826b4de069152454bea0f6554fa63d5a933a90e1cc065357e5e9aadb27083e97"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2628-3.json.gz",
+          "sha256": "ea10fb0f9d2b638f8b84516425ddc92fcec2dd85d091dc2998b978e1cc7a62f4"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2633/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2633-2.json.gz",
-          "sha256": "74587bdaa1081010b43385dff68d17e69abf52b0fe246331dbe0208aeb9ee938"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2633-2.json.gz",
+          "sha256": "030b12d8be77574a3149ab885161639cd68aff14638742434b437698bb42c9d3"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2633/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2633-3.json.gz",
-          "sha256": "037576a944c12ad7e0443e378e344cb24e0f9925eac78c06744ed5c00f29be28"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2633-3.json.gz",
+          "sha256": "5857523fa71829d7564db025674fec98ebef58d219d434d007e8fd9d13eebbb1"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2636/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2636-2.json.gz",
-          "sha256": "99582ee404723d876ac6bd94e15fadc5a7b200792e1cc1bbe52fb2b30fa8f9f1"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2636-2.json.gz",
+          "sha256": "7d7f2cb0edc7bc1773b41ee0a2222ff6b298311c30c45c0daf1f36362adccf0b"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2636/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2636-3.json.gz",
-          "sha256": "9a29550f963c38b1c4c6e6664466620ea80b1f98096ff84f24610d30588a2002"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2636-3.json.gz",
+          "sha256": "55309c864fe83db48b249a16157d25cdf6ba25b6f964efad7432dbb24e2c5d7b"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2638/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2638-2.json.gz",
-          "sha256": "f6e5af0be2f3ec4be0dc7e798472eee21a778e53eb30f426c1a3dc10c4e139cd"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2638-2.json.gz",
+          "sha256": "f3b43827234f6afe37633275354548508bb9d740931790ffc9e09397464ca7d3"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2638/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2638-3.json.gz",
-          "sha256": "5f2dbe5a5cf00ff8d103b2112e1c5eaddd3970cbe08356c622cfbb0d89a12394"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2638-3.json.gz",
+          "sha256": "b917bb2f1a686f3e180db4ab9b56c29e805a0c935afd3f2cffa67922a618f74f"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2641/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2641-2.json.gz",
-          "sha256": "8cb784799fe8ba9e4cd3da422902474ea4c922a71f844be610adadc78791186a"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2641-2.json.gz",
+          "sha256": "58449206000c3faa8a57f804a30d644188b31a2b453c1bea8687759c155e4af4"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2641/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2641-3.json.gz",
-          "sha256": "dbec83df3cd215fa565d5dc306514f71117fcd2ce9c849a28d530f69577cdffb"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2641-3.json.gz",
+          "sha256": "11abd3d38c66e7b2caaa0c241b15432553aeb39bd591b509c455a151e43ef3fc"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2649/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2649-2.json.gz",
-          "sha256": "c77d14ef6d0170c44263052e59b2c758411c6d785dcb592169a864ca0988ac21"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2649-2.json.gz",
+          "sha256": "d233c5d3d38d3bd2230b6662659066bed5e2478de3948219d3bf80f14e4b69ec"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2649/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2649-3.json.gz",
-          "sha256": "beb7f466adffb84c09e033a01de6ac5a41b01253ab6bb6478c93047be1c8f121"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2649-3.json.gz",
+          "sha256": "8aa7c86a5de803806ee80f921469279f5dd5562d92a235971ea86fe39d5c554e"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2653/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2653-2.json.gz",
-          "sha256": "7925431f208f9ec2d18f32ba479cd03b6406f729b2cf39dea5f191e5c40c0b85"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2653-2.json.gz",
+          "sha256": "226025ceb7675ce5395da9aec4fd4fff5f0923602ef5d6aaf53c16e0ebcaf67f"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2653/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2653-3.json.gz",
-          "sha256": "32f32ea366a21adb9bb6c79ab4b16f0ecd9715d954537e11cf3128144faa9aff"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2653-3.json.gz",
+          "sha256": "8e0f4849affb537d5e042143aad85672ceb5c09ab65f080777c07de0c6552f9b"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2655/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2655-2.json.gz",
-          "sha256": "a59f8a0516ca94d55f8a5b1c2e2a34feef4f9cb857ceaa2f4b28dde6f03d90ed"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2655-2.json.gz",
+          "sha256": "a184a9a167091aa10f19e7a9e644d7519f5a23641531d8908ad6618daf9553eb"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2655/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2655-3.json.gz",
-          "sha256": "049cf66b2263cfe7a5d40612c366dcb81c75fbda7ac3cb040a9e15cbe4a6f083"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2655-3.json.gz",
+          "sha256": "1774f58a96736d94e6677b190fbb45943d019eb753179004c70121d2236e9ff3"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2711/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2711-2.json.gz",
-          "sha256": "d08e2932b77c3a0c07063c89def7f6141e943ad7df120d4d5570b9dd143589e9"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2711-2.json.gz",
+          "sha256": "e19990a9efc12d7ca73afe12a2a05fc619219445b265010fcc7a03b053815a12"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2711/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2711-3.json.gz",
-          "sha256": "72634a7587b16645c2a6d6a8e78d87c77634e110255b3cc31889d7470df628f2"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2711-3.json.gz",
+          "sha256": "d5303d242ecc67abc9209bbcc2f730d073c9800987745b7c0ac1e1f81128e7af"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2751/schedule?season=2026&seasontype=2",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2751-2.json.gz",
-          "sha256": "587b3da68b9ed88f025aaab7b738ad5804c810e977c59582116f7817127d6cb8"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2751-2.json.gz",
+          "sha256": "55ef64a761d5df21ddc3692ded6971bf8cca11cadf091ce3ed1aadc92614abde"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/teams/2751/schedule?season=2026&seasontype=3",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/team-2751-3.json.gz",
-          "sha256": "cdde1fb25b9fc382ab122f2678c5b596de558087182660546ecb81755ecf4807"
-        },
-        {
-          "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261103&groups=80&limit=500",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/scores-20261103-80.json.gz",
-          "sha256": "f4ed06987a87a07cd596e02fd61bdec68db8b0e96a1491a4adda31855ec1fc15"
-        },
-        {
-          "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261103&groups=81&limit=500",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/scores-20261103-81.json.gz",
-          "sha256": "f43b6528022d66a3f8cea4b0d955e1c6d1cd83cb79e15a353ada3fe532d2f53b"
-        },
-        {
-          "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261103&groups=35&limit=500",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/scores-20261103-35.json.gz",
-          "sha256": "de4188a45bee1dd21c35a580e730e08c7806ecd9df55ec01d7b134cf801a5dff"
-        },
-        {
-          "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261103&groups=37&limit=500",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/scores-20261103-37.json.gz",
-          "sha256": "7aaaee26096a4bdf756fb276db742baefcfef0ab895cbe7d187e99d75553adf5"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/team-2751-3.json.gz",
+          "sha256": "db23b697690f2f1e88164d7b8102228741d783a4648286cf8e0b9a08f63ebe18"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261104&groups=80&limit=500",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/scores-20261104-80.json.gz",
+          "file": "data/sources/imperialism/updates/20261107T180345Z/scores-20261104-80.json.gz",
           "sha256": "f5e11cfaaca1bf2f53c2adff35bc5e960dbecfec6cad953cdb836f7d1d8f09ed"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261104&groups=81&limit=500",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/scores-20261104-81.json.gz",
+          "file": "data/sources/imperialism/updates/20261107T180345Z/scores-20261104-81.json.gz",
           "sha256": "f43b6528022d66a3f8cea4b0d955e1c6d1cd83cb79e15a353ada3fe532d2f53b"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261104&groups=35&limit=500",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/scores-20261104-35.json.gz",
+          "file": "data/sources/imperialism/updates/20261107T180345Z/scores-20261104-35.json.gz",
           "sha256": "de4188a45bee1dd21c35a580e730e08c7806ecd9df55ec01d7b134cf801a5dff"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261104&groups=37&limit=500",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/scores-20261104-37.json.gz",
+          "file": "data/sources/imperialism/updates/20261107T180345Z/scores-20261104-37.json.gz",
           "sha256": "7aaaee26096a4bdf756fb276db742baefcfef0ab895cbe7d187e99d75553adf5"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261105&groups=80&limit=500",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/scores-20261105-80.json.gz",
+          "file": "data/sources/imperialism/updates/20261107T180345Z/scores-20261105-80.json.gz",
           "sha256": "5cbb1f2a44d337a304cfb0325d126770159b8e46c4e170e88ae6a77f4433b983"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261105&groups=81&limit=500",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/scores-20261105-81.json.gz",
+          "file": "data/sources/imperialism/updates/20261107T180345Z/scores-20261105-81.json.gz",
           "sha256": "7721310a9704fe2950f9e448f4ea058dd09fde36cccb6a499ee7bf820fe54501"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261105&groups=35&limit=500",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/scores-20261105-35.json.gz",
+          "file": "data/sources/imperialism/updates/20261107T180345Z/scores-20261105-35.json.gz",
           "sha256": "de4188a45bee1dd21c35a580e730e08c7806ecd9df55ec01d7b134cf801a5dff"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261105&groups=37&limit=500",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/scores-20261105-37.json.gz",
-          "sha256": "74d3ea718bd942f91427faac7631bd204cbb268c536736689ffc3a52b1d46e16"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/scores-20261105-37.json.gz",
+          "sha256": "4a2cd0fd815555220ab2de40708d25bffbe938e5a1f301cb5dad79f9b78b0081"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261106&groups=80&limit=500",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/scores-20261106-80.json.gz",
-          "sha256": "c812524cf9beb67b980367fc987c4f799f73eb1a3fd3e0f78f4083c2ee5a900b"
+          "file": "data/sources/imperialism/updates/20261107T180345Z/scores-20261106-80.json.gz",
+          "sha256": "9a95a5a7b778ae5aa8d69fac6855695245b7bead3f6ce85873c9880aa901ecc2"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261106&groups=81&limit=500",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/scores-20261106-81.json.gz",
+          "file": "data/sources/imperialism/updates/20261107T180345Z/scores-20261106-81.json.gz",
           "sha256": "f43b6528022d66a3f8cea4b0d955e1c6d1cd83cb79e15a353ada3fe532d2f53b"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261106&groups=35&limit=500",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/scores-20261106-35.json.gz",
+          "file": "data/sources/imperialism/updates/20261107T180345Z/scores-20261106-35.json.gz",
           "sha256": "de4188a45bee1dd21c35a580e730e08c7806ecd9df55ec01d7b134cf801a5dff"
         },
         {
           "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261106&groups=37&limit=500",
-          "file": "data/sources/imperialism/updates/20261106T195756Z/scores-20261106-37.json.gz",
+          "file": "data/sources/imperialism/updates/20261107T180345Z/scores-20261106-37.json.gz",
           "sha256": "7aaaee26096a4bdf756fb276db742baefcfef0ab895cbe7d187e99d75553adf5"
+        },
+        {
+          "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261107&groups=80&limit=500",
+          "file": "data/sources/imperialism/updates/20261107T180345Z/scores-20261107-80.json.gz",
+          "sha256": "cb069a8c4a2d2364f1672864c5c143a749229f183e01f30362a6c242170710af"
+        },
+        {
+          "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261107&groups=81&limit=500",
+          "file": "data/sources/imperialism/updates/20261107T180345Z/scores-20261107-81.json.gz",
+          "sha256": "7152b9fa5dbc943dc75d39e816a1c9dd9773a0616d8806de51191991b39e9366"
+        },
+        {
+          "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261107&groups=35&limit=500",
+          "file": "data/sources/imperialism/updates/20261107T180345Z/scores-20261107-35.json.gz",
+          "sha256": "daeef57d22b823e271c2fc07c72a7d178c480cd021e4bafbda93082393ccd99e"
+        },
+        {
+          "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261107&groups=37&limit=500",
+          "file": "data/sources/imperialism/updates/20261107T180345Z/scores-20261107-37.json.gz",
+          "sha256": "93e6bc42d0da3de1590d390074c72569b3d75f0a0dd3d4d75ec88a7c7615854c"
         }
       ]
     }

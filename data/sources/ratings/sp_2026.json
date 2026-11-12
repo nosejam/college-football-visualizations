@@ -2,20 +2,20 @@
   "schema": 1,
   "source": "CFBD /ratings/sp",
   "season": 2026,
-  "retrieved_at": "2026-11-05T20:41:12.649974+00:00",
+  "retrieved_at": "2026-11-12T20:50:35.288188+00:00",
   "scale": {
     "unit": "points relative to an average FBS team on a neutral field",
     "verified": true,
     "source": "https://www.espn.com/college-football/story/_/id/45842676/college-football-2025-breakthrough-bounce-back-teams"
   },
   "ratings": {
-    "194": {
-      "rating": 28.6,
-      "source_team": "Ohio State",
+    "61": {
+      "rating": 31.3,
+      "source_team": "Georgia",
       "ranking": 1,
       "offense": {
         "ranking": 4,
-        "rating": 39.2,
+        "rating": 40.5,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -27,7 +27,7 @@
       },
       "defense": {
         "ranking": 1,
-        "rating": 10.7,
+        "rating": 9.4,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -41,85 +41,15 @@
         }
       },
       "specialTeams": {
-        "rating": 0.1
-      }
-    },
-    "61": {
-      "rating": 27.1,
-      "source_team": "Georgia",
-      "ranking": 2,
-      "offense": {
-        "ranking": 2,
-        "rating": 39.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 4,
-        "rating": 12.9,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.4
-      }
-    },
-    "99": {
-      "rating": 25.2,
-      "source_team": "LSU",
-      "ranking": 3,
-      "offense": {
-        "ranking": 5,
-        "rating": 38.8,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 5,
-        "rating": 13.3,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.3
+        "rating": 0.3
       }
     },
     "87": {
-      "rating": 25.2,
+      "rating": 24.4,
       "source_team": "Notre Dame",
-      "ranking": 3,
+      "ranking": 2,
       "offense": {
-        "ranking": 3,
+        "ranking": 5,
         "rating": 39.5,
         "success": null,
         "explosiveness": null,
@@ -131,8 +61,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 8,
-        "rating": 14.7,
+        "ranking": 15,
+        "rating": 15.6,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -146,16 +76,16 @@
         }
       },
       "specialTeams": {
-        "rating": 0.4
+        "rating": 0.5
       }
     },
-    "2390": {
-      "rating": 24.7,
-      "source_team": "Miami",
-      "ranking": 5,
+    "194": {
+      "rating": 24,
+      "source_team": "Ohio State",
+      "ranking": 3,
       "offense": {
-        "ranking": 1,
-        "rating": 40.9,
+        "ranking": 11,
+        "rating": 37.6,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -166,8 +96,43 @@
         "pace": null
       },
       "defense": {
-        "ranking": 14,
-        "rating": 16.6,
+        "ranking": 8,
+        "rating": 13.9,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.3
+      }
+    },
+    "2390": {
+      "rating": 24,
+      "source_team": "Miami",
+      "ranking": 3,
+      "offense": {
+        "ranking": 1,
+        "rating": 42.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 25,
+        "rating": 18.9,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -185,12 +150,12 @@
       }
     },
     "84": {
-      "rating": 24.2,
+      "rating": 23.5,
       "source_team": "Indiana",
-      "ranking": 6,
+      "ranking": 5,
       "offense": {
-        "ranking": 15,
-        "rating": 35.1,
+        "ranking": 27,
+        "rating": 33.6,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -202,7 +167,7 @@
       },
       "defense": {
         "ranking": 2,
-        "rating": 10.9,
+        "rating": 10,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -216,51 +181,16 @@
         }
       },
       "specialTeams": {
-        "rating": 0
-      }
-    },
-    "333": {
-      "rating": 20.9,
-      "source_team": "Alabama",
-      "ranking": 7,
-      "offense": {
-        "ranking": 7,
-        "rating": 37.2,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 14,
-        "rating": 16.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.3
+        "rating": -0.2
       }
     },
     "251": {
-      "rating": 20.4,
+      "rating": 23.5,
       "source_team": "Texas",
-      "ranking": 8,
+      "ranking": 5,
       "offense": {
-        "ranking": 16,
-        "rating": 34.6,
+        "ranking": 21,
+        "rating": 35.2,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -271,8 +201,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 7,
-        "rating": 14.5,
+        "ranking": 4,
+        "rating": 12.1,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -286,16 +216,16 @@
         }
       },
       "specialTeams": {
-        "rating": 0.3
+        "rating": 0.4
       }
     },
-    "2641": {
-      "rating": 18.4,
-      "source_team": "Texas Tech",
-      "ranking": 9,
+    "99": {
+      "rating": 22.9,
+      "source_team": "LSU",
+      "ranking": 7,
       "offense": {
-        "ranking": 10,
-        "rating": 36.2,
+        "ranking": 12,
+        "rating": 37.4,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -306,8 +236,43 @@
         "pace": null
       },
       "defense": {
-        "ranking": 23,
-        "rating": 18.2,
+        "ranking": 9,
+        "rating": 14,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.5
+      }
+    },
+    "333": {
+      "rating": 22.7,
+      "source_team": "Alabama",
+      "ranking": 8,
+      "offense": {
+        "ranking": 10,
+        "rating": 37.9,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 16,
+        "rating": 15.7,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -325,257 +290,12 @@
       }
     },
     "254": {
-      "rating": 18,
+      "rating": 21.5,
       "source_team": "Utah",
-      "ranking": 10,
+      "ranking": 9,
       "offense": {
-        "ranking": 13,
-        "rating": 35.7,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 22,
-        "rating": 17.7,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.1
-      }
-    },
-    "2633": {
-      "rating": 17.9,
-      "source_team": "Tennessee",
-      "ranking": 11,
-      "offense": {
-        "ranking": 17,
-        "rating": 34.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 18,
-        "rating": 16.9,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.5
-      }
-    },
-    "2483": {
-      "rating": 17,
-      "source_team": "Oregon",
-      "ranking": 12,
-      "offense": {
-        "ranking": 28,
-        "rating": 33.2,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 11,
-        "rating": 16.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.2
-      }
-    },
-    "252": {
-      "rating": 16.7,
-      "source_team": "BYU",
-      "ranking": 13,
-      "offense": {
-        "ranking": 20,
-        "rating": 33.9,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 20,
-        "rating": 17.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.4
-      }
-    },
-    "12": {
-      "rating": 16,
-      "source_team": "Arizona",
-      "ranking": 14,
-      "offense": {
-        "ranking": 14,
-        "rating": 35.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 24,
-        "rating": 19,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.4
-      }
-    },
-    "158": {
-      "rating": 15.4,
-      "source_team": "Nebraska",
-      "ranking": 15,
-      "offense": {
-        "ranking": 34,
-        "rating": 32.2,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 16,
-        "rating": 16.7,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.1
-      }
-    },
-    "145": {
-      "rating": 14.7,
-      "source_team": "Ole Miss",
-      "ranking": 16,
-      "offense": {
-        "ranking": 7,
-        "rating": 37.2,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 48,
-        "rating": 23.2,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.7
-      }
-    },
-    "26": {
-      "rating": 14.4,
-      "source_team": "UCLA",
-      "ranking": 17,
-      "offense": {
-        "ranking": 38,
-        "rating": 31.5,
+        "ranking": 6,
+        "rating": 38.8,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -601,226 +321,16 @@
         }
       },
       "specialTeams": {
-        "rating": -0.1
-      }
-    },
-    "142": {
-      "rating": 14.2,
-      "source_team": "Missouri",
-      "ranking": 18,
-      "offense": {
-        "ranking": 42,
-        "rating": 30.9,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 11,
-        "rating": 16.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
         "rating": -0.2
       }
     },
-    "30": {
-      "rating": 14.2,
-      "source_team": "USC",
-      "ranking": 18,
+    "2633": {
+      "rating": 20.5,
+      "source_team": "Tennessee",
+      "ranking": 10,
       "offense": {
-        "ranking": 9,
-        "rating": 36.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 39,
-        "rating": 22.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.1
-      }
-    },
-    "77": {
-      "rating": 13.7,
-      "source_team": "Northwestern",
-      "ranking": 20,
-      "offense": {
-        "ranking": 31,
-        "rating": 32.8,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 26,
-        "rating": 19.1,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0
-      }
-    },
-    "2567": {
-      "rating": 13.4,
-      "source_team": "SMU",
-      "ranking": 21,
-      "offense": {
-        "ranking": 19,
-        "rating": 34.1,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 31,
-        "rating": 20.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.4
-      }
-    },
-    "248": {
-      "rating": 13.3,
-      "source_team": "Houston",
-      "ranking": 22,
-      "offense": {
-        "ranking": 11,
-        "rating": 36.1,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 45,
-        "rating": 23,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.2
-      }
-    },
-    "197": {
-      "rating": 12.4,
-      "source_team": "Oklahoma State",
-      "ranking": 23,
-      "offense": {
-        "ranking": 11,
-        "rating": 36.1,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 52,
-        "rating": 24.1,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.4
-      }
-    },
-    "2294": {
-      "rating": 12.4,
-      "source_team": "Iowa",
-      "ranking": 23,
-      "offense": {
-        "ranking": 62,
-        "rating": 27.3,
+        "ranking": 22,
+        "rating": 34.9,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -832,7 +342,7 @@
       },
       "defense": {
         "ranking": 10,
-        "rating": 15.3,
+        "rating": 15,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -846,16 +356,16 @@
         }
       },
       "specialTeams": {
-        "rating": 0.4
+        "rating": 0.6
       }
     },
-    "97": {
-      "rating": 12.2,
-      "source_team": "Louisville",
-      "ranking": 25,
+    "26": {
+      "rating": 20.2,
+      "source_team": "UCLA",
+      "ranking": 11,
       "offense": {
-        "ranking": 6,
-        "rating": 37.7,
+        "ranking": 29,
+        "rating": 33.3,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -866,8 +376,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 61,
-        "rating": 25.4,
+        "ranking": 6,
+        "rating": 13,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -885,12 +395,12 @@
       }
     },
     "154": {
-      "rating": 12.2,
+      "rating": 20,
       "source_team": "Wake Forest",
-      "ranking": 25,
+      "ranking": 12,
       "offense": {
-        "ranking": 29,
-        "rating": 33.1,
+        "ranking": 12,
+        "rating": 37.4,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -901,78 +411,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 35,
-        "rating": 21.3,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.3
-      }
-    },
-    "130": {
-      "rating": 11.5,
-      "source_team": "Michigan",
-      "ranking": 27,
-      "offense": {
-        "ranking": 86,
-        "rating": 24.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 3,
-        "rating": 12.7,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.2
-      }
-    },
-    "2579": {
-      "rating": 11,
-      "source_team": "South Carolina",
-      "ranking": 28,
-      "offense": {
         "ranking": 23,
-        "rating": 33.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 47,
-        "rating": 23.1,
+        "rating": 17.9,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -989,13 +429,13 @@
         "rating": 0.5
       }
     },
-    "256": {
-      "rating": 10.9,
-      "source_team": "James Madison",
-      "ranking": 29,
+    "2641": {
+      "rating": 18.1,
+      "source_team": "Texas Tech",
+      "ranking": 13,
       "offense": {
-        "ranking": 33,
-        "rating": 32.5,
+        "ranking": 8,
+        "rating": 38.4,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -1007,112 +447,7 @@
       },
       "defense": {
         "ranking": 37,
-        "rating": 21.7,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.1
-      }
-    },
-    "68": {
-      "rating": 10.9,
-      "source_team": "Boise State",
-      "ranking": 29,
-      "offense": {
-        "ranking": 18,
-        "rating": 34.2,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 51,
-        "rating": 23.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.3
-      }
-    },
-    "96": {
-      "rating": 10.6,
-      "source_team": "Kentucky",
-      "ranking": 31,
-      "offense": {
-        "ranking": 27,
-        "rating": 33.3,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 38,
-        "rating": 22.3,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.3
-      }
-    },
-    "57": {
-      "rating": 10.6,
-      "source_team": "Florida",
-      "ranking": 31,
-      "offense": {
-        "ranking": 24,
-        "rating": 33.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 50,
-        "rating": 23.5,
+        "rating": 20.9,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -1129,13 +464,13 @@
         "rating": 0.6
       }
     },
-    "201": {
-      "rating": 10.3,
-      "source_team": "Oklahoma",
-      "ranking": 33,
+    "97": {
+      "rating": 17.7,
+      "source_team": "Louisville",
+      "ranking": 14,
       "offense": {
-        "ranking": 88,
-        "rating": 24.3,
+        "ranking": 2,
+        "rating": 41.5,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -1146,8 +481,288 @@
         "pace": null
       },
       "defense": {
-        "ranking": 6,
-        "rating": 14.2,
+        "ranking": 48,
+        "rating": 23.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.2
+      }
+    },
+    "2483": {
+      "rating": 16.9,
+      "source_team": "Oregon",
+      "ranking": 15,
+      "offense": {
+        "ranking": 24,
+        "rating": 34.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 22,
+        "rating": 17.8,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.3
+      }
+    },
+    "2294": {
+      "rating": 16.4,
+      "source_team": "Iowa",
+      "ranking": 16,
+      "offense": {
+        "ranking": 57,
+        "rating": 28.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 5,
+        "rating": 12.7,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.6
+      }
+    },
+    "252": {
+      "rating": 16.2,
+      "source_team": "BYU",
+      "ranking": 17,
+      "offense": {
+        "ranking": 32,
+        "rating": 33.1,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 20,
+        "rating": 17.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.6
+      }
+    },
+    "2567": {
+      "rating": 15.8,
+      "source_team": "SMU",
+      "ranking": 18,
+      "offense": {
+        "ranking": 16,
+        "rating": 36.7,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 35,
+        "rating": 20.7,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.3
+      }
+    },
+    "30": {
+      "rating": 15.8,
+      "source_team": "USC",
+      "ranking": 18,
+      "offense": {
+        "ranking": 15,
+        "rating": 37,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 39,
+        "rating": 21.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.1
+      }
+    },
+    "197": {
+      "rating": 15.5,
+      "source_team": "Oklahoma State",
+      "ranking": 20,
+      "offense": {
+        "ranking": 3,
+        "rating": 40.6,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 64,
+        "rating": 25.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.3
+      }
+    },
+    "12": {
+      "rating": 15.4,
+      "source_team": "Arizona",
+      "ranking": 21,
+      "offense": {
+        "ranking": 19,
+        "rating": 35.8,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 33,
+        "rating": 20.1,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.3
+      }
+    },
+    "2335": {
+      "rating": 15,
+      "source_team": "Liberty",
+      "ranking": 22,
+      "offense": {
+        "ranking": 33,
+        "rating": 32.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 21,
+        "rating": 17.6,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -1164,13 +779,13 @@
         "rating": 0.2
       }
     },
-    "245": {
-      "rating": 9.7,
-      "source_team": "Texas A&M",
-      "ranking": 34,
+    "158": {
+      "rating": 14.4,
+      "source_team": "Nebraska",
+      "ranking": 23,
       "offense": {
-        "ranking": 44,
-        "rating": 30.1,
+        "ranking": 45,
+        "rating": 30,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -1181,8 +796,78 @@
         "pace": null
       },
       "defense": {
-        "ranking": 33,
-        "rating": 20.8,
+        "ranking": 11,
+        "rating": 15.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.3
+      }
+    },
+    "167": {
+      "rating": 14.4,
+      "source_team": "New Mexico",
+      "ranking": 23,
+      "offense": {
+        "ranking": 58,
+        "rating": 28.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 7,
+        "rating": 13.7,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.3
+      }
+    },
+    "248": {
+      "rating": 14.1,
+      "source_team": "Houston",
+      "ranking": 25,
+      "offense": {
+        "ranking": 14,
+        "rating": 37.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 45,
+        "rating": 23.4,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -1199,13 +884,48 @@
         "rating": 0.4
       }
     },
-    "264": {
-      "rating": 9.5,
-      "source_team": "Washington",
-      "ranking": 35,
+    "68": {
+      "rating": 13.8,
+      "source_team": "Boise State",
+      "ranking": 26,
       "offense": {
-        "ranking": 49,
-        "rating": 29.7,
+        "ranking": 7,
+        "rating": 38.7,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 64,
+        "rating": 25.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.4
+      }
+    },
+    "256": {
+      "rating": 13.8,
+      "source_team": "James Madison",
+      "ranking": 26,
+      "offense": {
+        "ranking": 28,
+        "rating": 33.4,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -1217,7 +937,357 @@
       },
       "defense": {
         "ranking": 30,
-        "rating": 20.2,
+        "rating": 19.9,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.3
+      }
+    },
+    "142": {
+      "rating": 13.7,
+      "source_team": "Missouri",
+      "ranking": 28,
+      "offense": {
+        "ranking": 44,
+        "rating": 30.1,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 18,
+        "rating": 16.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.1
+      }
+    },
+    "2579": {
+      "rating": 13.7,
+      "source_team": "South Carolina",
+      "ranking": 28,
+      "offense": {
+        "ranking": 25,
+        "rating": 34,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 36,
+        "rating": 20.8,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.5
+      }
+    },
+    "145": {
+      "rating": 13.5,
+      "source_team": "Ole Miss",
+      "ranking": 30,
+      "offense": {
+        "ranking": 17,
+        "rating": 36.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 48,
+        "rating": 23.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.7
+      }
+    },
+    "239": {
+      "rating": 13.3,
+      "source_team": "Baylor",
+      "ranking": 31,
+      "offense": {
+        "ranking": 39,
+        "rating": 31.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 24,
+        "rating": 18.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.3
+      }
+    },
+    "150": {
+      "rating": 13,
+      "source_team": "Duke",
+      "ranking": 32,
+      "offense": {
+        "ranking": 35,
+        "rating": 32.1,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 26,
+        "rating": 19,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.1
+      }
+    },
+    "77": {
+      "rating": 12.4,
+      "source_team": "Northwestern",
+      "ranking": 33,
+      "offense": {
+        "ranking": 33,
+        "rating": 32.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 30,
+        "rating": 19.9,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.1
+      }
+    },
+    "2449": {
+      "rating": 10.7,
+      "source_team": "North Dakota State",
+      "ranking": 34,
+      "offense": {
+        "ranking": 72,
+        "rating": 26.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 14,
+        "rating": 15.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0
+      }
+    },
+    "221": {
+      "rating": 10.2,
+      "source_team": "Pittsburgh",
+      "ranking": 35,
+      "offense": {
+        "ranking": 43,
+        "rating": 30.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 34,
+        "rating": 20.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.4
+      }
+    },
+    "130": {
+      "rating": 10,
+      "source_team": "Michigan",
+      "ranking": 36,
+      "offense": {
+        "ranking": 99,
+        "rating": 22.1,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 3,
+        "rating": 11.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.6
+      }
+    },
+    "235": {
+      "rating": 9.6,
+      "source_team": "Memphis",
+      "ranking": 37,
+      "offense": {
+        "ranking": 19,
+        "rating": 35.8,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 70,
+        "rating": 26.2,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -1237,10 +1307,10 @@
     "213": {
       "rating": 9.3,
       "source_team": "Penn State",
-      "ranking": 36,
+      "ranking": 38,
       "offense": {
-        "ranking": 53,
-        "rating": 28.9,
+        "ranking": 54,
+        "rating": 28.7,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -1252,7 +1322,7 @@
       },
       "defense": {
         "ranking": 27,
-        "rating": 19.8,
+        "rating": 19.1,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -1266,86 +1336,16 @@
         }
       },
       "specialTeams": {
-        "rating": 0.2
+        "rating": -0.3
       }
     },
-    "167": {
-      "rating": 9.3,
-      "source_team": "New Mexico",
-      "ranking": 36,
-      "offense": {
-        "ranking": 68,
-        "rating": 26.8,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 20,
-        "rating": 17.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0
-      }
-    },
-    "259": {
-      "rating": 9,
-      "source_team": "Virginia Tech",
-      "ranking": 38,
-      "offense": {
-        "ranking": 40,
-        "rating": 31.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 39,
-        "rating": 22.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.1
-      }
-    },
-    "2306": {
-      "rating": 8.8,
-      "source_team": "Kansas State",
+    "275": {
+      "rating": 9.1,
+      "source_team": "Wisconsin",
       "ranking": 39,
       "offense": {
-        "ranking": 40,
-        "rating": 31.4,
+        "ranking": 89,
+        "rating": 24.1,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -1356,8 +1356,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 45,
-        "rating": 23,
+        "ranking": 13,
+        "rating": 15.3,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -1374,118 +1374,13 @@
         "rating": 0.4
       }
     },
-    "275": {
-      "rating": 8.7,
-      "source_team": "Wisconsin",
+    "264": {
+      "rating": 8.9,
+      "source_team": "Washington",
       "ranking": 40,
       "offense": {
-        "ranking": 93,
-        "rating": 23.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 9,
-        "rating": 15.1,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.2
-      }
-    },
-    "2628": {
-      "rating": 8.6,
-      "source_team": "TCU",
-      "ranking": 41,
-      "offense": {
-        "ranking": 83,
-        "rating": 25.3,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 11,
-        "rating": 16.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.1
-      }
-    },
-    "2449": {
-      "rating": 8.6,
-      "source_team": "North Dakota State",
-      "ranking": 41,
-      "offense": {
-        "ranking": 81,
-        "rating": 25.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 17,
-        "rating": 16.8,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0
-      }
-    },
-    "239": {
-      "rating": 8.5,
-      "source_team": "Baylor",
-      "ranking": 43,
-      "offense": {
-        "ranking": 59,
-        "rating": 28,
+        "ranking": 58,
+        "rating": 28.4,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -1497,42 +1392,7 @@
       },
       "defense": {
         "ranking": 29,
-        "rating": 20,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.4
-      }
-    },
-    "221": {
-      "rating": 7.9,
-      "source_team": "Pittsburgh",
-      "ranking": 44,
-      "offense": {
-        "ranking": 46,
-        "rating": 30,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 39,
-        "rating": 22.4,
+        "rating": 19.7,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -1549,115 +1409,10 @@
         "rating": 0.3
       }
     },
-    "2335": {
-      "rating": 7.5,
-      "source_team": "Liberty",
-      "ranking": 45,
-      "offense": {
-        "ranking": 56,
-        "rating": 28.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 34,
-        "rating": 21,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0
-      }
-    },
-    "235": {
-      "rating": 7,
-      "source_team": "Memphis",
-      "ranking": 46,
-      "offense": {
-        "ranking": 21,
-        "rating": 33.8,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 72,
-        "rating": 26.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.1
-      }
-    },
-    "150": {
-      "rating": 6.8,
-      "source_team": "Duke",
-      "ranking": 47,
-      "offense": {
-        "ranking": 49,
-        "rating": 29.7,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 44,
-        "rating": 22.9,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0
-      }
-    },
-    "356": {
-      "rating": 6.8,
-      "source_team": "Illinois",
-      "ranking": 47,
+    "96": {
+      "rating": 8.3,
+      "source_team": "Kentucky",
+      "ranking": 41,
       "offense": {
         "ranking": 36,
         "rating": 31.7,
@@ -1671,8 +1426,43 @@
         "pace": null
       },
       "defense": {
+        "ranking": 44,
+        "rating": 23,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.4
+      }
+    },
+    "245": {
+      "rating": 8.3,
+      "source_team": "Texas A&M",
+      "ranking": 41,
+      "offense": {
         "ranking": 63,
-        "rating": 25.5,
+        "rating": 27.8,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 32,
+        "rating": 20,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -1689,13 +1479,503 @@
         "rating": 0.5
       }
     },
-    "2132": {
-      "rating": 6.7,
-      "source_team": "Cincinnati",
+    "356": {
+      "rating": 8,
+      "source_team": "Illinois",
+      "ranking": 43,
+      "offense": {
+        "ranking": 41,
+        "rating": 31,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 45,
+        "rating": 23.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.4
+      }
+    },
+    "2628": {
+      "rating": 7.9,
+      "source_team": "TCU",
+      "ranking": 44,
+      "offense": {
+        "ranking": 85,
+        "rating": 24.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 17,
+        "rating": 16.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.4
+      }
+    },
+    "201": {
+      "rating": 7.8,
+      "source_team": "Oklahoma",
+      "ranking": 45,
+      "offense": {
+        "ranking": 96,
+        "rating": 22.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 11,
+        "rating": 15.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.5
+      }
+    },
+    "259": {
+      "rating": 6.6,
+      "source_team": "Virginia Tech",
+      "ranking": 46,
+      "offense": {
+        "ranking": 39,
+        "rating": 31.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 59,
+        "rating": 24.6,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0
+      }
+    },
+    "57": {
+      "rating": 5.9,
+      "source_team": "Florida",
+      "ranking": 47,
+      "offense": {
+        "ranking": 50,
+        "rating": 29.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 52,
+        "rating": 24.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.7
+      }
+    },
+    "326": {
+      "rating": 5.8,
+      "source_team": "Texas State",
+      "ranking": 48,
+      "offense": {
+        "ranking": 17,
+        "rating": 36.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 96,
+        "rating": 29.9,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.6
+      }
+    },
+    "52": {
+      "rating": 5.5,
+      "source_team": "Florida State",
       "ranking": 49,
       "offense": {
-        "ranking": 21,
-        "rating": 33.8,
+        "ranking": 31,
+        "rating": 33.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 84,
+        "rating": 28,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.3
+      }
+    },
+    "153": {
+      "rating": 5.3,
+      "source_team": "North Carolina",
+      "ranking": 50,
+      "offense": {
+        "ranking": 49,
+        "rating": 29.6,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 51,
+        "rating": 23.9,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.5
+      }
+    },
+    "278": {
+      "rating": 4.9,
+      "source_team": "Fresno State",
+      "ranking": 51,
+      "offense": {
+        "ranking": 67,
+        "rating": 27.1,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 43,
+        "rating": 22.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.3
+      }
+    },
+    "249": {
+      "rating": 4.7,
+      "source_team": "North Texas",
+      "ranking": 52,
+      "offense": {
+        "ranking": 9,
+        "rating": 38.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 115,
+        "rating": 33.1,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.4
+      }
+    },
+    "2306": {
+      "rating": 4.5,
+      "source_team": "Kansas State",
+      "ranking": 53,
+      "offense": {
+        "ranking": 42,
+        "rating": 30.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 73,
+        "rating": 26.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.3
+      }
+    },
+    "55": {
+      "rating": 4.5,
+      "source_team": "Jacksonville State",
+      "ranking": 53,
+      "offense": {
+        "ranking": 56,
+        "rating": 28.6,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 55,
+        "rating": 24.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.3
+      }
+    },
+    "58": {
+      "rating": 4,
+      "source_team": "South Florida",
+      "ranking": 55,
+      "offense": {
+        "ranking": 78,
+        "rating": 25.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 40,
+        "rating": 21.9,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.4
+      }
+    },
+    "344": {
+      "rating": 3.8,
+      "source_team": "Mississippi State",
+      "ranking": 56,
+      "offense": {
+        "ranking": 54,
+        "rating": 28.7,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 61,
+        "rating": 25.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.4
+      }
+    },
+    "204": {
+      "rating": 3.8,
+      "source_team": "Oregon State",
+      "ranking": 56,
+      "offense": {
+        "ranking": 37,
+        "rating": 31.6,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -1721,191 +2001,16 @@
         }
       },
       "specialTeams": {
-        "rating": 0.3
-      }
-    },
-    "204": {
-      "rating": 6.6,
-      "source_team": "Oregon State",
-      "ranking": 50,
-      "offense": {
-        "ranking": 37,
-        "rating": 31.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 56,
-        "rating": 24.7,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.3
-      }
-    },
-    "2": {
-      "rating": 6.5,
-      "source_team": "Auburn",
-      "ranking": 51,
-      "offense": {
-        "ranking": 72,
-        "rating": 26.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 31,
-        "rating": 20.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.4
-      }
-    },
-    "344": {
-      "rating": 6,
-      "source_team": "Mississippi State",
-      "ranking": 52,
-      "offense": {
-        "ranking": 35,
-        "rating": 31.9,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 68,
-        "rating": 26.3,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.4
-      }
-    },
-    "52": {
-      "rating": 5.8,
-      "source_team": "Florida State",
-      "ranking": 53,
-      "offense": {
-        "ranking": 32,
-        "rating": 32.7,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 76,
-        "rating": 27.1,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.2
-      }
-    },
-    "258": {
-      "rating": 5.8,
-      "source_team": "Virginia",
-      "ranking": 53,
-      "offense": {
-        "ranking": 65,
-        "rating": 27,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 36,
-        "rating": 21.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.3
+        "rating": -0.4
       }
     },
     "228": {
-      "rating": 4.7,
+      "rating": 3.3,
       "source_team": "Clemson",
-      "ranking": 55,
+      "ranking": 58,
       "offense": {
-        "ranking": 96,
-        "rating": 23.3,
+        "ranking": 100,
+        "rating": 22,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -1916,8 +2021,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 24,
-        "rating": 19,
+        "ranking": 28,
+        "rating": 19.3,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -1934,118 +2039,13 @@
         "rating": 0.5
       }
     },
-    "2116": {
-      "rating": 4.5,
-      "source_team": "UCF",
-      "ranking": 56,
-      "offense": {
-        "ranking": 63,
-        "rating": 27.2,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 43,
-        "rating": 22.8,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.1
-      }
-    },
-    "135": {
-      "rating": 3.9,
-      "source_team": "Minnesota",
-      "ranking": 57,
-      "offense": {
-        "ranking": 93,
-        "rating": 23.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 27,
-        "rating": 19.8,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.1
-      }
-    },
-    "153": {
-      "rating": 3.7,
-      "source_team": "North Carolina",
-      "ranking": 58,
-      "offense": {
-        "ranking": 75,
-        "rating": 26.3,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 42,
-        "rating": 22.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.2
-      }
-    },
-    "2636": {
-      "rating": 3.5,
-      "source_team": "UTSA",
+    "2132": {
+      "rating": 3,
+      "source_team": "Cincinnati",
       "ranking": 59,
       "offense": {
-        "ranking": 38,
-        "rating": 31.5,
+        "ranking": 26,
+        "rating": 33.9,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -2056,8 +2056,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 82,
-        "rating": 28,
+        "ranking": 101,
+        "rating": 31.1,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -2071,16 +2071,16 @@
         }
       },
       "specialTeams": {
-        "rating": 0.1
+        "rating": 0.2
       }
     },
-    "2305": {
+    "2": {
       "rating": 2.8,
-      "source_team": "Kansas",
+      "source_team": "Auburn",
       "ranking": 60,
       "offense": {
-        "ranking": 61,
-        "rating": 27.5,
+        "ranking": 85,
+        "rating": 24.5,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -2091,8 +2091,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 57,
-        "rating": 25,
+        "ranking": 41,
+        "rating": 22.2,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -2106,16 +2106,16 @@
         }
       },
       "specialTeams": {
-        "rating": 0.3
+        "rating": 0.5
       }
     },
-    "278": {
-      "rating": 2.6,
-      "source_team": "Fresno State",
+    "2649": {
+      "rating": 2.7,
+      "source_team": "Toledo",
       "ranking": 61,
       "offense": {
-        "ranking": 77,
-        "rating": 25.7,
+        "ranking": 64,
+        "rating": 27.3,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -2126,42 +2126,7 @@
         "pace": null
       },
       "defense": {
-        "ranking": 49,
-        "rating": 23.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.3
-      }
-    },
-    "9": {
-      "rating": 2.3,
-      "source_team": "Arizona State",
-      "ranking": 62,
-      "offense": {
-        "ranking": 66,
-        "rating": 26.9,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 53,
+        "ranking": 54,
         "rating": 24.3,
         "success": null,
         "explosiveness": null,
@@ -2176,715 +2141,50 @@
         }
       },
       "specialTeams": {
-        "rating": -0.3
+        "rating": -0.2
       }
     },
-    "58": {
+    "2348": {
       "rating": 2.2,
-      "source_team": "South Florida",
+      "source_team": "Louisiana Tech",
+      "ranking": 62,
+      "offense": {
+        "ranking": 67,
+        "rating": 27.1,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 55,
+        "rating": 24.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.5
+      }
+    },
+    "258": {
+      "rating": 2.1,
+      "source_team": "Virginia",
       "ranking": 63,
       "offense": {
-        "ranking": 72,
-        "rating": 26.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 54,
-        "rating": 24.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.1
-      }
-    },
-    "2649": {
-      "rating": 2,
-      "source_team": "Toledo",
-      "ranking": 64,
-      "offense": {
-        "ranking": 58,
-        "rating": 28.2,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 65,
-        "rating": 25.8,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.3
-      }
-    },
-    "326": {
-      "rating": 1.5,
-      "source_team": "Texas State",
-      "ranking": 65,
-      "offense": {
-        "ranking": 24,
-        "rating": 33.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 109,
-        "rating": 31.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.4
-      }
-    },
-    "349": {
-      "rating": 1,
-      "source_team": "Army",
-      "ranking": 66,
-      "offense": {
-        "ranking": 43,
-        "rating": 30.2,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 96,
-        "rating": 29.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.3
-      }
-    },
-    "41": {
-      "rating": 0.7,
-      "source_team": "UConn",
-      "ranking": 67,
-      "offense": {
-        "ranking": 51,
-        "rating": 29.2,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 88,
-        "rating": 28.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.1
-      }
-    },
-    "309": {
-      "rating": 0.4,
-      "source_team": "Louisiana",
-      "ranking": 68,
-      "offense": {
-        "ranking": 63,
-        "rating": 27.2,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 73,
-        "rating": 26.7,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.2
-      }
-    },
-    "2509": {
-      "rating": 0.2,
-      "source_team": "Purdue",
-      "ranking": 69,
-      "offense": {
-        "ranking": 46,
-        "rating": 30,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 101,
-        "rating": 30.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.5
-      }
-    },
-    "277": {
-      "rating": 0,
-      "source_team": "West Virginia",
-      "ranking": 70,
-      "offense": {
-        "ranking": 30,
-        "rating": 32.9,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 115,
-        "rating": 33.2,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.2
-      }
-    },
-    "8": {
-      "rating": -0.4,
-      "source_team": "Arkansas",
-      "ranking": 71,
-      "offense": {
-        "ranking": 60,
-        "rating": 27.7,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 85,
-        "rating": 28.3,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.2
-      }
-    },
-    "249": {
-      "rating": -0.6,
-      "source_team": "North Texas",
-      "ranking": 72,
-      "offense": {
-        "ranking": 24,
-        "rating": 33.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 119,
-        "rating": 33.7,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.4
-      }
-    },
-    "2005": {
-      "rating": -0.8,
-      "source_team": "Air Force",
-      "ranking": 73,
-      "offense": {
-        "ranking": 70,
-        "rating": 26.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 80,
-        "rating": 27.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.2
-      }
-    },
-    "152": {
-      "rating": -0.9,
-      "source_team": "NC State",
-      "ranking": 74,
-      "offense": {
-        "ranking": 46,
-        "rating": 30,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 107,
-        "rating": 31,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.1
-      }
-    },
-    "59": {
-      "rating": -1.1,
-      "source_team": "Georgia Tech",
-      "ranking": 75,
-      "offense": {
-        "ranking": 57,
-        "rating": 28.3,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 95,
-        "rating": 29.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0
-      }
-    },
-    "66": {
-      "rating": -1.2,
-      "source_team": "Iowa State",
-      "ranking": 76,
-      "offense": {
-        "ranking": 93,
-        "rating": 23.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 60,
-        "rating": 25.2,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.4
-      }
-    },
-    "238": {
-      "rating": -1.4,
-      "source_team": "Vanderbilt",
-      "ranking": 77,
-      "offense": {
-        "ranking": 66,
-        "rating": 26.9,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 89,
-        "rating": 28.7,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.4
-      }
-    },
-    "103": {
-      "rating": -1.5,
-      "source_team": "Boston College",
-      "ranking": 78,
-      "offense": {
-        "ranking": 90,
-        "rating": 23.9,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 59,
-        "rating": 25.1,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.2
-      }
-    },
-    "195": {
-      "rating": -1.5,
-      "source_team": "Ohio",
-      "ranking": 78,
-      "offense": {
-        "ranking": 90,
-        "rating": 23.9,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 63,
-        "rating": 25.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.1
-      }
-    },
-    "2426": {
-      "rating": -1.6,
-      "source_team": "Navy",
-      "ranking": 80,
-      "offense": {
-        "ranking": 52,
-        "rating": 29,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 101,
-        "rating": 30.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.3
-      }
-    },
-    "120": {
-      "rating": -2.1,
-      "source_team": "Maryland",
-      "ranking": 81,
-      "offense": {
-        "ranking": 70,
-        "rating": 26.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 89,
-        "rating": 28.7,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.1
-      }
-    },
-    "202": {
-      "rating": -2.2,
-      "source_team": "Tulsa",
-      "ranking": 82,
-      "offense": {
-        "ranking": 68,
-        "rating": 26.8,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 94,
-        "rating": 28.9,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.2
-      }
-    },
-    "2439": {
-      "rating": -2.2,
-      "source_team": "UNLV",
-      "ranking": 82,
-      "offense": {
-        "ranking": 83,
+        "ranking": 82,
         "rating": 25.3,
         "success": null,
         "explosiveness": null,
@@ -2896,8 +2196,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 80,
-        "rating": 27.6,
+        "ranking": 45,
+        "rating": 23.4,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -2911,98 +2211,28 @@
         }
       },
       "specialTeams": {
-        "rating": 0.1
+        "rating": 0.2
       }
     },
-    "2348": {
-      "rating": -2.6,
-      "source_team": "Louisiana Tech",
-      "ranking": 84,
+    "2305": {
+      "rating": 2,
+      "source_team": "Kansas",
+      "ranking": 64,
       "offense": {
-        "ranking": 85,
-        "rating": 24.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 74,
-        "rating": 26.8,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.3
-      }
-    },
-    "55": {
-      "rating": -2.6,
-      "source_team": "Jacksonville State",
-      "ranking": 84,
-      "offense": {
-        "ranking": 79,
-        "rating": 25.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 83,
-        "rating": 28.1,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.1
-      }
-    },
-    "2711": {
-      "rating": -2.7,
-      "source_team": "Western Michigan",
-      "ranking": 86,
-      "offense": {
-        "ranking": 101,
-        "rating": 22.8,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
         "ranking": 65,
-        "rating": 25.8,
+        "rating": 27.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 64,
+        "rating": 25.4,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -3016,13 +2246,13 @@
         }
       },
       "specialTeams": {
-        "rating": 0.3
+        "rating": 0.2
       }
     },
-    "183": {
-      "rating": -2.8,
-      "source_team": "Syracuse",
-      "ranking": 87,
+    "9": {
+      "rating": 1.9,
+      "source_team": "Arizona State",
+      "ranking": 65,
       "offense": {
         "ranking": 77,
         "rating": 25.7,
@@ -3036,8 +2266,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 85,
-        "rating": 28.3,
+        "ranking": 50,
+        "rating": 23.8,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -3051,16 +2281,16 @@
         }
       },
       "specialTeams": {
-        "rating": -0.2
+        "rating": -0.1
       }
     },
-    "127": {
-      "rating": -3,
-      "source_team": "Michigan State",
-      "ranking": 88,
+    "309": {
+      "rating": 1.7,
+      "source_team": "Louisiana",
+      "ranking": 66,
       "offense": {
-        "ranking": 98,
-        "rating": 23.1,
+        "ranking": 62,
+        "rating": 28.2,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -3071,8 +2301,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 68,
-        "rating": 26.3,
+        "ranking": 70,
+        "rating": 26.2,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -3086,15 +2316,27 @@
         }
       },
       "specialTeams": {
-        "rating": 0.2
+        "rating": -0.3
       }
     },
-    "2440": {
-      "rating": -3.1,
-      "source_team": "Nevada",
-      "ranking": 89,
+    "135": {
+      "rating": 1.3,
+      "source_team": "Minnesota",
+      "ranking": 67,
       "offense": {
-        "ranking": 107,
+        "ranking": 102,
+        "rating": 21.8,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 37,
         "rating": 20.9,
         "success": null,
         "explosiveness": null,
@@ -3102,18 +2344,6 @@
         "passing": null,
         "standardDowns": null,
         "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 55,
-        "rating": 24.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
         "havoc": {
           "total": null,
           "frontSeven": null,
@@ -3121,16 +2351,16 @@
         }
       },
       "specialTeams": {
-        "rating": 0.5
+        "rating": 0.4
       }
     },
-    "2226": {
-      "rating": -3.4,
-      "source_team": "Florida Atlantic",
-      "ranking": 90,
+    "2116": {
+      "rating": 1.3,
+      "source_team": "UCF",
+      "ranking": 67,
       "offense": {
-        "ranking": 44,
-        "rating": 30.1,
+        "ranking": 67,
+        "rating": 27.1,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -3141,8 +2371,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 123,
-        "rating": 33.9,
+        "ranking": 69,
+        "rating": 26.1,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -3159,48 +2389,13 @@
         "rating": 0.3
       }
     },
-    "151": {
-      "rating": -4,
-      "source_team": "East Carolina",
-      "ranking": 91,
+    "202": {
+      "rating": 1.1,
+      "source_team": "Tulsa",
+      "ranking": 69,
       "offense": {
-        "ranking": 105,
-        "rating": 22.2,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 70,
-        "rating": 26.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.2
-      }
-    },
-    "193": {
-      "rating": -4.2,
-      "source_team": "Miami (OH)",
-      "ranking": 92,
-      "offense": {
-        "ranking": 100,
-        "rating": 23,
+        "ranking": 53,
+        "rating": 28.8,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -3226,1101 +2421,16 @@
         }
       },
       "specialTeams": {
-        "rating": 0
-      }
-    },
-    "38": {
-      "rating": -4.3,
-      "source_team": "Colorado",
-      "ranking": 93,
-      "offense": {
-        "ranking": 103,
-        "rating": 22.7,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 71,
-        "rating": 26.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.6
-      }
-    },
-    "290": {
-      "rating": -4.8,
-      "source_team": "Georgia Southern",
-      "ranking": 94,
-      "offense": {
-        "ranking": 86,
-        "rating": 24.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 91,
-        "rating": 28.8,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.4
-      }
-    },
-    "2026": {
-      "rating": -4.9,
-      "source_team": "App State",
-      "ranking": 95,
-      "offense": {
-        "ranking": 89,
-        "rating": 24.2,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 96,
-        "rating": 29.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.4
-      }
-    },
-    "164": {
-      "rating": -4.9,
-      "source_team": "Rutgers",
-      "ranking": 95,
-      "offense": {
-        "ranking": 54,
-        "rating": 28.7,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 124,
-        "rating": 34,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.3
-      }
-    },
-    "2032": {
-      "rating": -7,
-      "source_team": "Arkansas State",
-      "ranking": 97,
-      "offense": {
-        "ranking": 81,
-        "rating": 25.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 113,
-        "rating": 32.2,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.2
-      }
-    },
-    "2751": {
-      "rating": -7.3,
-      "source_team": "Wyoming",
-      "ranking": 98,
-      "offense": {
-        "ranking": 119,
-        "rating": 17.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 57,
-        "rating": 25,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.2
-      }
-    },
-    "218": {
-      "rating": -7.7,
-      "source_team": "Temple",
-      "ranking": 99,
-      "offense": {
-        "ranking": 79,
-        "rating": 25.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 117,
-        "rating": 33.3,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.1
-      }
-    },
-    "2229": {
-      "rating": -7.9,
-      "source_team": "Florida International",
-      "ranking": 100,
-      "offense": {
-        "ranking": 118,
-        "rating": 17.9,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 61,
-        "rating": 25.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.4
-      }
-    },
-    "25": {
-      "rating": -8.2,
-      "source_team": "California",
-      "ranking": 101,
-      "offense": {
-        "ranking": 101,
-        "rating": 22.8,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 103,
-        "rating": 30.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.5
-      }
-    },
-    "2655": {
-      "rating": -8.2,
-      "source_team": "Tulane",
-      "ranking": 101,
-      "offense": {
-        "ranking": 110,
-        "rating": 19.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 83,
-        "rating": 28.1,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.6
-      }
-    },
-    "36": {
-      "rating": -8.4,
-      "source_team": "Colorado State",
-      "ranking": 103,
-      "offense": {
-        "ranking": 55,
-        "rating": 28.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 131,
-        "rating": 37,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0
-      }
-    },
-    "21": {
-      "rating": -8.6,
-      "source_team": "San Diego State",
-      "ranking": 104,
-      "offense": {
-        "ranking": 104,
-        "rating": 22.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 109,
-        "rating": 31.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.5
-      }
-    },
-    "2247": {
-      "rating": -9.2,
-      "source_team": "Georgia State",
-      "ranking": 105,
-      "offense": {
-        "ranking": 75,
-        "rating": 26.3,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 127,
-        "rating": 35.3,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.2
-      }
-    },
-    "328": {
-      "rating": -9.2,
-      "source_team": "Utah State",
-      "ranking": 105,
-      "offense": {
-        "ranking": 124,
-        "rating": 17.2,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 67,
-        "rating": 25.9,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.5
-      }
-    },
-    "62": {
-      "rating": -9.6,
-      "source_team": "Hawai'i",
-      "ranking": 107,
-      "offense": {
-        "ranking": 112,
-        "rating": 19.1,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 91,
-        "rating": 28.8,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0
-      }
-    },
-    "2653": {
-      "rating": -9.9,
-      "source_team": "Troy",
-      "ranking": 108,
-      "offense": {
-        "ranking": 112,
-        "rating": 19.1,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 91,
-        "rating": 28.8,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.2
-      }
-    },
-    "324": {
-      "rating": -10.3,
-      "source_team": "Coastal Carolina",
-      "ranking": 109,
-      "offense": {
-        "ranking": 96,
-        "rating": 23.3,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 119,
-        "rating": 33.7,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.1
-      }
-    },
-    "5": {
-      "rating": -10.4,
-      "source_team": "UAB",
-      "ranking": 110,
-      "offense": {
-        "ranking": 109,
-        "rating": 20,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 103,
-        "rating": 30.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.1
-      }
-    },
-    "276": {
-      "rating": -10.7,
-      "source_team": "Marshall",
-      "ranking": 111,
-      "offense": {
-        "ranking": 92,
-        "rating": 23.7,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 125,
-        "rating": 34.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.1
-      }
-    },
-    "24": {
-      "rating": -10.8,
-      "source_team": "Stanford",
-      "ranking": 112,
-      "offense": {
-        "ranking": 106,
-        "rating": 22,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 114,
-        "rating": 32.3,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.5
-      }
-    },
-    "113": {
-      "rating": -11.1,
-      "source_team": "Massachusetts",
-      "ranking": 113,
-      "offense": {
-        "ranking": 116,
-        "rating": 18.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 99,
-        "rating": 29.6,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.1
-      }
-    },
-    "23": {
-      "rating": -11.3,
-      "source_team": "San Jos\u00e9 State",
-      "ranking": 114,
-      "offense": {
-        "ranking": 126,
-        "rating": 15.9,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 75,
-        "rating": 27,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.2
-      }
-    },
-    "6": {
-      "rating": -11.5,
-      "source_team": "South Alabama",
-      "ranking": 115,
-      "offense": {
-        "ranking": 72,
-        "rating": 26.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 133,
-        "rating": 37.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.5
-      }
-    },
-    "98": {
-      "rating": -11.5,
-      "source_team": "Western Kentucky",
-      "ranking": 115,
-      "offense": {
-        "ranking": 115,
-        "rating": 18.8,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 105,
-        "rating": 30.7,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.4
-      }
-    },
-    "48": {
-      "rating": -11.7,
-      "source_team": "Delaware",
-      "ranking": 117,
-      "offense": {
-        "ranking": 98,
-        "rating": 23.1,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 125,
-        "rating": 34.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
         "rating": -0.3
       }
     },
-    "2084": {
-      "rating": -12,
-      "source_team": "Buffalo",
-      "ranking": 118,
+    "2005": {
+      "rating": 1.1,
+      "source_team": "Air Force",
+      "ranking": 69,
       "offense": {
-        "ranking": 125,
-        "rating": 16.1,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 87,
-        "rating": 28.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0.3
-      }
-    },
-    "166": {
-      "rating": -13.4,
-      "source_team": "New Mexico State",
-      "ranking": 119,
-      "offense": {
-        "ranking": 122,
-        "rating": 17.3,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 100,
-        "rating": 30.2,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.4
-      }
-    },
-    "338": {
-      "rating": -13.8,
-      "source_team": "Kennesaw State",
-      "ranking": 120,
-      "offense": {
-        "ranking": 121,
-        "rating": 17.4,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 105,
-        "rating": 30.7,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.5
-      }
-    },
-    "265": {
-      "rating": -14.1,
-      "source_team": "Washington State",
-      "ranking": 121,
-      "offense": {
-        "ranking": 127,
-        "rating": 15.8,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 96,
-        "rating": 29.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.4
-      }
-    },
-    "242": {
-      "rating": -14.2,
-      "source_team": "Rice",
-      "ranking": 122,
-      "offense": {
-        "ranking": 111,
-        "rating": 19.3,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 115,
-        "rating": 33.2,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.3
-      }
-    },
-    "2199": {
-      "rating": -14.6,
-      "source_team": "Eastern Michigan",
-      "ranking": 123,
-      "offense": {
-        "ranking": 122,
-        "rating": 17.3,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 112,
-        "rating": 31.9,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": 0
-      }
-    },
-    "295": {
-      "rating": -14.7,
-      "source_team": "Old Dominion",
-      "ranking": 124,
-      "offense": {
-        "ranking": 135,
-        "rating": 13.4,
+        "ranking": 60,
+        "rating": 28.3,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4346,16 +2456,16 @@
         }
       },
       "specialTeams": {
-        "rating": -0.6
+        "rating": 0.3
       }
     },
-    "2393": {
-      "rating": -15.2,
-      "source_team": "Middle Tennessee",
-      "ranking": 125,
+    "2636": {
+      "rating": 0.9,
+      "source_team": "UTSA",
+      "ranking": 71,
       "offense": {
-        "ranking": 117,
-        "rating": 18.1,
+        "ranking": 38,
+        "rating": 31.5,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4366,8 +2476,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 119,
-        "rating": 33.7,
+        "ranking": 97,
+        "rating": 30.5,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4381,16 +2491,16 @@
         }
       },
       "specialTeams": {
-        "rating": 0.4
+        "rating": 0
       }
     },
-    "2572": {
-      "rating": -16,
-      "source_team": "Southern Miss",
-      "ranking": 126,
+    "290": {
+      "rating": 0.8,
+      "source_team": "Georgia Southern",
+      "ranking": 72,
       "offense": {
-        "ranking": 108,
-        "rating": 20.2,
+        "ranking": 72,
+        "rating": 26.2,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4401,8 +2511,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 129,
-        "rating": 35.6,
+        "ranking": 60,
+        "rating": 24.8,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4419,13 +2529,363 @@
         "rating": -0.6
       }
     },
-    "2117": {
-      "rating": -16.7,
-      "source_team": "Central Michigan",
-      "ranking": 127,
+    "277": {
+      "rating": -0.2,
+      "source_team": "West Virginia",
+      "ranking": 73,
       "offense": {
-        "ranking": 130,
-        "rating": 15,
+        "ranking": 23,
+        "rating": 34.6,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 124,
+        "rating": 35.1,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.3
+      }
+    },
+    "195": {
+      "rating": -0.4,
+      "source_team": "Ohio",
+      "ranking": 74,
+      "offense": {
+        "ranking": 83,
+        "rating": 24.7,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 61,
+        "rating": 25.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.1
+      }
+    },
+    "41": {
+      "rating": -0.8,
+      "source_team": "UConn",
+      "ranking": 75,
+      "offense": {
+        "ranking": 48,
+        "rating": 29.8,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 97,
+        "rating": 30.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.1
+      }
+    },
+    "2711": {
+      "rating": -0.9,
+      "source_team": "Western Michigan",
+      "ranking": 76,
+      "offense": {
+        "ranking": 93,
+        "rating": 22.8,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 52,
+        "rating": 24.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.5
+      }
+    },
+    "2226": {
+      "rating": -1.3,
+      "source_team": "Florida Atlantic",
+      "ranking": 77,
+      "offense": {
+        "ranking": 29,
+        "rating": 33.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 124,
+        "rating": 35.1,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.5
+      }
+    },
+    "238": {
+      "rating": -1.5,
+      "source_team": "Vanderbilt",
+      "ranking": 78,
+      "offense": {
+        "ranking": 78,
+        "rating": 25.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 81,
+        "rating": 27.7,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.7
+      }
+    },
+    "349": {
+      "rating": -2.1,
+      "source_team": "Army",
+      "ranking": 79,
+      "offense": {
+        "ranking": 47,
+        "rating": 29.9,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 109,
+        "rating": 32.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.3
+      }
+    },
+    "120": {
+      "rating": -2.1,
+      "source_team": "Maryland",
+      "ranking": 79,
+      "offense": {
+        "ranking": 71,
+        "rating": 26.7,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 88,
+        "rating": 28.6,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.2
+      }
+    },
+    "66": {
+      "rating": -2.3,
+      "source_team": "Iowa State",
+      "ranking": 81,
+      "offense": {
+        "ranking": 70,
+        "rating": 26.8,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 93,
+        "rating": 29.6,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.5
+      }
+    },
+    "152": {
+      "rating": -2.3,
+      "source_team": "NC State",
+      "ranking": 81,
+      "offense": {
+        "ranking": 60,
+        "rating": 28.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 99,
+        "rating": 30.8,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.3
+      }
+    },
+    "2509": {
+      "rating": -2.4,
+      "source_team": "Purdue",
+      "ranking": 83,
+      "offense": {
+        "ranking": 52,
+        "rating": 28.9,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4437,7 +2897,147 @@
       },
       "defense": {
         "ranking": 108,
-        "rating": 31.3,
+        "rating": 32,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.7
+      }
+    },
+    "127": {
+      "rating": -2.4,
+      "source_team": "Michigan State",
+      "ranking": 83,
+      "offense": {
+        "ranking": 105,
+        "rating": 21.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 55,
+        "rating": 24.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.5
+      }
+    },
+    "183": {
+      "rating": -2.7,
+      "source_team": "Syracuse",
+      "ranking": 85,
+      "offense": {
+        "ranking": 80,
+        "rating": 25.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 81,
+        "rating": 27.7,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.3
+      }
+    },
+    "151": {
+      "rating": -2.8,
+      "source_team": "East Carolina",
+      "ranking": 86,
+      "offense": {
+        "ranking": 106,
+        "rating": 21.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 58,
+        "rating": 24.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.3
+      }
+    },
+    "2426": {
+      "rating": -3.1,
+      "source_team": "Navy",
+      "ranking": 87,
+      "offense": {
+        "ranking": 45,
+        "rating": 30,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 112,
+        "rating": 32.6,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4454,13 +3054,1378 @@
         "rating": -0.5
       }
     },
+    "8": {
+      "rating": -3.6,
+      "source_team": "Arkansas",
+      "ranking": 88,
+      "offense": {
+        "ranking": 89,
+        "rating": 24.1,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 83,
+        "rating": 27.8,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.1
+      }
+    },
+    "2439": {
+      "rating": -3.7,
+      "source_team": "UNLV",
+      "ranking": 89,
+      "offense": {
+        "ranking": 76,
+        "rating": 25.8,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 95,
+        "rating": 29.7,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.2
+      }
+    },
+    "2026": {
+      "rating": -4.5,
+      "source_team": "App State",
+      "ranking": 90,
+      "offense": {
+        "ranking": 91,
+        "rating": 23.6,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 87,
+        "rating": 28.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.3
+      }
+    },
+    "328": {
+      "rating": -4.7,
+      "source_team": "Utah State",
+      "ranking": 91,
+      "offense": {
+        "ranking": 119,
+        "rating": 18.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 42,
+        "rating": 22.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.5
+      }
+    },
+    "193": {
+      "rating": -4.9,
+      "source_team": "Miami (OH)",
+      "ranking": 92,
+      "offense": {
+        "ranking": 92,
+        "rating": 23.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 85,
+        "rating": 28.1,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.2
+      }
+    },
+    "2751": {
+      "rating": -5,
+      "source_team": "Wyoming",
+      "ranking": 93,
+      "offense": {
+        "ranking": 112,
+        "rating": 20.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 68,
+        "rating": 25.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.3
+      }
+    },
+    "38": {
+      "rating": -5.2,
+      "source_team": "Colorado",
+      "ranking": 94,
+      "offense": {
+        "ranking": 101,
+        "rating": 21.9,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 74,
+        "rating": 26.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.6
+      }
+    },
+    "103": {
+      "rating": -5.4,
+      "source_team": "Boston College",
+      "ranking": 95,
+      "offense": {
+        "ranking": 97,
+        "rating": 22.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 76,
+        "rating": 27.1,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.5
+      }
+    },
+    "2247": {
+      "rating": -6.1,
+      "source_team": "Georgia State",
+      "ranking": 96,
+      "offense": {
+        "ranking": 65,
+        "rating": 27.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 118,
+        "rating": 33.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.1
+      }
+    },
+    "2440": {
+      "rating": -6.4,
+      "source_team": "Nevada",
+      "ranking": 97,
+      "offense": {
+        "ranking": 118,
+        "rating": 18.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 63,
+        "rating": 25.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.6
+      }
+    },
+    "2032": {
+      "rating": -7,
+      "source_team": "Arkansas State",
+      "ranking": 98,
+      "offense": {
+        "ranking": 83,
+        "rating": 24.7,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 103,
+        "rating": 31.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.4
+      }
+    },
+    "59": {
+      "rating": -8.1,
+      "source_team": "Georgia Tech",
+      "ranking": 99,
+      "offense": {
+        "ranking": 85,
+        "rating": 24.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 110,
+        "rating": 32.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.3
+      }
+    },
+    "5": {
+      "rating": -8.2,
+      "source_team": "UAB",
+      "ranking": 100,
+      "offense": {
+        "ranking": 116,
+        "rating": 18.8,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 79,
+        "rating": 27.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.4
+      }
+    },
+    "324": {
+      "rating": -8.2,
+      "source_team": "Coastal Carolina",
+      "ranking": 100,
+      "offense": {
+        "ranking": 94,
+        "rating": 22.6,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 100,
+        "rating": 31,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.3
+      }
+    },
+    "21": {
+      "rating": -8.4,
+      "source_team": "San Diego State",
+      "ranking": 102,
+      "offense": {
+        "ranking": 94,
+        "rating": 22.6,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 106,
+        "rating": 31.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.6
+      }
+    },
+    "113": {
+      "rating": -8.8,
+      "source_team": "Massachusetts",
+      "ranking": 103,
+      "offense": {
+        "ranking": 110,
+        "rating": 20.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 91,
+        "rating": 28.9,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.2
+      }
+    },
+    "2229": {
+      "rating": -8.9,
+      "source_team": "Florida International",
+      "ranking": 104,
+      "offense": {
+        "ranking": 123,
+        "rating": 17,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 64,
+        "rating": 25.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.6
+      }
+    },
+    "164": {
+      "rating": -9.2,
+      "source_team": "Rutgers",
+      "ranking": 105,
+      "offense": {
+        "ranking": 80,
+        "rating": 25.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 124,
+        "rating": 35.1,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.4
+      }
+    },
+    "48": {
+      "rating": -9.2,
+      "source_team": "Delaware",
+      "ranking": 105,
+      "offense": {
+        "ranking": 72,
+        "rating": 26.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 123,
+        "rating": 35,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.5
+      }
+    },
+    "218": {
+      "rating": -9.6,
+      "source_team": "Temple",
+      "ranking": 107,
+      "offense": {
+        "ranking": 88,
+        "rating": 24.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 119,
+        "rating": 34,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.2
+      }
+    },
+    "338": {
+      "rating": -10,
+      "source_team": "Kennesaw State",
+      "ranking": 108,
+      "offense": {
+        "ranking": 103,
+        "rating": 21.6,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 105,
+        "rating": 31.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.3
+      }
+    },
+    "62": {
+      "rating": -10.3,
+      "source_team": "Hawai'i",
+      "ranking": 109,
+      "offense": {
+        "ranking": 120,
+        "rating": 18.1,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 86,
+        "rating": 28.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.1
+      }
+    },
+    "23": {
+      "rating": -10.7,
+      "source_team": "San Jos\u00e9 State",
+      "ranking": 110,
+      "offense": {
+        "ranking": 128,
+        "rating": 15.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 70,
+        "rating": 26.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.1
+      }
+    },
+    "36": {
+      "rating": -11,
+      "source_team": "Colorado State",
+      "ranking": 111,
+      "offense": {
+        "ranking": 51,
+        "rating": 29.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 137,
+        "rating": 40.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.1
+      }
+    },
+    "2084": {
+      "rating": -11.1,
+      "source_team": "Buffalo",
+      "ranking": 112,
+      "offense": {
+        "ranking": 121,
+        "rating": 17.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 89,
+        "rating": 28.7,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.2
+      }
+    },
+    "25": {
+      "rating": -11.4,
+      "source_team": "California",
+      "ranking": 113,
+      "offense": {
+        "ranking": 108,
+        "rating": 20.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 102,
+        "rating": 31.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.6
+      }
+    },
+    "2655": {
+      "rating": -11.7,
+      "source_team": "Tulane",
+      "ranking": 114,
+      "offense": {
+        "ranking": 115,
+        "rating": 19,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 103,
+        "rating": 31.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.6
+      }
+    },
+    "2653": {
+      "rating": -12.1,
+      "source_team": "Troy",
+      "ranking": 115,
+      "offense": {
+        "ranking": 122,
+        "rating": 17.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 90,
+        "rating": 28.8,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.5
+      }
+    },
+    "6": {
+      "rating": -12.3,
+      "source_team": "South Alabama",
+      "ranking": 116,
+      "offense": {
+        "ranking": 75,
+        "rating": 25.9,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 134,
+        "rating": 37.8,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.3
+      }
+    },
+    "276": {
+      "rating": -12.4,
+      "source_team": "Marshall",
+      "ranking": 117,
+      "offense": {
+        "ranking": 98,
+        "rating": 22.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 122,
+        "rating": 34.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.2
+      }
+    },
+    "2117": {
+      "rating": -13.2,
+      "source_team": "Central Michigan",
+      "ranking": 118,
+      "offense": {
+        "ranking": 124,
+        "rating": 16.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 92,
+        "rating": 29.2,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.6
+      }
+    },
+    "24": {
+      "rating": -13.3,
+      "source_team": "Stanford",
+      "ranking": 119,
+      "offense": {
+        "ranking": 103,
+        "rating": 21.6,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 120,
+        "rating": 34.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.6
+      }
+    },
+    "98": {
+      "rating": -13.7,
+      "source_team": "Western Kentucky",
+      "ranking": 120,
+      "offense": {
+        "ranking": 110,
+        "rating": 20.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 120,
+        "rating": 34.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.3
+      }
+    },
     "2623": {
-      "rating": -16.9,
+      "rating": -14,
       "source_team": "Missouri State",
-      "ranking": 128,
+      "ranking": 121,
       "offense": {
         "ranking": 114,
-        "rating": 19,
+        "rating": 19.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 113,
+        "rating": 32.8,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.5
+      }
+    },
+    "295": {
+      "rating": -14.3,
+      "source_team": "Old Dominion",
+      "ranking": 122,
+      "offense": {
+        "ranking": 134,
+        "rating": 13,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 75,
+        "rating": 26.6,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.8
+      }
+    },
+    "2393": {
+      "rating": -14.5,
+      "source_team": "Middle Tennessee",
+      "ranking": 123,
+      "offense": {
+        "ranking": 107,
+        "rating": 21.1,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 130,
+        "rating": 36,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": 0.5
+      }
+    },
+    "265": {
+      "rating": -14.5,
+      "source_team": "Washington State",
+      "ranking": 123,
+      "offense": {
+        "ranking": 127,
+        "rating": 15.7,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 93,
+        "rating": 29.6,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.6
+      }
+    },
+    "2572": {
+      "rating": -15.9,
+      "source_team": "Southern Miss",
+      "ranking": 125,
+      "offense": {
+        "ranking": 108,
+        "rating": 20.4,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 129,
+        "rating": 35.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.7
+      }
+    },
+    "166": {
+      "rating": -16.1,
+      "source_team": "New Mexico State",
+      "ranking": 126,
+      "offense": {
+        "ranking": 125,
+        "rating": 16.1,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 107,
+        "rating": 31.6,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.6
+      }
+    },
+    "242": {
+      "rating": -16.1,
+      "source_team": "Rice",
+      "ranking": 126,
+      "offense": {
+        "ranking": 113,
+        "rating": 19.7,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4486,16 +4451,16 @@
         }
       },
       "specialTeams": {
-        "rating": -0.6
+        "rating": -0.5
       }
     },
-    "2534": {
-      "rating": -18,
-      "source_team": "Sam Houston",
-      "ranking": 129,
+    "2199": {
+      "rating": -16.9,
+      "source_team": "Eastern Michigan",
+      "ranking": 128,
       "offense": {
-        "ranking": 132,
-        "rating": 13.9,
+        "ranking": 126,
+        "rating": 15.8,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4506,8 +4471,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 109,
-        "rating": 31.6,
+        "ranking": 113,
+        "rating": 32.8,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4521,16 +4486,16 @@
         }
       },
       "specialTeams": {
-        "rating": -0.4
+        "rating": 0.1
       }
     },
     "189": {
-      "rating": -18.2,
+      "rating": -19.3,
       "source_team": "Bowling Green",
-      "ranking": 130,
+      "ranking": 129,
       "offense": {
-        "ranking": 129,
-        "rating": 15.4,
+        "ranking": 131,
+        "rating": 14.2,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4541,8 +4506,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 118,
-        "rating": 33.5,
+        "ranking": 117,
+        "rating": 33.2,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4556,16 +4521,16 @@
         }
       },
       "specialTeams": {
-        "rating": -0.1
+        "rating": -0.3
       }
     },
     "2050": {
-      "rating": -20.1,
+      "rating": -19.5,
       "source_team": "Ball State",
-      "ranking": 131,
+      "ranking": 130,
       "offense": {
-        "ranking": 119,
-        "rating": 17.5,
+        "ranking": 117,
+        "rating": 18.4,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4576,8 +4541,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 132,
-        "rating": 37.1,
+        "ranking": 133,
+        "rating": 37.5,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4594,13 +4559,48 @@
         "rating": -0.4
       }
     },
+    "2534": {
+      "rating": -20.7,
+      "source_team": "Sam Houston",
+      "ranking": 131,
+      "offense": {
+        "ranking": 135,
+        "rating": 12.3,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 111,
+        "rating": 32.5,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.6
+      }
+    },
     "2309": {
-      "rating": -21.3,
+      "rating": -22.1,
       "source_team": "Kent State",
       "ranking": 132,
       "offense": {
         "ranking": 136,
-        "rating": 13.1,
+        "rating": 11.8,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4611,8 +4611,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 119,
-        "rating": 33.7,
+        "ranking": 115,
+        "rating": 33.1,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4626,16 +4626,16 @@
         }
       },
       "specialTeams": {
-        "rating": -0.6
+        "rating": -0.8
       }
     },
     "2433": {
-      "rating": -24.2,
+      "rating": -23.2,
       "source_team": "UL Monroe",
       "ranking": 133,
       "offense": {
-        "ranking": 131,
-        "rating": 14.7,
+        "ranking": 130,
+        "rating": 14.6,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4646,8 +4646,43 @@
         "pace": null
       },
       "defense": {
-        "ranking": 134,
-        "rating": 38.2,
+        "ranking": 132,
+        "rating": 37,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "havoc": {
+          "total": null,
+          "frontSeven": null,
+          "db": null
+        }
+      },
+      "specialTeams": {
+        "rating": -0.8
+      }
+    },
+    "2006": {
+      "rating": -24.8,
+      "source_team": "Akron",
+      "ranking": 134,
+      "offense": {
+        "ranking": 132,
+        "rating": 14.1,
+        "success": null,
+        "explosiveness": null,
+        "rushing": null,
+        "passing": null,
+        "standardDowns": null,
+        "passingDowns": null,
+        "runRate": null,
+        "pace": null
+      },
+      "defense": {
+        "ranking": 135,
+        "rating": 38.1,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4664,13 +4699,13 @@
         "rating": -0.7
       }
     },
-    "2638": {
-      "rating": -24.5,
-      "source_team": "UTEP",
-      "ranking": 134,
+    "16": {
+      "rating": -24.9,
+      "source_team": "Sacramento State",
+      "ranking": 135,
       "offense": {
-        "ranking": 137,
-        "rating": 12.7,
+        "ranking": 138,
+        "rating": 10.7,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4681,8 +4716,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 130,
-        "rating": 36.6,
+        "ranking": 127,
+        "rating": 35.2,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4696,16 +4731,16 @@
         }
       },
       "specialTeams": {
-        "rating": -0.6
+        "rating": -0.4
       }
     },
-    "2006": {
-      "rating": -25.1,
-      "source_team": "Akron",
-      "ranking": 135,
+    "2638": {
+      "rating": -26.3,
+      "source_team": "UTEP",
+      "ranking": 136,
       "offense": {
-        "ranking": 132,
-        "rating": 13.9,
+        "ranking": 137,
+        "rating": 11.3,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4716,8 +4751,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 135,
-        "rating": 38.4,
+        "ranking": 131,
+        "rating": 36.8,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4735,12 +4770,12 @@
       }
     },
     "2459": {
-      "rating": -25.4,
+      "rating": -26.9,
       "source_team": "Northern Illinois",
-      "ranking": 136,
+      "ranking": 137,
       "offense": {
-        "ranking": 134,
-        "rating": 13.5,
+        "ranking": 133,
+        "rating": 13.7,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4751,8 +4786,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 135,
-        "rating": 38.4,
+        "ranking": 136,
+        "rating": 40,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4766,51 +4801,16 @@
         }
       },
       "specialTeams": {
-        "rating": -0.5
+        "rating": -0.7
       }
     },
     "2429": {
-      "rating": -25.4,
+      "rating": -27.4,
       "source_team": "Charlotte",
-      "ranking": 136,
-      "offense": {
-        "ranking": 128,
-        "rating": 15.5,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "runRate": null,
-        "pace": null
-      },
-      "defense": {
-        "ranking": 138,
-        "rating": 40.7,
-        "success": null,
-        "explosiveness": null,
-        "rushing": null,
-        "passing": null,
-        "standardDowns": null,
-        "passingDowns": null,
-        "havoc": {
-          "total": null,
-          "frontSeven": null,
-          "db": null
-        }
-      },
-      "specialTeams": {
-        "rating": -0.2
-      }
-    },
-    "16": {
-      "rating": -29.1,
-      "source_team": "Sacramento State",
       "ranking": 138,
       "offense": {
-        "ranking": 138,
-        "rating": 10.4,
+        "ranking": 129,
+        "rating": 15,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4821,8 +4821,8 @@
         "pace": null
       },
       "defense": {
-        "ranking": 137,
-        "rating": 39.2,
+        "ranking": 138,
+        "rating": 42,
         "success": null,
         "explosiveness": null,
         "rushing": null,
@@ -4850,6 +4850,6 @@
     ]
   },
   "historical_week_snapshots": false,
-  "response_sha256": "1b6561440524dc991c805bcfd0173839334958e98a8e6c44e9a2291850aef0e1",
-  "api_calls_remaining": "999"
+  "response_sha256": "f35b64087fe8f6c48bf93c902a9a23f8929f9bd22ca297154284f4fd89fb1755",
+  "api_calls_remaining": "998"
 }

@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-24T23:02:00.995684+00:00",
+  "as_of": "2026-11-25T22:34:36.957040+00:00",
   "seasons": [
     {
       "season": 2016,
@@ -85,9 +85,9 @@
       "season": 2026,
       "fbs_teams": 138,
       "teams_with_opponents": 238,
-      "games": 1273,
-      "exact_longest_frames": 14,
-      "frames": 14
+      "games": 1275,
+      "exact_longest_frames": 15,
+      "frames": 15
     }
   ]
 }

@@ -2,7 +2,7 @@
   "schema": 1,
   "source": "CFBD /ratings/sp",
   "season": 2026,
-  "retrieved_at": "2026-11-19T21:37:19.232572+00:00",
+  "retrieved_at": "2026-11-26T22:22:29.972261+00:00",
   "scale": {
     "unit": "points relative to an average FBS team on a neutral field",
     "verified": true,
@@ -4851,5 +4851,5 @@
   },
   "historical_week_snapshots": false,
   "response_sha256": "485ee8e3d2b1e2771cec5d215f562fceeaa11ad25b5be3723d6d90e19050c81e",
-  "api_calls_remaining": "997"
+  "api_calls_remaining": "996"
 }
